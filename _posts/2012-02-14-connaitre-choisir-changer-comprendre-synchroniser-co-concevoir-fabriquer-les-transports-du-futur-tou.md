@@ -1,0 +1,7 @@
+---
+title: "Connaitre, Choisir, Changer, Comprendre, Synchroniser, Co-concevoir, Fabriquer les Transports du Futur - Tout en 1"
+date: 2012-02-14
+layout: post
+---
+
+<p style="text-align: justify"><strong>Tentative de synthèse dans ce schéma ci dessous</strong>.</p> <p style="text-align: justify">Utiliser le meilleur des 2 mondes numériques et physiques pour concevoir de nouvelles solutions de mobilité, hyper-efficaces, répondant aux besoins de chaque utilisateur, partageable, réparable, re-configurable, matérialisées le plus tard possible et le plus près possible du marché : <em><strong></strong></em></p> <p style="text-align: justify;padding-left: 30px"><em><strong>Bienvenue dans l'ère de la rareté matérielle et de l'intelligence collective infinie</strong></em>. Vos commentaires, avis, compléments sont précieux (les déposer en commentaire).</p> <p style="text-align: justify"><a href="/wp-content/uploads/sites/6/files/les2mondes.pdf" target="_blank">Accéder directement au schéma (liens hypertexte dans les cadres rouges): Téléchargement Les2mondes</a></p> <div id="__ss_11566975" style="width: 425px"><strong style="margin: 12px 0 4px"><a href="http://www.slideshare.net/transportsdufutur/les2mondes" title="Les2mondes">Les2mondes</a></strong>          <div style="padding: 5px 0 12px">View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/transportsdufutur">Les transports du futur</a>.</div> </div>

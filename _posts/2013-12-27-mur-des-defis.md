@@ -1,0 +1,7 @@
+---
+title: "Mur des défis"
+date: 2013-12-27
+layout: post
+---
+
+<p style="text-align: justify">Lors du séminaire <a href="/2013/12/rien-dans-lunivers-ne-saurait-resister-a-un-nombre-suffisamment-grand-dintelligences-groupees-et-org-1.html" target="_blank"><strong>Mobilités Mutations</strong></a>, parmi les nombreuses productions (voir également <a href="/2013/12/tweet-feed-back-du-seminaire-mobilites-mutations.html" target="_blank"><strong>les échanges sur Twitter</strong></a>), les défis identifiés pour nous permettre de proposer plusieurs visions prospectives (Prospective Camp) ont été rassemblés sur un mur : le Mur des Défis.</p> <p><a class="asset-img-link" href="/wp-content/uploads/sites/6/old/6a0120a66d2ad4970b019b03bda533970d-pi.jpg"><img alt="Mur_des_défis_mobmut" border="0" class="asset  asset-image at-xid-6a0120a66d2ad4970b019b03bda533970d image-full img-responsive" src="/wp-content/uploads/sites/6/old/6a0120a66d2ad4970b019b03bda533970d-800wi.jpg" title="Mur_des_défis_mobmut" /></a></p> <p>Ces informations traitées peuvent également être présentées en nuages :</p> <p><a class="asset-img-link" href="/wp-content/uploads/sites/6/old/6a0120a66d2ad4970b019b03bce738970c-pi.jpg" target="_blank" title="http://www.wordle.net/show/wrdl/7415567/Mur"><img alt="Muage_mur_défis" border="0" class="asset  asset-image at-xid-6a0120a66d2ad4970b019b03bce738970c image-full img-responsive" src="/wp-content/uploads/sites/6/old/6a0120a66d2ad4970b019b03bce738970c-800wi.jpg" title="Muage_mur_défis" /></a></p> <p>Etes vous prêt(e) pour relever ces défis en 2014 ?</p>
