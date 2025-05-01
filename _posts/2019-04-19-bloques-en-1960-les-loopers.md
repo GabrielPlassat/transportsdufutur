@@ -32,11 +32,11 @@ Chacun reproduit les mêmes choses et nous attendons des résultats différents.
 
 
 
-Incapables de penser un système de transport décentralisé, distribué, réticulaire, léger, multi-énergie, résilient.https://gabrielplassat.github.io/transportsdufutur
+Incapables de penser un système de transport décentralisé, distribué, réticulaire, léger, multi-énergie, résilient.
 
 
 
-Incapables d’en sortir tant ce schéma a rigidifié les mentalités, structuré les façons de voir le monde et figé les capacités d’action.https://gabrielplassat.github.io/transportsdufutur
+Incapables d’en sortir tant ce schéma a rigidifié les mentalités, structuré les façons de voir le monde et figé les capacités d’action.
 
 
 
@@ -68,7 +68,7 @@ Comprenons nous. Il est inutile de montrer du doigt ou critiquer les autosoliste
 
 
 
-Par contre, chaque décision d’investissement dans des infrastructures (physique ou numérique), dans des projets d’innovation ou de recherche, dans des lois, réglementations, taxes ou incitatifs doit être ré-interrogée pour sortir de cette situation intenable. Chaque acteur avec ses capacités est invité à explorer ses propres limites, les dépasser et explorer des zones aujourd'hui <a href="https://transportsdufutur.ademe.fr/2018/10/bienvenue-en-terre-inconnue.html" target="_blank" rel="noopener noreferrer">inconnues</a>. Dans son entreprise, dans son quotidien. Ce doit être un combat de chaque instant pour repenser l’allocation de l'espace public au profit des humains et non des objets, pour sortir de cette impasse dans laquelle nous sommes enfermés. Pour autoriser les bons objets aux bons endroits aux bons moments, pour transformer l’urbanisme. Au regard des impacts sanitaires et sociaux, des changements massifs sont à engager.
+Par contre, chaque décision d’investissement dans des infrastructures (physique ou numérique), dans des projets d’innovation ou de recherche, dans des lois, réglementations, taxes ou incitatifs doit être ré-interrogée pour sortir de cette situation intenable. Chaque acteur avec ses capacités est invité à explorer ses propres limites, les dépasser et explorer des zones aujourd'hui <a href="https://gabrielplassat.github.io/transportsdufutur/2013/10/21/bienvenue-en-terre-inconnue.html" target="_blank" rel="noopener noreferrer">inconnues</a>. Dans son entreprise, dans son quotidien. Ce doit être un combat de chaque instant pour repenser l’allocation de l'espace public au profit des humains et non des objets, pour sortir de cette impasse dans laquelle nous sommes enfermés. Pour autoriser les bons objets aux bons endroits aux bons moments, pour transformer l’urbanisme. Au regard des impacts sanitaires et sociaux, des changements massifs sont à engager.
 
 
 
