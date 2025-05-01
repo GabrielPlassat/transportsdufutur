@@ -1,5 +1,5 @@
 ---
-title: "Quels sont les communs" majeurs de l'écosystème ?""
+title: "Quels sont les communs\" majeurs de l'écosystème ?\""
 date: 2015-04-13
 layout: post
 permalink: /2015/04/4-projets-et-les-communs.html

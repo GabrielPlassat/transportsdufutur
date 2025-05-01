@@ -1,5 +1,5 @@
 ---
-title: "Du serious game à la ville laboratoire puis à la ville Living lab"""
+title: "Du serious game à la ville laboratoire puis à la ville Living lab\"\""
 date: 2010-04-30
 layout: post
 permalink: /2010/04/du-serious-game-a-la-ville-laboratoire-puis-a-la-ville-living-lab.html

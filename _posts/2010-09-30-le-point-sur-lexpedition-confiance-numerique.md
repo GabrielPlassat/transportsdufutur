@@ -1,5 +1,5 @@
 ---
-title: "Le point sur l'expédition Confiance Numérique"""
+title: "Le point sur l'expédition Confiance Numérique\"\""
 date: 2010-09-30
 layout: post
 permalink: /2010/09/le-point-sur-lexpedition-confiance-numerique.html

@@ -1,5 +1,5 @@
 ---
-title: "Earth seems to be running out of options"""
+title: "Earth seems to be running out of options\"\""
 date: 2010-02-11
 layout: post
 permalink: /2010/02/earth-seems-to-be-running-out-of-options.html

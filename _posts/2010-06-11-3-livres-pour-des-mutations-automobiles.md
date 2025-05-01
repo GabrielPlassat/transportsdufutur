@@ -1,5 +1,5 @@
 ---
-title: "3 livres pour des mutations automobiles"""
+title: "3 livres pour des mutations automobiles\"\""
 date: 2010-06-11
 layout: post
 permalink: /2010/06/3-livres-pour-des-mutations-automobiles.html

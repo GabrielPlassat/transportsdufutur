@@ -1,5 +1,5 @@
 ---
-title: "Une nouvelle fonction sur le blog Les Transports du Futur"""
+title: "Une nouvelle fonction sur le blog Les Transports du Futur\"\""
 date: 2010-10-01
 layout: post
 permalink: /2010/10/une-nouvelle-fonction-sur-le-blog-les-transports-du-futur.html

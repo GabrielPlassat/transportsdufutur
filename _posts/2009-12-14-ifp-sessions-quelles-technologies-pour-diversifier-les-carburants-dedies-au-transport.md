@@ -1,5 +1,5 @@
 ---
-title: "IFP Sessions : Quelles technologies pour diversifier les carburants dédiés au transport ?"""
+title: "IFP Sessions : Quelles technologies pour diversifier les carburants dédiés au transport ?\"\""
 date: 2009-12-14
 layout: post
 permalink: /2009/12/ifp-sessions-quelles-technologies-pour-diversifier-les-carburants-dedies-au-transport.html
