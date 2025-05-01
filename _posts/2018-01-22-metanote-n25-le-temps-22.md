@@ -2,6 +2,7 @@
 title: "MétaNote N°25 - Le temps (2/2)"
 date: 2018-01-22
 layout: post
+permalink: /2018/01/metanote-n25-le-temps-22.html
 ---
 
 Dans la <a href="https://gabrielplassat.github.io/transportsdufutur/2018/01/metanote-n25-le-temps-12.html" target="_blank" rel="noopener"><strong>première partie</strong></a>, nous avons suivi l'évolution des techniques mais aussi celle des maîtres du temps. Ils imposent aux sociétés les rythmes, les pauses, les moments de travail et de repos. Depuis plusieurs millénaires, quatre temps se sont succédé : celui des Dieux, des corps, des machines et maintenant celui des codes.

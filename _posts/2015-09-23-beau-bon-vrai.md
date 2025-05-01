@@ -2,6 +2,7 @@
 title: "VW ou le beau, le bon et le vrai"
 date: 2015-09-23
 layout: post
+permalink: /2015/09/beau-bon-vrai.html
 ---
 
 <p style="text-align: justify">VW a donc conçu et réalisé un dispositif technique permettant de détecter les conditions d’un cycle d’homologation pour couper volontairement les systèmes de dépollution en dehors de ce cycle conduisant à des sur-émissions de <strong>NOx</strong>. VW a fait cela notamment pour afficher des consommations de <strong>carburant</strong> réduites car cette performance est visible par le consommateur. En faisant cela, les émissions polluantes (NOx notamment) augmentent en utilisation réelle. Mais cela n'est pas visible directement par l’utilisateur. Les questions qui émergent : « <strong>Comment en sommes-nous arriver là ? Quelle est la prochaine étape ?</strong>»<strong>. </strong></p>

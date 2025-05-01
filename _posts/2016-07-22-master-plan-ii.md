@@ -2,6 +2,7 @@
 title: "Master Plan II"
 date: 2016-07-22
 layout: post
+permalink: /2016/07/master-plan-ii.html
 ---
 
 Tesla as a platform is clearly confirmed in this <a href="https://www.tesla.com/blog/master-plan-part-deux" target="_blank"><strong>MP II</strong></a>

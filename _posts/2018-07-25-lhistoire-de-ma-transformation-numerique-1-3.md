@@ -2,6 +2,7 @@
 title: "L’histoire de ma transformation numérique (1/3)"
 date: 2018-07-25
 layout: post
+permalink: /2018/07/lhistoire-de-ma-transformation-numerique-1-3.html
 ---
 
 L’exemple de Kodak montre donc qu’une entreprise meurt non pas d’avoir ignoré une innovation de rupture (c’est rarement le cas) mais d’avoir été empêchée d’agir pour la développer, malgré sa bonne volonté et la conscience du danger, en raison même du succès de son activité dominante. L’échec de l’innovation de rupture résulte donc d’un conflit de modèle d’affaire entre l’ancien et le nouveau, théorisé depuis sous le nom du « dilemme de l’innovateur ». L’entreprise est prisonnière de son modèle d’affaire.

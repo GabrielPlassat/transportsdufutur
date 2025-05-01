@@ -2,6 +2,7 @@
 title: "Fiction N°11 - Les traceurs"
 date: 2015-12-07
 layout: post
+permalink: /2015/12/fiction-n11-traceurs.html
 ---
 
 <p style="text-align: justify;">Chaque matin, Mathieu se prépare, déjeune et s’hydrate. La matinée s’annonce chargée, physique, forte en endorphine. Il adore cette sensation d’une future fatigue, il est relâché, pleinement ouvert sur ses sensations. 86 inscrits et sans doute autant le rejoindront ce matin. Ses lignes et sa trace sont appréciées. Depuis maintenant 8 ans, Mathieu conduit plusieurs lignes, statiques ou dynamiques en fonction des inscrits, pour le compte de plusieurs opérateurs de transports. Il a été livreur mais il préfère être traceur, c’est plus «<em> stable, tout aussi agréable et mieux payé </em>».<a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2015/12/horde-en-formation.jpg"><img class="alignright wp-image-4126 size-medium" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2015/12/horde-en-formation-170x300.jpg" alt="horde-en-formation" width="170" height="300" /></a></p>

@@ -2,6 +2,7 @@
 title: "Fiction N°12 – Moovel réinvente les transports publics"
 date: 2016-06-16
 layout: post
+permalink: /2016/06/reinvente-transports-publics.html
 ---
 
 <p style="text-align: justify;">Ça y est. Quatre Univers sont désormais proposés. Vous avez le choix entre Nike, GoPro - RedBull, Deezer et AirBnb. Vos solutions de mobilité dites techniques seront enrobées de différents services numériques en fonction de l’univers choisi : Votre sport au quotidien, la volonté d’avoir des sensations fortes, vos musiques ou encore faire de “<em>chaque déplacement un voyage</em>” s’immiscent dans les moindres détails.</p>

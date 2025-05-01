@@ -2,6 +2,7 @@
 title: "Calèche > Automobile > ?"
 date: 2016-11-20
 layout: post
+permalink: /2016/11/caleche-automobile.html
 ---
 
 <p style="text-align: justify;">C’est peut-être le moment pour se (re)poser quelques questions autour de l’automobile : Qu’est ce qu’une automobile ? Qui peut produire une automobile ? Pour qui ? Comment ? et Où ?</p>

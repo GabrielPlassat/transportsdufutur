@@ -2,6 +2,7 @@
 title: "Robotisation des véhicules, de l'invention à l'innovation"
 date: 2015-10-04
 layout: post
+permalink: /2015/10/robotisation-linvention-linnovation.html
 ---
 
 <p style="text-align: justify">Voiture autonome, GoogleCar, le sujet est devenu "hype", au <strong><a href="http://www.silicon.fr/gartner-hype-cycle-2015-voiture-connectee-autonome-124683.html" target="_blank">sommet de la courbe de Gartner</a></strong>. Il est donc urgent de penser la robotisation autrement. L'automatisation de la conduite est le résultat d'un assemblage de techniques conduisant à une invention. Désormais nous savons que cette invention aura lieu, les questions portent sur le ou les innovations rendues possible par cette invention. Quels marchés seront transformés en premier (lire la <a href="https://gabrielplassat.github.io/transportsdufutur/2014/04/metanote-20-la-voiture-sans-conducteur-la-chimere.html" target="_blank"><strong>MétaNote sur le cybercar</strong></a>) ? quels acteurs ont intérêt à la robotisation ? quels sont ceux qui n'ont pas intérêt ? Et dans quels contextes géopolitiques émergeront les premiers véhicules robotisés ?</p>

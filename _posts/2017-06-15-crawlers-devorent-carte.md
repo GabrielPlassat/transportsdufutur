@@ -2,6 +2,7 @@
 title: "Les crawlers dévorent la carte"
 date: 2017-06-15
 layout: post
+permalink: /2017/06/crawlers-devorent-carte.html
 ---
 
 La carte est consubstantielle aux transports. Pourtant bientôt ce sera un souvenir. La carte, telle que nous la connaissons, reproduit « vu de haut » une représentation du territoire, de la géographie, des infrastructures. Elle indexe le minéral, l’immobile. Son utilisation impose de l’orienter et de se projeter dans cette représentation pour se guider ou s'imaginer le chemin.

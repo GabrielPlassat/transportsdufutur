@@ -2,6 +2,7 @@
 title: "[balise N°2] Les Transports du Futur"
 date: 2016-06-02
 layout: post
+permalink: /2016/06/balise-transports-futur.html
 ---
 
 <p style="text-align: justify;">Une <a href="https://gabrielplassat.github.io/transportsdufutur/2014/07/balise-n1-les-transports-du-futur.html?s=balise" target="_blank"><strong>1ère balise</strong></a> posait un constat sur les acteurs en présence, les défis à relever et une piste étroite à explorer. En à peine une année, les oscillations de l’éco-système se sont amplifiées. Les dispositifs régulateurs ne suffisent plus pour retrouver une situation stable, historique, pour revenir “avant”. Ni les normes, ni les règles en place, ni les fédérations ne permettent d’amortir et de réguler. C’est même l’inverse, à chaque grève, les téléchargements augmentent. Les GAFA et NATU sont maintenant connectés à la multitude et proposent des solutions de mobilités opérationnelles. Ils ne cherchent pas à concurrencer les acteurs historiques, ils souhaitent simplement être au centre de l’attention de la multitude. Pour l’enrober en permanence, pour être sûr de rester en contact avec elle. Intégralement. Et les dommages collatéraux n’ont pas encore eu lieu.</p>

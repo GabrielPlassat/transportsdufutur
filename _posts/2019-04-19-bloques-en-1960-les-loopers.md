@@ -2,6 +2,7 @@
 title: "Bloqués en 1960, les Loopers"
 date: 2019-04-19
 layout: post
+permalink: /2019/04/bloques-en-1960-les-loopers.html
 ---
 
 Nous sommes immobiles, bloqués dans les années 60.

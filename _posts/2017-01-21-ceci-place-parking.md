@@ -2,6 +2,7 @@
 title: "Ceci n'est pas une place de parking"
 date: 2017-01-21
 layout: post
+permalink: /2017/01/ceci-place-parking.html
 ---
 
 <p style="text-align: justify;">Le contrôle-sanction du stationnement va être géré par des sociétés privées. Cette réforme, qui entrera en vigueur le 1er janvier 2018, est permise par la loi sur les métropoles (loi MAPTAM) de 2014. Elle conduit au développement de nouvelles solutions techniques comme cette voiture équipée de caméra avec reconnaissance de plaque beaucoup plus « efficace » qu’un humain (lien vers un <a href="http://www.huffingtonpost.fr/2016/11/08/pervenche-paris-police-voitures-parking/" target="_blank"><strong>article</strong></a>). Aujourd’hui le rendement du stationnement, c’est-à-dire le paiement réel du stationnement est faible, et donc la privatisation est vue comme un moyen d’augmenter ce rendement en acceptant qu’une société privée se rémunère sur une partie des bénéfices. <strong>Ce premier niveau de lecture est intéressant mais totalement insuffisant pour envisager les prochaines années.</strong></p>

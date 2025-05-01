@@ -2,6 +2,7 @@
 title: "Google ne s’intéresse pas à l’automobile. Vous n’avez rien à craindre."
 date: 2016-10-10
 layout: post
+permalink: /2016/10/sinteresse-lautomobile-craindre.html
 ---
 
 <p style="text-align: justify;">Il y aura toujours besoin des constructeurs pour fabriquer des voitures. Tout le monde sait que c’est compliqué, très technique et complexe. Les GAFA resteraient donc aux portes de l’automobile, peut être autorisés à venir sur le tableau de bord. Tout le monde sait aussi que la construction automobile n’est pas un bon moyen de gagner de l’argent, les pièces détachées et services financiers sont largement plus profitables. Donc aucun des GAFA n’a intérêt à plier de la tôle et produire des moteurs (électriques). En restant centré sur le même objet, en utilisant les mêmes mots comme « voiture autonome », nous perdons le fil d’un changement plus large qui est déjà en train d’opérer.</p>

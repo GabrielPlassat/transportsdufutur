@@ -2,6 +2,7 @@
 title: "L'âge des écosystèmes conscients"
 date: 2016-12-04
 layout: post
+permalink: /2016/12/lage-ecosystemes-conscients.html
 ---
 
 <p style="text-align: justify;">Constatons un certain nombre de chose. Allégeons-nous de réflexes et d’automatismes. Le temps presse. 2020 c’est demain et 2030 n’est pas loin. Dans un monde profondément <a href="https://gabrielplassat.github.io/transportsdufutur/2013/07/light-foot-print-strategy.html" target="_blank">VICA</a>, l’allocation de la ressource principale, le temps, est à revoir.</p>

@@ -2,6 +2,7 @@
 title: "En finir avec la technique [2/2]"
 date: 2016-04-16
 layout: post
+permalink: /2016/04/en-finir-avec-la-technique-22.html
 ---
 
 [Suite d'un <a href="https://gabrielplassat.github.io/transportsdufutur/2016/04/en-finir-avec-la-technique-12.html" target="_blank"><strong>premier article</strong></a>]

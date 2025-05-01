@@ -2,6 +2,7 @@
 title: "Arcade City déclare la guerre à Uber"
 date: 2016-03-16
 layout: post
+permalink: /2016/03/arcade-city-declare-la-guerre-a-uber.html
 ---
 
 <p style="text-align: justify">Ubériser Uber par la blockchain. Nous l'avions imaginé avec Marc dans ces 2 posts (<a href="https://gabrielplassat.github.io/transportsdufutur/2015/07/viendra-luberisation-duber.html" target="_blank"><strong>N°1</strong></a> et <a href="https://gabrielplassat.github.io/transportsdufutur/2015/07/puis-viendra-luberisation-duber.html" target="_blank"><strong>N°2</strong></a>). Nous souhaitions ou espérions que cela émerge en Europe. <a href="https://arcade.city/" target="_blank"><strong>Arcade City</strong></a> se lance aux USA, dans 27 villes déjà. De quoi s'agit-il ? D'une solution de covoiturage sans structure centrale, tout est décentralisé, distribué. <a href="https://gabrielplassat.github.io/transportsdufutur/2014/11/start-up-du-covoiturage-de-lautopartage-de-lappairage-temps-reel-de-siege-libre.html" target="_blank"><strong>La Zooz</strong></a> avait lancé la première application de covoiturage quotidien en 2014 utilisant la blockchain.</p>

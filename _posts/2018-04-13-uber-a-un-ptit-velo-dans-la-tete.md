@@ -2,6 +2,7 @@
 title: "Uber a un p’tit vélo dans la tête"
 date: 2018-04-13
 layout: post
+permalink: /2018/04/uber-a-un-ptit-velo-dans-la-tete.html
 ---
 
 Plusieurs annonces intéressantes ces derniers jours de la part d’Uber. Remettons tout ça en perspective… Uber a réussi là où la plupart des Etats avaient échoué, faire bouger les lignes dans le transport individuel de personne avec chauffeur. La méthode utilisée a été à la hauteur des résistances en place : brutale. Pour Uber, cette approche a permis d’ouvrir des brèches, certaines se sont refermées. D’autres acteurs, comme Lyft, ont profité du brise-glace.

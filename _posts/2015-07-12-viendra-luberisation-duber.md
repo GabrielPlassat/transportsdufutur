@@ -2,6 +2,7 @@
 title: "Puis viendra l'ubérisation d'Uber (1/2)"
 date: 2015-07-12
 layout: post
+permalink: /2015/07/viendra-luberisation-duber.html
 ---
 
 [Cet article a été rédigé avec <a href="https://about.me/mtirel" target="_blank" rel="noopener"><strong>Marc Tirel</strong></a>, auteur de <strong><a href="http://voyagesenemergences.strikingly.com/" target="_blank" rel="noopener">Voyages en Emergence]</a></strong>

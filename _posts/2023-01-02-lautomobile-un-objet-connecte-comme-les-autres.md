@@ -2,6 +2,7 @@
 title: "L'automobile, un objet connecté comme les autres ?"
 date: 2023-01-02
 layout: post
+permalink: /2023/01/lautomobile-un-objet-connecte-comme-les-autres.html
 ---
 
 Plusieurs notes ont été écrites sur l’automobile et son futur, notamment celle sur <a href="https://gabrielplassat.github.io/transportsdufutur/2018/08/lautomobile-foxconnisee.html" target="_blank" rel="noopener">l’automobile foxconnisée</a> (avant que Foxconn n’annonce son développement dans le véhicule électrique), une métanote sur <a href="https://gabrielplassat.github.io/transportsdufutur/2012/07/lavenir-de-lautomobile.html" target="_blank" rel="noopener">l’avenir de l’automobile</a> ou encore <a href="https://gabrielplassat.github.io/transportsdufutur/2017/09/guerre-monde-numerique.html" target="_blank" rel="noopener">l’Art de la guerre</a>. Ce présent article porte sur un « détail » de l’automobile moderne : sa connectivité.

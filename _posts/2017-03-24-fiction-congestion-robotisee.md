@@ -2,6 +2,7 @@
 title: "[fiction N°14] Congestion robotisée"
 date: 2017-03-24
 layout: post
+permalink: /2017/03/fiction-congestion-robotisee.html
 ---
 
 <p style="text-align: justify;">Il fallait désormais se rendre à l’évidence. La robotisation des voitures n’a pas eu l’effet escompté. Enfin tout dépend pour qui… Tous les constructeurs avaient poursuivi les options d’assistance, de sécurité, de délégation de conduite, de parking automatique. De vrais salons roulants. Chacun le sien.</p>

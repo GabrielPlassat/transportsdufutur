@@ -2,6 +2,7 @@
 title: "Quel est l’impact environnemental du covoiturage de longue distance?"
 date: 2017-02-06
 layout: post
+permalink: /2017/02/environnemental-covoiturage-distance.html
 ---
 
 <p style="text-align: justify"><em>Cet article a été rédigé par Mathieu Chassignet (ADEME), Romain Fau (Blablacar), Gautier Jacquemain (6t-bureau de recherche) et Audrey Wolfovski (Blablacar)</em></p>

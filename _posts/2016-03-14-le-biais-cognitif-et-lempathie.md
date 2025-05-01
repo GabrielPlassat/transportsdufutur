@@ -2,6 +2,7 @@
 title: "Le biais cognitif et l'empathie"
 date: 2016-03-14
 layout: post
+permalink: /2016/03/le-biais-cognitif-et-lempathie.html
 ---
 
 <p style="text-align: justify">Quand une technologie ne se vend pas, ne trouve pas de marché, on parle d’un problème d’<em>acceptabilité</em>. Il suffirait d’étude du même nom et d’aide publique pour changer les comportements. Aucun doute possible, les industries connaissent leur marché, leurs offres sont parfaitement alignées avec les besoins. Quels besoins ? celui de vendre une voiture (neuve) en compétition à de nombreux concurrents, donc de sur-enchérir une offre (lire cet article sur <strong><a href="https://gabrielplassat.github.io/transportsdufutur/2014/09/toyota-versus-google.html" target="_blank">le dilemme de l’innovateur</a></strong>), pas de fournir des réponses à la complexité.</p>

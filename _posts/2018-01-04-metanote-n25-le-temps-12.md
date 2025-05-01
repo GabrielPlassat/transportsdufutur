@@ -2,6 +2,7 @@
 title: "MétaNote N°25 - Le temps (1/2)"
 date: 2018-01-04
 layout: post
+permalink: /2018/01/metanote-n25-le-temps-12.html
 ---
 
 Le temps se mêle aux transports. Il en est même consubstantiel. Les progrès sur les techniques de transport reposent bien souvent sur la volonté de réduire son temps de transports, et son corollaire, augmenter la portée de ses déplacements pour accéder à d’autres ressources. La vitesse, ou plutôt les vitesses (voir cet <a href="https://gabrielplassat.github.io/transportsdufutur/2017/12/la-vitesse-un-vieux-concept.html" target="_blank" rel="noopener"><strong>article</strong></a>), semble être une conquête permanente. La connaissance de l’espace, notamment par la carte, remonte également aux sources des transports. Plusieurs articles de ce blog ont tenté de décrire l’importance de ces nouvelles cartes. Les acteurs industriels lancés dans cette course aux cartes rivalisent d’ingéniosité pour indexer les mondes physiques dans toutes leurs dimensions, maintenir à jour ces énormes quantités de données et, plus que tout, les mettre à disposition d’autres machines et de la multitude. Comprendre qui dominent l’espace et le temps, c’est comprendre le futur des transports. Une suite de deux articles nous permettra d’explorer les histoires du temps.

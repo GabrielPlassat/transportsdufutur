@@ -2,6 +2,7 @@
 title: "Bienvenue en terre inconnue"
 date: 2018-10-16
 layout: post
+permalink: /2018/10/bienvenue-en-terre-inconnue.html
 ---
 
 <em>Ou comment agir avec plaisir dans l’incertain et le complexe ...</em>

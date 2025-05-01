@@ -2,6 +2,7 @@
 title: "E.Musk as a Platform"
 date: 2016-04-11
 layout: post
+permalink: /2016/04/e-musk-as-a-platform.html
 ---
 
 <p style="text-align: justify;"><strong><a href="https://hbr.org/2016/04/pipelines-platforms-and-the-new-rules-of-strategy?utm_content=buffer73dc2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank">Now we know</a></strong>. We know why platform can beat pipeline business (source : <a href="http://platformrevolution.com/" target="_blank">Platform Revolution</a>). Mainly because a platform integrating other stakeholders is more “creative” than a pipeline, eliminate gatekeepers and create community feedback loops. The successful platform value is partially created by its community of users, with a certain level of openness. Monetization is then about capturing a portion of excess value created without reducing value creation with the right governance. Platform allows engagement in positive behaviors, good interactions using a mixture of law, norm, architecture and markets. It creates networked markets that can be partially designed to create positive externality without reducing innovative capacities.</p>

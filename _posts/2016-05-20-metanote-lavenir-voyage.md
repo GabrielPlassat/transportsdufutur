@@ -2,6 +2,7 @@
 title: "MétaNote TdF N°24 - L'avenir du voyage"
 date: 2016-05-20
 layout: post
+permalink: /2016/05/metanote-lavenir-voyage.html
 ---
 
 <p style="text-align: justify;">Le voyage est avant tout une expérience, intégrale, de tous nos sens. A la recherche du « beau ». Une expérience est avant tout un stimulus. La marche stimule notre cerveau et certains indiquent que « <em>seules les pensées que l’on a en marchant valent quelque chose</em> ». La carte et le guide ont été à l’origine du voyage, la numérisation modifie-t-elle ce paysage ? Quels sont les nouveaux acteurs et comment agissent-ils ? Quelles sont les <em>couleurs primaires</em> d’un voyage ?</p>

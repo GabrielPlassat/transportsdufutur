@@ -2,6 +2,7 @@
 title: "MétaNote N°23 – L’avenir du soutien public à l’innovation"
 date: 2016-01-02
 layout: post
+permalink: /2016/01/metanote-n23-lavenir-du-soutien-public-a-linnovation.html
 ---
 
 <p style="text-align: justify;">« <em>Chaque entreprise et même chaque organisation sera obligée de se transformer dans les prochaines années</em> », <strong><a href="https://fr.wikipedia.org/wiki/Tim_O%27Reilly" target="_blank" rel="noopener">Tim O’Reilly</a></strong> – 2015.</p>

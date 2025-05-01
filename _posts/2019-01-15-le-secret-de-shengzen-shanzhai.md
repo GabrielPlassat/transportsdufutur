@@ -2,6 +2,7 @@
 title: "Le secret de Shenzhen : « Shanzhai »"
 date: 2019-01-15
 layout: post
+permalink: /2019/01/le-secret-de-shengzen-shanzhai.html
 ---
 
 10 millions d’habitant (30 000 en 1970), 3<sup>ème</sup> port de chine, la plupart des produits électroniques made in china sont en général « Made in Shenzhen ». Ce Hub Chinois de la production ajoute désormais l’innovation et l’entrepreneuriat. Une sorte de Silicon Valley avec de grands moyens de fabrication pour tous les marchés, à tous les prix. Kai-Fu Lee dans <a href="https://aisuperpowers.com/" target="_blank" rel="noopener"><strong>AI Superpowers</strong></a> décrit en détail l’épopée de l’AI en Chine, dont la ville de Shenzhen fait maintenant partie pour ajouter l'AI à tous les objets.

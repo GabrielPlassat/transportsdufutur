@@ -53,3 +53,4 @@ layout: post
 <p dir="ltr" style="text-align: justify;">Une grande lassitude l’envahit alors que l’ERR optimise au microjoule la consommation énergétique de l’ensemble biotechnique qu’il forme avec lui… Il se laisse envahir par la torpeur d’une petite sieste. Tant pis pour les rencontres finalement… Sa bio-puce synchronisée avec l’ERR le réveillera en douceur à l’arrivée.</p>
 
 <p style="text-align: justify;">* GAP : entreprise née de la fusion de Google et Apple en 2018</p>
+

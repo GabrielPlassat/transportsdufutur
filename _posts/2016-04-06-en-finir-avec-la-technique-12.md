@@ -2,6 +2,7 @@
 title: "En finir avec la technique [1/2]"
 date: 2016-04-06
 layout: post
+permalink: /2016/04/en-finir-avec-la-technique-12.html
 ---
 
 <p style="text-align: justify;">Damned. Nous avons perdu la bataille de l’innovation technologique. La valley aspire à elle les <strong><a href="http://www.citylab.com/tech/2016/01/the-rise-of-global-startup-cities/426780/" target="_blank">capitaux</a></strong>, les esprits. Elle permet de lancer des défis d’un ou plusieurs ordres de grandeurs supérieurs à ceux portés en Europe : navette spatiale, <a href="http://www.lesechos.fr/industrie-services/automobile/021814955638-tesla-enregistre-253000-commandes-en-36-heures-pour-sa-model-3-1211387.php" target="_blank">voiture électrique</a>, <a href="http://www.usine-digitale.fr/article/google-amazon-apple-et-microsoft-derriere-la-transition-energetique-d-obama.N386018">Green énergie</a>, <a href="http://www.sidewalklabs.com/">Smart City</a>, exploration de Mars, <a href="https://gabrielplassat.github.io/transportsdufutur/2016/02/le-playground-dandy-rubin-est-passionnant.html">Intelligence Artificielle dans tous les objets</a>, et même <a href="http://www.calicolabs.com/">Immortalité</a>. Nous sommes donc condamnés à penser autrement le progrès. Il n’est même plus nécessaire de rappeler que chaque technique amène avec elle son pharmacone, à la fois drogue et remède du mal qu’elle est censée résoudre.</p>

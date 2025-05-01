@@ -2,6 +2,7 @@
 title: "Le choc à venir a lieu. Maintenant."
 date: 2016-05-18
 layout: post
+permalink: /2016/05/choc-venir-maintenant.html
 ---
 
 <p style="text-align: justify;">En 2009, la MétaNote 0 « <a href="https://gabrielplassat.github.io/transportsdufutur/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html" target="_blank"><strong>L’origine</strong></a> » proposait une esquisse qui se révèle chaque jour. Le <a href="https://gabrielplassat.github.io/transportsdufutur/2012/09/lindustrie-automobile-a-choisi-de-concevoir-developper-et-commercialiser-des-produits-qui-sadaptent-a-tous-les-territoires.html?s=le+choc+%C3%A0+venir" target="_blank"><strong>choc à venir</strong></a> était annoncé en 2012. Il a lieu maintenant en 2016. La révolution numérique, qui a eu lieu, met en oeuvre des mouvements « tectoniques » : électrification, robotisation, plateformisation. Les synergies se découvrent, se renforcent. Maintenant.</p>

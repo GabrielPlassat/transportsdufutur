@@ -2,6 +2,7 @@
 title: "Le logiciel dévore l'automobile"
 date: 2015-11-30
 layout: post
+permalink: /2015/11/logiciel-devore-lautomobile.html
 ---
 
 <p style="text-align: justify">DOMIN : Sulla, laissez Mademoiselle Glory vous regarder un peu.

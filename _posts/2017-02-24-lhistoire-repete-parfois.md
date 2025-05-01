@@ -2,6 +2,7 @@
 title: "L'histoire ne se répète pas, mais parfois elle rime"
 date: 2017-02-24
 layout: post
+permalink: /2017/02/lhistoire-repete-parfois.html
 ---
 
 <p style="text-align: justify;">Les PF (GAFA, NATU, BATX) ont atteint des tailles et des capacités d’investissement identiques aux constructeurs. Le hardware voit son coût s’effondrer et le software voit son pouvoir croitre. Une conjonction de trois dynamiques est à l’oeuvre.</p>

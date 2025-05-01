@@ -2,6 +2,7 @@
 title: "Les communs, l’open source, les objets liens et l’Art de la Guerre [2/2]"
 date: 2016-05-04
 layout: post
+permalink: /2016/05/communs-source-objets-guerre.html
 ---
 
 <p style="text-align: justify;"><strong>Inspirer et faire alliance permet d’être plus fort, d’aller plus vite, avec moins de ressource. Dans un monde Vulnérable, Incertain, Complexe et surtout Ambigu, encore faut-il savoir le faire. Cet article est la suite du <a href="https://gabrielplassat.github.io/transportsdufutur/2016/05/communs-source-guerre.html" target="_blank">N°1</a>.

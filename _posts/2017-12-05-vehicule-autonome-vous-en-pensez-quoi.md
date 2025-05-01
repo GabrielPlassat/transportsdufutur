@@ -2,6 +2,7 @@
 title: "Véhicule Autonome, Vous en pensez quoi ?"
 date: 2017-12-05
 layout: post
+permalink: /2017/12/vehicule-autonome-vous-en-pensez-quoi.html
 ---
 
 De nombreux articles (comme ce <a href="https://gabrielplassat.github.io/transportsdufutur/2017/06/vehicules-autonomes-decideurs.html" target="_blank" rel="noopener"><strong>petit précis à l'usage des décideurs</strong></a>) et fictions (<a href="https://gabrielplassat.github.io/transportsdufutur/2017/03/fiction-congestion-robotisee.html" target="_blank" rel="noopener"><strong>N°14</strong></a> et <a href="https://gabrielplassat.github.io/transportsdufutur/2017/09/fiction-lautomobile-grand.html" target="_blank" rel="noopener"><strong>N°15</strong></a> par exemple) ont été rédigés sur ce blog au sujet des véhicules autonomes. De nombreuses questions restent ouvertes : où auront lieu les premiers services commerciaux : Chine, USA, Japon ou Europe ? quels seront les modèles d'affaires pour utiliser des véhicules sans conducteur ? seront-ils utilisés comme des transports publics "à la demande", comme des voitures privées ou encore comme des bureaux roulants ? Impliqué dans le comité scientifique de ce débat, je vous invite à vous inscrire et relayer ce débat national.

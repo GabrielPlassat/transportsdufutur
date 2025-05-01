@@ -2,6 +2,7 @@
 title: "Les communs, l’open source, les objets liens et l’Art de la Guerre [1/2]"
 date: 2016-05-02
 layout: post
+permalink: /2016/05/communs-source-guerre.html
 ---
 
 <p style="text-align: justify;">Les communs (re)deviennent à la mode. Les livres et les théories fleurissent. Mais aujourd’hui ils ne parlent pas à la plupart des acteurs industriels. Elinor Ostrom décrit les biens communs comme une <strong><em>ressource rivale et non-exclusive, </em></strong>ce qui les distingue des biens publics, qui eux, sont non rivaux et non exclusifs. Elle souligne la dualité des communs, à la fois <strong><em>ressource exploitée en commun</em></strong> et <strong><em>régime de droits de propriété</em></strong> dérogeant au paradigme de la propriété privée.</p>

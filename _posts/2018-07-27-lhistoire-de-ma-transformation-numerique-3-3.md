@@ -2,6 +2,7 @@
 title: "L'histoire de ma transformation numérique (3/3)"
 date: 2018-07-27
 layout: post
+permalink: /2018/07/lhistoire-de-ma-transformation-numerique-3-3.html
 ---
 
 Les deux articles précédents (Articles <a href="https://gabrielplassat.github.io/transportsdufutur/2018/07/lhistoire-de-ma-transformation-numerique-1-3.html" target="_blank" rel="noopener"><strong>1</strong></a> et <a href="https://gabrielplassat.github.io/transportsdufutur/2018/07/lhistoire-de-ma-transformation-numerique-2-3.html" target="_blank" rel="noopener"><strong>2</strong></a>) décrivent le chemin parcouru depuis 10 ans dans les domaines des mobilités, les processus utilisés pour agir dans un large écosystème, les principaux enseignements sur le fond, sur l’être et le faire.

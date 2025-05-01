@@ -2,6 +2,7 @@
 title: "Columbus, est-ce là que tout va commencer ?"
 date: 2016-06-29
 layout: post
+permalink: /2016/06/columbus-tout-commencer.html
 ---
 
 <p style="text-align: justify;">Est-ce que l’histoire retiendra que la ville de Columbus a été la première à mettre en œuvre une approche radicalement nouvelle pour améliorer les mobilités sur son territoire (<a href="https://www.theguardian.com/technology/2016/jun/27/google-flow-sidewalk-labs-columbus-ohio-parking-transit" target="_blank"><strong>article du Guardian</strong></a> qui présente les échanges entre Google et la ville de Columbus) ? ou est-ce que Flow rejoindra la liste des projets de Google X « qui ont échoués » (<strong><a href="https://www.ted.com/talks/astro_teller_the_unexpected_benefit_of_celebrating_failure" target="_blank">vidéo</a></strong> : comment Google apprend des échecs et poussent les projets à échouer plus vite) comme les Glass ? La situation s’apparente à l’expérience du chat de Schrödinger. Quand nous saurons, ce sera trop tard. Si SideWalk lab réussit à optimiser les flux, réduire les coûts tout en quantifiant précisement les bénéfices pour toutes les parties prenantes, même si cette approche est moins « scalable » qu’un waze, avant 2020 des villes européennes auront contractualisé. Et là encore, terrible effet des rendements croissants, plus les moteurs d’apprentissage de Google seront alimentés par différentes villes, plus ils seront précis et apporteront de la valeur et plus les villes voudront en bénéficier.</p>

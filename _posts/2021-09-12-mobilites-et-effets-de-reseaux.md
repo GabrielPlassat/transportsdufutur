@@ -2,6 +2,7 @@
 title: "Mobilités et effets de réseaux"
 date: 2021-09-12
 layout: post
+permalink: /2021/09/mobilites-et-effets-de-reseaux.html
 ---
 
 <!-- wp:paragraph -->

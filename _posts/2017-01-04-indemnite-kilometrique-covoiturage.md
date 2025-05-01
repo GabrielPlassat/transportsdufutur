@@ -2,6 +2,7 @@
 title: "Vers une indemnité kilométrique covoiturage ?"
 date: 2017-01-04
 layout: post
+permalink: /2017/01/indemnite-kilometrique-covoiturage.html
 ---
 
 <em>Cet article a été rédigé par Mathieu Chassignet - ADEME</em>

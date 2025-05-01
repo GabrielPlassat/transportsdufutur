@@ -2,6 +2,7 @@
 title: "Après Pokemon Go"
 date: 2016-07-26
 layout: post
+permalink: /2016/07/apres-pokemon-go.html
 ---
 
 <p style="text-align: justify;">Le phénomène Pokemon Go étonne par son ampleur et ses caractéristiques. Or ce n'est qu'une émergence visible de phénomènes et de développement en cours depuis des années. Comme nous l'explique très bien <a href="http://www.pop-up-urbain.com/pokemon-go-ou-les-infortunes-de-la-virtualite/" target="_blank"><strong>Philippe Gargov</strong></a>, Pokemon Go nous permet de comprendre la ville numérique, telle qu'elle est, ou plutôt telle qu'elle <strong>était</strong> avant même que Pokemon Go n'existe. En effet, devant une apparence de jeu sympa pour enfant, il y a une aventure industrielle qui remonte à plusieurs années. En résumé, détenir le record de téléchargement (des millions de personnes par jour), le record de temps passé (des dizaines de minutes par jour), ne doit rien au hasard.</p>

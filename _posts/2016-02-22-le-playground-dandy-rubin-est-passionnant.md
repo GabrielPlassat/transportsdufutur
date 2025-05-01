@@ -2,6 +2,7 @@
 title: "Le Playground d’Andy Rubin est passionnant"
 date: 2016-02-22
 layout: post
+permalink: /2016/02/le-playground-dandy-rubin-est-passionnant.html
 ---
 
 <p style="text-align: justify">Créateur d’Android, racheté par Google, <strong><a href="http://www.wired.com/2016/02/android-inventor-andy-rubin-playground-artificial-intelligence/">Andy Rubin</a></strong> met en œuvre un projet radical en matière d’innovation. Sur le fond, puisqu’il s’agit d’intégrer l’Intelligence Artificielle (IA) dans un maximum de projet mais aussi sur la forme, en regroupant conseils, incubations de startups et intégration de services pour développer l'IA directement dans le hardware des projets accompagnés.</p>

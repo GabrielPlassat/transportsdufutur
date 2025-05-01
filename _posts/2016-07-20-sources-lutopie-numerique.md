@@ -2,6 +2,7 @@
 title: "Aux sources de l’utopie numérique"
 date: 2016-07-20
 layout: post
+permalink: /2016/07/sources-lutopie-numerique.html
 ---
 
 <p style="text-align: justify;">Il y a des livres dont vous savez dès les premières pages que vous n’en sortirez pas indemne. <strong><em><a href="https://www.amazon.fr/Aux-sources-lutopie-num%C3%A9rique-cyberculture/dp/2915825106" target="_blank">Aux sources de l’utopie numérique</a></em></strong> est un de ceux-là. Pourquoi ne pas l’avoir lu avant ? En remontant aux sources des géants numériques, Fred Turner nous apporte les clés pour comprendre le monde d’aujourd’hui. Les rencontres, les personnes, les courants de pensée, les techniques forment ce récit d’une épopée née il y a plus de 40 ans.</p>

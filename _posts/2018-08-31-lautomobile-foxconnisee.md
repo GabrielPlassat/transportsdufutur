@@ -2,6 +2,7 @@
 title: "L'automobile Foxconnisée"
 date: 2018-08-31
 layout: post
+permalink: /2018/08/lautomobile-foxconnisee.html
 ---
 
 <blockquote>We don't plan to become the Foxconn of Apple - Dieter Zetsche, CEO Daimler, Sept 2015</blockquote>

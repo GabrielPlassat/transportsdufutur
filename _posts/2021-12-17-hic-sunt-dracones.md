@@ -2,6 +2,7 @@
 title: "Hic sunt dracones"
 date: 2021-12-17
 layout: post
+permalink: /2021/12/hic-sunt-dracones.html
 ---
 
 <p style="text-align: center;" data-startline="5" data-endline="5"><a href="https://www.icopilots.com/" target="_blank" rel="noopener">Philippe Méda</a> commence toujours ses formations sur l’innovation par cette image…</p>

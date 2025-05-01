@@ -2,6 +2,7 @@
 title: "Le lien et l'attention"
 date: 2016-09-26
 layout: post
+permalink: /2016/09/le-lien-lattention.html
 ---
 
 <p style="text-align: justify;">Jusqu’à présent, les industries conçevaient des produits, pour les vendre à des clients qui les achetaient. Tout ceci est basé sur deux hypothèses : l’industriel est connecté à ces futurs clients, <em>le lien,</em> et plus important, quand l’industriel s’adresse à ces clients potentiels, ces derniers l’écoutent, <em>l’attention</em>. Après la révolution numérique le client est devenu <em>en même temps</em> la source d’énergie pour recevoir les bonnes informations permettant de concevoir et faire évoluer les offres, et la cible à qui on s’adresse. Il est donc essentiel <em>dès le début et même en amont</em> et non plus uniquement <em>à la fin</em>. Or dans le monde du transport, quasiment tous les acteurs historiques n’ont ni le lien ni l’attention.</p>

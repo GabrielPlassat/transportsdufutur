@@ -2,6 +2,7 @@
 title: "Qui covoiturent pour aller travailler et pourquoi ?"
 date: 2016-02-17
 layout: post
+permalink: /2016/02/qui-covoiturent-pour-aller-travailler-et-pourquoi.html
 ---
 
 <p style="text-align: justify">500 personnes ont été interviewées par Wayz-up, service de covoiturage quotidien, pour connaître les motivations et les profils des utilisateurs. Les résultants sont plutôt à contre-courant de ce que l'on entend d'habitude sur le covoiturage domicile-travail. La première motivation : environnement et décongestion pour 67% de cadres dont la moitié avec des enfants. Wayz-up a réalisé cette infographie.</p>

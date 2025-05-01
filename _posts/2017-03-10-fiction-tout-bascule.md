@@ -2,6 +2,7 @@
 title: "[fiction N°13] Tout a basculé. En 6 mois..."
 date: 2017-03-10
 layout: post
+permalink: /2017/03/fiction-tout-bascule.html
 ---
 
 <p style="text-align: justify;">D’abord les taxis électriques <a href="http://gas2.org/2017/02/27/china-plans-replace-70000-beijing-taxis-electric-cars/" target="_blank"><b>fortement subventionnés</b></a>. Puis obligatoires. Dans 3 mégalopoles. Puis 10. 6 mois…</p>

@@ -2,6 +2,7 @@
 title: "Combien de temps vous reste-t-il ?"
 date: 2015-10-16
 layout: post
+permalink: /2015/10/combien-temps-reste.html
 ---
 
 <p style="text-align: justify"><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2015/10/Patagonia.jpg"><img class="aligncenter wp-image-4106 size-full" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2015/10/Patagonia.jpg" alt="Patagonia" width="637" height="341" /></a></p>

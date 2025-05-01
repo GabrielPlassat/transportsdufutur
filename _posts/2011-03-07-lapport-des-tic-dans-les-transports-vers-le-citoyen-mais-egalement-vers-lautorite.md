@@ -2,6 +2,7 @@
 title: "L'apport des TIC dans les transports, vers le citoyen, mais également vers l'autorité"
 date: 2011-03-07
 layout: post
+permalink: /2011/03/lapport-des-tic-dans-les-transports-vers-le-citoyen-mais-egalement-vers-lautorite.html
 ---
 
 <p style="text-align: justify;">L'apport des Technologies de l'Information (TIC) vers l'usager n'est plus à démontrer, les ventes de GPS, premier pas vers l'Assistant Personnel de Mobilité (<a href="/2011/03/gps-assistant-personnel-de-mobilite-et-neurophysiologie.html" target="_self" rel="noopener noreferrer"><strong>APM</strong></a>) sont là pour le prouver. Nous aurons de plus en plus de données à forte valeur ajoutée pour mieux et moins nous déplacer. Mais les TIC pourront mettre à disposition de plusieurs acteurs publics de nouvelles données, de nouveaux savoirs, donc de nouveaux outils de maîtrise et de pilotage.</p>

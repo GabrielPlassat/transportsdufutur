@@ -2,6 +2,7 @@
 title: "Arrêter de faire des concept cars"
 date: 2019-03-08
 layout: post
+permalink: /2019/03/arreter-de-faire-des-concept-cars.html
 ---
 
 <strong><a href="https://volkswagengroup.fr/premiere-mondiale-de-plateforme-modulaire-electrique-meb-fer-de-lance-de-lelectromobilite-groupe-volkswagen/" target="_blank" rel="noopener">VW</a></strong> annonce que sa plateforme MEB dédié au VE est disponible à d’autres constructeurs. <strong><a href="https://www.theverge.com/2019/3/6/18253455/fiat-centoventi-customize-concept-modular-geneva-motor-show-2019" target="_blank" rel="noopener">FIAT</a></strong> réalise un concept car également électrique ouvert et modulaire. CITROËN de son coté affiche un petit véhicule électrique urbain <strong><a href="https://www.caradisiac.com/geneve-2019-citroen-ami-one-concept-la-mobilite-du-futur-vue-par-citroen-174146.htm" target="_blank" rel="noopener">AMI ZERO</a></strong>. Ces démarches sont à la fois totalement vaines et révélatrices d’une incapacité à faire autrement.

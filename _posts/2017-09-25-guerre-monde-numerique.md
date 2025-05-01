@@ -2,6 +2,7 @@
 title: "L'Art de la Guerre dans un monde numérique"
 date: 2017-09-25
 layout: post
+permalink: /2017/09/guerre-monde-numerique.html
 ---
 
 A ce jour, la mobilité personnelle reste dominée par l'automobile remplie quasiment par une seule personne. Le pétrole fournit la quasi-totalité des forces motrices à tous les véhicules lourds et légers. La pollution ne diminue pas, au contraire, tout comme les maladies associées. Rien n'y fait, ni les menaces de la commission européenne aux pays, dont la France, ne respectant pas les plafonds en matière de qualité de l’air, ni les fameuses licornes.

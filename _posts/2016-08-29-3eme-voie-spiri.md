@@ -2,6 +2,7 @@
 title: "La 3ème voie : Spiri.io"
 date: 2016-08-29
 layout: post
+permalink: /2016/08/3eme-voie-spiri.html
 ---
 
 <p style="text-align: justify;">E.Musk avec Tesla est parti par "le haut". Un véhicule de luxe associé à une production de batterie à très haut volume, des solutions de charge rapide et en aval une capacité à réutiliser les batteries hors usage automobile pour des applications solaires. Ce "pack" Tesla (lire cet <a href="https://gabrielplassat.github.io/transportsdufutur/2014/12/vincent-musk-et-elon-bollore-et-vice-versa.html?hlst=bollor%C3%A9" target="_blank"><strong>article sur E.Musk et V.Bolloré</strong></a>) incarne une approche dite "<em>vêtement de mode</em>" dans la <a href="https://gabrielplassat.github.io/transportsdufutur/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html" target="_blank"><strong>MétaNote N°0 - l'Origine</strong></a>. Cette MétaNote proposait aussi une autre voie, la 3ème après la voiture individuelle privée possédée et les transports publics collectifs : celle des services de mobilité utilisant le véhicule (électrique) devenu une commodité. Cette commodisation ouvre une voie radicalement nouvelle car le véhicule n'est plus considéré comme une fin en soi, mais uniquement comme une partie d'un système. L'utilisateur n'a (presque) plus d'affinité avec le véhicule, seul l'expérience du trajet compte.</p>

@@ -2,6 +2,7 @@
 title: "Prenez place, le combat des O.S. automobile commence"
 date: 2017-05-31
 layout: post
+permalink: /2017/05/prenez-automobile-commence.html
 ---
 
 Savez-vous qu’il y a 5 ou 6 grands fabricants de piston dans le monde pour plusieurs dizaines de constructeur automobile. Bien que le piston soit essentiel et particulièrement difficile à produire à grande échelle, les constructeurs gardent une position dominante malgré tout dans la chaîne de valeur. Avec Automotive Grade Linux, Android Auto, CarPlay pour Apple et probablement Baidu, il y aura probablement peu de fournisseur d’Operating System (O.S.) de rang mondial.

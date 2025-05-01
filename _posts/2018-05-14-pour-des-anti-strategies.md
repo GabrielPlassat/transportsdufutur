@@ -2,6 +2,7 @@
 title: "Pour des anti-stratégies"
 date: 2018-05-14
 layout: post
+permalink: /2018/05/pour-des-anti-strategies.html
 ---
 
 Apple n’est pas un fabricant de smartphone, ni d’ordinateur mais une marque de luxe qui n’utilise pas du cuir, des diamants ou de la soie, mais du silicium et du code. Google n’est pas un moteur de recherche, ni un futur constructeur de véhicule autonome mais une marque d’assistant moderne. Pour se faire, des plateformes multifaces d'un nouveau genre ont été créées. Elles constituent la partie invisible de l'iceberg. Avant qu’il soit possible de décrire les choses, nous avons du mal à penser en dehors des industries, des filières telles que nous les connaissons. Les constructeurs automobiles savent produire des voitures. Quelle est l’étape d’après ?

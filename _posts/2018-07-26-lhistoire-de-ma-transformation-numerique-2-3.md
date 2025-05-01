@@ -2,6 +2,7 @@
 title: "L’histoire de ma transformation numérique (2/3)"
 date: 2018-07-26
 layout: post
+permalink: /2018/07/lhistoire-de-ma-transformation-numerique-2-3.html
 ---
 
 [suite de<strong> <a href="https://gabrielplassat.github.io/transportsdufutur/2018/07/lhistoire-de-ma-transformation-numerique-1-3.html" target="_blank" rel="noopener">l'article 1/3</a></strong>]

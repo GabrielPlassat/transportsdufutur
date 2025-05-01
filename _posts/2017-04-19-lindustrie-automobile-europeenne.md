@@ -2,6 +2,7 @@
 title: "Le programme Apollo par Baidu, le pire scénario pour l'industrie automobile européenne"
 date: 2017-04-19
 layout: post
+permalink: /2017/04/lindustrie-automobile-europeenne.html
 ---
 
 <p style="text-align: justify;">Baidu a annoncé aujourd'hui un nouveau projet intitulé "Apollo" qui fournira une plate-forme logicielle ouverte, complète et fiable pour ses partenaires dans l'industrie de la conduite automobile et autonome afin de développer leurs propres systèmes de conduite autonome avec des véhicules de référence et une plate-forme matérielle.</p>
