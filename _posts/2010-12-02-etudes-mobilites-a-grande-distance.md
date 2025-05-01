@@ -1,5 +1,5 @@
 ---
-title: "Quatres études du SETRA sur les Mobilités à grande distance\"\""
+title: "Quatres études du SETRA sur les Mobilités à grande distance\\"\"
 date: 2010-12-02
 layout: post
 permalink: /2010/12/etudes-mobilites-a-grande-distance.html

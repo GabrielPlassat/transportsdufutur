@@ -1,5 +1,5 @@
 ---
-title: "Le Compagnon\" de la SNCF, futur Assistant Personnel de Mobilité\""
+title: "Le Compagnon\\" de la SNCF, futur Assistant Personnel de Mobilité\"
 date: 2010-04-05
 layout: post
 permalink: /2010/04/le-compagnon-de-la-sncf-futur-assistant-personnel-de-mobilite.html

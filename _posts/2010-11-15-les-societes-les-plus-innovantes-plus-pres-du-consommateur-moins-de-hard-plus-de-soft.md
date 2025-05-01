@@ -1,5 +1,5 @@
 ---
-title: "Les sociétés les plus innovantes, plus près du consommateur, moins de hard\", plus de \"soft\"\""
+title: "Les sociétés les plus innovantes, plus près du consommateur, moins de hard\\", plus de \\"soft\\"\"
 date: 2010-11-15
 layout: post
 permalink: /2010/11/les-societes-les-plus-innovantes-plus-pres-du-consommateur-moins-de-hard-plus-de-soft.html

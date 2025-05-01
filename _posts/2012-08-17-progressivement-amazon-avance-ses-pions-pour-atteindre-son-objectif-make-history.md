@@ -1,5 +1,5 @@
 ---
-title: "Progressivement Amazon avance ses pions, pour atteindre son objectif : make history\"\""
+title: "Progressivement Amazon avance ses pions, pour atteindre son objectif : make history\\"\"
 date: 2012-08-17
 layout: post
 permalink: /2012/08/progressivement-amazon-avance-ses-pions-pour-atteindre-son-objectif-make-history.html

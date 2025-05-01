@@ -1,5 +1,5 @@
 ---
-title: "Seoul \"U smart Way\""
+title: "Seoul \\"U smart Way\"
 date: 2010-07-09
 layout: post
 permalink: /2010/07/les-echos-060710-lautoroute-sera-souterraine-et-proposera-une-gestion-automatique-du-trafic-a-une-vitesse-prevue-de-30-2.html

@@ -1,5 +1,5 @@
 ---
-title: "'@BeijingAir un compte twitter qui annonce les changements à venir"
+title: "@BeijingAir un compte twitter qui annonce les changements à venir"
 date: 2012-01-10
 layout: post
 permalink: /2012/01/beijingair-un-compte-twitter-qui-annonce-les-changements-a-venir.html
