@@ -1,6 +1,6 @@
 ---
 title: "L'âge des Néga"
-date: 2022-25-06
+date: 2022-06-25
 layout: post
 ---
 
