@@ -5,7 +5,7 @@ url: "https://gabrielplassat.github.io"
 theme: minima
 markdown: kramdown
 
-permalink: /:year/:month/:title/
+permalink: /:year/:month/:title.html
 
 plugins:
   - jekyll-feed
