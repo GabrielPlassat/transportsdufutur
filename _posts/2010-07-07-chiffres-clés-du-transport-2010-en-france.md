@@ -1,7 +1,7 @@
 ---
 title: "Chiffres clés du transport 2010 en France"
 date: 2010-07-07 14:39:07
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/07/chiffres-cles-du-transport-2010-en-france.html
+permalink: /2010/07/chiffres-cles-du-transport-2010-en-france.html
 tags: [nan]
 ---
 

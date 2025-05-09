@@ -1,7 +1,7 @@
 ---
 title: "Quand le Véhicule électrique sera une commodité"
 date: 2020-09-28 06:58:32
-permalink: https://gabrielplassat.github.io/transportsdufutur/2020/09/commodite.html
+permalink: /2020/09/commodite.html
 tags: [commodité, open source, véhicule open source]
 ---
 

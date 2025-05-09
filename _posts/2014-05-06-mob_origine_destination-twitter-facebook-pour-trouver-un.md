@@ -1,7 +1,7 @@
 ---
 title: "#Mob_origine_destination (Twitter, Facebook) pour trouver une solution de mobilité"
 date: 2014-05-06 08:30:29
-permalink: https://gabrielplassat.github.io/transportsdufutur/2014/05/mob_origine_destination-twitter-facebook-pour-trouver-une-solution-de-mobilite.html
+permalink: /2014/05/mob_origine_destination-twitter-facebook-pour-trouver-une-solution-de-mobilite.html
 tags: [nan]
 ---
 

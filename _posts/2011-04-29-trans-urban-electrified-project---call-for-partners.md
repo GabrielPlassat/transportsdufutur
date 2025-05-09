@@ -1,7 +1,7 @@
 ---
 title: "Trans Urban Electrified Project - Call for Partners"
 date: 2011-04-29 14:22:15
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/04/trans-urban-electrified-project-call-for-partners.html
+permalink: /2011/04/trans-urban-electrified-project-call-for-partners.html
 tags: [Europe, multimodes]
 ---
 

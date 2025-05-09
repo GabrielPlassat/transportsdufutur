@@ -1,7 +1,7 @@
 ---
 title: "HQ JL franchineau V3"
 date: 2017-11-07 14:48:48
-permalink: https://gabrielplassat.github.io/transportsdufutur/2017/11/hq-jl-franchineau-v3.html
+permalink: /2017/11/hq-jl-franchineau-v3.html
 tags: [nan]
 ---
 

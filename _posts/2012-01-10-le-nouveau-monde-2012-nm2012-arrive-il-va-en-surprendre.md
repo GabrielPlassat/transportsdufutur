@@ -1,7 +1,7 @@
 ---
 title: "Le nouveau Monde 2012 #NM2012 arrive ... il va en surprendre plus d'un"
 date: 2012-01-10 09:44:51
-permalink: https://gabrielplassat.github.io/transportsdufutur/2012/01/le-nouveau-monde-2012-nm2012-arrive-il-va-en-surprendre-plus-dun.html
+permalink: /2012/01/le-nouveau-monde-2012-nm2012-arrive-il-va-en-surprendre-plus-dun.html
 tags: [assistant de mobilité, citoyen, connectivité, Efficacité énergétique, holoptisme, intelligence collective, internet, MIT, monnaie complémentaire, open innovation, web2.0]
 ---
 

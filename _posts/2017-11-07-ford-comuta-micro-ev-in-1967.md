@@ -1,7 +1,7 @@
 ---
 title: "Ford Comuta Micro EV in 1967"
 date: 2017-11-07 14:48:38
-permalink: https://gabrielplassat.github.io/transportsdufutur/2017/11/ford-comuta-micro-ev-in-1967.html
+permalink: /2017/11/ford-comuta-micro-ev-in-1967.html
 tags: [nan]
 ---
 

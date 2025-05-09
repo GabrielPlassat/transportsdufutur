@@ -1,7 +1,7 @@
 ---
 title: "Feuille de route européenne sur les Transports (commission européenne)"
 date: 2011-03-28 16:42:40
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/03/feuille-de-route-europeenne-sur-les-transports-commission-europeenne.html
+permalink: /2011/03/feuille-de-route-europeenne-sur-les-transports-commission-europeenne.html
 tags: [carburant, citoyen, collectivité, innovation, internet, partage de données, Pay as You Move, véhicule propre, yield management]
 ---
 

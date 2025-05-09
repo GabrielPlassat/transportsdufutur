@@ -1,7 +1,7 @@
 ---
 title: "Comment utiliser un porte vélo à l'avant d'un bus ? Démo"
 date: 2010-09-21 09:11:26
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/09/comment-utiliser-un-porte-velo-a-lavant-dun-bus-demo.html
+permalink: /2010/09/comment-utiliser-un-porte-velo-a-lavant-dun-bus-demo.html
 tags: [artiste, BHNS, citoyen, multimodes, vélo]
 ---
 

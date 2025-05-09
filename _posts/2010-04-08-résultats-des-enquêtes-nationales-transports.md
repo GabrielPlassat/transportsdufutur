@@ -1,7 +1,7 @@
 ---
 title: "Résultats des enquêtes nationales Transports"
 date: 2010-04-08 16:02:33
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/04/resultats-des-enquetes-nationales-transports.html
+permalink: /2010/04/resultats-des-enquetes-nationales-transports.html
 tags: [enquete, stationnement]
 ---
 

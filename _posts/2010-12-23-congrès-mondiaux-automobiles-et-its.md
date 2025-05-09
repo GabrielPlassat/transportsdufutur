@@ -1,7 +1,7 @@
 ---
 title: "Congrès mondiaux Automobiles et ITS"
 date: 2010-12-23 10:55:03
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/12/congres-mondiaux-automobiles-et-its.html
+permalink: /2010/12/congres-mondiaux-automobiles-et-its.html
 tags: [connectivité, donnée data, données réelles, Efficacité énergétique, emission, Energie, Infrastructure, innovation, internet, internet des objets]
 ---
 

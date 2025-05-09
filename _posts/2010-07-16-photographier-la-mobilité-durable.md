@@ -1,7 +1,7 @@
 ---
 title: "Photographier La Mobilité Durable ..."
 date: 2010-07-16 15:25:53
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/07/photographier-la-mobilite-durable.html
+permalink: /2010/07/photographier-la-mobilite-durable.html
 tags: [nan]
 ---
 

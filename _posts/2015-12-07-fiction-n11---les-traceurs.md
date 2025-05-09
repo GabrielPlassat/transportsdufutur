@@ -1,7 +1,7 @@
 ---
 title: "Fiction N°11 - Les traceurs"
 date: 2015-12-07 21:58:14
-permalink: https://gabrielplassat.github.io/transportsdufutur/2015/12/fiction-n11-traceurs.html
+permalink: /2015/12/fiction-n11-traceurs.html
 tags: [ADEME, assistant de mobilité, assurance, blockchain, citoyen, Comment agir pour changer les pratiques ?, commuter, Efficacité énergétique, externalité, Infrastructure, mode doux, partage de la voirie, PDE, PDIE, Usager Client Citoyen Multitude, vélo]
 ---
 

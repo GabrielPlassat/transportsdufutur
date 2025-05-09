@@ -1,7 +1,7 @@
 ---
 title: "Housing + Transportation, un outil puissant d'aide à la décision pour les ménages, les collectivités, les entreprises"
 date: 2011-04-21 17:23:19
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/04/housing-transportation-un-outil-puissant-daide-a-la-decision-pour-les-menages-les-collectivites-les.html
+permalink: /2011/04/housing-transportation-un-outil-puissant-daide-a-la-decision-pour-les-menages-les-collectivites-les.html
 tags: [autorité des transports, citoyen, collectivité, commuter, données réelles, Efficacité énergétique, externalité, management de la mobilité]
 ---
 

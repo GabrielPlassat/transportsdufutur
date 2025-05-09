@@ -1,7 +1,7 @@
 ---
 title: "De la P.F.A. à la Plate Forme des nouvelles (im)mobilités"
 date: 2013-11-15 23:02:11
-permalink: https://gabrielplassat.github.io/transportsdufutur/2013/11/de-la-pfa-a-la-plate-forme-des-nouvelles-immobilites.html
+permalink: /2013/11/de-la-pfa-a-la-plate-forme-des-nouvelles-immobilites.html
 tags: [collectivité, commuter, économie de l'expérience, économie fonctionnalité, innovation, intelligence collective, living lab, management de la mobilité, multimodes, pensée complexe, plate-forme, Service de mobilité, Véhicule]
 ---
 

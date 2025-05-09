@@ -1,7 +1,7 @@
 ---
 title: "En finir avec la technique [2/2]"
 date: 2016-04-16 13:14:34
-permalink: https://gabrielplassat.github.io/transportsdufutur/2016/04/en-finir-avec-la-technique-22.html
+permalink: /2016/04/en-finir-avec-la-technique-22.html
 tags: [économie de l'expérience, économie fonctionnalité, Fabrique des mobilités, Générateur de Mobilité, gouvernance, innovation, intelligence collective, lien social, living lab, Non classé, Territoire Collectivité Etat Europe, Usager Client Citoyen Multitude]
 ---
 

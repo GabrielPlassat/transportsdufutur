@@ -1,7 +1,7 @@
 ---
 title: "HQ interview de M Jacques François Marchandise"
 date: 2017-11-07 14:48:49
-permalink: https://gabrielplassat.github.io/transportsdufutur/2017/11/hq-interview-de-m-jacques-francois-marchandise.html
+permalink: /2017/11/hq-interview-de-m-jacques-francois-marchandise.html
 tags: [nan]
 ---
 

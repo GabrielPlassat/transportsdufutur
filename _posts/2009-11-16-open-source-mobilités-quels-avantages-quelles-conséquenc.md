@@ -1,7 +1,7 @@
 ---
 title: "Open source & mobilités, quels avantages, quelles conséquences ?"
 date: 2009-11-16 16:01:01
-permalink: https://gabrielplassat.github.io/transportsdufutur/2009/11/open-source-mobilites-quels-avantages-quelles-consequences.html
+permalink: /2009/11/open-source-mobilites-quels-avantages-quelles-consequences.html
 tags: [open source, partage de données, Service de mobilité, TIC, Véhicule, web2.0]
 ---
 

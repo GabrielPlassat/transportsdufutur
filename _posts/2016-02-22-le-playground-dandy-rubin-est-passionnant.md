@@ -1,7 +1,7 @@
 ---
 title: "Le Playground d’Andy Rubin est passionnant"
 date: 2016-02-22 13:28:04
-permalink: https://gabrielplassat.github.io/transportsdufutur/2016/02/le-playground-dandy-rubin-est-passionnant.html
+permalink: /2016/02/le-playground-dandy-rubin-est-passionnant.html
 tags: [Acteur numérique des Mobilités et des Logistiques, artiste, communs, cygne noir, donnée data, Fabrique des mobilités, google, innovation, intelligence collective, internet des objets, open innovation, open source, plate-forme]
 ---
 

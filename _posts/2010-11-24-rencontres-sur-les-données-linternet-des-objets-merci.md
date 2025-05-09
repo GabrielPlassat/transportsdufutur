@@ -1,7 +1,7 @@
 ---
 title: "Rencontres sur Les données, l'Internet des Objets ... merci la Fing"
 date: 2010-11-24 14:26:55
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/11/rencontres-sur-les-donnees-linternet-des-objets-merci-la-fing.html
+permalink: /2010/11/rencontres-sur-les-donnees-linternet-des-objets-merci-la-fing.html
 tags: [assistant de mobilité, donnée data, données réelles, internet, internet des objets, management de la mobilité, open innovation, open source, partage de données]
 ---
 

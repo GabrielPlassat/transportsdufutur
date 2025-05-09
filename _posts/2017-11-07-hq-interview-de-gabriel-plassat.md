@@ -1,7 +1,7 @@
 ---
 title: "HQ Interview de Gabriel Plassat"
 date: 2017-11-07 14:48:46
-permalink: https://gabrielplassat.github.io/transportsdufutur/2017/11/hq-interview-de-gabriel-plassat.html
+permalink: /2017/11/hq-interview-de-gabriel-plassat.html
 tags: [nan]
 ---
 

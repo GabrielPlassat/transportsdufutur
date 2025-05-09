@@ -1,7 +1,7 @@
 ---
 title: "The future of Vehicle Fuels and Technologies : Health Benefits and Challenges"
 date: 2011-04-07 10:47:50
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/04/the-future-of-vehicle-fuels-and-technologies-health-benefits-and-challenges.html
+permalink: /2011/04/the-future-of-vehicle-fuels-and-technologies-health-benefits-and-challenges.html
 tags: [données réelles, Europe, externalité, qualité de l'air]
 ---
 

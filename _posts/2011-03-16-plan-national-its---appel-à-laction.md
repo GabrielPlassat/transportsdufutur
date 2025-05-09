@@ -1,7 +1,7 @@
 ---
 title: "Plan National ITS - appel à l'action !"
 date: 2011-03-16 20:16:25
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/03/plan-national-its-appel-a-laction.html
+permalink: /2011/03/plan-national-its-appel-a-laction.html
 tags: [connectivité, données réelles, Infrastructure, innovation, internet, internet des objets, management de la mobilité, multimodes, partage de données, réseaux, Service de mobilité]
 ---
 

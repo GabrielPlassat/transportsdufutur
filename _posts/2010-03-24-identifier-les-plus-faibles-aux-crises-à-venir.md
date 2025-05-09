@@ -1,7 +1,7 @@
 ---
 title: "Identifier les plus faibles aux crises à venir"
 date: 2010-03-24 17:43:26
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/03/identifier-les-plus-faibles-aux-crises-a-venir.html
+permalink: /2010/03/identifier-les-plus-faibles-aux-crises-a-venir.html
 tags: [Energie, robustesse]
 ---
 

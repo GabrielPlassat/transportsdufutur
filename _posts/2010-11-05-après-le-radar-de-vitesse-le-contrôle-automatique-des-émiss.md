@@ -1,7 +1,7 @@
 ---
 title: "Après le radar de vitesse, le contrôle automatique des émissions polluantes"
 date: 2010-11-05 16:02:51
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/11/apres-le-radar-de-vitesse-le-controle-automatique-des-emissions-polluantes.html
+permalink: /2010/11/apres-le-radar-de-vitesse-le-controle-automatique-des-emissions-polluantes.html
 tags: [emission, surveillance, Véhicule]
 ---
 

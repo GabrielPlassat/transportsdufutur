@@ -1,7 +1,7 @@
 ---
 title: "Le web 5.0 par Joel de Rosnay sur TEDx (16'45'')"
 date: 2010-02-21 16:17:34
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/02/le-web-50-par-joel-de-rosnay-sur-tedx-1645.html
+permalink: /2010/02/le-web-50-par-joel-de-rosnay-sur-tedx-1645.html
 tags: [assistant de mobilité, connectivité, de Rosnay, internet, internet des objets, iphone, open source, partage de données, TED, téléphone, TIC, transition générationnelle]
 ---
 

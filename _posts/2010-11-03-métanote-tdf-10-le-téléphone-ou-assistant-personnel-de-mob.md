@@ -1,7 +1,7 @@
 ---
 title: "MétaNote TdF 10 : Le téléphone ou assistant personnel de mobilité"
 date: 2010-11-03 11:27:25
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite.html
+permalink: /2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite.html
 tags: [citoyen, connectivité, donnée data, internet, internet des objets, téléphone, TIC, transition générationnelle]
 ---
 

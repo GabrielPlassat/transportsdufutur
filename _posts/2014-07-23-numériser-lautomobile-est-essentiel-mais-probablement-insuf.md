@@ -1,7 +1,7 @@
 ---
 title: "Numériser l'automobile est essentiel mais probablement insuffisant"
 date: 2014-07-23 11:11:48
-permalink: https://gabrielplassat.github.io/transportsdufutur/2014/07/numeriser-lautomobile-est-essentiel-mais-largement-insuffisant.html
+permalink: /2014/07/numeriser-lautomobile-est-essentiel-mais-largement-insuffisant.html
 tags: [nan]
 ---
 

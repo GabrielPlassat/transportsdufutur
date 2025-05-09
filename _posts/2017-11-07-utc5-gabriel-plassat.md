@@ -1,7 +1,7 @@
 ---
 title: "UTC5 Gabriel PLASSAT"
 date: 2017-11-07 14:48:43
-permalink: https://gabrielplassat.github.io/transportsdufutur/2017/11/utc5-gabriel-plassat.html
+permalink: /2017/11/utc5-gabriel-plassat.html
 tags: [nan]
 ---
 

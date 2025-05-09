@@ -1,7 +1,7 @@
 ---
 title: "Covoiturage dynamique, faire rencontrer l'offre et la demande en temps réel, expérimentation grande échelle à Seattle"
 date: 2010-12-01 09:28:47
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/12/covoiturage-dynamique-faire-rencontrer-loffre-et-la-demande-en-temps-reel-experimentation-grande-ech.html
+permalink: /2010/12/covoiturage-dynamique-faire-rencontrer-loffre-et-la-demande-en-temps-reel-experimentation-grande-ech.html
 tags: [assistant de mobilité, covoiturage, donnée data, données réelles, internet, iphone, partage de la voirie]
 ---
 

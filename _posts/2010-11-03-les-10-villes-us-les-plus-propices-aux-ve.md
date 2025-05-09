@@ -1,7 +1,7 @@
 ---
 title: "Les 10 villes US les plus propices' aux VE'"
 date: 2010-11-03 08:32:08
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/11/les-10-villes-us-les-plus-propices-aux-ve.html
+permalink: /2010/11/les-10-villes-us-les-plus-propices-aux-ve.html
 tags: [cité, citoyen, collectivité, commuter, données réelles, VE]
 ---
 

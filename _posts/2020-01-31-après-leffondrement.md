@@ -1,7 +1,7 @@
 ---
 title: "Après l'effondrement"
 date: 2020-01-31 10:34:54
-permalink: https://gabrielplassat.github.io/transportsdufutur/2020/01/apres-leffondrement.html
+permalink: /2020/01/apres-leffondrement.html
 tags: [confiance, intelligence collective]
 ---
 

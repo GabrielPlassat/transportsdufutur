@@ -1,7 +1,7 @@
 ---
 title: "2 sessions (6 et 26/03) pour un séminaire Innovation sur les Chaînes Logistiques et les Mobilités Occasionnelles pour répondre à l'AMI @ademe"
 date: 2012-02-27 11:26:34
-permalink: https://gabrielplassat.github.io/transportsdufutur/2012/02/2-sessions-6-et-2603-pour-un-seminaire-innovation-sur-les-chaines-logistiques-et-les-mobilites-occas.html
+permalink: /2012/02/2-sessions-6-et-2603-pour-un-seminaire-innovation-sur-les-chaines-logistiques-et-les-mobilites-occas.html
 tags: [nan]
 ---
 

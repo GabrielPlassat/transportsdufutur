@@ -1,7 +1,7 @@
 ---
 title: "Piaggo réalise la première famille de moteur compatible Monde''"
 date: 2011-01-03 15:21:15
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/01/piaggo-realise-la-premiere-famille-de-moteur-compatible-monde.html
+permalink: /2011/01/piaggo-realise-la-premiere-famille-de-moteur-compatible-monde.html
 tags: [Efficacité énergétique, emission, Energie, innovation, low cost, marchandises, megacity]
 ---
 

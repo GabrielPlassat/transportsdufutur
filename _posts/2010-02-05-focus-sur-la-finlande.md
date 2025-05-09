@@ -1,7 +1,7 @@
 ---
 title: "Focus sur la Finlande"
 date: 2010-02-05 09:27:28
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/02/focus-sur-la-finlande.html
+permalink: /2010/02/focus-sur-la-finlande.html
 tags: [Energie, finlande, Infrastructure, nexbtl, Service de mobilité, TIC, Véhicule]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "MétaNote 22, L'avenir de l'assurance (auto)mobile"
 date: 2015-01-13 15:01:21
-permalink: https://gabrielplassat.github.io/transportsdufutur/2015/01/metanote-22-lavenir-de-lassurance-automobile.html
+permalink: /2015/01/metanote-22-lavenir-de-lassurance-automobile.html
 tags: [Acteur numérique des Mobilités et des Logistiques, art de la guerre, assistant de mobilité, citoyen, Comment agir pour changer les pratiques ?, données réelles, économie de l'expérience, internet, lloyd's, marketing, Pay as You Move, PAYD, Service de mobilité, sousveillance, surveillance, Usager Client Citoyen Multitude]
 ---
 

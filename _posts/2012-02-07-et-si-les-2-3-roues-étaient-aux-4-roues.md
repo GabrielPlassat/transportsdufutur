@@ -1,7 +1,7 @@
 ---
 title: "Et si les 2-3 Roues étaient > aux 4 Roues ?"
 date: 2012-02-07 15:37:20
-permalink: https://gabrielplassat.github.io/transportsdufutur/2012/02/et-si-les-2-3-roues-etaient-aux-4-roues.html
+permalink: /2012/02/et-si-les-2-3-roues-etaient-aux-4-roues.html
 tags: [2 roues, allégement, assistant de mobilité, citoyen, collectivité, commuter, congestion, connectivité, données réelles, Efficacité énergétique, Energie, Infrastructure, internet, management de la mobilité, partage de la voirie, Service de mobilité]
 ---
 

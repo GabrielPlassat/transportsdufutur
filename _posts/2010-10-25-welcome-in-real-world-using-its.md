@@ -1,7 +1,7 @@
 ---
 title: "Welcome in real-world using ITS"
 date: 2010-10-25 23:13:13
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/10/welcome-in-real-world-using-its.html
+permalink: /2010/10/welcome-in-real-world-using-its.html
 tags: [assistant de mobilité, autorité des transports, Infrastructure, internet, partage de données, Service de mobilité]
 ---
 

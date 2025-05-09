@@ -1,7 +1,7 @@
 ---
 title: "Leçons indiennes, le cas de Tata"
 date: 2010-09-28 09:58:54
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/09/lecons-indiennes-le-cas-de-tata.html
+permalink: /2010/09/lecons-indiennes-le-cas-de-tata.html
 tags: [logistique, Tata nano]
 ---
 

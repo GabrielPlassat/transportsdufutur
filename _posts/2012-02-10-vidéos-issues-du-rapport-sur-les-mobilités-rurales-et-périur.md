@@ -1,7 +1,7 @@
 ---
 title: "Vidéos issues du Rapport sur les mobilités rurales et périurbaines par le Centre d’Analyse Stratégique @strategie_gouv @ademe"
 date: 2012-02-10 11:45:08
-permalink: https://gabrielplassat.github.io/transportsdufutur/2012/02/videos-issues-du-rapport-sur-les-mobilites-rurales-et-periurbaines-par-le-centre-danalyse-strategiqu.html
+permalink: /2012/02/videos-issues-du-rapport-sur-les-mobilites-rurales-et-periurbaines-par-le-centre-danalyse-strategiqu.html
 tags: [collectivité, confiance, connectivité, donnée data, gouvernance, Infrastructure, innovation, maison de la mobilité, management de la mobilité, open innovation, Santé, Service de mobilité]
 ---
 

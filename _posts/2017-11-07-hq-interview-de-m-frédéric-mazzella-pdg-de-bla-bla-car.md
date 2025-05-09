@@ -1,7 +1,7 @@
 ---
 title: "HQ Interview de M  Frédéric Mazzella PDG de Bla Bla Car"
 date: 2017-11-07 14:48:44
-permalink: https://gabrielplassat.github.io/transportsdufutur/2017/11/hq-interview-de-m-frederic-mazzella-pdg-de-bla-bla-car.html
+permalink: /2017/11/hq-interview-de-m-frederic-mazzella-pdg-de-bla-bla-car.html
 tags: [nan]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Made for you"
 date: 2021-01-26 17:57:31
-permalink: https://gabrielplassat.github.io/transportsdufutur/2021/01/made-for-you.html
+permalink: /2021/01/made-for-you.html
 tags: [Amazon, compte]
 ---
 

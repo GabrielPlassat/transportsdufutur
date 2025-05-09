@@ -1,7 +1,7 @@
 ---
 title: "[fiction N°7] La Plateformisation a commencé"
 date: 2014-01-23 00:03:32
-permalink: https://gabrielplassat.github.io/transportsdufutur/2014/01/fiction-n7-cc.html
+permalink: /2014/01/fiction-n7-cc.html
 tags: [nan]
 ---
 

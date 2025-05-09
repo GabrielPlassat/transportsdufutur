@@ -1,7 +1,7 @@
 ---
 title: "Feuille de route et synthèse Systèmes de mobilité pour les biens et les personnes"
 date: 2011-07-26 11:44:14
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/07/feuille-de-route-et-synthese-systemes-de-mobilite-pour-les-biens-et-les-personnes.html
+permalink: /2011/07/feuille-de-route-et-synthese-systemes-de-mobilite-pour-les-biens-et-les-personnes.html
 tags: [ADEME, assistant de mobilité, Assistant Personnel de Consommation, autorité des transports, citoyen, collectivité, connectivité, données réelles, gouvernance, internet des objets, management de la mobilité, open innovation, partage de données, partage de la voirie, PAYD, plate-forme, Service de mobilité]
 ---
 

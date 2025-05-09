@@ -1,7 +1,7 @@
 ---
 title: "Va-t-on suivre les 4 lois de la robotique pour les cybercars ?"
 date: 2012-10-16 09:37:21
-permalink: https://gabrielplassat.github.io/transportsdufutur/2012/10/va-t-on-suivre-les-4-lois-de-la-robotique-pour-les-cybercars.html
+permalink: /2012/10/va-t-on-suivre-les-4-lois-de-la-robotique-pour-les-cybercars.html
 tags: [cybercar, google, internet]
 ---
 

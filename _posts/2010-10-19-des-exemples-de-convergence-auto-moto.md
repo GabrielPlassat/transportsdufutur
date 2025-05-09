@@ -1,7 +1,7 @@
 ---
 title: "Des exemples de convergence auto / moto"
 date: 2010-10-19 08:28:38
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/10/des-exemples-de-convergence-auto-moto.html
+permalink: /2010/10/des-exemples-de-convergence-auto-moto.html
 tags: [Efficacité énergétique, multimodes, partage de la voirie, Service de mobilité, véhicule mono-usage]
 ---
 

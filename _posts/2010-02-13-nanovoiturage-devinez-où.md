@@ -1,7 +1,7 @@
 ---
 title: "NanoVoiturage ... devinez où ?"
 date: 2010-02-13 17:56:57
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/02/nanovoiturage-devinez-ou.html
+permalink: /2010/02/nanovoiturage-devinez-ou.html
 tags: [Service de mobilité, simplicité, TIC, transition générationnelle, Véhicule]
 ---
 

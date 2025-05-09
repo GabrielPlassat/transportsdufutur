@@ -1,7 +1,7 @@
 ---
 title: "Après Car2Go, Daimler propose Car2gether"
 date: 2010-09-07 11:09:47
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/09/apres-car2go-daimler-propose-car2gether.html
+permalink: /2010/09/apres-car2go-daimler-propose-car2gether.html
 tags: [allemagne, covoiturage, internet, Service de mobilité, téléphone, transition générationnelle, twitter]
 ---
 

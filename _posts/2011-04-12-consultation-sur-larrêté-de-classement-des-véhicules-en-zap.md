@@ -1,7 +1,7 @@
 ---
 title: "Consultation sur l’arrêté de classement des véhicules en ZAPA"
 date: 2011-04-12 10:51:46
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/04/consultation-sur-larrete-de-classement-des-vehicules-en-zapa.html
+permalink: /2011/04/consultation-sur-larrete-de-classement-des-vehicules-en-zapa.html
 tags: [ADEME, autorité des transports, citoyen, management de la mobilité, qualité de l'air]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Pour une prise en compte de la mobilité des femmes"
 date: 2010-08-24 16:04:00
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/08/pour-une-prise-en-compte-de-la-mobilite-des-femmes.html
+permalink: /2010/08/pour-une-prise-en-compte-de-la-mobilite-des-femmes.html
 tags: [assurance, citoyen, collectivité, confiance, partage de la voirie, sécurité, Service de mobilité, surveillance, temporalité]
 ---
 

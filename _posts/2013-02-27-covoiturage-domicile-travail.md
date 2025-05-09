@@ -1,7 +1,7 @@
 ---
 title: "Covoiturage domicile travail"
 date: 2013-02-27 16:42:52
-permalink: https://gabrielplassat.github.io/transportsdufutur/2013/02/covoiturage-domicile-travail.html
+permalink: /2013/02/covoiturage-domicile-travail.html
 tags: [nan]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Erreur 404, Et si les Transports du Futur s’arrêtaient ?"
 date: 2014-01-29 12:20:36
-permalink: https://gabrielplassat.github.io/transportsdufutur/2014/01/erreur-404-et-si-les-transports-du-futur-sarretaient.html
+permalink: /2014/01/erreur-404-et-si-les-transports-du-futur-sarretaient.html
 tags: [nan]
 ---
 

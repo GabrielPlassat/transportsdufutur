@@ -1,7 +1,7 @@
 ---
 title: "Bienvenue dans le quaternaire !"
 date: 2010-07-09 12:00:58
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/07/bienvenue-dans-le-quaternaire.html
+permalink: /2010/07/bienvenue-dans-le-quaternaire.html
 tags: [économie du quaternaire, économie fonctionnalité]
 ---
 

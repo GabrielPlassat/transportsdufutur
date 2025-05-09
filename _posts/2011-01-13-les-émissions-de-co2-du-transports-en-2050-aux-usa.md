@@ -1,7 +1,7 @@
 ---
 title: "Les émissions de CO2 du transports en 2050 aux USA"
 date: 2011-01-13 12:14:39
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/01/les-emissions-de-co2-du-transports-en-2050-aux-usa.html
+permalink: /2011/01/les-emissions-de-co2-du-transports-en-2050-aux-usa.html
 tags: [biocarburant, camion, carburant, données réelles, emission, externalité, gouvernance, Infrastructure, innovation, logistique, marchandises, multimodes, PAYD, péage urbain, prix carburant, stationnement, véhicule propre]
 ---
 

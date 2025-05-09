@@ -1,7 +1,7 @@
 ---
 title: "Les Transports du Futur - présentation à faire circuler"
 date: 2010-09-20 15:06:24
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/09/les-transports-du-futur-doc-de-presentation-a-faire-circuler.html
+permalink: /2010/09/les-transports-du-futur-doc-de-presentation-a-faire-circuler.html
 tags: [nan]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Audition OPECST Office Parlementaire"
 date: 2017-11-07 14:48:25
-permalink: https://gabrielplassat.github.io/transportsdufutur/2017/11/audition-opecst-office-parlementaire.html
+permalink: /2017/11/audition-opecst-office-parlementaire.html
 tags: [nan]
 ---
 

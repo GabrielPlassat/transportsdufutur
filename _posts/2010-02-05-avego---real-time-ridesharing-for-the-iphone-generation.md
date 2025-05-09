@@ -1,7 +1,7 @@
 ---
 title: "Avego - Real-time ridesharing for the iPhone generation."
 date: 2010-02-05 14:01:53
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/02/avego-realtime-ridesharing-for-the-iphone-generation.html
+permalink: /2010/02/avego-realtime-ridesharing-for-the-iphone-generation.html
 tags: [avego, données réelles, iphone, multimodes, Service de mobilité, TIC]
 ---
 

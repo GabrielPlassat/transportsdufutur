@@ -1,7 +1,7 @@
 ---
 title: "AmazonEnergyService2"
 date: 2017-11-07 14:48:23
-permalink: https://gabrielplassat.github.io/transportsdufutur/2017/11/amazonenergyservice2.html
+permalink: /2017/11/amazonenergyservice2.html
 tags: [nan]
 ---
 

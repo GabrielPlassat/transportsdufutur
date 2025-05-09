@@ -1,7 +1,7 @@
 ---
 title: "Synthèse mondiale des péages urbains : challenges et opportunités"
 date: 2010-05-17 15:00:16
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/05/synthese-mondiale-des-peages-urbains-challenges-et-opportunites.html
+permalink: /2010/05/synthese-mondiale-des-peages-urbains-challenges-et-opportunites.html
 tags: [autorité des transports, cité, citoyen, collectivité, multimodes, partage de la voirie, Pay as You Move, péage urbain, qualité de l'air, roadpricing, stationnement]
 ---
 

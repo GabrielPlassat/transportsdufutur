@@ -1,7 +1,7 @@
 ---
 title: "La responsabilité sociale de l'entreprise et les TIC"
 date: 2010-01-14 22:41:44
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/01/la-responsabilite-sociale-de-lentreprise-et-les-tic.html
+permalink: /2010/01/la-responsabilite-sociale-de-lentreprise-et-les-tic.html
 tags: [Energie, partage de données, philanthropie, RSE, TIC]
 ---
 

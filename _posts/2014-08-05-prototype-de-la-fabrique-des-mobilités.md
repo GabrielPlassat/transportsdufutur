@@ -1,7 +1,7 @@
 ---
 title: "Prototype de la Fabrique des Mobilités"
 date: 2014-08-05 17:49:17
-permalink: https://gabrielplassat.github.io/transportsdufutur/2014/08/prototype-de-la-fabrique-des-mobilites.html
+permalink: /2014/08/prototype-de-la-fabrique-des-mobilites.html
 tags: [ADEME, citoyen, collectivité, donnée data, Fablab, Fabrique des mobilités, gouvernance, holoptisme, innovation, intelligence collective, marketing, partage de données]
 ---
 

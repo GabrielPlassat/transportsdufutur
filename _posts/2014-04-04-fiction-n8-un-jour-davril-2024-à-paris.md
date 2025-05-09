@@ -1,7 +1,7 @@
 ---
 title: "[Fiction N°8] Un jour d'Avril 2024, à Paris..."
 date: 2014-04-04 14:27:02
-permalink: https://gabrielplassat.github.io/transportsdufutur/2014/04/un-jour-davril-2024-a-paris.html
+permalink: /2014/04/un-jour-davril-2024-a-paris.html
 tags: [Articles invités, Fictions]
 ---
 

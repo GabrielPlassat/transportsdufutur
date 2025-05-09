@@ -1,7 +1,7 @@
 ---
 title: "Contribution ITS France à l'élaboration du Plan National ITS"
 date: 2011-06-14 16:36:20
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/06/contribution-its-france-a-lelaboration-du-plan-national-its.html
+permalink: /2011/06/contribution-its-france-a-lelaboration-du-plan-national-its.html
 tags: [ITS, multimodes, open source, TIC]
 ---
 

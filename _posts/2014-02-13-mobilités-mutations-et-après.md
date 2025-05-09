@@ -1,7 +1,7 @@
 ---
 title: "Mobilités Mutations, et après ?"
 date: 2014-02-13 16:41:47
-permalink: https://gabrielplassat.github.io/transportsdufutur/2014/02/mobilites-mutations-et-apres.html
+permalink: /2014/02/mobilites-mutations-et-apres.html
 tags: [ADEME, innovation, intelligence collective, open innovation, plate-forme, Plateforme d'idées]
 ---
 

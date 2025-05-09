@@ -1,7 +1,7 @@
 ---
 title: "Géovélo, aide au développement du vélo"
 date: 2010-09-21 09:54:34
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/09/geovelo-aide-au-developpement-du-velo.html
+permalink: /2010/09/geovelo-aide-au-developpement-du-velo.html
 tags: [assistant de mobilité, citoyen, connectivité, données réelles, internet, iphone, multimodes, Service de mobilité, vélo]
 ---
 

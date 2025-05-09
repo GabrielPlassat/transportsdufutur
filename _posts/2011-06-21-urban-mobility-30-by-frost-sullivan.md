@@ -1,7 +1,7 @@
 ---
 title: "Urban Mobility 3.0 by Frost & Sullivan"
 date: 2011-06-21 11:50:45
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/06/urban-mobility-30-by-frost-sullivan.html
+permalink: /2011/06/urban-mobility-30-by-frost-sullivan.html
 tags: [commuter, connectivité, économie fonctionnalité, Infrastructure, innovation, marketing individualisé, multimodes, partage de données, Service de mobilité, transition générationnelle]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Quelle société en 2030 : un exercice de prospective à l’allemande"
 date: 2014-11-25 10:50:12
-permalink: https://gabrielplassat.github.io/transportsdufutur/2014/11/quelle-societe-en-2030-un-exercice-de-prospective-a-lallemande.html
+permalink: /2014/11/quelle-societe-en-2030-un-exercice-de-prospective-a-lallemande.html
 tags: [innovation, internet, pensée complexe, plate-forme, temporalité, transition générationnelle]
 ---
 

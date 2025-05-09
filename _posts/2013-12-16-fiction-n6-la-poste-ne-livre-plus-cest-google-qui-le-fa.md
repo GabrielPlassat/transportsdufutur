@@ -1,7 +1,7 @@
 ---
 title: "[Fiction N°6] La Poste ne livre plus, c'est Google qui le fait"
 date: 2013-12-16 18:37:12
-permalink: https://gabrielplassat.github.io/transportsdufutur/2013/12/fiction-n6-big-dog.html
+permalink: /2013/12/fiction-n6-big-dog.html
 tags: [Amazon, assistant de mobilité, citoyen, confiance, donnée data, économie fonctionnalité, google, intelligence collective, Service de mobilité]
 ---
 

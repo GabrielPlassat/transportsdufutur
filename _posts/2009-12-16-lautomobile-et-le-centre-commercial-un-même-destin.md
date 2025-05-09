@@ -1,7 +1,7 @@
 ---
 title: "L’automobile et le centre commercial, un même destin ?"
 date: 2009-12-16 12:16:37
-permalink: https://gabrielplassat.github.io/transportsdufutur/2009/12/lautomobile-et-le-centre-commercial-un-meme-destin.html
+permalink: /2009/12/lautomobile-et-le-centre-commercial-un-meme-destin.html
 tags: [centre commercial, drive-in, Energie, Infrastructure, Véhicule]
 ---
 

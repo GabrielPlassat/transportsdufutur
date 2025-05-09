@@ -1,7 +1,7 @@
 ---
 title: "Approches et enjeux de la mobilité dans la précarité énergétique - Atelier 22/03 à Paris"
 date: 2013-02-25 15:30:40
-permalink: https://gabrielplassat.github.io/transportsdufutur/2013/02/approches-et-enjeux-de-la-mobilite-dans-la-precarite-energetique-atelier-2203-a-paris.html
+permalink: /2013/02/approches-et-enjeux-de-la-mobilite-dans-la-precarite-energetique-atelier-2203-a-paris.html
 tags: [citoyen, fiscalité, gouvernance, Précarité, robustesse]
 ---
 

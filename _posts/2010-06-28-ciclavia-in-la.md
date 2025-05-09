@@ -1,7 +1,7 @@
 ---
 title: "CicLAvia in L.A."
 date: 2010-06-28 17:56:25
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/06/ciclavia-in-la.html
+permalink: /2010/06/ciclavia-in-la.html
 tags: [Infrastructure, mode doux, vélo]
 ---
 

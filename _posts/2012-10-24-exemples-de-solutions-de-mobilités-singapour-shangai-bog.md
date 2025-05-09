@@ -1,7 +1,7 @@
 ---
 title: "Exemples de solutions de Mobilités : Singapour, Shangai, Bogota, Lyon, Sao Paulo, Melbourne, Londres, Copenhague"
 date: 2012-10-24 12:00:08
-permalink: https://gabrielplassat.github.io/transportsdufutur/2012/10/exemples-de-solutions-de-mobilites-singapour-shangai-bogota-lyon-sao-paulo-melbourne-londres-copenha.html
+permalink: /2012/10/exemples-de-solutions-de-mobilites-singapour-shangai-bogota-lyon-sao-paulo-melbourne-londres-copenha.html
 tags: [autorité des transports, cité, collectivité, commuter, congestion, gouvernance, Infrastructure, innovation, management de la mobilité, marketing individualisé, megacity, multimodes, Service de mobilité]
 ---
 

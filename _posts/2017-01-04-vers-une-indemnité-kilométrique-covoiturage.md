@@ -1,7 +1,7 @@
 ---
 title: "Vers une indemnité kilométrique covoiturage ?"
 date: 2017-01-04 16:29:16
-permalink: https://gabrielplassat.github.io/transportsdufutur/2017/01/indemnite-kilometrique-covoiturage.html
+permalink: /2017/01/indemnite-kilometrique-covoiturage.html
 tags: [Acteur numérique des Mobilités et des Logistiques, Comment agir pour changer les pratiques ?, covoiturage]
 ---
 

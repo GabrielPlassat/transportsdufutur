@@ -1,7 +1,7 @@
 ---
 title: "Un exemple japonais de service de mobilité – Tsukuba Environmental Style Project"
 date: 2009-12-08 14:51:46
-permalink: https://gabrielplassat.github.io/transportsdufutur/2009/12/un-exemple-japonais-de-service-de-mobilite-tsukuba-environmental-style-project.html
+permalink: /2009/12/un-exemple-japonais-de-service-de-mobilite-tsukuba-environmental-style-project.html
 tags: [Infrastructure, Service de mobilité, TIC, Véhicule]
 ---
 

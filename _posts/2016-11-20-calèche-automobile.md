@@ -1,7 +1,7 @@
 ---
 title: "Calèche > Automobile > ?"
 date: 2016-11-20 17:16:23
-permalink: https://gabrielplassat.github.io/transportsdufutur/2016/11/caleche-automobile.html
+permalink: /2016/11/caleche-automobile.html
 tags: [Acteur historique des Mobilités et Logistiques, Acteur numérique des Mobilités et des Logistiques, citoyen, Comment agir pour changer les pratiques ?, cygne noir, economie circulaire, économie de l'attention, Fabrique des mobilités, innovation, intelligence collective, multitude, open innovation, open source, Usager Client Citoyen Multitude, Véhicule, voiture autonome]
 ---
 

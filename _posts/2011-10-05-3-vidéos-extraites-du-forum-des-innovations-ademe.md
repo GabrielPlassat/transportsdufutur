@@ -1,7 +1,7 @@
 ---
 title: "3 vidéos extraites du Forum des innovations ADEME"
 date: 2011-10-05 18:45:10
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/10/3-videos-extraites-du-forum-des-innovations-ademe.html
+permalink: /2011/10/3-videos-extraites-du-forum-des-innovations-ademe.html
 tags: [autopartage, citoyen, innovation, internet, Service de mobilité, transition générationnelle]
 ---
 

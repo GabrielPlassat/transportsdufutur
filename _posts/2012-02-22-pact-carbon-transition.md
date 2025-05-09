@@ -1,7 +1,7 @@
 ---
 title: "Pact Carbon Transition"
 date: 2012-02-22 10:49:43
-permalink: https://gabrielplassat.github.io/transportsdufutur/2012/02/pact-carbon-transition.html
+permalink: /2012/02/pact-carbon-transition.html
 tags: [nan]
 ---
 

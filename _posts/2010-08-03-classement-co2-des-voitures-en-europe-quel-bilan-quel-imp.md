@@ -1,7 +1,7 @@
 ---
 title: "Classement CO2 des voitures en Europe, quel bilan ? quel impact sur le choix du consommateur ?"
 date: 2010-08-03 11:52:33
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/08/classement-co2-des-voitures-en-europe-quel-bilan-quel-impact-sur-le-choix-du-consommateur.html
+permalink: /2010/08/classement-co2-des-voitures-en-europe-quel-bilan-quel-impact-sur-le-choix-du-consommateur.html
 tags: [ADEME, citoyen, guide d'achat, Véhicule, véhicule propre]
 ---
 

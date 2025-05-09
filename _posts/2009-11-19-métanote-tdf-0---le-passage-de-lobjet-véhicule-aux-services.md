@@ -1,7 +1,7 @@
 ---
 title: "MétaNote TdF 0 - Le passage de l'objet Véhicule aux services de mobilité, une chance ..."
 date: 2009-11-19 10:11:13
-permalink: https://gabrielplassat.github.io/transportsdufutur/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html
+permalink: /2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html
 tags: [assistant de mobilité, autarcie, banque, citoyen, cybercar, cygne noir, données réelles, Energie, espace, Europe, guide d'achat, Infrastructure, internet, internet des objets, iphone, low cost, marketing, multimodes, open source, partage de données, Précarité, qualité de l'air, réseaux, roadpricing, robustesse, RSE, Santé, Service de mobilité, téléphone, tendance, TIC, transition générationnelle, VE, Véhicule, vélo, web2.0]
 ---
 

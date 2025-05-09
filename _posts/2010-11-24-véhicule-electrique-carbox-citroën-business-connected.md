@@ -1,7 +1,7 @@
 ---
 title: "Véhicule Electrique + carbox = Citroën Business Connected"
 date: 2010-11-24 15:09:15
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/11/vehicule-electrique-carbox-citroen-business-connected.html
+permalink: /2010/11/vehicule-electrique-carbox-citroen-business-connected.html
 tags: [ADEME, internet, Service de mobilité, VE]
 ---
 

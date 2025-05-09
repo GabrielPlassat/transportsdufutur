@@ -1,7 +1,7 @@
 ---
 title: "Mobilite decarbonee Ademe Plassat"
 date: 2017-11-07 14:48:12
-permalink: https://gabrielplassat.github.io/transportsdufutur/2017/11/mobilite-decarbonee-ademe-plassat.html
+permalink: /2017/11/mobilite-decarbonee-ademe-plassat.html
 tags: [nan]
 ---
 

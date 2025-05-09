@@ -1,7 +1,7 @@
 ---
 title: "Le programme Apollo par Baidu, le pire scénario pour l'industrie automobile européenne"
 date: 2017-04-19 10:01:41
-permalink: https://gabrielplassat.github.io/transportsdufutur/2017/04/lindustrie-automobile-europeenne.html
+permalink: /2017/04/lindustrie-automobile-europeenne.html
 tags: [Acteur numérique des Mobilités et des Logistiques, art de la guerre, Baidu, Comment agir pour changer les pratiques ?, communs, cybercar, données réelles, Fabrique des mobilités, google, open innovation, open source, plate-forme]
 ---
 

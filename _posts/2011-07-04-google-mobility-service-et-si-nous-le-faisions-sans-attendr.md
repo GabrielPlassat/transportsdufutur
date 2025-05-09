@@ -1,7 +1,7 @@
 ---
 title: "Google Mobility Service, Et si nous le faisions sans attendre ?"
 date: 2011-07-04 18:27:11
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre.html
+permalink: /2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre.html
 tags: [citoyen, confiance, donnée data, données réelles, google, marketing individualisé, multimodes, open innovation, open source, partage de données, plate-forme, transition générationnelle]
 ---
 

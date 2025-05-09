@@ -1,7 +1,7 @@
 ---
 title: "Sortir gagnant de l'ère pétrole"
 date: 2010-02-20 21:41:41
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/02/sortir-gagnant-de-lere-petrole.html
+permalink: /2010/02/sortir-gagnant-de-lere-petrole.html
 tags: [Efficacité énergétique, Energie, TED]
 ---
 

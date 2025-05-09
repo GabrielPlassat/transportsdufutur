@@ -1,7 +1,7 @@
 ---
 title: "Aux sources de l’utopie numérique"
 date: 2016-07-20 19:56:33
-permalink: https://gabrielplassat.github.io/transportsdufutur/2016/07/sources-lutopie-numerique.html
+permalink: /2016/07/sources-lutopie-numerique.html
 tags: [Acteur numérique des Mobilités et des Logistiques, Amazon, Apple, art de la guerre, artiste, blockchain, citoyen, collectivité, holoptisme, innovation, intelligence collective, internet, MIT, Territoire Collectivité Etat Europe, utopie]
 ---
 

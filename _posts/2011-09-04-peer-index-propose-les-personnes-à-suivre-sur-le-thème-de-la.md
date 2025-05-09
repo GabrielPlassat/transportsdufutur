@@ -1,7 +1,7 @@
 ---
 title: "Peer Index propose les personnes à suivre sur le thème de la Prospective"
 date: 2011-09-04 22:14:23
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/09/peer-index-propose-les-personnes-a-suivre-sur-le-theme-de-la-prospective.html
+permalink: /2011/09/peer-index-propose-les-personnes-a-suivre-sur-le-theme-de-la-prospective.html
 tags: [internet, réseaux]
 ---
 

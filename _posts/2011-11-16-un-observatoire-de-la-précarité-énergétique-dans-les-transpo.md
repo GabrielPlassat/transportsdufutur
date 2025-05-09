@@ -1,7 +1,7 @@
 ---
 title: "Un observatoire de la Précarité énergétique dans les transports - Appel à Participation"
 date: 2011-11-16 09:21:27
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/11/un-observatoire-de-la-precarite-energetique-dans-les-transports-appel-a-participation.html
+permalink: /2011/11/un-observatoire-de-la-precarite-energetique-dans-les-transports-appel-a-participation.html
 tags: [citoyen, collectivité, Précarité]
 ---
 

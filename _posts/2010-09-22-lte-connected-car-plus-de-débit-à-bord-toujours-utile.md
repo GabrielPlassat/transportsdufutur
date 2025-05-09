@@ -1,7 +1,7 @@
 ---
 title: "LTE Connected car, plus de débit à bord, toujours utile ?"
 date: 2010-09-22 17:14:24
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/09/lte-connected-car-plus-de-debit-a-bord-toujours-utile.html
+permalink: /2010/09/lte-connected-car-plus-de-debit-a-bord-toujours-utile.html
 tags: [cybercar, internet]
 ---
 

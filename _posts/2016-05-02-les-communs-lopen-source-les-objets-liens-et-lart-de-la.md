@@ -1,7 +1,7 @@
 ---
 title: "Les communs, l’open source, les objets liens et l’Art de la Guerre [1/2]"
 date: 2016-05-02 10:01:10
-permalink: https://gabrielplassat.github.io/transportsdufutur/2016/05/communs-source-guerre.html
+permalink: /2016/05/communs-source-guerre.html
 tags: [art de la guerre, Comment agir pour changer les pratiques ?, communs, E.Musk, Fabrique des mobilités, holoptisme, innovation, intelligence collective, open innovation, open source, plate-forme, Que sait-on de nos mobilités ?, Territoire Collectivité Etat Europe]
 ---
 

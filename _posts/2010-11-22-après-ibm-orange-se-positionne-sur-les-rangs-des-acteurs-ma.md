@@ -1,7 +1,7 @@
 ---
 title: "Après IBM, Orange se positionne sur les rangs des acteurs majeurs des mobilités"
 date: 2010-11-22 18:35:01
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/11/apres-ibm-orange-se-positionne-sur-les-rangs-des-acteurs-majeurs-des-mobilites.html
+permalink: /2010/11/apres-ibm-orange-se-positionne-sur-les-rangs-des-acteurs-majeurs-des-mobilites.html
 tags: [assistant de mobilité, autorité des transports, internet, Service de mobilité, surveillance, TIC]
 ---
 

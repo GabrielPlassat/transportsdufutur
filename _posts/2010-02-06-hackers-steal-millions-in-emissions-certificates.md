@@ -1,7 +1,7 @@
 ---
 title: "Hackers Steal Millions In Emissions Certificates"
 date: 2010-02-06 22:01:01
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/02/hackers-steal-millions-in-emissions-certificates.html
+permalink: /2010/02/hackers-steal-millions-in-emissions-certificates.html
 tags: [nan]
 ---
 

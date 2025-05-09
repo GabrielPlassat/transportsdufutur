@@ -1,7 +1,7 @@
 ---
 title: "European Roadmap, Electrification of Road Transport"
 date: 2010-02-19 22:00:11
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/02/european-roadmap-electrification-of-road-transport.html
+permalink: /2010/02/european-roadmap-electrification-of-road-transport.html
 tags: [ERTRAC, Europe, multimodes, Service de mobilité, smartgrid, TIC, VE]
 ---
 

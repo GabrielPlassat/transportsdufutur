@@ -1,7 +1,7 @@
 ---
 title: "Les nouvelles mobilités, Adapter l’automobile aux modes de vie de demain"
 date: 2010-11-30 11:59:37
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/11/les-nouvelles-mobilites-adapter-lautomobile-aux-modes-de-vie-de-demain.html
+permalink: /2010/11/les-nouvelles-mobilites-adapter-lautomobile-aux-modes-de-vie-de-demain.html
 tags: [ADEME, agence mobilité, assistant de mobilité, autorité des transports, cité, citoyen, collectivité, économie du quaternaire, économie fonctionnalité, Infrastructure, innovation, internet, management de la mobilité, marchandises, partage de données, partage de la voirie, Service de mobilité]
 ---
 

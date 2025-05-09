@@ -1,7 +1,7 @@
 ---
 title: "Google soutient un projet de mobilité - Shweeb - à hauteur de 1 M$"
 date: 2010-09-27 20:49:18
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/09/google-soutient-un-projet-de-mobilite-shweeb-a-hauteur-de-1-m.html
+permalink: /2010/09/google-soutient-un-projet-de-mobilite-shweeb-a-hauteur-de-1-m.html
 tags: [google, internet, mode doux, philanthropie, vélo]
 ---
 

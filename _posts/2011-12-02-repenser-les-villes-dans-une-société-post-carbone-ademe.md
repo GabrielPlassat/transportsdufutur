@@ -1,7 +1,7 @@
 ---
 title: "Repenser les villes dans une société post Carbone @ademe"
 date: 2011-12-02 14:48:36
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/12/repenser-les-villes-dans-une-societe-post-carbone-ademe.html
+permalink: /2011/12/repenser-les-villes-dans-une-societe-post-carbone-ademe.html
 tags: [ADEME, cité]
 ---
 

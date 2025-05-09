@@ -1,7 +1,7 @@
 ---
 title: "vialsace.eu"
 date: 2010-02-09 18:02:26
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/02/vialsaceeu.html
+permalink: /2010/02/vialsaceeu.html
 tags: [multimodes, simplicité]
 ---
 

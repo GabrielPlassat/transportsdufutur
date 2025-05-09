@@ -1,7 +1,7 @@
 ---
 title: "[fiction N°9] La journée d'Hubert dans les transports publics bruxellois"
 date: 2014-09-18 14:23:48
-permalink: https://gabrielplassat.github.io/transportsdufutur/2014/09/fiction-n9-la-journee-dhubert-dans-les-transports-publics-bruxellois.html
+permalink: /2014/09/fiction-n9-la-journee-dhubert-dans-les-transports-publics-bruxellois.html
 tags: [agence mobilité, Amazon, assistant de mobilité, autorité des transports, citoyen, collectivité, commuter, confiance, connectivité, donnée data, Efficacité énergétique, google, innovation, management de la mobilité, mode doux, multimodes]
 ---
 

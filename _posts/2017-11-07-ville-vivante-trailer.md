@@ -1,7 +1,7 @@
 ---
 title: "Ville Vivante Trailer"
 date: 2017-11-07 14:48:37
-permalink: https://gabrielplassat.github.io/transportsdufutur/2017/11/ville-vivante-trailer.html
+permalink: /2017/11/ville-vivante-trailer.html
 tags: [nan]
 ---
 

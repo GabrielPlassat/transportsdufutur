@@ -1,7 +1,7 @@
 ---
 title: "Cooperative Systems for low-carbon multi-modal mobility"
 date: 2010-10-06 21:31:38
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/10/cooperative-systems-for-low-carbon-multi-modal-mobility.html
+permalink: /2010/10/cooperative-systems-for-low-carbon-multi-modal-mobility.html
 tags: [Europe, internet, multimodes, partage de données]
 ---
 

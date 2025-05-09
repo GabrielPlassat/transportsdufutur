@@ -1,7 +1,7 @@
 ---
 title: "Autopartage privé"
 date: 2010-01-25 10:05:26
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/01/autopartage-prive.html
+permalink: /2010/01/autopartage-prive.html
 tags: [autopartage, Service de mobilité, Véhicule]
 ---
 

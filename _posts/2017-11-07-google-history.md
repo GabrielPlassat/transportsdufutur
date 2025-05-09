@@ -1,7 +1,7 @@
 ---
 title: "Google History"
 date: 2017-11-07 14:48:40
-permalink: https://gabrielplassat.github.io/transportsdufutur/2017/11/google-history.html
+permalink: /2017/11/google-history.html
 tags: [nan]
 ---
 

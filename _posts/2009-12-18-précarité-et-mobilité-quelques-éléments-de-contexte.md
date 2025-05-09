@@ -1,7 +1,7 @@
 ---
 title: "Précarité et mobilité : quelques éléments de contexte"
 date: 2009-12-18 11:05:13
-permalink: https://gabrielplassat.github.io/transportsdufutur/2009/12/precarite-et-mobilite-quelques-elements-de-contexte.html
+permalink: /2009/12/precarite-et-mobilite-quelques-elements-de-contexte.html
 tags: [nan]
 ---
 

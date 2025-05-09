@@ -1,7 +1,7 @@
 ---
 title: "Opendata Garage - Marseille 6 juillet"
 date: 2011-06-21 10:56:00
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/06/opendata-garage-marseille-6-juillet.html
+permalink: /2011/06/opendata-garage-marseille-6-juillet.html
 tags: [donnée data, gouvernance, open innovation]
 ---
 

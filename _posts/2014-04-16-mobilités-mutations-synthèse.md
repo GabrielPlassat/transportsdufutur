@@ -1,7 +1,7 @@
 ---
 title: "Mobilités Mutations (synthèse)"
 date: 2014-04-16 17:10:42
-permalink: https://gabrielplassat.github.io/transportsdufutur/2014/04/mobilites-mutations-synthese.html
+permalink: /2014/04/mobilites-mutations-synthese.html
 tags: [nan]
 ---
 

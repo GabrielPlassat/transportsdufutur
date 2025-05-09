@@ -1,7 +1,7 @@
 ---
 title: "Master Plan II"
 date: 2016-07-22 15:41:44
-permalink: https://gabrielplassat.github.io/transportsdufutur/2016/07/master-plan-ii.html
+permalink: /2016/07/master-plan-ii.html
 tags: [Acteur numérique des Mobilités et des Logistiques, Comment agir pour changer les pratiques ?, cybercar, donnée data, E.Musk, économie de l'expérience, ecosystème, Energie, innovation, internet des objets, Tesla]
 ---
 

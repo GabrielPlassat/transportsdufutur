@@ -1,7 +1,7 @@
 ---
 title: "L'automobile Foxconnisée"
 date: 2018-08-31 15:32:35
-permalink: https://gabrielplassat.github.io/transportsdufutur/2018/08/lautomobile-foxconnisee.html
+permalink: /2018/08/lautomobile-foxconnisee.html
 tags: [Didi, foxconn, Uber]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Arzens et Dyson"
 date: 2010-02-02 17:19:25
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/02/arzens-et-dyson.html
+permalink: /2010/02/arzens-et-dyson.html
 tags: [arzens, Energie, low cost, simplicité, VE, Véhicule]
 ---
 

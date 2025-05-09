@@ -1,7 +1,7 @@
 ---
 title: "[Fiction N°15] - L’automobile en Chine, le grand bond en avant"
 date: 2017-09-11 16:08:13
-permalink: https://gabrielplassat.github.io/transportsdufutur/2017/09/fiction-lautomobile-grand.html
+permalink: /2017/09/fiction-lautomobile-grand.html
 tags: [Acteur numérique des Mobilités et des Logistiques, allégement, art de la guerre, Baidu, batterie, chine, communs, ecosystème, google, living lab, low cost, open innovation, plate-forme, Uber, Usager Client Citoyen Multitude, utopie, VE, véhicule mono-usage, voiture autonome]
 ---
 

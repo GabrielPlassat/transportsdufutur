@@ -1,7 +1,7 @@
 ---
 title: "Quatres études du SETRA sur les Mobilités à grande distance''"
 date: 2010-12-02 12:12:57
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/12/etudes-mobilites-a-grande-distance.html
+permalink: /2010/12/etudes-mobilites-a-grande-distance.html
 tags: [citoyen, collectivité, commuter, donnée data, robustesse, temporalité, transition générationnelle, Véhicule]
 ---
 

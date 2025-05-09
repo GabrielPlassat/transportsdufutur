@@ -1,7 +1,7 @@
 ---
 title: "Un péage inversé (ou péage positif) pour réduire les embouteillages : le projet d’Ecobonus mobilité de la Métropole Européenne de Lille"
 date: 2017-11-14 09:33:10
-permalink: https://gabrielplassat.github.io/transportsdufutur/2017/11/un-peage-inverse-ou-peage-positif-pour-reduire-les-embouteillages-le-projet-decobonus-mobilite-de-la-metropole-europeenne-de-lille.html
+permalink: /2017/11/un-peage-inverse-ou-peage-positif-pour-reduire-les-embouteillages-le-projet-decobonus-mobilite-de-la-metropole-europeenne-de-lille.html
 tags: [comportement, covoiturage, incitatif, partage de la voirie, péage urbain]
 ---
 

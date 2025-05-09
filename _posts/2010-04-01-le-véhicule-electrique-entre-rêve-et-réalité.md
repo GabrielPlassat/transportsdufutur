@@ -1,7 +1,7 @@
 ---
 title: "le Véhicule Electrique entre rêve et réalité"
 date: 2010-04-01 08:27:14
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/04/le-vehicule-electrique-entre-reve-et-realite.html
+permalink: /2010/04/le-vehicule-electrique-entre-reve-et-realite.html
 tags: [nan]
 ---
 

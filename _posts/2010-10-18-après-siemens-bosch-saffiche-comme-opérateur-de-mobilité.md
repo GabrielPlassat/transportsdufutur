@@ -1,7 +1,7 @@
 ---
 title: "Après Siemens, Bosch s'affiche comme opérateur de mobilité"
 date: 2010-10-18 08:30:28
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/10/apres-siemens-bosch-saffiche-comme-operateur-de-mobilite.html
+permalink: /2010/10/apres-siemens-bosch-saffiche-comme-operateur-de-mobilite.html
 tags: [collectivité, internet, Service de mobilité]
 ---
 

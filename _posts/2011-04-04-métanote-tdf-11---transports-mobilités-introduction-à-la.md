@@ -1,7 +1,7 @@
 ---
 title: "MétaNote TdF 11 - Transports & Mobilités, Introduction à la pensée complexe"
 date: 2011-04-04 14:04:37
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/04/metanote-tdf-11-transports-mobilites-introduction-a-la-pensee-complexe.html
+permalink: /2011/04/metanote-tdf-11-transports-mobilites-introduction-a-la-pensee-complexe.html
 tags: [anthropologie, autorité des transports, cité, citoyen, collectivité, cygne noir, données réelles, gouvernance, innovation, open innovation, open source, partage de données, pensée complexe, robustesse, Service de mobilité]
 ---
 

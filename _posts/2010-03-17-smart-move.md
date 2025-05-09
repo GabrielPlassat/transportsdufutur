@@ -1,7 +1,7 @@
 ---
 title: "Smart Move"
 date: 2010-03-17 08:57:14
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/03/smart-move.html
+permalink: /2010/03/smart-move.html
 tags: [BHNS, Efficacité énergétique]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Norauto Groupe devient MOBIVIA Groupe, et se lance dans la mobilité électrique"
 date: 2010-07-12 15:24:32
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/07/norauto-groupe-devient-mobivia-groupe-et-se-lance-dans-la-mobilite-electrique.html
+permalink: /2010/07/norauto-groupe-devient-mobivia-groupe-et-se-lance-dans-la-mobilite-electrique.html
 tags: [nan]
 ---
 

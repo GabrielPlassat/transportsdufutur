@@ -1,7 +1,7 @@
 ---
 title: "BlablaCar arrive dans le covoiturage quotidien avec BlablaLines"
 date: 2017-05-02 07:47:41
-permalink: https://gabrielplassat.github.io/transportsdufutur/2017/05/covoiturage-quotidien-blablalines.html
+permalink: /2017/05/covoiturage-quotidien-blablalines.html
 tags: [Acteur numérique des Mobilités et des Logistiques, ADEME, citoyen, collectivité, Comment agir pour changer les pratiques ?, covoiturage, Fabrique des mobilités, Usager Client Citoyen Multitude]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Systèmes de certification des biocarburants - Commission Européenne"
 date: 2010-06-11 15:27:59
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/06/systemes-de-certification-des-biocarburants-commission-europeenne.html
+permalink: /2010/06/systemes-de-certification-des-biocarburants-commission-europeenne.html
 tags: [carburant, Energie]
 ---
 

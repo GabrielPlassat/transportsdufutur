@@ -1,7 +1,7 @@
 ---
 title: "Du café des Lloyd’s aux GPS/GPRS, les assureurs permettent de nouveaux usages"
 date: 2009-12-14 21:09:24
-permalink: https://gabrielplassat.github.io/transportsdufutur/2009/12/du-cafe-des-lloyds-aux-gpsgprs-les-assureurs-permettent-de-nouveaux-usages.html
+permalink: /2009/12/du-cafe-des-lloyds-aux-gpsgprs-les-assureurs-permettent-de-nouveaux-usages.html
 tags: [assurance, données réelles, lloyd's, partage de données, PAYD, Service de mobilité, TIC]
 ---
 

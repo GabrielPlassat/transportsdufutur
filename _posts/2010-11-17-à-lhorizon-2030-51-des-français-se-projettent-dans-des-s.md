@@ -1,7 +1,7 @@
 ---
 title: "À l'horizon 2030, 51 % des français se projettent dans des solutions de mobilité partagées"
 date: 2010-11-17 21:39:27
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/11/a-lhorizon-2030-51-des-francais-se-projettent-dans-des-solutions-de-mobilite-partagees.html
+permalink: /2010/11/a-lhorizon-2030-51-des-francais-se-projettent-dans-des-solutions-de-mobilite-partagees.html
 tags: [citoyen, Service de mobilité]
 ---
 

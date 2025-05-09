@@ -1,7 +1,7 @@
 ---
 title: "Daimler, Europcar et une smart adaptée pour l'autopartage"
 date: 2010-10-19 09:05:56
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/10/daimler-europcar-et-une-smart-adaptee-pour-lautopartage.html
+permalink: /2010/10/daimler-europcar-et-une-smart-adaptee-pour-lautopartage.html
 tags: [Efficacité énergétique, partage de données, Service de mobilité]
 ---
 

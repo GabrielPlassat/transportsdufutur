@@ -1,7 +1,7 @@
 ---
 title: "Sourcemap"
 date: 2017-11-07 14:48:17
-permalink: https://gabrielplassat.github.io/transportsdufutur/2017/11/sourcemap.html
+permalink: /2017/11/sourcemap.html
 tags: [nan]
 ---
 

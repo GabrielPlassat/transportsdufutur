@@ -1,7 +1,7 @@
 ---
 title: "Appel à projets : Services innovants pour les automobilistes"
 date: 2012-10-15 15:40:08
-permalink: https://gabrielplassat.github.io/transportsdufutur/2012/10/appel-a-projets-services-innovants-pour-les-automobilistes.html
+permalink: /2012/10/appel-a-projets-services-innovants-pour-les-automobilistes.html
 tags: [nan]
 ---
 

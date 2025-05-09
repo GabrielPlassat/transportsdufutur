@@ -1,7 +1,7 @@
 ---
 title: "What's WAZE"
 date: 2010-01-21 21:52:28
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/01/whats-waze.html
+permalink: /2010/01/whats-waze.html
 tags: [données réelles, Infrastructure, partage de données, TIC, waze]
 ---
 

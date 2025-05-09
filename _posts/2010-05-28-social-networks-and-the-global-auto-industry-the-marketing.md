@@ -1,7 +1,7 @@
 ---
 title: "Social networks and the global auto industry: the marketing opportunity"
 date: 2010-05-28 12:05:01
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/05/social-networks-and-the-global-auto-industry-the-marketing-opportunity.html
+permalink: /2010/05/social-networks-and-the-global-auto-industry-the-marketing-opportunity.html
 tags: [nan]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Sourcemap, préfigure les outils de base d'aide à la décision pour les entreprises et les citoyens"
 date: 2011-10-01 10:45:18
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/10/sourcemap-prefigure-les-outils-de-base-daide-a-la-decision-pour-les-entreprises-et-les-citoyens.html
+permalink: /2011/10/sourcemap-prefigure-les-outils-de-base-daide-a-la-decision-pour-les-entreprises-et-les-citoyens.html
 tags: [Assistant Personnel de Consommation, citoyen, donnée data, Efficacité énergétique, marchandises]
 ---
 

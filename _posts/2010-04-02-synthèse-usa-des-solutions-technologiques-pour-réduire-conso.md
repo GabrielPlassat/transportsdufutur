@@ -1,7 +1,7 @@
 ---
 title: "Synthèse USA des solutions technologiques pour réduire consommation et GES (Véhicules lourds)"
 date: 2010-04-02 15:08:28
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/04/synthese-usa-des-solutions-technologiques-pour-reduire-consommation-et-ges-vehicules-lourds.html
+permalink: /2010/04/synthese-usa-des-solutions-technologiques-pour-reduire-consommation-et-ges-vehicules-lourds.html
 tags: [camion, Efficacité énergétique, emission]
 ---
 

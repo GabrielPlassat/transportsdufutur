@@ -1,7 +1,7 @@
 ---
 title: "L'ADEME lance un Appel à Manifestations d'Intérêt - Déplacements quotidiens des personnes et acheminement final des marchandises"
 date: 2011-01-17 18:32:26
-permalink: https://gabrielplassat.github.io/transportsdufutur/2011/01/lademe-lance-un-appel-a-manifestations-dinteret-deplacements-quotidiens-des-personnes-et-acheminemen.html
+permalink: /2011/01/lademe-lance-un-appel-a-manifestations-dinteret-deplacements-quotidiens-des-personnes-et-acheminemen.html
 tags: [ADEME, assistant de mobilité, assurance, autorité des transports, banque, camion, carburant, citoyen, collectivité, connectivité, covoiturage, données réelles, économie fonctionnalité, Efficacité énergétique, emission, gouvernance, Infrastructure, innovation, internet, living lab, logistique, maison de la mobilité, management de la mobilité, marchandises, marche, mode doux, multimodes, partage de données, partage de la voirie, Pay as You Move, Plateforme d'idées, qualité de l'air, roadpricing, Service de mobilité, stationnement, Véhicule, véhicule propre, vélo, yield management]
 ---
 

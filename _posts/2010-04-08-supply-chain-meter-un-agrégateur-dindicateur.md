@@ -1,7 +1,7 @@
 ---
 title: "Supply Chain Meter, un agrégateur d'indicateur"
 date: 2010-04-08 10:42:39
-permalink: https://gabrielplassat.github.io/transportsdufutur/2010/04/supply-chain-meter-un-agregateur-dindicateur.html
+permalink: /2010/04/supply-chain-meter-un-agregateur-dindicateur.html
 tags: [logistique, marchandises]
 ---
 

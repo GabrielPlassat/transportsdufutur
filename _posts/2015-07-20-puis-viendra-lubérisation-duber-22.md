@@ -1,7 +1,7 @@
 ---
 title: "Puis viendra l'ubérisation d'Uber (2/2)"
 date: 2015-07-20 17:17:39
-permalink: https://gabrielplassat.github.io/transportsdufutur/2015/07/puis-viendra-luberisation-duber.html
+permalink: /2015/07/puis-viendra-luberisation-duber.html
 tags: [Acteur numérique des Mobilités et des Logistiques, autorité des transports, blockchain, chine, citoyen, collectivité, Comment agir pour changer les pratiques ?, communs, confiance, covoiturage, donnée data, données réelles, innovation, internet des objets, partage de données, plate-forme, Uber]
 ---
 

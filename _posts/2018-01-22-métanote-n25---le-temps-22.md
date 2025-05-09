@@ -1,7 +1,7 @@
 ---
 title: "MétaNote N°25 - Le temps (2/2)"
 date: 2018-01-22 10:30:34
-permalink: https://gabrielplassat.github.io/transportsdufutur/2018/01/metanote-n25-le-temps-22.html
+permalink: /2018/01/metanote-n25-le-temps-22.html
 tags: [Amazon, facebook, GAFA, google, temps]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Le potentiel de situation"
 date: 2018-04-16 08:30:50
-permalink: https://gabrielplassat.github.io/transportsdufutur/2018/04/le-potentiel-de-situation.html
+permalink: /2018/04/le-potentiel-de-situation.html
 tags: [nan]
 ---
 
