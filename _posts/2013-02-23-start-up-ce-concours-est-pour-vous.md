@@ -1,8 +1,0 @@
----
-title: "Start-up, ce concours est pour vous !"
-date: 2013-02-23
-layout: post
-permalink: /2013/02/start-up-ce-concours-est-pour-vous.html
----
-
-<p style="text-align: justify;"><strong>Netva</strong> (New Technology Venture Accelerator) organise un concours ouvert aux start-ups innovantes et technologiques pour leur permettre de s'implanter aux Etats-Unis.</p> <p style="text-align: justify;"> <a class="asset-img-link" href="/wp-content/uploads/sites/6/old/6a0120a66d2ad4970b017c370c63e3970b-pi.jpg" style="display: inline;"><img rel="lightbox[]" alt="Slide_reseau_final_english" border="0" class="asset  asset-image at-xid-6a0120a66d2ad4970b017c370c63e3970b image-full" src="/wp-content/uploads/sites/6/old/6a0120a66d2ad4970b017c370c63e3970b-800wi.jpg" title="Slide_reseau_final_english" /></a><br /><br /></p> <p style="text-align: justify;">Ci-dessous un article regroupant toutes les informations concernant le <a href="http://www.netvafrance.com/index.php?option=com_content&view=article&id=45&Itemid=1028&lang=en" target="_blank"><strong>concours</strong></a> ainsi que le lien vers le site de <a href="http://www.netvafrance.com" target="_blank"><strong>Netva</strong></a>. </p>  <!--more-->   <iframe frameborder="0" height="511" marginheight="0" marginwidth="0" scrolling="no" src="http://www.slideshare.net/slideshow/embed_code/16716683" style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" width="479"> </iframe> <div style="margin-bottom: 5px;"> <strong> <a href="http://www.slideshare.net/transportsdufutur/netva" target="_blank" title="Netva">Netva</a> </strong> from <strong><a href="http://www.slideshare.net/transportsdufutur" target="_blank">Les transports du futur</a></strong> </div>

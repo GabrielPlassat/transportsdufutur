@@ -1,8 +1,0 @@
----
-title: "5 projets retenus dans la cadre de l'AMI Mobilité quotidienne et acheminement final des marchandises"
-date: 2012-09-05
-layout: post
-permalink: /2012/09/5-projets-retenus-dans-la-cadre-de-lami-mobilite-quotidienne-et-acheminement-final-des-marchandises.html
----
-
-<p style="text-align: justify;">La carte ci-dessous présente cinq projets issus de l<a href="/2011/01/lademe-lance-un-appel-a-manifestations-dinteret-deplacements-quotidiens-des-personnes-et-acheminemen.html" target="_blank"><strong>'AMI Mobilité quotidienne et acheminement final des marchandises</strong></a>, ainsi que d'autres projets portant également sur les systèmes issus du précédent Fonds Démonstrateur de Recherche.</p> <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.fr/maps/ms?msa=0&msid=205855594408780948467.0004b4833632a620154f4&hl=fr&ie=UTF8&t=h&ll=46.920255,3.735352&spn=10.507392,18.676758&z=5&output=embed"></iframe><br /><small>Afficher <a href="https://maps.google.fr/maps/ms?msa=0&msid=205855594408780948467.0004b4833632a620154f4&hl=fr&ie=UTF8&t=h&ll=46.920255,3.735352&spn=10.507392,18.676758&z=5&source=embed" style="color:#0000FF;text-align:left">Investissements d'Avenir - Programme Véhicule du Futur</a> sur une carte plus grande</small> <p style="text-align: justify;"> </p> <p>Un blog spécifique a été créé pour suivre l'avancement de ces projets : <a href="/les_transports_du_futur_l/" target="_blank"><strong>/les_transports_du_futur_l/</strong></a></p>
