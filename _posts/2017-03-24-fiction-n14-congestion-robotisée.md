@@ -1,7 +1,7 @@
 ---
 title: "[fiction N°14] Congestion robotisée"
 date: 2017-03-24 14:10:33
-permalink: /2017/03/fiction-congestion-robotisee.html
+permalink: /transportsdufutur/2017/03/fiction-congestion-robotisee.html
 tags: [Acteur historique des Mobilités et Logistiques, Acteur numérique des Mobilités et des Logistiques, autorité des transports, collectivité, Comment agir pour changer les pratiques ?, congestion, cybercar, fiction, gouvernance, megacity, Territoire Collectivité Etat Europe]
 ---
 

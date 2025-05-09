@@ -1,7 +1,7 @@
 ---
 title: "The more you like, the less you pay"
 date: 2010-09-13 10:31:53
-permalink: /2010/09/the-more-you-like-the-less-you-pay.html
+permalink: /transportsdufutur/2010/09/the-more-you-like-the-less-you-pay.html
 tags: [internet, réseaux, transition générationnelle]
 ---
 

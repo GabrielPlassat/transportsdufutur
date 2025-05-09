@@ -1,7 +1,7 @@
 ---
 title: "les VE, la gestion de la pointe, les smart grids, et les hackers"
 date: 2010-10-15 17:31:30
-permalink: /2010/10/les-ve-la-gestion-de-la-pointe-les-smart-grids-et-les-hackers.html
+permalink: /transportsdufutur/2010/10/les-ve-la-gestion-de-la-pointe-les-smart-grids-et-les-hackers.html
 tags: [donnée data, internet, réseaux, smartgrid, VE]
 ---
 

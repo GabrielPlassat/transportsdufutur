@@ -1,7 +1,7 @@
 ---
 title: "Prochaines Journées d'études Bus propres' : les 9 et 10 février à Limoges'"
 date: 2011-01-10 17:11:42
-permalink: /2011/01/prochaines-journees-detudes-bus-propres-les-9-et-10-fevrier-a-limoges.html
+permalink: /transportsdufutur/2011/01/prochaines-journees-detudes-bus-propres-les-9-et-10-fevrier-a-limoges.html
 tags: [ADEME, BHNS, biocarburant, carburant, véhicule propre]
 ---
 

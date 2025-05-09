@@ -1,7 +1,7 @@
 ---
 title: "Social Media Listening Command Center"
 date: 2010-12-13 17:29:45
-permalink: /2010/12/social-media-listening-command-center.html
+permalink: /transportsdufutur/2010/12/social-media-listening-command-center.html
 tags: [citoyen, confiance, connectivité, innovation, internet, internet des objets, open innovation, Service de mobilité]
 ---
 

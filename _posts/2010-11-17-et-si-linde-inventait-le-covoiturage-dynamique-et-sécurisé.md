@@ -1,7 +1,7 @@
 ---
 title: "Et si l'Inde inventait le covoiturage dynamique et sécurisé pour les mégalopoles ?"
 date: 2010-11-17 09:23:16
-permalink: /2010/11/et-si-linde-inventait-le-covoiturage-dans-les-megalopoles.html
+permalink: /transportsdufutur/2010/11/et-si-linde-inventait-le-covoiturage-dans-les-megalopoles.html
 tags: [covoiturage, Delhi, internet]
 ---
 

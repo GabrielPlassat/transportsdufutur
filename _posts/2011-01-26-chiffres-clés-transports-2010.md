@@ -1,7 +1,7 @@
 ---
 title: "Chiffres clés Transports 2010"
 date: 2011-01-26 16:10:48
-permalink: /2011/01/chiffres-cles-transports-2010.html
+permalink: /transportsdufutur/2011/01/chiffres-cles-transports-2010.html
 tags: [ADEME, donnée data, Energie, partage de données]
 ---
 

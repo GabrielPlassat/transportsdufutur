@@ -1,7 +1,7 @@
 ---
 title: "Mobility 3.0 - présentation ppt avec films liés"
 date: 2011-04-19 14:00:00
-permalink: /2011/04/mobility-30-presentation-ppt-avec-films-lies.html
+permalink: /transportsdufutur/2011/04/mobility-30-presentation-ppt-avec-films-lies.html
 tags: [ADEME, citoyen, connectivité, données réelles, pensée complexe]
 ---
 

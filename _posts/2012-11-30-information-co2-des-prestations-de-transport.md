@@ -1,7 +1,7 @@
 ---
 title: "Information CO2 des prestations de transport"
 date: 2012-11-30 16:11:51
-permalink: /2012/11/information-co2-des-prestations-de-transport.html
+permalink: /transportsdufutur/2012/11/information-co2-des-prestations-de-transport.html
 tags: [ADEME, Assistant Personnel de Consommation, donnée data, Efficacité énergétique, externalité, marchandises, RSE, Véhicule, véhicule propre]
 ---
 

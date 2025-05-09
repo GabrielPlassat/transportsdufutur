@@ -1,7 +1,7 @@
 ---
 title: "For Gen Yers, driving isn’t part of the American Dream anymore. Being connected is."
 date: 2011-01-03 17:06:31
-permalink: /2011/01/for-gen-yers-driving-isnt-part-of-the-american-dream-anymore-being-connected-is.html
+permalink: /transportsdufutur/2011/01/for-gen-yers-driving-isnt-part-of-the-american-dream-anymore-being-connected-is.html
 tags: [cité, citoyen, collectivité, commuter, connectivité, internet, partage de données, Service de mobilité, transition générationnelle]
 ---
 

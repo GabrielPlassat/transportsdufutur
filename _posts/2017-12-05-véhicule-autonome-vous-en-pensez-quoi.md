@@ -1,7 +1,7 @@
 ---
 title: "Véhicule Autonome, Vous en pensez quoi ?"
 date: 2017-12-05 13:05:50
-permalink: /2017/12/vehicule-autonome-vous-en-pensez-quoi.html
+permalink: /transportsdufutur/2017/12/vehicule-autonome-vous-en-pensez-quoi.html
 tags: [débat, robot, véhicule autonome]
 ---
 

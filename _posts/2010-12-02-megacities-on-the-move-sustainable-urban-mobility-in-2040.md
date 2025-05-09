@@ -1,7 +1,7 @@
 ---
 title: "Megacities on the move, sustainable urban mobility in 2040"
 date: 2010-12-02 14:25:46
-permalink: /2010/12/megacities-on-the-move-sustainable-urban-mobility-in-2040.html
+permalink: /transportsdufutur/2010/12/megacities-on-the-move-sustainable-urban-mobility-in-2040.html
 tags: [assistant de mobilité, autarcie, autopartage, autorité des transports, better place, biocarburant, carburant, cité, citoyen, collectivité, commuter, connectivité, covoiturage, cybercar, données réelles, Efficacité énergétique, Energie, gouvernance, Infrastructure, innovation, internet, internet des objets, keicar, living lab, logistique, management de la mobilité, marchandises, marche, megacity, mode doux, multimodes, open innovation, partage de la voirie, Pay as You Move, PAYD, péage urbain, pétrole, prix carburant, qualité de l'air, rickshaw, roadpricing, Santé, Service de mobilité, smartgrid]
 ---
 

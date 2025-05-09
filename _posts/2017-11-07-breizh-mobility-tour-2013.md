@@ -1,7 +1,7 @@
 ---
 title: "breizh mobility tour 2013"
 date: 2017-11-07 14:48:29
-permalink: /2017/11/breizh-mobility-tour-2013.html
+permalink: /transportsdufutur/2017/11/breizh-mobility-tour-2013.html
 tags: [nan]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "transports du futur"
 date: 2017-11-07 14:48:20
-permalink: /2017/11/transports-du-futur.html
+permalink: /transportsdufutur/2017/11/transports-du-futur.html
 tags: [nan]
 ---
 

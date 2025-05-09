@@ -1,7 +1,7 @@
 ---
 title: "Appel à projet européen FP7 2013 (draft) Transports & Mobilités"
 date: 2012-07-04 18:09:23
-permalink: /2012/07/appel-a-projet-europeen-fp7-2013-draft-transports-mobilites.html
+permalink: /transportsdufutur/2012/07/appel-a-projet-europeen-fp7-2013-draft-transports-mobilites.html
 tags: [FP7, innovation, multimodes, open source, Service de mobilité]
 ---
 

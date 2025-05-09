@@ -1,7 +1,7 @@
 ---
 title: "Entre des transports gratuits ou payants, de multiples solutions et un projet de société à construire"
 date: 2012-10-31 20:54:56
-permalink: /2012/10/entre-des-transports-gratuits-ou-payants-de-multiples-solutions-et-un-projet-de-societe-a-construire.html
+permalink: /transportsdufutur/2012/10/entre-des-transports-gratuits-ou-payants-de-multiples-solutions-et-un-projet-de-societe-a-construire.html
 tags: [autorité des transports, citoyen, collectivité, donnée data, Efficacité énergétique, emission, gouvernance, gratuit, monnaie complémentaire]
 ---
 

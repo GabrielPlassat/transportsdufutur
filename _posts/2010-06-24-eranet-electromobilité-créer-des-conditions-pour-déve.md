@@ -1,7 +1,7 @@
 ---
 title: "ERANET + « Electromobilité », Créer des conditions pour développer l’Electromobilité en Europe à l’horizon 2025"
 date: 2010-06-24 11:12:07
-permalink: /2010/06/eranet-electromobilite-creer-des-conditions-pour-developper-lelectromobilite-en-europe-a-lhorizon-20.html
+permalink: /transportsdufutur/2010/06/eranet-electromobilite-creer-des-conditions-pour-developper-lelectromobilite-en-europe-a-lhorizon-20.html
 tags: [nan]
 ---
 

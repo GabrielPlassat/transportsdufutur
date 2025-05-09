@@ -1,7 +1,7 @@
 ---
 title: "Un bus bien utilisé' et des vélos...'"
 date: 2010-02-10 15:03:50
-permalink: /2010/02/un-bus-bien-utilise-et-des-velos.html
+permalink: /transportsdufutur/2010/02/un-bus-bien-utilise-et-des-velos.html
 tags: [nan]
 ---
 

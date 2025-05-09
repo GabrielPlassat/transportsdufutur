@@ -1,7 +1,7 @@
 ---
 title: "Quelques propositions pour une politique de transport par véhicules autonomes"
 date: 2014-07-08 11:56:29
-permalink: /2014/07/quelques-propositions-pour-une-politique-de-mobilite-par-vehicules-autonomes.html
+permalink: /transportsdufutur/2014/07/quelques-propositions-pour-une-politique-de-mobilite-par-vehicules-autonomes.html
 tags: [autorité des transports, collectivité, commuter, connectivité, covoiturage, données réelles, Efficacité énergétique, google, gouvernance, internet des objets, ITS, Service de mobilité, véhicule mono-usage]
 ---
 

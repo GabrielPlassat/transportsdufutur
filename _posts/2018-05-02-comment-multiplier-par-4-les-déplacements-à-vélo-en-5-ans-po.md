@@ -1,7 +1,7 @@
 ---
 title: "Comment multiplier par 4 les déplacements à vélo en 5 ans pour atteindre 10 % de part modale en 2024?"
 date: 2018-05-02 08:19:42
-permalink: /2018/05/comment-multiplier-par-4-les-deplacements-a-velo-en-5-ans-pour-atteindre-10-de-part-modale-en-2024.html
+permalink: /transportsdufutur/2018/05/comment-multiplier-par-4-les-deplacements-a-velo-en-5-ans-pour-atteindre-10-de-part-modale-en-2024.html
 tags: [nan]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "L'Art de la Guerre dans un monde numérique"
 date: 2017-09-25 07:01:24
-permalink: /2017/09/guerre-monde-numerique.html
+permalink: /transportsdufutur/2017/09/guerre-monde-numerique.html
 tags: [art de la guerre, Baidu, chine, citoyen, cygne noir, ecosystème, Fabrique des mobilités, innovation, Véhicule, véhicule mono-usage, véhicule propre, voiture autonome]
 ---
 

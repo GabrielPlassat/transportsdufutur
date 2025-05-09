@@ -1,7 +1,7 @@
 ---
 title: "Moins on possède plus on devient multimodal"
 date: 2012-09-03 17:14:22
-permalink: /2012/09/moins-on-possede-plus-on-devient-multimodal.html
+permalink: /transportsdufutur/2012/09/moins-on-possede-plus-on-devient-multimodal.html
 tags: [autopartage, citoyen, commuter, covoiturage, Efficacité énergétique, internet, multimodes, Service de mobilité]
 ---
 

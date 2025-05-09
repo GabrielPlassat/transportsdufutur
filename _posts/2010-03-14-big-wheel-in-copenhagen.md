@@ -1,7 +1,7 @@
 ---
 title: "Big wheel in Copenhagen"
 date: 2010-03-14 22:22:21
-permalink: /2010/03/big-wheel-in-copenhagen.html
+permalink: /transportsdufutur/2010/03/big-wheel-in-copenhagen.html
 tags: [connectivité, données réelles, internet, internet des objets, MIT, mode doux, réseaux, Santé]
 ---
 

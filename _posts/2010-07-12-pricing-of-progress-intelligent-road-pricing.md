@@ -1,7 +1,7 @@
 ---
 title: "Pricing of Progress : Intelligent road pricing"
 date: 2010-07-12 14:11:54
-permalink: /2010/07/pricing-of-progress-intelligent-road-pricing.html
+permalink: /transportsdufutur/2010/07/pricing-of-progress-intelligent-road-pricing.html
 tags: [nan]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "TGV lab, l'open innovation à la SNCF"
 date: 2010-09-27 09:01:35
-permalink: /2010/09/tgv-lab-lopen-innovation-a-la-sncf.html
+permalink: /transportsdufutur/2010/09/tgv-lab-lopen-innovation-a-la-sncf.html
 tags: [open innovation, Service de mobilité, TGV, TIC, transition générationnelle]
 ---
 

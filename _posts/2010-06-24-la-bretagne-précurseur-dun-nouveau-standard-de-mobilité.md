@@ -1,7 +1,7 @@
 ---
 title: "La Bretagne, précurseur d’un nouveau standard de mobilité"
 date: 2010-06-24 10:26:38
-permalink: /2010/06/la-bretagne-precurseur-dun-nouveau-standard-de-mobilite.html
+permalink: /transportsdufutur/2010/06/la-bretagne-precurseur-dun-nouveau-standard-de-mobilite.html
 tags: [assistant de mobilité, autorité des transports, citoyen, collectivité, connectivité, internet, living lab, open source, partage de données, Service de mobilité]
 ---
 

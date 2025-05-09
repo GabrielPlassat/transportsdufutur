@@ -1,7 +1,7 @@
 ---
 title: "Transports & mobilités, quelles sont les 5 innovations qui peuvent changer les comportements ?"
 date: 2011-09-22 17:10:47
-permalink: /2011/09/transports-mobilites-quelles-sont-les-5-innovations-qui-peuvent-changer-les-comportements.html
+permalink: /transportsdufutur/2011/09/transports-mobilites-quelles-sont-les-5-innovations-qui-peuvent-changer-les-comportements.html
 tags: [carburant, citoyen, collectivité, données réelles, economie circulaire, Efficacité énergétique, gouvernance, holoptisme, innovation, internet, monnaie complémentaire, open innovation, TIC]
 ---
 

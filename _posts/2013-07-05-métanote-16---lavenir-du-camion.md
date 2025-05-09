@@ -1,7 +1,7 @@
 ---
 title: "MétaNote 16 - L'avenir du camion"
 date: 2013-07-05 08:19:09
-permalink: /2013/07/metanote-16-lavenir-du-camion.html
+permalink: /transportsdufutur/2013/07/metanote-16-lavenir-du-camion.html
 tags: [Acteur historique des Mobilités et Logistiques, Acteur numérique des Mobilités et des Logistiques, Assistant Personnel de Consommation, camion, carburant, cité, collectivité, connectivité, données réelles, économie du quaternaire, économie fonctionnalité, Efficacité énergétique, emission, Energie, Fablab, holoptisme, innovation, intelligence collective, internet des objets, living lab, logistique, low cost, open innovation, partage de données, plate-forme, Véhicule, wiki]
 ---
 

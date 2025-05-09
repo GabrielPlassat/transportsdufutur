@@ -1,7 +1,7 @@
 ---
 title: "Battery Market in 2020"
 date: 2010-03-05 17:32:06
-permalink: /2010/03/battery-market-in-2020.html
+permalink: /transportsdufutur/2010/03/battery-market-in-2020.html
 tags: [nan]
 ---
 

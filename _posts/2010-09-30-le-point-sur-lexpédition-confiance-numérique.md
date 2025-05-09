@@ -1,7 +1,7 @@
 ---
 title: "Le point sur l'expédition Confiance Numérique''"
 date: 2010-09-30 17:25:22
-permalink: /2010/09/le-point-sur-lexpedition-confiance-numerique.html
+permalink: /transportsdufutur/2010/09/le-point-sur-lexpedition-confiance-numerique.html
 tags: [confiance, TIC]
 ---
 

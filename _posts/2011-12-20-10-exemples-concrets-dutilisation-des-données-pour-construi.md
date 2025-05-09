@@ -1,7 +1,7 @@
 ---
 title: "10 exemples concrets d'utilisation des données pour construire des bases de connaissances et des outils d'aide"
 date: 2011-12-20 07:06:00
-permalink: /2011/12/10-exemples-concrets-dutilisation-des-donnees-pour-construire-des-bases-de-connaissances-et-des-outi-2.html
+permalink: /transportsdufutur/2011/12/10-exemples-concrets-dutilisation-des-donnees-pour-construire-des-bases-de-connaissances-et-des-outi-2.html
 tags: [cité, citoyen, donnée data, données réelles]
 ---
 

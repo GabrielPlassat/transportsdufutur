@@ -1,7 +1,7 @@
 ---
 title: "Lancement de l'outil Partenariat pour faciliter la mise en relation dans le domaine des Transports & Mobilités - AMI Mobilité"
 date: 2011-03-17 14:51:37
-permalink: /2011/03/lancement-de-loutil-partenariat-pour-faciliter-la-mise-en-relation-dans-le-domaine-des-transports-mo.html
+permalink: /transportsdufutur/2011/03/lancement-de-loutil-partenariat-pour-faciliter-la-mise-en-relation-dans-le-domaine-des-transports-mo.html
 tags: [ADEME, gouvernance, innovation, living lab, logistique, management de la mobilité, mode doux, multimodes, Service de mobilité]
 ---
 

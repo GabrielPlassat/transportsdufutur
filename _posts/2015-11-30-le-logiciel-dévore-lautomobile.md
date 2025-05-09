@@ -1,7 +1,7 @@
 ---
 title: "Le logiciel dévore l'automobile"
 date: 2015-11-30 10:07:01
-permalink: /2015/11/logiciel-devore-lautomobile.html
+permalink: /transportsdufutur/2015/11/logiciel-devore-lautomobile.html
 tags: [Acteur historique des Mobilités et Logistiques, Acteur numérique des Mobilités et des Logistiques, assurance, citoyen, confiance, connectivité, cybercar, donnée data, google, internet des objets, voiture autonome]
 ---
 

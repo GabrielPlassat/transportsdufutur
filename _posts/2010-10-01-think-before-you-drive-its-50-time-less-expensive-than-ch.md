@@ -1,7 +1,7 @@
 ---
 title: "Think before you drive ! it's 50 time less expensive than change to hybrid car !!"
 date: 2010-10-01 15:24:28
-permalink: /2010/10/think-before-you-drive-its-50-time-less-expensive-than-change-to-hybrid-car.html
+permalink: /transportsdufutur/2010/10/think-before-you-drive-its-50-time-less-expensive-than-change-to-hybrid-car.html
 tags: [allemagne, citoyen, collectivité, marche, mode doux, vélo]
 ---
 

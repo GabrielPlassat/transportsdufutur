@@ -1,7 +1,7 @@
 ---
 title: "Bienvenue"
 date: 2009-11-12 10:33:52
-permalink: /2009/11/bienvenue.html
+permalink: /transportsdufutur/2009/11/bienvenue.html
 tags: [ADEME, Séminaire]
 ---
 

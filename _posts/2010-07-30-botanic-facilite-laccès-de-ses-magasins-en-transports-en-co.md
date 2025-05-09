@@ -1,7 +1,7 @@
 ---
 title: "Botanic facilite l'accès de ses magasins en transports en commun"
 date: 2010-07-30 15:17:08
-permalink: /2010/07/botanic-facilite-lacces-de-ces-magasins-en-transports-en-commun-2.html
+permalink: /transportsdufutur/2010/07/botanic-facilite-lacces-de-ces-magasins-en-transports-en-commun-2.html
 tags: [centre commercial, internet]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "No comment !"
 date: 2010-02-11 16:58:26
-permalink: /2010/02/no-comment.html
+permalink: /transportsdufutur/2010/02/no-comment.html
 tags: [nan]
 ---
 

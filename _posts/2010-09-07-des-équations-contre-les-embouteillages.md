@@ -1,7 +1,7 @@
 ---
 title: "Des équations contre les embouteillages ?"
 date: 2010-09-07 09:34:09
-permalink: /2010/09/des-equations-contre-les-embouteillages.html
+permalink: /transportsdufutur/2010/09/des-equations-contre-les-embouteillages.html
 tags: [autorité des transports, citoyen, collectivité, commuter, connectivité, données réelles, internet, Pay as You Move, PAYD, surveillance, TIC]
 ---
 

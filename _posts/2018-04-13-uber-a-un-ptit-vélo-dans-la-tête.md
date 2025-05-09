@@ -1,7 +1,7 @@
 ---
 title: "Uber a un p’tit vélo dans la tête"
 date: 2018-04-13 09:52:30
-permalink: /2018/04/uber-a-un-ptit-velo-dans-la-tete.html
+permalink: /transportsdufutur/2018/04/uber-a-un-ptit-velo-dans-la-tete.html
 tags: [nan]
 ---
 

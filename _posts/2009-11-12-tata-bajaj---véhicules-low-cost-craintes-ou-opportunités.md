@@ -1,7 +1,7 @@
 ---
 title: "Tata, Bajaj - Véhicules low cost, Craintes ou Opportunités  ?"
 date: 2009-11-12 15:43:06
-permalink: /2009/11/tata-bajaj-vehicules-low-cost-craintes-ou-opportunites.html
+permalink: /transportsdufutur/2009/11/tata-bajaj-vehicules-low-cost-craintes-ou-opportunites.html
 tags: [Energie, low cost, Séminaire, simplicité, Véhicule]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "MétaNote N°25 - Le temps (1/2)"
 date: 2018-01-04 16:02:31
-permalink: /2018/01/metanote-n25-le-temps-12.html
+permalink: /transportsdufutur/2018/01/metanote-n25-le-temps-12.html
 tags: [carte, temps, vitesse]
 ---
 

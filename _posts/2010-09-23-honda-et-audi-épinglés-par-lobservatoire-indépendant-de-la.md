@@ -1,7 +1,7 @@
 ---
 title: "Honda et Audi épinglés par l'Observatoire Indépendant de la pub"
 date: 2010-09-23 10:32:51
-permalink: /2010/09/honda-et-audi-epingles-par-lobservatoire-independant-de-la-pub.html
+permalink: /transportsdufutur/2010/09/honda-et-audi-epingles-par-lobservatoire-independant-de-la-pub.html
 tags: [citoyen, publicité, Véhicule, véhicule propre]
 ---
 

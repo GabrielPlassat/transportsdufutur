@@ -1,7 +1,7 @@
 ---
 title: "MétaNote 18 - Pour une ontologie de la demande(s) de transport"
 date: 2013-10-21 10:00:10
-permalink: /2013/10/metanote-18-pour-une-ontologie-de-la-demandes-de-transport.html
+permalink: /transportsdufutur/2013/10/metanote-18-pour-une-ontologie-de-la-demandes-de-transport.html
 tags: [citoyen, collectivité, dette, données réelles, externalité, fiscalité, innovation, intelligence collective, living lab, management de la mobilité, marketing individualisé]
 ---
 

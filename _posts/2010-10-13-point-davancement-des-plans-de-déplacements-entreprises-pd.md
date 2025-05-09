@@ -1,7 +1,7 @@
 ---
 title: "Point d'avancement des Plans de Déplacements Entreprises (PDE)"
 date: 2010-10-13 15:26:52
-permalink: /2010/10/point-davancement-des-plans-de-deplacements-entreprises-pde.html
+permalink: /transportsdufutur/2010/10/point-davancement-des-plans-de-deplacements-entreprises-pde.html
 tags: [ADEME, agence mobilité, PDE]
 ---
 

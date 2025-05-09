@@ -1,7 +1,7 @@
 ---
 title: "Combien de temps vous reste-t-il ?"
 date: 2015-10-16 11:13:49
-permalink: /2015/10/combien-temps-reste.html
+permalink: /transportsdufutur/2015/10/combien-temps-reste.html
 tags: [Acteur numérique des Mobilités et des Logistiques, artiste, bitcoin, blockchain, communs, holoptisme, innovation]
 ---
 

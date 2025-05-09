@@ -1,7 +1,7 @@
 ---
 title: "Tweet feed back du séminaire Mobilités Mutations"
 date: 2013-12-06 21:06:12
-permalink: /2013/12/tweet-feed-back-du-seminaire-mobilites-mutations.html
+permalink: /transportsdufutur/2013/12/tweet-feed-back-du-seminaire-mobilites-mutations.html
 tags: [ADEME, plate-forme]
 ---
 

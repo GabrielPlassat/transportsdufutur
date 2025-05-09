@@ -1,7 +1,7 @@
 ---
 title: "Ville Vivante Trailer"
 date: 2017-11-07 14:48:37
-permalink: /2017/11/ville-vivante-trailer.html
+permalink: /transportsdufutur/2017/11/ville-vivante-trailer.html
 tags: [nan]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Health impact of traffic pollution"
 date: 2010-02-11 18:14:06
-permalink: /2010/02/health-impact-of-traffic-pollution.html
+permalink: /transportsdufutur/2010/02/health-impact-of-traffic-pollution.html
 tags: [nan]
 ---
 

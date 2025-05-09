@@ -1,7 +1,7 @@
 ---
 title: "Du coté de l'Allemagne"
 date: 2010-04-08 11:57:56
-permalink: /2010/04/du-cote-de-lallemagne.html
+permalink: /transportsdufutur/2010/04/du-cote-de-lallemagne.html
 tags: [nan]
 ---
 

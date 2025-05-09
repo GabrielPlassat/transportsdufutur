@@ -1,7 +1,7 @@
 ---
 title: "Blog et réseaux sociaux, aujourd'hui et demain"
 date: 2010-04-27 17:37:19
-permalink: /2010/04/blog-et-reseaux-sociaux-aujourdhui-et-demain.html
+permalink: /transportsdufutur/2010/04/blog-et-reseaux-sociaux-aujourdhui-et-demain.html
 tags: [art de la guerre, citoyen, données réelles, marchandises, partage de données, transition générationnelle, twitter]
 ---
 

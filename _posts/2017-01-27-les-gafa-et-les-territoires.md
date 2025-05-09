@@ -1,7 +1,7 @@
 ---
 title: "Les GAFA et les territoires"
 date: 2017-01-27 13:11:33
-permalink: /2017/01/les-gafa-territoires.html
+permalink: /transportsdufutur/2017/01/les-gafa-territoires.html
 tags: [Acteur numérique des Mobilités et des Logistiques, Amazon, Apple, art de la guerre, assistant de mobilité, autorité des transports, citoyen, collectivité, données réelles, google, gouvernance, management de la mobilité, multitude, pensée complexe, Service de mobilité, stationnement, Territoire Collectivité Etat Europe, waze]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "video2 data p2p"
 date: 2017-11-07 14:48:43
-permalink: /2017/11/video2-data-p2p.html
+permalink: /transportsdufutur/2017/11/video2-data-p2p.html
 tags: [nan]
 ---
 

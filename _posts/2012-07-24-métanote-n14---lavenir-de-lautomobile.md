@@ -1,7 +1,7 @@
 ---
 title: "MétaNote N°14 - L'avenir de l'automobile"
 date: 2012-07-24 09:00:00
-permalink: /2012/07/lavenir-de-lautomobile.html
+permalink: /transportsdufutur/2012/07/lavenir-de-lautomobile.html
 tags: [arzens, assistant de mobilité, autopartage, carburant, citoyen, collectivité, commuter, connectivité, données réelles, economie circulaire, Efficacité énergétique, externalité, General Motor, google, innovation, intelligence collective, internet, ITS, pensée complexe, VE, véhicule mono-usage, véhicule propre, vélo]
 ---
 

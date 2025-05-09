@@ -1,7 +1,7 @@
 ---
 title: "Bloqués en 1960, les Loopers"
 date: 2019-04-19 10:53:08
-permalink: /2019/04/bloques-en-1960-les-loopers.html
+permalink: /transportsdufutur/2019/04/bloques-en-1960-les-loopers.html
 tags: [nan]
 ---
 

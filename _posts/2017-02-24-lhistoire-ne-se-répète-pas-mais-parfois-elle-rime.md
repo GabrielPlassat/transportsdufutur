@@ -1,7 +1,7 @@
 ---
 title: "L'histoire ne se répète pas, mais parfois elle rime"
 date: 2017-02-24 17:19:38
-permalink: /2017/02/lhistoire-repete-parfois.html
+permalink: /transportsdufutur/2017/02/lhistoire-repete-parfois.html
 tags: [Acteur numérique des Mobilités et des Logistiques, Apple, art de la guerre, assistant de mobilité, citoyen, collectivité, donnée data, économie de l'expérience, google, Intelligence Artificielle, multitude, plate-forme, Service de mobilité, Usager Client Citoyen Multitude]
 ---
 

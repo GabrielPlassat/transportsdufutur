@@ -1,7 +1,7 @@
 ---
 title: "European strategy for Clean and efficient vehicles"
 date: 2010-04-30 21:16:22
-permalink: /2010/04/european-strategy-for-clean-and-efficient-vehicles.html
+permalink: /transportsdufutur/2010/04/european-strategy-for-clean-and-efficient-vehicles.html
 tags: [emission, Europe, véhicule propre]
 ---
 

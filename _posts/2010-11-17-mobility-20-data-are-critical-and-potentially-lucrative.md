@@ -1,7 +1,7 @@
 ---
 title: "Mobility 2.0 : Data are critical (and potentially lucrative)"
 date: 2010-11-17 11:58:51
-permalink: /2010/11/mobility-20-data-are-critical-and-potentially-lucrative.html
+permalink: /transportsdufutur/2010/11/mobility-20-data-are-critical-and-potentially-lucrative.html
 tags: [assurance, confiance, connectivité, donnée data, données réelles, sécurité]
 ---
 

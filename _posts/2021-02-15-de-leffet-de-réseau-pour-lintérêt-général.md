@@ -1,7 +1,7 @@
 ---
 title: "De l'effet de réseau pour l'intérêt général ?"
 date: 2021-02-15 18:05:37
-permalink: /2021/02/de-leffet-de-reseau-pour-linteret-general.html
+permalink: /transportsdufutur/2021/02/de-leffet-de-reseau-pour-linteret-general.html
 tags: [effet de réseau, Fabrique des mobilités, plateforme, wiki]
 ---
 

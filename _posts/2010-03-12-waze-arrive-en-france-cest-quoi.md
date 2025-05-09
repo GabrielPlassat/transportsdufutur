@@ -1,7 +1,7 @@
 ---
 title: "Waze arrive en France, c'est quoi ?"
 date: 2010-03-12 12:06:19
-permalink: /2010/03/waze-arrive-en-france-cest-quoi.html
+permalink: /transportsdufutur/2010/03/waze-arrive-en-france-cest-quoi.html
 tags: [données réelles, internet, partage de données, waze]
 ---
 

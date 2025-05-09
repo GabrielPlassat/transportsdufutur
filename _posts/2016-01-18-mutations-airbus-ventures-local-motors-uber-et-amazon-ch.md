@@ -1,7 +1,7 @@
 ---
 title: "Mutations ? Airbus Ventures, Local Motors, Uber et Amazon China Freight"
 date: 2016-01-18 11:33:30
-permalink: /2016/01/mutations-airbus-ventures-local-motors-uber-et-amazon-china-freight.html
+permalink: /transportsdufutur/2016/01/mutations-airbus-ventures-local-motors-uber-et-amazon-china-freight.html
 tags: [Acteur historique des Mobilités et Logistiques, Acteur numérique des Mobilités et des Logistiques, Amazon, art de la guerre, camion, Fabrique des mobilités, Infrastructure, logistique, open innovation, open source, plate-forme, Service de mobilité, Véhicule]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Dans le monde entier, nous voyons de plus en plus de gens adhérer à cette vie de piéton"
 date: 2011-09-07 07:49:35
-permalink: /2011/09/dans-le-monde-entier-nous-voyons-de-plus-en-plus-de-gens-adherer-a-cette-vie-de-pieton.html
+permalink: /transportsdufutur/2011/09/dans-le-monde-entier-nous-voyons-de-plus-en-plus-de-gens-adherer-a-cette-vie-de-pieton.html
 tags: [cité, commuter, Efficacité énergétique, gouvernance, Infrastructure, internet, management de la mobilité, marche, mode doux]
 ---
 

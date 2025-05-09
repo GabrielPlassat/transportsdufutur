@@ -1,7 +1,7 @@
 ---
 title: "Et si les changements de comportement étaient plus rapides ..."
 date: 2011-12-19 07:31:00
-permalink: /2011/12/et-si-les-changements-de-comportement-etaient-plus-rapides.html
+permalink: /transportsdufutur/2011/12/et-si-les-changements-de-comportement-etaient-plus-rapides.html
 tags: [économie fonctionnalité, Service de mobilité, transition générationnelle]
 ---
 

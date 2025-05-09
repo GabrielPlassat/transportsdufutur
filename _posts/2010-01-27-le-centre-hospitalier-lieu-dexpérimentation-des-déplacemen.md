@@ -1,7 +1,7 @@
 ---
 title: "Le centre hospitalier, lieu d'expérimentation des déplacements"
 date: 2010-01-27 11:21:32
-permalink: /2010/01/le-centre-hospitalier-lieu-dexperimentation-des-deplacements.html
+permalink: /transportsdufutur/2010/01/le-centre-hospitalier-lieu-dexperimentation-des-deplacements.html
 tags: [hopital, Infrastructure, multimodes, partage de données, Santé, Service de mobilité, TIC, Véhicule]
 ---
 

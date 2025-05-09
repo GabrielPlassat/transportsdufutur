@@ -1,7 +1,7 @@
 ---
 title: "Un impressionnant agrégateur de données des Mobilités et un livre"
 date: 2010-04-22 09:41:04
-permalink: /2010/04/un-impressionnant-agregateur-de-donnees-des-mobilites-et-un-livre.html
+permalink: /transportsdufutur/2010/04/un-impressionnant-agregateur-de-donnees-des-mobilites-et-un-livre.html
 tags: [citoyen, collectivité, internet, mode doux, multimodes, partage de données, Plateforme d'idées, Service de mobilité]
 ---
 

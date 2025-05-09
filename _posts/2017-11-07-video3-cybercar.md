@@ -1,7 +1,7 @@
 ---
 title: "video3 cybercar"
 date: 2017-11-07 14:48:40
-permalink: /2017/11/video3-cybercar.html
+permalink: /transportsdufutur/2017/11/video3-cybercar.html
 tags: [nan]
 ---
 

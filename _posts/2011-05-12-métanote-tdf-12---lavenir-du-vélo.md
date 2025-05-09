@@ -1,7 +1,7 @@
 ---
 title: "MétaNote TdF 12 - L’avenir du vélo"
 date: 2011-05-12 14:26:50
-permalink: /2011/05/metanote-tdf-12-lavenir-du-velo.html
+permalink: /transportsdufutur/2011/05/metanote-tdf-12-lavenir-du-velo.html
 tags: [2 roues, assurance, citoyen, collectivité, commuter, Efficacité énergétique, externalité, mode doux, partage de la voirie, Santé, stationnement, surveillance]
 ---
 

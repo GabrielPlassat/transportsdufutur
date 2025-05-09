@@ -1,7 +1,7 @@
 ---
 title: "Rencontre de Rennes - Mobilité, Urbanisme, Territoire et  Aménagement"
 date: 2011-01-26 08:54:31
-permalink: /2011/01/rencontre-de-rennes-mobilite-urbanisme-territoire-et-amenagement.html
+permalink: /transportsdufutur/2011/01/rencontre-de-rennes-mobilite-urbanisme-territoire-et-amenagement.html
 tags: [ADEME, autorité des transports, cité, citoyen, collectivité, connectivité, économie fonctionnalité, gouvernance, innovation, internet, internet des objets, management de la mobilité, marchandises, partage de données, partage de la voirie, Service de mobilité]
 ---
 

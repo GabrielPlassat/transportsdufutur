@@ -1,7 +1,7 @@
 ---
 title: "Les premières assises de la qualité de l'air - 6 et 7 avril 2011"
 date: 2011-01-11 15:38:55
-permalink: /2011/01/les-premieres-assises-de-la-qualite-de-lair-6-et-7-avril-2011.html
+permalink: /transportsdufutur/2011/01/les-premieres-assises-de-la-qualite-de-lair-6-et-7-avril-2011.html
 tags: [ADEME, cité, citoyen, données réelles, externalité, qualité de l'air, véhicule propre]
 ---
 

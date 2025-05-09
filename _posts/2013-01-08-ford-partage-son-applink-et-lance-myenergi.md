@@ -1,7 +1,7 @@
 ---
 title: "Ford partage son AppLink et lance Myenergi"
 date: 2013-01-08 16:54:26
-permalink: /2013/01/ford-partage-son-applink-et-lance-myenergi.html
+permalink: /transportsdufutur/2013/01/ford-partage-son-applink-et-lance-myenergi.html
 tags: [citoyen, commuter, covoiturage, données réelles, Efficacité énergétique, FORD, internet, Service de mobilité, smartgrid]
 ---
 

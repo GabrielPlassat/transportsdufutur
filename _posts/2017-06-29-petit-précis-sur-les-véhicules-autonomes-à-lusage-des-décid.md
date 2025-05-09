@@ -1,7 +1,7 @@
 ---
 title: "Petit précis sur les véhicules autonomes à l'usage des décideurs"
 date: 2017-06-29 08:23:11
-permalink: /2017/06/vehicules-autonomes-decideurs.html
+permalink: /transportsdufutur/2017/06/vehicules-autonomes-decideurs.html
 tags: [artiste, citoyen, économie de l'attention, économie de l'expérience, ecosystème, fiscalité, google, multitude, voiture autonome]
 ---
 

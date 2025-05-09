@@ -1,7 +1,7 @@
 ---
 title: "Les sociétés les plus innovantes, plus près du consommateur, moins de hard', plus de 'soft''"
 date: 2010-11-15 15:32:42
-permalink: /2010/11/les-societes-les-plus-innovantes-plus-pres-du-consommateur-moins-de-hard-plus-de-soft.html
+permalink: /transportsdufutur/2010/11/les-societes-les-plus-innovantes-plus-pres-du-consommateur-moins-de-hard-plus-de-soft.html
 tags: [nan]
 ---
 

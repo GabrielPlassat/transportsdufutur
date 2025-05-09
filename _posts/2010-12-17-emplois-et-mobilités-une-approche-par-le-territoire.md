@@ -1,7 +1,7 @@
 ---
 title: "Emplois et mobilités, une approche par le territoire"
 date: 2010-12-17 11:06:32
-permalink: /2010/12/emplois-et-mobilites-une-approche-par-le-territoire.html
+permalink: /transportsdufutur/2010/12/emplois-et-mobilites-une-approche-par-le-territoire.html
 tags: [agence mobilité, citoyen, collectivité, gouvernance, maison de la mobilité, management de la mobilité, Service de mobilité]
 ---
 

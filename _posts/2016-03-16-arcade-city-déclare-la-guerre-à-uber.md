@@ -1,7 +1,7 @@
 ---
 title: "Arcade City déclare la guerre à Uber"
 date: 2016-03-16 14:48:16
-permalink: /2016/03/arcade-city-declare-la-guerre-a-uber.html
+permalink: /transportsdufutur/2016/03/arcade-city-declare-la-guerre-a-uber.html
 tags: [Acteur numérique des Mobilités et des Logistiques, blockchain, Comment agir pour changer les pratiques ?, covoiturage, Non classé, Uber]
 ---
 

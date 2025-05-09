@@ -1,7 +1,7 @@
 ---
 title: "Qu’est ce qu’un véhicule propre ? réponse et outil de la commission européenne …"
 date: 2010-12-07 09:52:34
-permalink: /2010/12/quest-ce-quun-vehicule-propre-reponse-et-outil-de-la-commission-europeenne.html
+permalink: /transportsdufutur/2010/12/quest-ce-quun-vehicule-propre-reponse-et-outil-de-la-commission-europeenne.html
 tags: [Europe, véhicule propre]
 ---
 

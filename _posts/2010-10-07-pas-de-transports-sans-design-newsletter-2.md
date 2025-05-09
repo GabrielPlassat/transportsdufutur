@@ -1,7 +1,7 @@
 ---
 title: "Pas de transports sans design (newsletter 2)"
 date: 2010-10-07 08:59:21
-permalink: /2010/10/pas-de-transports-sans-design-newsletter-2.html
+permalink: /transportsdufutur/2010/10/pas-de-transports-sans-design-newsletter-2.html
 tags: [nan]
 ---
 

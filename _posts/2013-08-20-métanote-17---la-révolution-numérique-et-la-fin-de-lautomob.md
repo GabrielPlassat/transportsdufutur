@@ -1,7 +1,7 @@
 ---
 title: "MétaNote 17 - La révolution numérique et la fin de l'automobile"
 date: 2013-08-20 11:29:01
-permalink: /2013/08/metanote-17-la-mutation-numerique-nengendre-pas-seulement-de-nouveaux-moyens-de-transports-elle-modi.html
+permalink: /transportsdufutur/2013/08/metanote-17-la-mutation-numerique-nengendre-pas-seulement-de-nouveaux-moyens-de-transports-elle-modi.html
 tags: [application, citoyen, connectivité, covoiturage, donnée data, économie de l'expérience, économie du quaternaire, économie fonctionnalité, google, holoptisme, innovation, intelligence collective, internet, internet des objets, lien social, living lab, philosophie, réseaux, territoire, transition générationnelle, waze, web2.0]
 ---
 

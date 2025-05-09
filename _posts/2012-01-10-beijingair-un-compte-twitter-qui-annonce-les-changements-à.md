@@ -1,7 +1,7 @@
 ---
 title: "'@BeijingAir un compte twitter qui annonce les changements à venir"
 date: 2012-01-10 18:36:02
-permalink: /2012/01/beijingair-un-compte-twitter-qui-annonce-les-changements-a-venir.html
+permalink: /transportsdufutur/2012/01/beijingair-un-compte-twitter-qui-annonce-les-changements-a-venir.html
 tags: [autorité des transports, chine, cité, donnée data, données réelles, emission, qualité de l'air, twitter]
 ---
 

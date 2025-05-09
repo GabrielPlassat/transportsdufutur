@@ -1,7 +1,7 @@
 ---
 title: "Réinventer les mobilités dans le périurbain - concours national"
 date: 2010-11-15 15:57:53
-permalink: /2010/11/reinventer-les-mobilites-dans-le-periurbain-concours-national.html
+permalink: /transportsdufutur/2010/11/reinventer-les-mobilites-dans-le-periurbain-concours-national.html
 tags: [citoyen, collectivité, commuter, connectivité, innovation, internet, Service de mobilité]
 ---
 

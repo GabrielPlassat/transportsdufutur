@@ -1,7 +1,7 @@
 ---
 title: "Etes vous un héros ordinaire ?"
 date: 2010-10-18 16:38:36
-permalink: /2010/10/etes-vous-un-hero-ordinaire.html
+permalink: /transportsdufutur/2010/10/etes-vous-un-hero-ordinaire.html
 tags: [nan]
 ---
 

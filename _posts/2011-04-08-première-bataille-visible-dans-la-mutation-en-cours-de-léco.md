@@ -1,7 +1,7 @@
 ---
 title: "Première bataille visible dans la mutation en cours de l'écosystème Mobilité"
 date: 2011-04-08 17:53:35
-permalink: /2011/04/premiere-bataille-visible-dans-la-mutation-en-cours-de-lecosysteme-mobilite.html
+permalink: /transportsdufutur/2011/04/premiere-bataille-visible-dans-la-mutation-en-cours-de-lecosysteme-mobilite.html
 tags: [art de la guerre, autopartage, collectivité, Service de mobilité]
 ---
 

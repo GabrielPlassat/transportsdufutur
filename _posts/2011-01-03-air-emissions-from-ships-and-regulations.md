@@ -1,7 +1,7 @@
 ---
 title: "Air Emissions from Ships and regulations"
 date: 2011-01-03 14:41:22
-permalink: /2011/01/air-emissions-from-ships-and-regulations.html
+permalink: /transportsdufutur/2011/01/air-emissions-from-ships-and-regulations.html
 tags: [autorité des transports, gouvernance]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "FP7 transportations & logistics Projects 2007-2013"
 date: 2012-02-29 15:12:31
-permalink: /2012/02/fp7-transportations-logistics-projects-2007-2013.html
+permalink: /transportsdufutur/2012/02/fp7-transportations-logistics-projects-2007-2013.html
 tags: [Europe, FP7, Infrastructure, innovation, marchandises, multimodes, TIC, transit]
 ---
 

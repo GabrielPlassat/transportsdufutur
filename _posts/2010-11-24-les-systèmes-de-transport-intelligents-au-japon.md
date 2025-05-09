@@ -1,7 +1,7 @@
 ---
 title: "Les systèmes de Transport Intelligents au Japon"
 date: 2010-11-24 17:00:19
-permalink: /2010/11/les-systemes-de-transport-intelligents-au-japon.html
+permalink: /transportsdufutur/2010/11/les-systemes-de-transport-intelligents-au-japon.html
 tags: [nan]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Enjeux juridiques du contrôle des émissions personnelles de GES par un dispositif de carte carbone"
 date: 2011-04-27 14:13:52
-permalink: /2011/04/enjeux-juridiques-du-controle-des-emissions-personnelles-de-ges-par-un-dispositif-de-carte-carbone.html
+permalink: /transportsdufutur/2011/04/enjeux-juridiques-du-controle-des-emissions-personnelles-de-ges-par-un-dispositif-de-carte-carbone.html
 tags: [nan]
 ---
 

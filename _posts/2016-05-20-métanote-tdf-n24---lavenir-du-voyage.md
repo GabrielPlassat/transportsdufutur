@@ -1,7 +1,7 @@
 ---
 title: "MétaNote TdF N°24 - L'avenir du voyage"
 date: 2016-05-20 10:03:25
-permalink: /2016/05/metanote-lavenir-voyage.html
+permalink: /transportsdufutur/2016/05/metanote-lavenir-voyage.html
 tags: [Acteur numérique des Mobilités et des Logistiques, assistant de mobilité, blockchain, citoyen, Comment agir pour changer les pratiques ?, connectivité, économie de l'expérience, plate-forme, Usager Client Citoyen Multitude, virtuel, voyage]
 ---
 

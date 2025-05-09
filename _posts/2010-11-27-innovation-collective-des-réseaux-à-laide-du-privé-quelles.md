@@ -1,7 +1,7 @@
 ---
 title: "Innovation collective des réseaux à l'aide du privé, quelles conséquences ?"
 date: 2010-11-27 19:50:55
-permalink: /2010/11/innovation-collective-des-reseaux-a-laide-du-prive-quelles-consequences.html
+permalink: /transportsdufutur/2010/11/innovation-collective-des-reseaux-a-laide-du-prive-quelles-consequences.html
 tags: [citoyen, collectivité, confiance, connectivité, innovation, internet, open innovation, open source, partage de données, Plateforme d'idées, réseaux, Service de mobilité]
 ---
 

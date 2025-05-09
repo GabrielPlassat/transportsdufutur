@@ -1,7 +1,7 @@
 ---
 title: "En 1965, voitures en libre service dans Paris prévues pour 1970"
 date: 2017-11-07 14:48:39
-permalink: /2017/11/en-1965-voitures-en-libre-service-dans-paris-prevues-pour-1970.html
+permalink: /transportsdufutur/2017/11/en-1965-voitures-en-libre-service-dans-paris-prevues-pour-1970.html
 tags: [nan]
 ---
 

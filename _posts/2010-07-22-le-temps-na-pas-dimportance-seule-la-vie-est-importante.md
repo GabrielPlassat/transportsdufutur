@@ -1,7 +1,7 @@
 ---
 title: "Le temps n’a pas d’importance, seule la vie est importante"
 date: 2010-07-22 18:29:54
-permalink: /2010/07/le-temps-na-pas-dimportance-seule-la-vie-compte.html
+permalink: /transportsdufutur/2010/07/le-temps-na-pas-dimportance-seule-la-vie-compte.html
 tags: [citoyen, voyage]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "$600 millions d'aide pour des projets liés aux Transports aux USA"
 date: 2010-11-24 21:50:15
-permalink: /2010/11/600-millions-daide-pour-des-projets-lies-aux-transports-aux-usa.html
+permalink: /transportsdufutur/2010/11/600-millions-daide-pour-des-projets-lies-aux-transports-aux-usa.html
 tags: [Infrastructure, innovation]
 ---
 

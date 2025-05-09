@@ -1,7 +1,7 @@
 ---
 title: "L'ADEME partage les connaissances sur les pratiques d'autopartage et de covoiturage"
 date: 2015-09-16 14:03:14
-permalink: /2015/09/connaissances-dautopartage-covoiturage.html
+permalink: /transportsdufutur/2015/09/connaissances-dautopartage-covoiturage.html
 tags: [ADEME, autopartage, covoiturage, Que sait-on de nos mobilités ?]
 ---
 

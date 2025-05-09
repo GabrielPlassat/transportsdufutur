@@ -1,7 +1,7 @@
 ---
 title: "Votre produit / service est-il résilient ?"
 date: 2013-10-17 17:33:39
-permalink: /2013/10/resilience-et-evenements-from-les-transports-du-futur.html
+permalink: /transportsdufutur/2013/10/resilience-et-evenements-from-les-transports-du-futur.html
 tags: [nan]
 ---
 

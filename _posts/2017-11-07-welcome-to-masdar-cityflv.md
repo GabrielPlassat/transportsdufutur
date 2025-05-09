@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Masdar City.flv"
 date: 2017-11-07 14:48:09
-permalink: /2017/11/welcome-to-masdar-city-flv.html
+permalink: /transportsdufutur/2017/11/welcome-to-masdar-city-flv.html
 tags: [nan]
 ---
 

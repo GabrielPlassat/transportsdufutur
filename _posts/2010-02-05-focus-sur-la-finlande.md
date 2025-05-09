@@ -1,7 +1,7 @@
 ---
 title: "Focus sur la Finlande"
 date: 2010-02-05 09:27:28
-permalink: /2010/02/focus-sur-la-finlande.html
+permalink: /transportsdufutur/2010/02/focus-sur-la-finlande.html
 tags: [Energie, finlande, Infrastructure, nexbtl, Service de mobilité, TIC, Véhicule]
 ---
 

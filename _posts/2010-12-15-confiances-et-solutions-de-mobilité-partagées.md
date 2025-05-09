@@ -1,7 +1,7 @@
 ---
 title: "Confiance(s) et solutions de mobilité partagées"
 date: 2010-12-15 18:13:45
-permalink: /2010/12/confiances-et-solutions-de-mobilite-partagees.html
+permalink: /transportsdufutur/2010/12/confiances-et-solutions-de-mobilite-partagees.html
 tags: [assurance, cité, citoyen, collectivité, confiance, sousveillance]
 ---
 

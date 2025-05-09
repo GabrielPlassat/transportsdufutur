@@ -1,7 +1,7 @@
 ---
 title: "Energy and Transports in Europe"
 date: 2010-07-19 12:17:31
-permalink: /2010/07/energy-and-transports-in-europe.html
+permalink: /transportsdufutur/2010/07/energy-and-transports-in-europe.html
 tags: [nan]
 ---
 

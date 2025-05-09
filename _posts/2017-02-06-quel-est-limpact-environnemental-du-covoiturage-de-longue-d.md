@@ -1,7 +1,7 @@
 ---
 title: "Quel est l’impact environnemental du covoiturage de longue distance?"
 date: 2017-02-06 08:58:03
-permalink: /2017/02/environnemental-covoiturage-distance.html
+permalink: /transportsdufutur/2017/02/environnemental-covoiturage-distance.html
 tags: [Acteur numérique des Mobilités et des Logistiques, Comment agir pour changer les pratiques ?, covoiturage, Que sait-on de nos mobilités ?]
 ---
 

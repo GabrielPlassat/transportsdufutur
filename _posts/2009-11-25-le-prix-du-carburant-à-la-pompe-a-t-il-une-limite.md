@@ -1,7 +1,7 @@
 ---
 title: "Le prix du carburant à la pompe a-t-il une limite ?"
 date: 2009-11-25 11:29:36
-permalink: /2009/11/le-prix-du-carburant-a-la-pompe-atil-une-limite.html
+permalink: /transportsdufutur/2009/11/le-prix-du-carburant-a-la-pompe-atil-une-limite.html
 tags: [Energie, Plateforme d'idées, Précarité, prix carburant, Véhicule]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Du coté du pétrole et du gaz"
 date: 2010-04-07 14:12:36
-permalink: /2010/04/du-cote-du-petrole-et-du-gaz.html
+permalink: /transportsdufutur/2010/04/du-cote-du-petrole-et-du-gaz.html
 tags: [Energie, gaz, pétrole, prix carburant]
 ---
 

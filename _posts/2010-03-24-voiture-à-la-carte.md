@@ -1,7 +1,7 @@
 ---
 title: "Voiture à la carte"
 date: 2010-03-24 09:14:26
-permalink: /2010/03/voiture-a-la-carte.html
+permalink: /transportsdufutur/2010/03/voiture-a-la-carte.html
 tags: [transition générationnelle, Véhicule]
 ---
 

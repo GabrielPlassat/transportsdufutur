@@ -1,7 +1,7 @@
 ---
 title: "Un nouveau service de mobilité pour les zones peu denses, quand l'accès aux données décuple les possibilités"
 date: 2010-11-15 08:39:45
-permalink: /2010/11/un-nouveau-service-de-mobilite-pour-les-zones-peu-denses-quand-lacces-aux-donnees-decuple-les-possib.html
+permalink: /transportsdufutur/2010/11/un-nouveau-service-de-mobilite-pour-les-zones-peu-denses-quand-lacces-aux-donnees-decuple-les-possib.html
 tags: [assistant de mobilité, collectivité, commuter, confiance, connectivité, internet, partage de données, Service de mobilité]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Classement des villes les plus congestionnées utilisant les données réelles TOMTOM"
 date: 2010-04-22 15:35:51
-permalink: /2010/04/classement-des-villes-les-plus-congestionnees-utilisant-les-donnees-reelles-tomtom.html
+permalink: /transportsdufutur/2010/04/classement-des-villes-les-plus-congestionnees-utilisant-les-donnees-reelles-tomtom.html
 tags: [cité, citoyen, collectivité, commuter, connectivité, données réelles, internet, partage de données]
 ---
 

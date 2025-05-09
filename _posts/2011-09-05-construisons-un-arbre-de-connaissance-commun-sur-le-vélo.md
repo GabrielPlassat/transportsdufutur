@@ -1,7 +1,7 @@
 ---
 title: "Construisons un arbre de connaissance commun sur le vélo"
 date: 2011-09-05 10:58:34
-permalink: /2011/09/construisons-un-arbre-de-connaissance-commun-sur-le-velo.html
+permalink: /transportsdufutur/2011/09/construisons-un-arbre-de-connaissance-commun-sur-le-velo.html
 tags: [2 roues, internet, open innovation, vélo]
 ---
 

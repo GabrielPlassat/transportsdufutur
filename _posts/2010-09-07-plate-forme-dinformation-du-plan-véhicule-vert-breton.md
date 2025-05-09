@@ -1,7 +1,7 @@
 ---
 title: "Plate Forme d'information du plan Véhicule Vert Breton"
 date: 2010-09-07 10:08:37
-permalink: /2010/09/plate-forme-dinformation-du-plan-vehicule-vert-breton.html
+permalink: /transportsdufutur/2010/09/plate-forme-dinformation-du-plan-vehicule-vert-breton.html
 tags: [partage de données, Plateforme d'idées]
 ---
 

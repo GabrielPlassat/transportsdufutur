@@ -1,7 +1,7 @@
 ---
 title: "[balise N°2] Les Transports du Futur"
 date: 2016-06-02 10:24:10
-permalink: /2016/06/balise-transports-futur.html
+permalink: /transportsdufutur/2016/06/balise-transports-futur.html
 tags: [Acteur historique des Mobilités et Logistiques, Acteur numérique des Mobilités et des Logistiques, Amazon, art de la guerre, assistant de mobilité, citoyen, Comment agir pour changer les pratiques ?, communs, donnée data, économie de l'expérience, Fabrique des mobilités, google, Infrastructure, innovation, intelligence collective, open innovation, open source, plate-forme, Que sait-on de nos mobilités ?, Service de mobilité, Territoire Collectivité Etat Europe, Tesla, Uber, Usager Client Citoyen Multitude, voiture autonome]
 ---
 

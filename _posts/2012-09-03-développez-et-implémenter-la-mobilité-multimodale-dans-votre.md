@@ -1,7 +1,7 @@
 ---
 title: "Développez et implémenter la mobilité multimodale dans votre territoire"
 date: 2012-09-03 16:33:54
-permalink: /2012/09/developpez-et-implementer-la-mobilite-multimodale-dans-votre-territoire.html
+permalink: /transportsdufutur/2012/09/developpez-et-implementer-la-mobilite-multimodale-dans-votre-territoire.html
 tags: [agence mobilité, assistant de mobilité, autopartage, autorité des transports, connectivité, covoiturage, données réelles, Efficacité énergétique, Europe, gouvernance, innovation, intelligence collective, internet, ITS, marketing, partage de données, partage de la voirie, PDE, Plateforme d'idées, Service de mobilité, territoire]
 ---
 

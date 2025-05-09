@@ -1,7 +1,7 @@
 ---
 title: "Vers des bus sans chauffeur … mais avec plus d'échanges"
 date: 2009-12-16 15:52:44
-permalink: /2009/12/vers-des-bus-sans-chauffeur-mais-avec-plus-dechanges.html
+permalink: /transportsdufutur/2009/12/vers-des-bus-sans-chauffeur-mais-avec-plus-dechanges.html
 tags: [cybercar, Energie, Ertico, Infrastructure, internet des objets, philanthropie, Service de mobilité, TIC, Véhicule]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Comment faire un VE à 6000 euros ? et surtout pourquoi ?"
 date: 2010-10-19 08:18:24
-permalink: /2010/10/comment-faire-un-ve-a-6000-euros-et-surtout-pourquoi.html
+permalink: /transportsdufutur/2010/10/comment-faire-un-ve-a-6000-euros-et-surtout-pourquoi.html
 tags: [low cost, Service de mobilité, VE]
 ---
 
