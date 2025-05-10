@@ -1,4 +1,4 @@
-Download
+Blog
 ---
 layout: home
 title: Accueil
