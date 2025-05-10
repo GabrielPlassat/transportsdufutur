@@ -1,7 +1,7 @@
 ---
 title: "MétaNote TdF 3, La surveillance - reloaded"
 date: 2013-03-20 11:45:43
-permalink: /transportsdufutur/2013/03/metanote-tdf-3-la-surveillance-reloaded.html
+permalink: /2013/03/metanote-tdf-3-la-surveillance-reloaded.html
 tags: [assistant de mobilité, autorité des transports, catastrophe, citoyen, collectivité, confiance, congestion, données réelles, Europe, internet des objets, management de la mobilité, péage urbain, roadpricing]
 layout: post
 ---

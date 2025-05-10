@@ -1,7 +1,7 @@
 ---
 title: "Bluetooth à l'aéroport de Bruxelles"
 date: 2010-03-16 09:08:30
-permalink: /transportsdufutur/2010/03/bluetooth-a-laeroport-de-bruxelles.html
+permalink: /2010/03/bluetooth-a-laeroport-de-bruxelles.html
 tags: [bluetooth, centre commercial, données réelles, internet, internet des objets]
 layout: post
 ---

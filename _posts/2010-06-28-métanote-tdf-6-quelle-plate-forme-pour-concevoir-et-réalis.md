@@ -1,7 +1,7 @@
 ---
 title: "MétaNote TdF 6 - Quelle plate forme pour concevoir et réaliser le premier système de Mobilité 2.0 ?"
 date: 2010-06-28 10:30:33
-permalink: /transportsdufutur/2010/06/metanote-tdf-6-quelle-plate-forme-pour-concevoir-et-realiser-le-premier-systeme-de-mobilite-20.html
+permalink: /2010/06/metanote-tdf-6-quelle-plate-forme-pour-concevoir-et-realiser-le-premier-systeme-de-mobilite-20.html
 tags: [autorité des transports, citoyen, collectivité, données réelles, economie circulaire, Efficacité énergétique, Energie, Infrastructure, internet, partage de données, Plateforme d'idées, réseaux, Service de mobilité, Véhicule]
 layout: post
 ---

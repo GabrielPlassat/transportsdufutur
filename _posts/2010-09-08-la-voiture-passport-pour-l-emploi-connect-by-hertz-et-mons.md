@@ -1,7 +1,7 @@
 ---
 title: "La voiture passport pour l'emploi - Connect by Hertz et Monster"
 date: 2010-09-08 15:12:25
-permalink: /transportsdufutur/2010/09/la-voiture-passport-pour-lemploi-connect-by-hertz-et-monster.html
+permalink: /2010/09/la-voiture-passport-pour-lemploi-connect-by-hertz-et-monster.html
 tags: [citoyen, collectivité, Précarité]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Qui covoiturent pour aller travailler et pourquoi ?"
 date: 2016-02-17 11:59:32
-permalink: /transportsdufutur/2016/02/qui-covoiturent-pour-aller-travailler-et-pourquoi.html
+permalink: /2016/02/qui-covoiturent-pour-aller-travailler-et-pourquoi.html
 tags: [Acteur numérique des Mobilités et des Logistiques, communs, covoiturage, Que sait-on de nos mobilités ?]
 layout: post
 ---

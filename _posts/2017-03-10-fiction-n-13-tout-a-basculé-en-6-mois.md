@@ -1,7 +1,7 @@
 ---
 title: "[fiction N°13] Tout a basculé. En 6 mois..."
 date: 2017-03-10 07:34:38
-permalink: /transportsdufutur/2017/03/fiction-tout-bascule.html
+permalink: /2017/03/fiction-tout-bascule.html
 tags: [Acteur numérique des Mobilités et des Logistiques, art de la guerre, cité, Comment agir pour changer les pratiques ?, commuter, congestion, Intelligence Artificielle, plate-forme, Territoire Collectivité Etat Europe, voiture autonome]
 layout: post
 ---

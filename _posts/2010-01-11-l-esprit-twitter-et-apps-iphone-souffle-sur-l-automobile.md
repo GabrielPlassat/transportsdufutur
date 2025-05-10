@@ -1,7 +1,7 @@
 ---
 title: "L'esprit twitter et Apps Iphone souffle sur l'automobile"
 date: 2010-01-11 14:26:00
-permalink: /transportsdufutur/2010/01/lesprit-twitter-et-apps-iphone-souffle-sur-lautomobile.html
+permalink: /2010/01/lesprit-twitter-et-apps-iphone-souffle-sur-lautomobile.html
 tags: [connectivité, internet, internet des objets, iphone, open source, Service de mobilité, TIC, twitter, Véhicule]
 layout: post
 ---

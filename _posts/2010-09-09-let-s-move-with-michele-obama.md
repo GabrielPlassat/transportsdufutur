@@ -1,7 +1,7 @@
 ---
 title: "Let's move with Michele OBAMA"
 date: 2010-09-09 15:23:42
-permalink: /transportsdufutur/2010/09/lets-move-with-michele-obama.html
+permalink: /2010/09/lets-move-with-michele-obama.html
 tags: [marche, mode doux, obésité]
 layout: post
 ---

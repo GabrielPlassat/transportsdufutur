@@ -1,7 +1,7 @@
 ---
 title: "La maîtrise de l'énergie par l'anthropologie"
 date: 2010-09-27 14:32:29
-permalink: /transportsdufutur/2010/09/la-maitrise-de-lenergie-par-lanthropologie.html
+permalink: /2010/09/la-maitrise-de-lenergie-par-lanthropologie.html
 tags: [anthropologie, citoyen, collectivité]
 layout: post
 ---

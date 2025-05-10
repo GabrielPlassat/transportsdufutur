@@ -1,7 +1,7 @@
 ---
 title: "State Of Europe Environment, Megatrends and Policies for Transportation"
 date: 2010-12-02 15:20:04
-permalink: /transportsdufutur/2010/12/state-of-europe-environment-megatrends-and-policies-for-transportation.html
+permalink: /2010/12/state-of-europe-environment-megatrends-and-policies-for-transportation.html
 tags: [Energie, Europe]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Les 10 Notes de synthèse - Mobilités 2.0 ou les multimodalités fluides en temps réel"
 date: 2010-10-23 14:27:08
-permalink: /transportsdufutur/2010/10/les-10-notes-de-synthese-mobilites-20-ou-les-multimodalites-fluides-en-temps-reel.html
+permalink: /2010/10/les-10-notes-de-synthese-mobilites-20-ou-les-multimodalites-fluides-en-temps-reel.html
 tags: [autorité des transports, banque, carburant, collectivité, confiance, connectivité, economie circulaire, économie du quaternaire, économie fonctionnalité, Efficacité énergétique, Energie, gratuit, internet, internet des objets, iphone, logistique, low cost, marchandises, mode doux, multimodes, open innovation, open source, partage de données, partage de la voirie, Pay as You Move, péage urbain, philanthropie, Plateforme d'idées, publicité, RSE, Service de mobilité, simplicité, sousveillance, stationnement, surveillance, TIC, transition générationnelle, VE, web2.0]
 layout: post
 ---

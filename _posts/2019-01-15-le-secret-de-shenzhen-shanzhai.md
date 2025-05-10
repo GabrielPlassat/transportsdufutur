@@ -1,7 +1,7 @@
 ---
 title: "Le secret de Shenzhen : « Shanzhai »"
 date: 2019-01-15 09:12:24
-permalink: /transportsdufutur/2019/01/le-secret-de-shengzen-shanzhai.html
+permalink: /2019/01/le-secret-de-shengzen-shanzhai.html
 tags: [open source, shengzen]
 layout: post
 ---

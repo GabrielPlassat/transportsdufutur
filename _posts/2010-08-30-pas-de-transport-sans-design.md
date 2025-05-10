@@ -1,7 +1,7 @@
 ---
 title: "Pas de transport sans design"
 date: 2010-08-30 09:25:26
-permalink: /transportsdufutur/2010/08/pas-de-transport-sans-design.html
+permalink: /2010/08/pas-de-transport-sans-design.html
 tags: [nan]
 layout: post
 ---

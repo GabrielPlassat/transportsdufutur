@@ -1,7 +1,7 @@
 ---
 title: "Avertissement de la Commission européenne à l'Italie pour les PM"
 date: 2010-07-19 12:22:41
-permalink: /transportsdufutur/2010/07/avertissement-de-la-commission-europeenne-a-litalie-pour-les-pm.html
+permalink: /2010/07/avertissement-de-la-commission-europeenne-a-litalie-pour-les-pm.html
 tags: [nan]
 layout: post
 ---

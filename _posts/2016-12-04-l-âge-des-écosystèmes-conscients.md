@@ -1,7 +1,7 @@
 ---
 title: "L'âge des écosystèmes conscients"
 date: 2016-12-04 10:08:15
-permalink: /transportsdufutur/2016/12/lage-ecosystemes-conscients.html
+permalink: /2016/12/lage-ecosystemes-conscients.html
 tags: [Acteur historique des Mobilités et Logistiques, Acteur numérique des Mobilités et des Logistiques, anthropologie, artiste, communs, confiance, économie de l'attention, économie de l'expérience, économie fonctionnalité, ecosystème, Fabrique des mobilités, Générateur de Mobilité, holoptisme, innovation, intelligence collective, monnaie complémentaire, open innovation, open source, richesse, Territoire Collectivité Etat Europe, Usager Client Citoyen Multitude]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Light commercial vehicle CO2 emissions standard"
 date: 2011-01-25 17:16:51
-permalink: /transportsdufutur/2011/01/light-commercial-vehicle-co2-emissions-standard.html
+permalink: /2011/01/light-commercial-vehicle-co2-emissions-standard.html
 tags: [Europe, véhicule propre]
 layout: post
 ---

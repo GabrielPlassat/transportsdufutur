@@ -1,7 +1,7 @@
 ---
 title: "Projet de Stratégie Nationale pour le Développement Durable & le défi concernant les transports"
 date: 2010-07-28 13:39:11
-permalink: /transportsdufutur/2010/07/projet-de-strategie-nationale-pour-le-developpement-durable-le-defi-concernant-les-transports.html
+permalink: /2010/07/projet-de-strategie-nationale-pour-le-developpement-durable-le-defi-concernant-les-transports.html
 tags: [nan]
 layout: post
 ---

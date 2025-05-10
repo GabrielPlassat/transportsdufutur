@@ -1,7 +1,7 @@
 ---
 title: "Demain, pour éviter d'être virtuel, en ville sans ma voiture' devra être aussi virtuel ...'"
 date: 2010-09-22 16:41:35
-permalink: /transportsdufutur/2010/09/demain-pour-eviter-detre-virtuel-en-ville-sans-ma-voiture-devra-etre-aussi-virtuel.html
+permalink: /2010/09/demain-pour-eviter-detre-virtuel-en-ville-sans-ma-voiture-devra-etre-aussi-virtuel.html
 tags: [internet, jeu, jeu vidéo]
 layout: post
 ---

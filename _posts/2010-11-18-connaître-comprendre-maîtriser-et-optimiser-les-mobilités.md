@@ -1,7 +1,7 @@
 ---
 title: "Connaître, comprendre, maîtriser et optimiser les mobilités, l'art du management"
 date: 2010-11-18 21:53:17
-permalink: /transportsdufutur/2010/11/connaitre-comprendre-maitriser-et-optimiser-les-mobilites-lart-du-management.html
+permalink: /2010/11/connaitre-comprendre-maitriser-et-optimiser-les-mobilites-lart-du-management.html
 tags: [gouvernance, management de la mobilité]
 layout: post
 ---

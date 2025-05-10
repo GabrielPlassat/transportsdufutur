@@ -1,7 +1,7 @@
 ---
 title: "Gouvernance des systèmes de transports"
 date: 2010-11-05 15:08:21
-permalink: /transportsdufutur/2010/11/gouvernance-des-systemes-de-transports.html
+permalink: /2010/11/gouvernance-des-systemes-de-transports.html
 tags: [cité, citoyen, collectivité, gouvernance]
 layout: post
 ---

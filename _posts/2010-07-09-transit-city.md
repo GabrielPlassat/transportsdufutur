@@ -1,7 +1,7 @@
 ---
 title: "Transit City"
 date: 2010-07-09 11:42:07
-permalink: /transportsdufutur/2010/07/transit-city.html
+permalink: /2010/07/transit-city.html
 tags: [nan]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "EPA, agence américaine de l’Environnement, peut s’attaquer au CO2"
 date: 2009-12-11 10:56:12
-permalink: /transportsdufutur/2009/12/epa-agence-americaine-de-lenvironnement-peut-sattaquer-au-co2.html
+permalink: /2009/12/epa-agence-americaine-de-lenvironnement-peut-sattaquer-au-co2.html
 tags: [nan]
 layout: post
 ---

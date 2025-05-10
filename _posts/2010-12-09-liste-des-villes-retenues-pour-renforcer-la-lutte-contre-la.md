@@ -1,7 +1,7 @@
 ---
 title: "Liste des villes retenues pour renforcer la lutte contre la pollution : les ZAPA"
 date: 2010-12-09 14:30:57
-permalink: /transportsdufutur/2010/12/liste-des-villes-retenues-pour-renforcer-la-lutte-contre-la-pollution-les-zapa.html
+permalink: /2010/12/liste-des-villes-retenues-pour-renforcer-la-lutte-contre-la-pollution-les-zapa.html
 tags: [ADEME, autorité des transports, cité, citoyen, collectivité, données réelles, péage urbain, qualité de l'air, Santé]
 layout: post
 ---

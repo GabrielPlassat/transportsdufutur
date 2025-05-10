@@ -1,7 +1,7 @@
 ---
 title: "Inventons notre futur, cahier spécial la Recherche"
 date: 2010-10-05 17:39:53
-permalink: /transportsdufutur/2010/10/inventons-notre-futur-cahier-special-la-recherche.html
+permalink: /2010/10/inventons-notre-futur-cahier-special-la-recherche.html
 tags: [nan]
 layout: post
 ---

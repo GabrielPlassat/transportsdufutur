@@ -1,7 +1,7 @@
 ---
 title: "Services de mobilité, changements de comportement, visions d'artistes ..."
 date: 2010-01-05 11:45:44
-permalink: /transportsdufutur/2010/01/des-dessins-du-seminaire.html
+permalink: /2010/01/des-dessins-du-seminaire.html
 tags: [ADEME, artiste, Séminaire, Service de mobilité]
 layout: post
 ---

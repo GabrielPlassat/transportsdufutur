@@ -1,7 +1,7 @@
 ---
 title: "MétaNote TdF 13 : Les innovations clés dans les Transports, les services de mobilités et les chaînes logistiques"
 date: 2012-03-19 11:16:31
-permalink: /transportsdufutur/2012/03/metanote-13-les-innovations-cles-dans-les-transports-les-services-de-mobilites-et-les-chaines-logist.html
+permalink: /2012/03/metanote-13-les-innovations-cles-dans-les-transports-les-services-de-mobilites-et-les-chaines-logist.html
 tags: [citoyen, confiance, connectivité, données réelles, économie fonctionnalité, holoptisme, intelligence collective, internet, marchandises, marketing individualisé, monnaie complémentaire, multimodes, pensée complexe, Service de mobilité]
 layout: post
 ---

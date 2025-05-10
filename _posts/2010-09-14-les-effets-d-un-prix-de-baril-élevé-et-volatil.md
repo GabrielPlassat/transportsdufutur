@@ -1,7 +1,7 @@
 ---
 title: "Les effets d'un prix de baril élevé et volatil"
 date: 2010-09-14 16:00:39
-permalink: /transportsdufutur/2010/09/les-effets-dun-prix-de-baril-eleve-et-volatil.html
+permalink: /2010/09/les-effets-dun-prix-de-baril-eleve-et-volatil.html
 tags: [Energie, pétrole]
 layout: post
 ---

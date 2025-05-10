@@ -1,7 +1,7 @@
 ---
 title: "Les terres rares seront elles, en plus, volatiles ?"
 date: 2010-02-03 16:33:48
-permalink: /transportsdufutur/2010/02/les-terres-rares-seront-elles-en-plus-volatiles.html
+permalink: /2010/02/les-terres-rares-seront-elles-en-plus-volatiles.html
 tags: [autarcie, Energie, robustesse, terre rare, Véhicule]
 layout: post
 ---

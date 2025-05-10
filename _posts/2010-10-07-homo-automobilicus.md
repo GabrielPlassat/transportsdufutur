@@ -1,7 +1,7 @@
 ---
 title: "Homo automobilicus"
 date: 2010-10-07 15:14:53
-permalink: /transportsdufutur/2010/10/homo-automobilicus.html
+permalink: /2010/10/homo-automobilicus.html
 tags: [nan]
 layout: post
 ---

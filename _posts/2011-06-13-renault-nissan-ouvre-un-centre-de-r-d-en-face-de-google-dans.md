@@ -1,7 +1,7 @@
 ---
 title: "Renault-Nissan ouvre un centre de R&D en face de Google dans la Silicon Valley !"
 date: 2011-06-13 21:50:11
-permalink: /transportsdufutur/2011/06/renault-nissan-ouvre-un-centre-de-rd-en-face-de-google-dans-la-silicon-valley.html
+permalink: /2011/06/renault-nissan-ouvre-un-centre-de-rd-en-face-de-google-dans-la-silicon-valley.html
 tags: [cybercar, Energie, google, internet, smartgrid, VE]
 layout: post
 ---

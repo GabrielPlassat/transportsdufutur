@@ -1,7 +1,7 @@
 ---
 title: "Le lien et l'attention"
 date: 2016-09-26 09:54:25
-permalink: /transportsdufutur/2016/09/le-lien-lattention.html
+permalink: /2016/09/le-lien-lattention.html
 tags: [Acteur historique des Mobilités et Logistiques, Amazon, application, assistant de mobilité, Assistant Personnel de Consommation, autorité des transports, citoyen, Comment agir pour changer les pratiques ?, confiance, connectivité, économie de l'attention, économie de l'expérience, innovation, marketing individualisé, Que sait-on de nos mobilités ?, Tesla]
 layout: post
 ---

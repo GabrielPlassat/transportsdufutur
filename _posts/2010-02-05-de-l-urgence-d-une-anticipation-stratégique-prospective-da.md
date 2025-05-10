@@ -1,7 +1,7 @@
 ---
 title: "De l’urgence d’une anticipation stratégique & prospective dans les secteurs d’activités arrivés à maturité…"
 date: 2010-02-05 15:10:12
-permalink: /transportsdufutur/2010/02/de-lurgence-dune-anticipation-strategique-prospective-dans-les-secteurs-dactivites-arrives-a-maturite.html
+permalink: /2010/02/de-lurgence-dune-anticipation-strategique-prospective-dans-les-secteurs-dactivites-arrives-a-maturite.html
 tags: [philanthropie, tendance, transition générationnelle]
 layout: post
 ---

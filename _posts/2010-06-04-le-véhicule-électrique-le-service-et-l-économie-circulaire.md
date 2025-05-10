@@ -1,7 +1,7 @@
 ---
 title: "Le véhicule électrique, le service et l’économie circulaire"
 date: 2010-06-04 11:37:45
-permalink: /transportsdufutur/2010/06/le-vehicule-electrique-le-service-et-leconomie-circulaire.html
+permalink: /2010/06/le-vehicule-electrique-le-service-et-leconomie-circulaire.html
 tags: [citoyen, economie circulaire, Efficacité énergétique, Energie, living lab, open source, Plateforme d'idées, Service de mobilité, VE]
 layout: post
 ---

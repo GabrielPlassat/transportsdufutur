@@ -1,7 +1,7 @@
 ---
 title: "opelmulti.AVI"
 date: 2017-11-07 14:48:11
-permalink: /transportsdufutur/2017/11/opelmulti-avi.html
+permalink: /2017/11/opelmulti-avi.html
 tags: [nan]
 layout: post
 ---

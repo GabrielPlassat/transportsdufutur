@@ -1,7 +1,7 @@
 ---
 title: "Thinking Cars TRAILER.flv"
 date: 2017-11-07 14:48:08
-permalink: /transportsdufutur/2017/11/thinking-cars-trailer-flv.html
+permalink: /2017/11/thinking-cars-trailer-flv.html
 tags: [nan]
 layout: post
 ---

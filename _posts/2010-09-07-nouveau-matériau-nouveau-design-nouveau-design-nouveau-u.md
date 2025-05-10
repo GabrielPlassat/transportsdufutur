@@ -1,7 +1,7 @@
 ---
 title: "Nouveau matériau, nouveau design - nouveau design, nouveau usage"
 date: 2010-09-07 15:15:23
-permalink: /transportsdufutur/2010/09/nouveau-materiau-nouveau-design-nouveau-design-nouveau-usage.html
+permalink: /2010/09/nouveau-materiau-nouveau-design-nouveau-design-nouveau-usage.html
 tags: [allemagne, léger, VE]
 layout: post
 ---

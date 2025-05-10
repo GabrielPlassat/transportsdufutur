@@ -1,7 +1,7 @@
 ---
 title: "Désertification médicale et maison de santé, des synergies avec les transports ?"
 date: 2010-10-14 11:35:31
-permalink: /transportsdufutur/2010/10/desertification-medicale-et-maison-de-sante-des-synergies-avec-les-transports.html
+permalink: /2010/10/desertification-medicale-et-maison-de-sante-des-synergies-avec-les-transports.html
 tags: [maison de la mobilité, Santé, Service de mobilité]
 layout: post
 ---

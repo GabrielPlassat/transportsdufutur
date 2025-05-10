@@ -1,7 +1,7 @@
 ---
 title: "Lancements de DriiveMe et Univélo"
 date: 2012-07-10 09:27:16
-permalink: /transportsdufutur/2012/07/lancements-de-driiveme-et-univelo.html
+permalink: /2012/07/lancements-de-driiveme-et-univelo.html
 tags: [2 roues, assistant de mobilité, citoyen, commuter, intelligence collective, Service de mobilité]
 layout: post
 ---

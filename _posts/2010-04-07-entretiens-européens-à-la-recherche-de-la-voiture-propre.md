@@ -1,7 +1,7 @@
 ---
 title: "Entretiens européens à la recherche de la voiture propre''"
 date: 2010-04-07 11:45:44
-permalink: /transportsdufutur/2010/04/entretiens-europeens-a-la-recherche-de-la-voiture-propre.html
+permalink: /2010/04/entretiens-europeens-a-la-recherche-de-la-voiture-propre.html
 tags: [Europe, véhicule propre]
 layout: post
 ---

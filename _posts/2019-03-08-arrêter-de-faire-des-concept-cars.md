@@ -1,7 +1,7 @@
 ---
 title: "Arrêter de faire des concept cars"
 date: 2019-03-08 11:52:32
-permalink: /transportsdufutur/2019/03/arreter-de-faire-des-concept-cars.html
+permalink: /2019/03/arreter-de-faire-des-concept-cars.html
 tags: [LSEV, Service de mobilité, VE]
 layout: post
 ---

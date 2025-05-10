@@ -1,7 +1,7 @@
 ---
 title: "Véhicules électriques : Le(s) choc(s) à venir"
 date: 2010-09-21 14:58:50
-permalink: /transportsdufutur/2010/09/vehicules-electriques-les-chocs-a-venir.html
+permalink: /2010/09/vehicules-electriques-les-chocs-a-venir.html
 tags: [art de la guerre, batterie, BYD, économie fonctionnalité, VE, Véhicule]
 layout: post
 ---

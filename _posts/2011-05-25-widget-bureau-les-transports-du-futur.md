@@ -1,7 +1,7 @@
 ---
 title: "Widget Bureau - Les Transports du Futur"
 date: 2011-05-25 09:57:20
-permalink: /transportsdufutur/2011/05/widget-bureau-les-transports-du-futur.html
+permalink: /2011/05/widget-bureau-les-transports-du-futur.html
 tags: [ADEME, internet]
 layout: post
 ---

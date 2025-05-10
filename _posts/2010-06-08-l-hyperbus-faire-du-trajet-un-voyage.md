@@ -1,7 +1,7 @@
 ---
 title: "L'Hyperbus, faire du trajet un voyage"
 date: 2010-06-08 17:19:57
-permalink: /transportsdufutur/2010/06/lhyperbus-faire-du-trajet-un-voyage.html
+permalink: /2010/06/lhyperbus-faire-du-trajet-un-voyage.html
 tags: [BHNS, connectivité, données réelles, qualité de l'air, temporalité]
 layout: post
 ---

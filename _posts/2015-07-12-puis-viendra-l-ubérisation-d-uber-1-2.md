@@ -1,7 +1,7 @@
 ---
 title: "Puis viendra l'ubérisation d'Uber (1/2)"
 date: 2015-07-12 09:29:46
-permalink: /transportsdufutur/2015/07/viendra-luberisation-duber.html
+permalink: /2015/07/viendra-luberisation-duber.html
 tags: [Acteur numérique des Mobilités et des Logistiques, art de la guerre, bitcoin, blockchain, citoyen, collectivité, Comment agir pour changer les pratiques ?, communs, confiance, Europe, holoptisme, innovation, intelligence collective, lien social, living lab, Non classé, open innovation, open source, Uber]
 layout: post
 ---

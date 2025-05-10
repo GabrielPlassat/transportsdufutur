@@ -1,7 +1,7 @@
 ---
 title: "Cleaning Europe's Air"
 date: 2010-03-24 11:57:50
-permalink: /transportsdufutur/2010/03/cleaning-europes-air.html
+permalink: /2010/03/cleaning-europes-air.html
 tags: [internet, péage urbain, qualité de l'air]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Les crawlers dévorent la carte"
 date: 2017-06-15 11:38:33
-permalink: /transportsdufutur/2017/06/crawlers-devorent-carte.html
+permalink: /2017/06/crawlers-devorent-carte.html
 tags: [art de la guerre, assistant de mobilité, citoyen, collectivité, données réelles, google, holoptisme, Infrastructure]
 layout: post
 ---

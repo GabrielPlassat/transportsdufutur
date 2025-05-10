@@ -1,7 +1,7 @@
 ---
 title: "Images virtuelles intégrant du réel"
 date: 2010-03-02 13:55:24
-permalink: /transportsdufutur/2010/03/images-virtuelles-integrant-du-reel.html
+permalink: /2010/03/images-virtuelles-integrant-du-reel.html
 tags: [assistant de mobilité, autorité des transports, citoyen, données réelles, internet, internet des objets, partage de données, TED]
 layout: post
 ---

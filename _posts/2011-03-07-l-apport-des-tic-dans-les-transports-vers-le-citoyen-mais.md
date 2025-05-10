@@ -1,7 +1,7 @@
 ---
 title: "L'apport des TIC dans les transports, vers le citoyen, mais également vers l'autorité"
 date: 2011-03-07 18:20:08
-permalink: /transportsdufutur/2011/03/lapport-des-tic-dans-les-transports-vers-le-citoyen-mais-egalement-vers-lautorite.html
+permalink: /2011/03/lapport-des-tic-dans-les-transports-vers-le-citoyen-mais-egalement-vers-lautorite.html
 tags: [assistant de mobilité, autorité des transports, citoyen, collectivité, connectivité, données réelles, Efficacité énergétique, Infrastructure, internet, management de la mobilité, partage de données, partage de la voirie, Pay as You Move]
 layout: post
 ---
