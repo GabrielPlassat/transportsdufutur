@@ -6,7 +6,7 @@ tags: [économie de l'expérience, économie fonctionnalité, Fabrique des mobil
 layout: post
 ---
 
-[Suite d'un <a href="http://transportsdufutur.ademe.fr/2016/04/en-finir-avec-la-technique-12.html" target="_blank"><strong>premier article</strong></a>]
+[Suite d'un <a href="https://gabrielplassat.github.io/transportsdufutur/2016/04/en-finir-avec-la-technique-12.html" target="_blank"><strong>premier article</strong></a>]
 
 <p style="text-align: justify;">Pourtant <a href="https://medium.com/switch-collective/et-si-le-salariat-avait-encore-un-bel-avenir-devant-lui-23b2dbdb0cee#.tohgeoa7q"><b>Laetitia Vitaud</b></a> nous dit que le salariat ne va pas disparaitre. L.Vitaud parle d’une nouvelle forme de salariat, permettant de maintenir ces compétences, d’être protégé au niveau de son logement et sa protection sociale pour pouvoir entreprendre. Rappelant que “<em>dans certains cas, le salariat est au contraire préférable pour une firme : plus besoin, par exemple, de recruter et de former chaque jour un travailleur journalier pour s’acquitter des différentes tâches dans l’entreprise. Un lien contractuel avec les travailleurs permet aussi d’éviter de négocier constamment leur rémunération</em>”. Le salariat n’a donc jamais été aussi important et souhaité. Mais quel salariat ? Le salariat est déjà en train de se transformer : salariat en entreprise & travail indépendant, auto-entrepreneurs & salariés, entrepreneur & chômage.</p>
 
@@ -20,7 +20,7 @@ layout: post
 
 </blockquote>
 
-<p style="text-align: justify;"><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/04/metiers.jpg" rel="attachment wp-att-4178"><img class="aligncenter wp-image-4178 size-full" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/04/metiers.jpg" alt="metiers" width="743" height="450" /></a></p>
+<p style="text-align: justify;"><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/04/metiers.jpg" rel="attachment wp-att-4178"><img class="aligncenter wp-image-4178 size-full" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/04/metiers.jpg" alt="metiers" width="743" height="450" /></a></p>
 
 <p style="text-align: justify;"><!--more--></p>
 

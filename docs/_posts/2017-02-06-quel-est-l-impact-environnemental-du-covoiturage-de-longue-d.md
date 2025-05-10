@@ -64,23 +64,23 @@ layout: post
 
 <p style="text-align: justify">Nous avons mené de nouvelles analyses sur la base de données de l’enquête de 2015. La répartition des moyens de transport qui auraient été utilisés en l’absence de covoiturage, que ce soit pour le conducteur ou le passager, est représentée dans le tableau suivant. Près de ¾ des conducteurs auraient effectué le trajet seul dans leur voiture s’ils n’avaient pas eu la possibilité de covoiturer. 22 % auraient pris le train (TGV, TER, Intercités, etc.), et 5 % n’auraient pas effectué le déplacement. Du côté des passagers, 67 % auraient utilisé le train, 17 % une voiture et 13 % n’auraient pas effectué le déplacement.</p>
 
-<p style="text-align: center"><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/02/1bis.png" rel="attachment wp-att-4789"><img class="size-full wp-image-4789 aligncenter" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/02/1bis.png" alt="1bis" width="390" height="173" /></a>   <em>Moyen de déplacement qui aurait été utilisé sans le covoiturage</em></p>
+<p style="text-align: center"><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/02/1bis.png" rel="attachment wp-att-4789"><img class="size-full wp-image-4789 aligncenter" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/02/1bis.png" alt="1bis" width="390" height="173" /></a>   <em>Moyen de déplacement qui aurait été utilisé sans le covoiturage</em></p>
 
 <p style="text-align: justify">Dans le détail, on voit que les modes de substitution évoluent en fonction de la taille de l’équipage, en particulier pour le passager. Lorsque le taux de remplissage est élevé, le passager aurait moins eu tendance à utiliser sa voiture et plus tendance à utiliser le TGV. En effet, les trajets sur lesquels le taux de remplissage est élevé correspondent plus souvent à des déplacements entre grandes métropoles, sur lesquels la demande est forte. Il existe donc plus souvent une offre de TGV disponible. Inversement sur les trajets pour lesquels le taux de remplissage est faible, le passager aurait davantage eu tendance à utiliser sa voiture. Ces trajets correspondent plus fréquemment à des déplacements impliquant des villes ou agglomérations plus petites.</p>
 
-<p style="text-align: justify"><em><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/02/2ter.png" rel="attachment wp-att-4788"><img class="size-large wp-image-4788 aligncenter" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/02/2ter-1024x230.png" alt="2ter" width="1024" height="230" /></a>Moyen de déplacement qui aurait été utilisé sans le covoiturage en fonction de la taille de l’équipage</em></p>
+<p style="text-align: justify"><em><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/02/2ter.png" rel="attachment wp-att-4788"><img class="size-large wp-image-4788 aligncenter" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/02/2ter-1024x230.png" alt="2ter" width="1024" height="230" /></a>Moyen de déplacement qui aurait été utilisé sans le covoiturage en fonction de la taille de l’équipage</em></p>
 
 <p style="text-align: justify"><strong>Impact sur le trafic routier</strong></p>
 
 <p style="text-align: justify">Entre 26 et 32 % des conducteurs auraient utilisé un autre moyen de transport que la voiture ou n’auraient pas effectué le trajet s’ils n’avaient pas pu covoiturer. En moyenne, un trajet effectué en covoiturage induit ainsi 99 km supplémentaires parcourus en voiture.</p>
 
-<p style="text-align: justify"><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/02/3bis.png" rel="attachment wp-att-4790"><img class="size-large wp-image-4790 aligncenter" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/02/3bis-1024x302.png" alt="3bis" width="1024" height="302" /></a><em>NB : le trajet moyen est de 347 km</em></p>
+<p style="text-align: justify"><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/02/3bis.png" rel="attachment wp-att-4790"><img class="size-large wp-image-4790 aligncenter" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/02/3bis-1024x302.png" alt="3bis" width="1024" height="302" /></a><em>NB : le trajet moyen est de 347 km</em></p>
 
 <p style="text-align: justify"><em>NB2 : VP = voiture particulière</em></p>
 
 <p style="text-align: justify">Entre 15 et 21 % des passagers auraient effectué le trajet avec leur voiture s’ils n’avaient pas pu covoiturer. En moyenne, cela induit une économie de 120 km pour l’ensemble des passagers d’un équipage.</p>
 
-<p style="text-align: justify"><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/02/4bis.png" rel="attachment wp-att-4792"><img class="size-large wp-image-4792 aligncenter" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/02/4bis-1024x301.png" alt="4bis" width="1024" height="301" /></a><em>NB : le trajet moyen est de 347 km</em></p>
+<p style="text-align: justify"><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/02/4bis.png" rel="attachment wp-att-4792"><img class="size-large wp-image-4792 aligncenter" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/02/4bis-1024x301.png" alt="4bis" width="1024" height="301" /></a><em>NB : le trajet moyen est de 347 km</em></p>
 
 <p style="text-align: justify"><em>NB2 : compte tenu des équipages avec 5 et 6 passagers, la catégorie « 4 passagers et plus » correspond à un moyenne de 4,44 passagers.</em></p>
 
@@ -88,7 +88,7 @@ layout: post
 
 <p style="text-align: justify">Les détours réalisés par les conducteurs pour récupérer ou déposer les passagers ont été négligés. En effet, l’enquête a montré qu’un tiers des conducteurs ne réalisaient aucun détour. Les deux tiers restants réalisent un détour qui reste inférieur à 5 km dans la majorité des cas.</p>
 
-<p style="text-align: justify"><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/02/5bis.png" rel="attachment wp-att-4793"><img class="size-full wp-image-4793 aligncenter" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/02/5bis.png" alt="5bis" width="935" height="226" /></a>On peut faire le même exercice sur d’autres modes de transport comme le train et l’avion (pour lesquels le covoiturage entraîne une diminution des distances parcourues à la fois par le conducteur et les passagers). Il en ressort que :</p>
+<p style="text-align: justify"><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/02/5bis.png" rel="attachment wp-att-4793"><img class="size-full wp-image-4793 aligncenter" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/02/5bis.png" alt="5bis" width="935" height="226" /></a>On peut faire le même exercice sur d’autres modes de transport comme le train et l’avion (pour lesquels le covoiturage entraîne une diminution des distances parcourues à la fois par le conducteur et les passagers). Il en ressort que :</p>
 
 
 
@@ -104,7 +104,7 @@ layout: post
 
 <p style="text-align: justify">Le gain lié au report depuis l’autocar est faible et il n’en a pas été tenu compte dans le calcul. En effet, il s’agit d’un mode assez peu émetteur et peu de covoitureurs auraient pris l’autocar s’ils n’avaient pas pu covoiturer. L’enquête ayant été menée avant la libéralisation du transport par autocar qui a eu lieu à l’été 2015, les résultats seraient peut-être différents aujourd’hui.</p>
 
-<p style="text-align: center"><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/02/6bis.png" rel="attachment wp-att-4794"><img class="size-full wp-image-4794 aligncenter" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/02/6bis.png" alt="6bis" width="553" height="162" /></a><em>Source pour les facteurs d’émission : Base Carbone ADEME</em></p>
+<p style="text-align: center"><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/02/6bis.png" rel="attachment wp-att-4794"><img class="size-full wp-image-4794 aligncenter" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/02/6bis.png" alt="6bis" width="553" height="162" /></a><em>Source pour les facteurs d’émission : Base Carbone ADEME</em></p>
 
 <p style="text-align: justify">Un trajet en covoiturage fait en moyenne 347 km. Il induit l’émission de 87,8 kg de CO<sub>2e</sub>. Si le covoiturage n’avait pas existé, les émissions des modes de transport qui auraient été choisis par le conducteur et les passagers auraient été au total supérieures de 11,9 kg de CO<sub>2e</sub> (ou 8,1 kg si on ne tient pas compte de l’avion en raison de l’incertitude liée à des effectifs faibles). Le gain lié à la pratique du covoiturage est donc de 14 % à l’échelle de l’équipage (ou 9 % si on ne tient pas compte de l’avion).</p>
 

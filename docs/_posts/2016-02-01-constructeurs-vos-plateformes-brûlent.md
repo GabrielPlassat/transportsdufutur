@@ -10,11 +10,11 @@ layout: post
 
 <p style="text-align: justify">« <em>Je pense que nous avons manqué de responsabilité et de leadership pour aligner et diriger cette compagnie dans ces temps perturbés. Nous avons manqué plusieurs choses. Nous n'avons délivré d'innovation assez vite, nous n'avons pas collaboré en interne. <strong>Nokia, notre plateforme est en train de brûler</strong>. </em>»</p>
 
-<p style="text-align: justify">A la différence de Nokia qui découvrait la puissance de l'économie des <u><a href="http://transportsdufutur.ademe.fr/2014/04/les-plateformes-vont-dominer.html">plateformes</a></u>, nous savons maintenant pourquoi les plateformes automobile vont brûler.</p>
+<p style="text-align: justify">A la différence de Nokia qui découvrait la puissance de l'économie des <u><a href="https://gabrielplassat.github.io/transportsdufutur/2014/04/les-plateformes-vont-dominer.html">plateformes</a></u>, nous savons maintenant pourquoi les plateformes automobile vont brûler.</p>
 
 <p style="text-align: justify">Le scénario du pire pour cette industrie passe par la robotisation et la dépossession. Le lien que le marketing d’une des industries les plus puissantes a mis 100 ans a forgé est basé sur la relation physique à l’objet. Le conducteur est éventuellement l’acheteur mais il a un attachement physique à l’objet.</p>
 
-<p style="text-align: justify"><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/02/4familles.png"><img class="aligncenter wp-image-4144 size-large" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/02/4familles-1024x700.png" alt="4familles" width="1024" height="700" /></a></p>
+<p style="text-align: justify"><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/02/4familles.png"><img class="aligncenter wp-image-4144 size-large" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/02/4familles-1024x700.png" alt="4familles" width="1024" height="700" /></a></p>
 
 <p style="text-align: justify">Ce scénario robotisation-dépossession n’a plus rien de fictif, sa probabilité est non nulle. Ses conséquences seraient énormes pour l’industrie automobile puisque les constructeurs deviennent alors des équipementiers. Et tout change, les bénéfices, le business model, les volumes produits, les clients…<!--more--></p>
 
@@ -30,7 +30,7 @@ layout: post
 
 <p style="text-align: justify">En 2018, Google annonce pour 2020 la mise à disposition d’un autopilot complet comprenant les logiciels à télécharger (là), une liste de capteurs et actionneurs homologués compatibles et une procédure d’homologation sur le sol américain. Gratuitement. Comme pour Android, Google n’a mis que quelques années pour dominer ce marché. Nokia l’a compris trop tard. Et tous les CEO de l’automobile l’ont déjà compris.</p>
 
-<p style="text-align: center"><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/02/CEO.jpg"><img class="aligncenter wp-image-4145 size-large" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/02/CEO-1024x768.jpg" alt="CEO" width="1024" height="768" /></a><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/02/CEO.pdf">Toutes les Sources : CEO</a></p>
+<p style="text-align: center"><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/02/CEO.jpg"><img class="aligncenter wp-image-4145 size-large" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/02/CEO-1024x768.jpg" alt="CEO" width="1024" height="768" /></a><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/02/CEO.pdf">Toutes les Sources : CEO</a></p>
 
 <p style="text-align: justify">Aux USA puis partout, une multitude startup émerge développant des navettes, de petits véhicules utilitaires, exploitant le potentiel de cet Operating System pour couvrir les nombreuses applications possibles des robots. Les premiers constructeurs d’automobiles à s’engouffrer sont chinois et indiens. Puis plusieurs américains.</p>
 

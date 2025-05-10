@@ -10,12 +10,12 @@ Tesla as a platform is clearly confirmed in this <a href="https://www.tesla.com/
 
 
 
-Reinforcing <a href="http://transportsdufutur.ademe.fr/2016/04/e-musk-as-a-platform.html" target="_blank"><strong>Elon himself as a platform</strong></a>.
+Reinforcing <a href="https://gabrielplassat.github.io/transportsdufutur/2016/04/e-musk-as-a-platform.html" target="_blank"><strong>Elon himself as a platform</strong></a>.
 
 
 
-<a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/07/MPI.jpg" rel="attachment wp-att-4237"><img class="aligncenter wp-image-4237 size-full" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/07/MPI.jpg" alt="MPI" width="646" height="843" /></a>
+<a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/07/MPI.jpg" rel="attachment wp-att-4237"><img class="aligncenter wp-image-4237 size-full" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/07/MPI.jpg" alt="MPI" width="646" height="843" /></a>
 
 
 
-<a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/07/MPII.jpg" rel="attachment wp-att-4238"><img class="wp-image-4238 size-full aligncenter" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/07/MPII.jpg" alt="MPII" width="572" height="841" /></a>
+<a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/07/MPII.jpg" rel="attachment wp-att-4238"><img class="wp-image-4238 size-full aligncenter" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/07/MPII.jpg" alt="MPII" width="572" height="841" /></a>

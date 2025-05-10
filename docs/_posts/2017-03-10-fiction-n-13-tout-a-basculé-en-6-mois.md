@@ -16,7 +16,7 @@ layout: post
 
 <p style="text-align: justify;">Il a fallu 6 mois pour que tout s’aligne, que les erreurs du début ne soient qu’un mauvais souvenir et que les facteurs de défaillance ne soient plus qu’une longue série de 0. Tout le monde regardait la Chine et personne ne s’attendait à la phase suivante. Nous pensions que la mobilité robotisée allait arriver progressivement, par étape, comme indiqué sur les powerpoints. Elle a émergé aux endroits les plus propices et s'est répandue jusqu'aux limites.</p>
 
-<p style="text-align: justify;"><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/03/beltroad.jpg" rel="attachment wp-att-4813"><img class="aligncenter wp-image-4813 size-full" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/03/beltroad.jpg" alt="beltroad" width="756" height="487" /></a></p>
+<p style="text-align: justify;"><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/03/beltroad.jpg" rel="attachment wp-att-4813"><img class="aligncenter wp-image-4813 size-full" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/03/beltroad.jpg" alt="beltroad" width="756" height="487" /></a></p>
 
 <p style="text-align: justify;"><!--more--></p>
 

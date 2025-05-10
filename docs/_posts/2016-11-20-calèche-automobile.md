@@ -12,9 +12,9 @@ layout: post
 
 <p style="text-align: justify;">C.Ghosn (<a href="http://www.lesechos.fr/industrie-services/automobile/0211474484453-toyota-et-nissan-tentent-de-se-doter-dun-esprit-start-up-2041333.php?utm_source=dlvr.it&utm_medium=twitter#xtor=RSS-68" target="_blank">Nov 2016</a>) « <em>N</em><em>ous allons vers un futur où l'utilisation des autos sera plus flexible, sociale et partagée … </em><em>Nous allons assembler des briques technologiques mais nous ne pouvons pas faire toutes les briques tout seul. Nous allons acheter des compétences »</em></p>
 
-<p style="text-align: justify;">Et si tout était à repenser ? (re-lire <a href="http://transportsdufutur.ademe.fr/2012/07/lavenir-de-lautomobile.html" target="_blank">la MétaNote 14 L'avenir de l'automobile</a>). L'automobile n'est pas née d'une évolution du cheval ou de la calèche. Elle est née de multitude de rupture et de création ex-nihilo.</p>
+<p style="text-align: justify;">Et si tout était à repenser ? (re-lire <a href="https://gabrielplassat.github.io/transportsdufutur/2012/07/lavenir-de-lautomobile.html" target="_blank">la MétaNote 14 L'avenir de l'automobile</a>). L'automobile n'est pas née d'une évolution du cheval ou de la calèche. Elle est née de multitude de rupture et de création ex-nihilo.</p>
 
-<p style="text-align: justify;"><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/11/cheval.jpg" rel="attachment wp-att-4758"><img class="aligncenter wp-image-4758 size-full" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/11/cheval.jpg" alt="cheval" width="545" height="507" /></a></p>
+<p style="text-align: justify;"><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/11/cheval.jpg" rel="attachment wp-att-4758"><img class="aligncenter wp-image-4758 size-full" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/11/cheval.jpg" alt="cheval" width="545" height="507" /></a></p>
 
 <p style="text-align: justify;"><!--more--></p>
 
@@ -30,7 +30,7 @@ layout: post
 
 <p style="text-align: justify;">Du point de vue des GAFA, c’est un « espace » à investir pour apporter des solutions aux citoyens dans leurs usages quotidiens et, ce faisant, produire et manipuler de nouvelles données en s’inscrivant dans les processus standards des GAFA que j’appelle l’enveloppement (lire l’article <a href="transportsdufutur.ademe.fr/2016/10/sinteresse-lautomobile-craindre.html" target="_blank">Google ne s’intéresse pas à l’automobile</a>).</p>
 
-<p style="text-align: justify;">Les deux paramètres clés sont : <strong>(dé)possession / robotisation</strong> (voir <a href="http://transportsdufutur.ademe.fr/2016/02/constructeurs-vos-plateformes-brulent.html" target="_blank">cet article sur ces 2 paramètres</a>).</p>
+<p style="text-align: justify;">Les deux paramètres clés sont : <strong>(dé)possession / robotisation</strong> (voir <a href="https://gabrielplassat.github.io/transportsdufutur/2016/02/constructeurs-vos-plateformes-brulent.html" target="_blank">cet article sur ces 2 paramètres</a>).</p>
 
 
 
@@ -60,7 +60,7 @@ layout: post
 
 	<li><strong>prix</strong> des batteries et des composants de l’autopilot,</li>
 
-	<li>développement de composants, logiciels, données <strong>ouverts</strong> notamment dans les domaines de l’autopilot (voir cette <a href="https://docs.google.com/document/d/10Jw5XIJ0Y_YxTTjf6zEc74hyEbljuUgVLkzkp6Ulx3U/edit" target="_blank">liste de ressources ouvertes</a> pour les voitures autonomes et l’exemple d’<a href="http://transportsdufutur.ademe.fr/2016/02/le-playground-dandy-rubin-est-passionnant.html" target="_blank">Andy Rubin</a>), de la gestion de véhicule à distance, de la production de données stratégiques sans avoir besoin de passer par le constructeur,</li>
+	<li>développement de composants, logiciels, données <strong>ouverts</strong> notamment dans les domaines de l’autopilot (voir cette <a href="https://docs.google.com/document/d/10Jw5XIJ0Y_YxTTjf6zEc74hyEbljuUgVLkzkp6Ulx3U/edit" target="_blank">liste de ressources ouvertes</a> pour les voitures autonomes et l’exemple d’<a href="https://gabrielplassat.github.io/transportsdufutur/2016/02/le-playground-dandy-rubin-est-passionnant.html" target="_blank">Andy Rubin</a>), de la gestion de véhicule à distance, de la production de données stratégiques sans avoir besoin de passer par le constructeur,</li>
 
 	<li><strong>ouverture de certains territoires</strong> pour faire rouler des véhicules totalement autonomes, pour ouvrir des droits aux expérimentations de nouvelles mobilités,</li>
 
@@ -78,7 +78,7 @@ layout: post
 
 <h2 style="text-align: justify;"><strong>Pour qui faire une voiture aujourd’hui ?</strong></h2>
 
-<p style="text-align: justify;">Quand plusieurs CEO affirment qu’ils feront des voitures autonomes à partir de 2021, la seule question importante est : « à qui les vendront-ils ? ». Quand Geely propose une nouvelle voiture pensée pour le partage avec Lynk&Co (lire <a href="http://transportsdufutur.ademe.fr/2016/10/lynk-co.html" target="_blank">l’article associé</a>), là aussi, à qui la vendra-t-il ? Trois grandes familles d’utilisateurs se dégagent rapidement :</p>
+<p style="text-align: justify;">Quand plusieurs CEO affirment qu’ils feront des voitures autonomes à partir de 2021, la seule question importante est : « à qui les vendront-ils ? ». Quand Geely propose une nouvelle voiture pensée pour le partage avec Lynk&Co (lire <a href="https://gabrielplassat.github.io/transportsdufutur/2016/10/lynk-co.html" target="_blank">l’article associé</a>), là aussi, à qui la vendra-t-il ? Trois grandes familles d’utilisateurs se dégagent rapidement :</p>
 
 
 
@@ -86,19 +86,19 @@ layout: post
 
 	<li>un acteur (Autolib, Uber, ALD,…) achète des véhicules pour les opérer, lance des appels d’offres mondiaux et gère ces assets comme les autres. L’utilisateur n’a pas acheté la voiture. De nouveaux arrivent comme <a href="http://spiri.io" target="_blank">Spiri.io</a> ou <a href="http://charge.auto/" target="_blank">Charge.auto</a>. Ces opérateurs devront trouver le meilleur compromis entre rapidité, masse critique et lenteur des échanges avec les villes.</li>
 
-	<li>un ménage (ou un groupe de particulier) achète une voiture selon le modèle traditionnel sauf qu’il pourra dès le départ considéré que cette ressource lui permet de gagner de l’argent et/ou de réduire l’investissement. De nouveaux modèles d’affaires arrivent soit des constructeurs, soit d’autres acteurs. Ils sont locaux et doivent trouver une certaine réplicabilité. Ce n’est pas parce que Daimler créé <a href="https://www.letscroove.de/" target="_blank">Croove</a>, que <a href="http://www.geekwire.com/2016/bmw-prepares-directly-challenge-uber-lyft-new-ride-hailing-service-seattle/" target="_blank">BMW</a> veut concurrencer Uber ou Lyft que les particuliers vont se ruer sur ces plateformes. La question de l’attention et du lien est ici centrale (lire notamment cet <a href="http://transportsdufutur.ademe.fr/2016/09/le-lien-lattention.html" target="_blank">article</a> sur l’importance de la qualité du lien avec la multitude). Des coopératives comme <a href="http://modo.coop/" target="_blank">Modo</a> ou d’autres formes pourraient être le bon compromis entre la réplicabilité et la masse critique.</li>
+	<li>un ménage (ou un groupe de particulier) achète une voiture selon le modèle traditionnel sauf qu’il pourra dès le départ considéré que cette ressource lui permet de gagner de l’argent et/ou de réduire l’investissement. De nouveaux modèles d’affaires arrivent soit des constructeurs, soit d’autres acteurs. Ils sont locaux et doivent trouver une certaine réplicabilité. Ce n’est pas parce que Daimler créé <a href="https://www.letscroove.de/" target="_blank">Croove</a>, que <a href="http://www.geekwire.com/2016/bmw-prepares-directly-challenge-uber-lyft-new-ride-hailing-service-seattle/" target="_blank">BMW</a> veut concurrencer Uber ou Lyft que les particuliers vont se ruer sur ces plateformes. La question de l’attention et du lien est ici centrale (lire notamment cet <a href="https://gabrielplassat.github.io/transportsdufutur/2016/09/le-lien-lattention.html" target="_blank">article</a> sur l’importance de la qualité du lien avec la multitude). Des coopératives comme <a href="http://modo.coop/" target="_blank">Modo</a> ou d’autres formes pourraient être le bon compromis entre la réplicabilité et la masse critique.</li>
 
 	<li>un ménage considère qu’il n’achetera pas de 2<sup>ème</sup> ou 1<sup>ère</sup> voiture et s’appuiera uniquement sur des solutions d’accès à des voitures « prêtes à utiliser ». Là aussi, attention & lien.</li>
 
 </ol>
 
-<p style="text-align: justify;">Les deux paramètres clés sont <strong>le lien avec la multitude (lire cet article sur <a href="http://transportsdufutur.ademe.fr/2016/03/le-biais-cognitif-et-lempathie.html#more-4156" target="_blank">le biais cognitif et l’empathie</a>)/ la réplicabilité.</strong></p>
+<p style="text-align: justify;">Les deux paramètres clés sont <strong>le lien avec la multitude (lire cet article sur <a href="https://gabrielplassat.github.io/transportsdufutur/2016/03/le-biais-cognitif-et-lempathie.html#more-4156" target="_blank">le biais cognitif et l’empathie</a>)/ la réplicabilité.</strong></p>
 
 
 
 <h2 style="text-align: justify;"><strong>Comment faire une voiture ?</strong></h2>
 
-<p style="text-align: justify;">Jusqu’au présent et depuis la Ford T, le fordisme puis le toyotisme structurent le « comment » : (lire cet article sur <a href="http://transportsdufutur.ademe.fr/2015/03/cest-quoi-linnovation-aujourdhui-dans-les-transports-.html" target="_blank">le Fordisme, le lean et après</a>) Investir dans des outils de productions dont un des principaux objectifs est la capacité à produire à grand volume des véhicules suffisamment proches tout en donnant l’illusion que chacun a le sien très différent. Cette solution fonctionne, baisse le prix des composants et permet également de fermer la porte à d’éventuels concurrents. Or cette voie est remise en question dans des environnements changeants, pour un écosystème en transition, pour des conditions locales très différentes, pour des technologiques numériques à la fois essentielles et évolutives. En même temps que les constructeurs poursuivent la standardisation et réduisent certaines diversités (voir cet article sur <a href="http://www.motortrend.com/news/toyota-new-global-architecture-mass-car-building/" target="_blank">la stratégie de plateforme de Toyota</a>) pour ouvrir vers des véhicules « personnalisables », d’autres solutions se développent progressivement et trouvent des relais :</p>
+<p style="text-align: justify;">Jusqu’au présent et depuis la Ford T, le fordisme puis le toyotisme structurent le « comment » : (lire cet article sur <a href="https://gabrielplassat.github.io/transportsdufutur/2015/03/cest-quoi-linnovation-aujourdhui-dans-les-transports-.html" target="_blank">le Fordisme, le lean et après</a>) Investir dans des outils de productions dont un des principaux objectifs est la capacité à produire à grand volume des véhicules suffisamment proches tout en donnant l’illusion que chacun a le sien très différent. Cette solution fonctionne, baisse le prix des composants et permet également de fermer la porte à d’éventuels concurrents. Or cette voie est remise en question dans des environnements changeants, pour un écosystème en transition, pour des conditions locales très différentes, pour des technologiques numériques à la fois essentielles et évolutives. En même temps que les constructeurs poursuivent la standardisation et réduisent certaines diversités (voir cet article sur <a href="http://www.motortrend.com/news/toyota-new-global-architecture-mass-car-building/" target="_blank">la stratégie de plateforme de Toyota</a>) pour ouvrir vers des véhicules « personnalisables », d’autres solutions se développent progressivement et trouvent des relais :</p>
 
 
 
@@ -106,7 +106,7 @@ layout: post
 
 	<li>en réduisant le nombre des composants, en supprimant le moteur thermique, en concevant le véhicule pour permettre un montage/démontage délocalisé comme le projet <a href="http://www.xyt.fr/" target="_blank">XYT</a> avec 600 pièces (vidéo du <a href="https://www.youtube.com/watch?v=PTKpWjDX6yE" target="_blank">Garage Libre 2016</a>), ou encore le prototype de <a href="http://spiri.io" target="_blank">spiri.io</a> avec 700 pièces (nota : il y a plusieurs milliers de pièces dans une automobile standard)</li>
 
-	<li>en intégrant les capacités de co-conception décentralisées par communautés locales ou mondiales comme celles de <a href="https://localmotors.com/labs/" target="_blank">Local Motors</a>, ou encore le projet <a href="http://transportsdufutur.ademe.fr/2015/06/bang.html?hlst=hyperloop" target="_blank">Hyperloop</a> qui met en œuvre des processus inédits de co-creation décentralisés,</li>
+	<li>en intégrant les capacités de co-conception décentralisées par communautés locales ou mondiales comme celles de <a href="https://localmotors.com/labs/" target="_blank">Local Motors</a>, ou encore le projet <a href="https://gabrielplassat.github.io/transportsdufutur/2015/06/bang.html?hlst=hyperloop" target="_blank">Hyperloop</a> qui met en œuvre des processus inédits de co-creation décentralisés,</li>
 
 	<li>en s’appuyant sur des composants, logiciels open source comme <a href="https://www.osvehicle.com/" target="_blank">Open Source Vehicle</a>, <a href="https://www.genivi.org/" target="_blank">GENEVI</a> et <a href="http://schema.org" target="_blank">schema.</a>org, (nota : voir notre Guide <a href="http://fr.slideshare.net/FabMob/open-source-mobility-fabmob-guide" target="_blank">Open source & Mobility</a>)</li>
 
@@ -116,13 +116,13 @@ layout: post
 
 <p style="text-align: justify;">Il devient possible de produire des véhicules avec de nombreuses décisions extrêmement retardées, avec une très grande versatilité et capacité d’adaptation locale, avec une durée de vie quasi-infinie et une maintenance gérable localement, avec une standardisation mondiale de certains composants (batteries notamment), logiciels et interfaces éventuellement en open source, avec une implication de nombreuses parties prenantes dans la conception de nombreuses fonctions. Ces véhicules seront conçus avec une culture radicalement nouvelle.</p>
 
-<p style="text-align: justify;">Les deux paramètres clés sont <strong>l’<a href="http://transportsdufutur.ademe.fr/2016/05/communs-source-guerre.html" target="_blank">ouverture</a> (ou sous-traitance vs sur-traitance) / la versatilité</strong></p>
+<p style="text-align: justify;">Les deux paramètres clés sont <strong>l’<a href="https://gabrielplassat.github.io/transportsdufutur/2016/05/communs-source-guerre.html" target="_blank">ouverture</a> (ou sous-traitance vs sur-traitance) / la versatilité</strong></p>
 
 
 
 <h2 style="text-align: justify;"><strong>Où produire des voitures (servicielles) ?</strong></h2>
 
-<p style="text-align: justify;">Mise à part pour les composants produits de façon centralisée comme les batteries avec la (ou les) <a href="http://transportsdufutur.ademe.fr/2016/04/e-musk-as-a-platform.html" target="_blank">Gigafactory</a>, les usines telles qu’elles existent aujourd’hui pourraient être concurrencées par des unités plus petites, mobiles, locales. Même les phases amont de conception et prototypage pourront également se réaliser de façon distribuées comme Local Motors ou <a href="http://transportsdufutur.ademe.fr/2015/06/bang-.html" target="_blank">Hyperloop</a> en ouvrant à des compétences extérieures à l’entreprise.</p>
+<p style="text-align: justify;">Mise à part pour les composants produits de façon centralisée comme les batteries avec la (ou les) <a href="https://gabrielplassat.github.io/transportsdufutur/2016/04/e-musk-as-a-platform.html" target="_blank">Gigafactory</a>, les usines telles qu’elles existent aujourd’hui pourraient être concurrencées par des unités plus petites, mobiles, locales. Même les phases amont de conception et prototypage pourront également se réaliser de façon distribuées comme Local Motors ou <a href="https://gabrielplassat.github.io/transportsdufutur/2015/06/bang-.html" target="_blank">Hyperloop</a> en ouvrant à des compétences extérieures à l’entreprise.</p>
 
 <p style="text-align: justify;">Pour les composants physiques, en commençant par les véhicules serviciels opérés par des professionnels, la personnalisation, la maintenance, les évolutions et mises à jour, seront ainsi gérables dans des micro-usines ou auprès de garagistes relais formés.</p>
 

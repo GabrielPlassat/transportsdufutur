@@ -18,7 +18,7 @@ Pourtant depuis des années, au coeur du numérique se forge une autre vision du
 
 
 
-<a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2015/07/blockchain.png"><img class="aligncenter wp-image-3458 " src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2015/07/blockchain.png" alt="blockchain" width="699" height="391" /></a>
+<a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2015/07/blockchain.png"><img class="aligncenter wp-image-3458 " src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2015/07/blockchain.png" alt="blockchain" width="699" height="391" /></a>
 
 
 
@@ -80,7 +80,7 @@ Telle pourrait être la prochaine génération de plateforme. La centralité de 
 
 
 
-<a href="http://transportsdufutur.ademe.fr/2014/11/start-up-du-covoiturage-de-lautopartage-de-lappairage-temps-reel-de-siege-libre.html" target="_blank" rel="noopener"><strong>La Zooz</strong></a>, startup Israelienne, ouvre une voie. La Zooz intègre le blockchain dans un service de covoiturage pour des déplacements quotidiens. Il n’y a plus de centralité. Les usagers échangent des “tockens” que les conducteurs, qui ont acceptés de se faire tracer, produisent en se déplaçant. La Zooz met en oeuvre une solution séduisante pour engager les early adopters. Au départ, toute solution de covoiturage n’est pas intéressante pour les early adopters puisqu’il n’y as pas de marché. La Zooz récompense donc avec des tockens les conducteurs et ce d’autant plus qu’ils se sont engagés parmis les premiers. Cette astuce permet, en théorie, d’accélerer l’engagement, permettant de créer une masse critique suffisante. Les tockens étant créés, ils sont utilisés à la fois comme monnaie entre les usagers et également peuvent être utilisés pour prendre des parts du capital de la Zooz. L’objectif est bien d’être totalement distribué : les contrats (intégrés au blockchain), la rencontre de l’offre et demande, le paiement et la structure elle-même. Il faut voir La Zooz comme une première tentative.
+<a href="https://gabrielplassat.github.io/transportsdufutur/2014/11/start-up-du-covoiturage-de-lautopartage-de-lappairage-temps-reel-de-siege-libre.html" target="_blank" rel="noopener"><strong>La Zooz</strong></a>, startup Israelienne, ouvre une voie. La Zooz intègre le blockchain dans un service de covoiturage pour des déplacements quotidiens. Il n’y a plus de centralité. Les usagers échangent des “tockens” que les conducteurs, qui ont acceptés de se faire tracer, produisent en se déplaçant. La Zooz met en oeuvre une solution séduisante pour engager les early adopters. Au départ, toute solution de covoiturage n’est pas intéressante pour les early adopters puisqu’il n’y as pas de marché. La Zooz récompense donc avec des tockens les conducteurs et ce d’autant plus qu’ils se sont engagés parmis les premiers. Cette astuce permet, en théorie, d’accélerer l’engagement, permettant de créer une masse critique suffisante. Les tockens étant créés, ils sont utilisés à la fois comme monnaie entre les usagers et également peuvent être utilisés pour prendre des parts du capital de la Zooz. L’objectif est bien d’être totalement distribué : les contrats (intégrés au blockchain), la rencontre de l’offre et demande, le paiement et la structure elle-même. Il faut voir La Zooz comme une première tentative.
 
 
 

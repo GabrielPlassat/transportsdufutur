@@ -12,11 +12,11 @@ layout: post
 
 <p style="text-align: justify;">Les GAFA, toutes issues d’une startup, dominent aujourd’hui des secteurs et se propagent. <em>Nous pouvons tout attendre des startups</em>. Pour autant les firmes multinationales historiques composent encore aujourd’hui la principale part des écosystèmes industriels. <em>Nous ne pouvons pas tout attendre des startups</em>.</p>
 
-<p style="text-align: justify;">Chaque entreprise est spécifique dans ses produits, ses clients, ses réseaux, son écosystème, sa culture, sa raison d’être. La menace de structure plus agile et rapide n’est pas nouvelle. Elle est maintenant permanente, multiforme, mondiale, démultipliée en amont et en aval. Dans un monde <a href="http://transportsdufutur.ademe.fr/2013/07/light-foot-print-strategy.html" target="_blank" rel="noopener"><strong>V.I.C.A.</strong></a> , « <em>chaque entreprise et même chaque organisation sera obligée de se transformer dans les prochaines années</em> », Tim O’Reilly – 2015</p>
+<p style="text-align: justify;">Chaque entreprise est spécifique dans ses produits, ses clients, ses réseaux, son écosystème, sa culture, sa raison d’être. La menace de structure plus agile et rapide n’est pas nouvelle. Elle est maintenant permanente, multiforme, mondiale, démultipliée en amont et en aval. Dans un monde <a href="https://gabrielplassat.github.io/transportsdufutur/2013/07/light-foot-print-strategy.html" target="_blank" rel="noopener"><strong>V.I.C.A.</strong></a> , « <em>chaque entreprise et même chaque organisation sera obligée de se transformer dans les prochaines années</em> », Tim O’Reilly – 2015</p>
 
 <p style="text-align: justify;"><strong>Face à ces plateformes à forte culture numérique, le soutien public à l’innovation doit se ré-inventer.</strong></p>
 
-<p style="text-align: justify;"><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/01/marianne.jpg"><img class="aligncenter wp-image-4134 size-full" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/01/marianne.jpg" alt="marianne" width="960" height="320" /></a></p>
+<p style="text-align: justify;"><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/01/marianne.jpg"><img class="aligncenter wp-image-4134 size-full" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/01/marianne.jpg" alt="marianne" width="960" height="320" /></a></p>
 
 <p style="text-align: justify;"><!--more--></p>
 
@@ -48,7 +48,7 @@ layout: post
 
 </ul>
 
-<p style="text-align: justify;">Les Méta-plateformes serviront de bases pour faire évoluer le droit dans un secteur industriel, développer de nouvelles théories en matière de management de l’innovation mais aussi pour mettre en œuvre et valider des développements théoriques au plus près des usagers. La complexité des problèmes actuels (au sens d’<a href="http://transportsdufutur.ademe.fr/2011/04/metanote-tdf-11-transports-mobilites-introduction-a-la-pensee-complexe.html" target="_blank" rel="noopener"><strong>Edgar Morin</strong></a>) impose désormais de passer par ces méta-plateformes, seules capables de reproduire les retro-liens tout en offrant des capacités d’itération, d’apprentissage et de capitalisation. Les méta-plateformes seront outillées d’un ensemble de plateformes techniques par communauté d’intérêt, par sujet.</p>
+<p style="text-align: justify;">Les Méta-plateformes serviront de bases pour faire évoluer le droit dans un secteur industriel, développer de nouvelles théories en matière de management de l’innovation mais aussi pour mettre en œuvre et valider des développements théoriques au plus près des usagers. La complexité des problèmes actuels (au sens d’<a href="https://gabrielplassat.github.io/transportsdufutur/2011/04/metanote-tdf-11-transports-mobilites-introduction-a-la-pensee-complexe.html" target="_blank" rel="noopener"><strong>Edgar Morin</strong></a>) impose désormais de passer par ces méta-plateformes, seules capables de reproduire les retro-liens tout en offrant des capacités d’itération, d’apprentissage et de capitalisation. Les méta-plateformes seront outillées d’un ensemble de plateformes techniques par communauté d’intérêt, par sujet.</p>
 
 <p style="text-align: justify;"><strong>Synchroniser et mettre en situation de création</strong></p>
 
@@ -64,21 +64,21 @@ layout: post
 
  	<li>de rassembler des acteurs hétérogènes, voire concurrents pour les fédérer autour d’un objectif neutre, important pour tous, mais non compétitif dit "non rival",</li>
 
- 	<li>à chacun de voir progresser l’action collective et à tous de voir le rôle et l’action de chacun dans l’avancement du tout. Cette caractéristique majeure se nomme <a href="http://transportsdufutur.ademe.fr/?s=holoptisme" target="_blank" rel="noopener"><strong>holoptisme</strong></a>.</li>
+ 	<li>à chacun de voir progresser l’action collective et à tous de voir le rôle et l’action de chacun dans l’avancement du tout. Cette caractéristique majeure se nomme <a href="https://gabrielplassat.github.io/transportsdufutur/?s=holoptisme" target="_blank" rel="noopener"><strong>holoptisme</strong></a>.</li>
 
  	<li>de réduire au minimum la structure centrale par la distribution de processus de décision,</li>
 
  	<li>d’abaisser les barrières à l’engagement en offrant des ressources, des connaissances de bases, des règles et des objectifs, et en invitant à venir construire « dessus »,</li>
 
- 	<li>ainsi d’outiller les communautés, de les fidéliser. La plateforme joue alors le rôle « <a href="http://transportsdufutur.ademe.fr/2014/12/ode-au-prototype.html" target="_blank" rel="noopener"><strong>d’objet lien</strong></a>» créatif,</li>
+ 	<li>ainsi d’outiller les communautés, de les fidéliser. La plateforme joue alors le rôle « <a href="https://gabrielplassat.github.io/transportsdufutur/2014/12/ode-au-prototype.html" target="_blank" rel="noopener"><strong>d’objet lien</strong></a>» créatif,</li>
 
- 	<li>de créer des <a href="http://transportsdufutur.ademe.fr/2011/03/et-si-certains-territoires-reussissaient-a-attirer-linnovation-a-devenir-le-parfait-laboratoire-viva.html" target="_blank" rel="noopener"><strong>terrains d’expérimentation</strong></a> les plus complets possible (avec le plus de liens et retroliens) permettant aux organisations de tester avec peu de risque en reproduisant au mieux la complexité.</li>
+ 	<li>de créer des <a href="https://gabrielplassat.github.io/transportsdufutur/2011/03/et-si-certains-territoires-reussissaient-a-attirer-linnovation-a-devenir-le-parfait-laboratoire-viva.html" target="_blank" rel="noopener"><strong>terrains d’expérimentation</strong></a> les plus complets possible (avec le plus de liens et retroliens) permettant aux organisations de tester avec peu de risque en reproduisant au mieux la complexité.</li>
 
 </ul>
 
 <p style="text-align: justify;">La Méta-plateforme intègre à la fois une coordination, un objectif, une vision et des processus non coordonnés apportant inconnu et sérendipité. Elle constitue un intermédiaire entre la filière organisée et le marché totalement ouvert.</p>
 
-<p style="text-align: center;"><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/01/firms-platforms-markets-1.png"><img class="aligncenter wp-image-4132 size-full" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/01/firms-platforms-markets-1.png" alt="firms-platforms-markets-1" width="710" height="458" /></a>Source <a href="http://meedabyte.com/2015/11/06/platform-design-toolkit-2-0-open-for-comments/"><strong>Platform Design Toolkit 2.0</strong></a></p>
+<p style="text-align: center;"><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/01/firms-platforms-markets-1.png"><img class="aligncenter wp-image-4132 size-full" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/01/firms-platforms-markets-1.png" alt="firms-platforms-markets-1" width="710" height="458" /></a>Source <a href="http://meedabyte.com/2015/11/06/platform-design-toolkit-2-0-open-for-comments/"><strong>Platform Design Toolkit 2.0</strong></a></p>
 
 <p style="text-align: justify;">Une Méta-plateforme sera constituée d’une multitude de plateforme technique travaillant à la création de données, de logiciels, de matériels développés en tant que communs. Considérés comme indispensables mais non rivaux, chaque commun s’appuie sur une communauté d’acteurs et des règles de production et gestion du commun. Mutualisés à l’échelle d’un écosystème, ils constitueront progressivement les actifs matériels et immatériels de grandes valeurs de la Méta-plateforme.</p>
 

@@ -6,7 +6,7 @@ tags: [Amazon, facebook, GAFA, google, temps]
 layout: post
 ---
 
-Dans la <a href="http://transportsdufutur.ademe.fr/2018/01/metanote-n25-le-temps-12.html" target="_blank" rel="noopener"><strong>première partie</strong></a>, nous avons suivi l'évolution des techniques mais aussi celle des maîtres du temps. Ils imposent aux sociétés les rythmes, les pauses, les moments de travail et de repos. Depuis plusieurs millénaires, quatre temps se sont succédé : celui des Dieux, des corps, des machines et maintenant celui des codes.
+Dans la <a href="https://gabrielplassat.github.io/transportsdufutur/2018/01/metanote-n25-le-temps-12.html" target="_blank" rel="noopener"><strong>première partie</strong></a>, nous avons suivi l'évolution des techniques mais aussi celle des maîtres du temps. Ils imposent aux sociétés les rythmes, les pauses, les moments de travail et de repos. Depuis plusieurs millénaires, quatre temps se sont succédé : celui des Dieux, des corps, des machines et maintenant celui des codes.
 
 
 
@@ -14,7 +14,7 @@ Peu avant 1930, des ingénieurs des télécommunications mettent au point un osc
 
 <h2>Le Temps des Codes</h2>
 
-L'ordinateur individuel est produit, au départ, pour poursuivre l'instrumentation et la robotisation de l'homme dans les organisations pyramidales et les procédés industriels. Il distribue les activités à chacun, assigne les tâches et donne des guides à suivre, l'homme devient une machine cadencée par les logiciels. Ceux qui rédigent les codes sont les nouveaux Dieux, religions et marchands. Par une série d'évènements (voir cet article <a href="http://transportsdufutur.ademe.fr/2016/07/sources-lutopie-numerique.html" target="_blank" rel="noopener"><strong>Aux sources de l'utopie numérique</strong></a>), de nouveaux usages de l'ordinateur ont émergé, quasiment opposés à ceux prévus initialement portés notamment par les hackers.<!--more-->
+L'ordinateur individuel est produit, au départ, pour poursuivre l'instrumentation et la robotisation de l'homme dans les organisations pyramidales et les procédés industriels. Il distribue les activités à chacun, assigne les tâches et donne des guides à suivre, l'homme devient une machine cadencée par les logiciels. Ceux qui rédigent les codes sont les nouveaux Dieux, religions et marchands. Par une série d'évènements (voir cet article <a href="https://gabrielplassat.github.io/transportsdufutur/2016/07/sources-lutopie-numerique.html" target="_blank" rel="noopener"><strong>Aux sources de l'utopie numérique</strong></a>), de nouveaux usages de l'ordinateur ont émergé, quasiment opposés à ceux prévus initialement portés notamment par les hackers.<!--more-->
 
 <blockquote>« <em>Les hackers ne sont pas de simples techniciens, mais une toute nouvelle élite nomade, dotée de ses propres dispositifs, langage et tempérament […] explorant l’un des avant-postes de la technologie : un territoire hors-la-loi, où la règle n’est pas définie par décret ou ancrée dans la routine qu’établie par les exigences du possible à l’état brut</em> », Stewart Brand 1972.</blockquote>
 

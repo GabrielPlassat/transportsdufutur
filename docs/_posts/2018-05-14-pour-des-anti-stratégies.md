@@ -10,7 +10,7 @@ Apple n’est pas un fabricant de smartphone, ni d’ordinateur mais une marque 
 
 
 
-<strong>Est-il possible d’établir des stratégies sur des sujets en mutation qui impliquent un large écosystème d’acteurs dont certains ne sont même pas classifiables ?</strong> Quand de nouveaux acteurs agissent au niveau mondial avec des modèles d’affaires différents, que le périmètre du sujet n’a pas de limite exprimable, qu’aucun acteur en France et en Europe ne maîtrise une plateforme numérique mondiale, toute stratégie risque de réduire les possibles, de figer la pensée, de limiter les changements de point de vue, de limiter notre <strong><a href="http://transportsdufutur.ademe.fr/2018/04/le-potentiel-de-situation.html">potentiel de situation</a></strong>. Ce post fait suite à un précédent sur <strong><a href="http://transportsdufutur.ademe.fr/2016/01/metanote-n23-lavenir-du-soutien-public-a-linnovation.html">le futur du soutien public à l’innovation</a></strong>.
+<strong>Est-il possible d’établir des stratégies sur des sujets en mutation qui impliquent un large écosystème d’acteurs dont certains ne sont même pas classifiables ?</strong> Quand de nouveaux acteurs agissent au niveau mondial avec des modèles d’affaires différents, que le périmètre du sujet n’a pas de limite exprimable, qu’aucun acteur en France et en Europe ne maîtrise une plateforme numérique mondiale, toute stratégie risque de réduire les possibles, de figer la pensée, de limiter les changements de point de vue, de limiter notre <strong><a href="https://gabrielplassat.github.io/transportsdufutur/2018/04/le-potentiel-de-situation.html">potentiel de situation</a></strong>. Ce post fait suite à un précédent sur <strong><a href="https://gabrielplassat.github.io/transportsdufutur/2016/01/metanote-n23-lavenir-du-soutien-public-a-linnovation.html">le futur du soutien public à l’innovation</a></strong>.
 
 
 
@@ -50,7 +50,7 @@ Si une équipe cherche à atteindre les objectifs tout en utilisant les ressourc
 
 
 
-<strong>La stratégie émerge alors des nouveaux acteurs, des liens entre les acteurs, des livrables et des verrous identifiés</strong>. Dans <strong><a href="http://transportsdufutur.ademe.fr/2018/01/metanote-n25-le-temps-12.html">la course au temps</a></strong>, les pouvoirs publics ne peuvent se limiter à reproduire des méthodes élaborées pour des <strong><a href="https://www.alternatives-economiques.fr/vers-une-nouvelle-grande-transformation/00077215">filières industrielles de type fordiste</a></strong>. Quand les verrous ne sont ni  identifiés, ni uniquement techniques, tout doit être mis en œuvre pour explorer des futurs tout en maximisant le « bien commun » : objectifs de développement durables et production de ressources ouvertes et mutualisées.
+<strong>La stratégie émerge alors des nouveaux acteurs, des liens entre les acteurs, des livrables et des verrous identifiés</strong>. Dans <strong><a href="https://gabrielplassat.github.io/transportsdufutur/2018/01/metanote-n25-le-temps-12.html">la course au temps</a></strong>, les pouvoirs publics ne peuvent se limiter à reproduire des méthodes élaborées pour des <strong><a href="https://www.alternatives-economiques.fr/vers-une-nouvelle-grande-transformation/00077215">filières industrielles de type fordiste</a></strong>. Quand les verrous ne sont ni  identifiés, ni uniquement techniques, tout doit être mis en œuvre pour explorer des futurs tout en maximisant le « bien commun » : objectifs de développement durables et production de ressources ouvertes et mutualisées.
 
 
 

@@ -14,7 +14,7 @@ Mais l’O.S. est-il un composant automobile comme un autre ?
 
 
 
-<a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/05/operating-systems.jpg"><img class="aligncenter wp-image-4846 size-full" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/05/operating-systems.jpg" alt="" width="560" height="240" /></a>
+<a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/05/operating-systems.jpg"><img class="aligncenter wp-image-4846 size-full" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/05/operating-systems.jpg" alt="" width="560" height="240" /></a>
 
 
 
@@ -32,7 +32,7 @@ Le numérique change radicalement les effets d’échelle. Plus l’OS sera inst
 
  	<li><strong>Les effets de réseau</strong>: plus il y a d’OS installé dans un grand nombre de véhicule, plus il sera performant car ils pourront « apprendre » en réseau et de façon cumulée. Il sera également possible de comparer le retour des utilisateurs pour plusieurs versions en parallèle. L’OS automobile devra également assurer, sans discontinuité, des connexions avec les plateformes numériques existantes utilisées par les passagers en mobilité.</li>
 
- 	<li><strong>L’apprentissage</strong> : <a href="http://transportsdufutur.ademe.fr/2017/02/lhistoire-repete-parfois.html" target="_blank" rel="noopener noreferrer"><strong>Le machine learning complète de plus en plus les OS</strong></a>. Dans l’automobile, cet avantage est absolument central. Plus l’OS sera installé dans un grand nombre de véhicule, plus les logiciels d’apprentissage seront nourris en données fraîches et variées issues d’une multitude de contexte. Et plus les algorithmes pourront s’enrichir, plus l’OS sera encore plus performant et attractif.</li>
+ 	<li><strong>L’apprentissage</strong> : <a href="https://gabrielplassat.github.io/transportsdufutur/2017/02/lhistoire-repete-parfois.html" target="_blank" rel="noopener noreferrer"><strong>Le machine learning complète de plus en plus les OS</strong></a>. Dans l’automobile, cet avantage est absolument central. Plus l’OS sera installé dans un grand nombre de véhicule, plus les logiciels d’apprentissage seront nourris en données fraîches et variées issues d’une multitude de contexte. Et plus les algorithmes pourront s’enrichir, plus l’OS sera encore plus performant et attractif.</li>
 
  	<li><strong>La viralité et la connexion aux usagers</strong>: plus l’OS sera performant, plus il sera capable de délivrer des services adaptés à une multitude de contexte d’usage et de territoires avec des interfaces adaptées et séduisantes, plus il sera plébiscité par les usagers. Ces derniers se chargeront d’une grande partie de la communication pour renforcer sa position et amener les derniers industriels à le choisir, nouant une relation singulière avec l’industriel en charge de l’OS.</li>
 

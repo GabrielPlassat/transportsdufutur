@@ -42,4 +42,4 @@ layout: post
 
 <p style="text-align: justify;">Il faudrait également que les pouvoirs publics aident : les transports en communs sont largement subventionnés alors que le covoiturage ne l’est pas. Une personne acceptant de transporter des passagers est pourtant une sorte de mini société de TC ! C’est le sens de nos discussions avec le SMTC (Syndicat Mixte des TC de l’agglomération grenobloise) qui collabore et cofinance cette expérimentation. En tout cas l’opération n’est pas trop coûteuse et s’est révélé plutôt efficace. Elle sera donc reconduite l’année prochaine.</p>
 
-<p style="text-align: justify;"><strong>Pour en savoir plus :</strong> <strong><a href="http://transportsdufutur.ademe.fr/2015/09/connaissances-dautopartage-covoiturage.html?hlst=chassignet" target="_blank">les études de l'ADEME sur le covoiturage</a></strong></p>
+<p style="text-align: justify;"><strong>Pour en savoir plus :</strong> <strong><a href="https://gabrielplassat.github.io/transportsdufutur/2015/09/connaissances-dautopartage-covoiturage.html?hlst=chassignet" target="_blank">les études de l'ADEME sur le covoiturage</a></strong></p>

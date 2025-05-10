@@ -16,11 +16,11 @@ layout: post
 
 	<li style="text-align: justify;">Le véhicule électrique devient progressivement une évidence par l’abaissement du prix des batteries et leurs performances. Plus l’électrification progresse plus le véhicule débarrassé de son moteur et transmission peut devenir une commodité (et un haut de gamme à l’autre extrémité des possibles). Plus il devient une commodité, plus cela ouvre des possibilités pour le véhicule serviciel. Plus le véhicule électrique devient une commodité, plus les liens entre le fabricant de l’objet physique et la multitude se réduisent et s’appauvrissent.</li>
 
-	<li style="text-align: justify;">La demande de mobilité (pas de véhicule) est un sujet totalement différent que la vente de voiture. La vente d’un objet au kg (1 fois tous les 8 ans pour des catégories CSP+ avec 1 million par an en France pour les particuliers) n’a aucun lien avec la vente d’une expérience de trajet plusieurs fois par jour pour tous (175 millions de déplacement par jour en France). Les IA/PF sont particulièrement bien placées pour connaître (via les traces des smartphone), apprendre et prévoir les pratiques individuelles. Et donc <a href="http://transportsdufutur.ademe.fr/2017/01/les-gafa-territoires.html#more-4772" target="_blank"><strong>conseiller les collectivités</strong></a> tout en poursuivant le développement de la relation avec la multitude. Parmis les acteurs en position, le classement suivant décrit la qualité du lien avec la multitude concernant la mobilité quotidienne : IA/PF > Collectivité - Opérateurs TC >> constructeurs.</li>
+	<li style="text-align: justify;">La demande de mobilité (pas de véhicule) est un sujet totalement différent que la vente de voiture. La vente d’un objet au kg (1 fois tous les 8 ans pour des catégories CSP+ avec 1 million par an en France pour les particuliers) n’a aucun lien avec la vente d’une expérience de trajet plusieurs fois par jour pour tous (175 millions de déplacement par jour en France). Les IA/PF sont particulièrement bien placées pour connaître (via les traces des smartphone), apprendre et prévoir les pratiques individuelles. Et donc <a href="https://gabrielplassat.github.io/transportsdufutur/2017/01/les-gafa-territoires.html#more-4772" target="_blank"><strong>conseiller les collectivités</strong></a> tout en poursuivant le développement de la relation avec la multitude. Parmis les acteurs en position, le classement suivant décrit la qualité du lien avec la multitude concernant la mobilité quotidienne : IA/PF > Collectivité - Opérateurs TC >> constructeurs.</li>
 
 </ol>
 
-<a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/02/cars-as-phone.jpg" rel="attachment wp-att-4807"><img class="aligncenter wp-image-4807 size-full" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/02/cars-as-phone.jpg" alt="cars-as-phone" width="758" height="445" /></a>
+<a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/02/cars-as-phone.jpg" rel="attachment wp-att-4807"><img class="aligncenter wp-image-4807 size-full" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/02/cars-as-phone.jpg" alt="cars-as-phone" width="758" height="445" /></a>
 
 
 
@@ -98,4 +98,4 @@ layout: post
 
 
 
-<a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/02/moatcars.jpg" rel="attachment wp-att-4808"><img class="aligncenter wp-image-4808 size-full" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2017/02/moatcars.jpg" alt="moatcars" width="761" height="425" /></a>
+<a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/02/moatcars.jpg" rel="attachment wp-att-4808"><img class="aligncenter wp-image-4808 size-full" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/02/moatcars.jpg" alt="moatcars" width="761" height="425" /></a>

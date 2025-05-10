@@ -6,11 +6,11 @@ tags: [Acteur numérique des Mobilités et des Logistiques, autorité des transp
 layout: post
 ---
 
-<p style="text-align: justify">[Suite de la <a href="http://transportsdufutur.ademe.fr/2015/07/viendra-luberisation-duber.html" target="_blank"><strong>première partie</strong></a> de cet article co-rédigé avec <a href="https://about.me/mtirel" target="_blank"><strong>Marc Tirel</strong></a>, auteur de <strong><a href="http://voyagesenemergences.strikingly.com/" target="_blank">Voyages en Emergence]</a></strong></p>
+<p style="text-align: justify">[Suite de la <a href="https://gabrielplassat.github.io/transportsdufutur/2015/07/viendra-luberisation-duber.html" target="_blank"><strong>première partie</strong></a> de cet article co-rédigé avec <a href="https://about.me/mtirel" target="_blank"><strong>Marc Tirel</strong></a>, auteur de <strong><a href="http://voyagesenemergences.strikingly.com/" target="_blank">Voyages en Emergence]</a></strong></p>
 
 <p style="text-align: justify">Voici donc trois futurs possibles, trois futurs non exclusifs et compatibles entre eux ... mais la réalité de demain sera surement faite d’autres possibles ! Nous sommes en 2025, dans 10 ans seulement.</p>
 
-<p style="text-align: justify"><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2015/07/lechat.png"><img class="aligncenter wp-image-3479 size-full" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2015/07/lechat.png" alt="lechat" width="640" height="539" /></a><b>1 - Incredible China !</b></p>
+<p style="text-align: justify"><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2015/07/lechat.png"><img class="aligncenter wp-image-3479 size-full" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2015/07/lechat.png" alt="lechat" width="640" height="539" /></a><b>1 - Incredible China !</b></p>
 
 <p style="text-align: justify">La double annonce faite par les autorités chinoises en ce mois caniculaire et surpollué d’aout 2025 a de quoi glacer le sang d’un bon nombre d’acteurs du marché des transports.</p>
 

@@ -36,7 +36,7 @@ layout: post
 
 <p style="text-align: justify">Rubin a une théorie : « l<em>'humanité est sur le point d'entrer dans une nouvelle ère de l'informatique</em> ». Tout comme MS-DOS a fait place à Macintosh et Windows, ce qui a donné lieu au web, ce qui a donné lieu aux smartphones. Il pense que les forces sont en place pour commencer une transition vers la prochaine grande plate-forme : l'intelligence artificielle.</p>
 
-<p style="text-align: justify"><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/02/playground_andy_rubin1.jpg"><img class="aligncenter wp-image-4152 size-large" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2016/02/playground_andy_rubin1-896x1024.jpg" alt="Andy Rubin" width="896" height="1024" /></a><!--more--></p>
+<p style="text-align: justify"><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/02/playground_andy_rubin1.jpg"><img class="aligncenter wp-image-4152 size-large" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2016/02/playground_andy_rubin1-896x1024.jpg" alt="Andy Rubin" width="896" height="1024" /></a><!--more--></p>
 
 <p style="text-align: justify">Les GAFAM investissent des millions pour l’IA. Bientôt, d’après Rubin, il sera disponible en tant que service cloud, pour alimenter des milliers de gadgets et machines. Comme tous les smartphones contiennent Android , il pourrait bientôt être presque impossible d'acheter un appareil sans une sorte d'IA à l'intérieur. Marc Andreessen, un ami proche de Rubin : “<em>Andy sees what the world can be like in five, 10, 15 years, and then he sees the world today and thinks, ‘Holy Lord, we aren’t there yet?</em>’”</p>
 

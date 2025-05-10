@@ -6,7 +6,7 @@ tags: [nan]
 layout: post
 ---
 
-[suite de<strong> <a href="http://transportsdufutur.ademe.fr/2018/07/lhistoire-de-ma-transformation-numerique-1-3.html" target="_blank" rel="noopener">l'article 1/3</a></strong>]
+[suite de<strong> <a href="https://gabrielplassat.github.io/transportsdufutur/2018/07/lhistoire-de-ma-transformation-numerique-1-3.html" target="_blank" rel="noopener">l'article 1/3</a></strong>]
 
 <h1>Donner à l’écosystème sans rien attendre</h1>
 
@@ -14,7 +14,7 @@ L’influence des Transports du Futur a été estimée, par une étude réalisé
 
 
 
-<a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2018/07/ecairn.png"><img class=" wp-image-5335 alignright" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2018/07/ecairn-300x292.png" alt="" width="351" height="342" /></a>Le Blog est le support principal pour proposer des contenus, c'est-à-dire des idées <strong>nouvelles, donc prendre des risques</strong>. L’approche narrative à travers des<strong> <a href="http://transportsdufutur.ademe.fr/category/fictions" target="_blank" rel="noopener">fictions</a> </strong>et des <strong><a href="http://transportsdufutur.ademe.fr/category/metanotes" target="_blank" rel="noopener">MétaNotes</a> </strong>est essentielle pour co-construire une vision commune et permettre au lecteur de s’approprier les messages.
+<a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2018/07/ecairn.png"><img class=" wp-image-5335 alignright" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2018/07/ecairn-300x292.png" alt="" width="351" height="342" /></a>Le Blog est le support principal pour proposer des contenus, c'est-à-dire des idées <strong>nouvelles, donc prendre des risques</strong>. L’approche narrative à travers des<strong> <a href="https://gabrielplassat.github.io/transportsdufutur/category/fictions" target="_blank" rel="noopener">fictions</a> </strong>et des <strong><a href="https://gabrielplassat.github.io/transportsdufutur/category/metanotes" target="_blank" rel="noopener">MétaNotes</a> </strong>est essentielle pour co-construire une vision commune et permettre au lecteur de s’approprier les messages.
 
 
 
@@ -84,13 +84,13 @@ Y.Leriche CEO North America and autonomous transportation Transdev « Gabriel h
 
 
 
-En 2013, l’organisation du <a href="http://transportsdufutur.ademe.fr/2014/04/mobilites-mutations-synthese.html?hilite=%27mobilit%C3%A9s%27%2C%27mutations%27" target="_blank" rel="noopener"><strong>séminaire Mobilités Mutations</strong></a> peut se faire en sélectionnant les meilleurs contacts comme Nicolas Colin, Frédéric Mazzella ou encore Valérie Peugeot, en les impliquant dans la construction et après, pour faire venir plus de 100 dirigeants pendant 2 jours à Sophia. <strong>Cette démarche a construit un terreau dans lequel a pu germer la Fabrique des Mobilités. elle est riche de ces 10 années de rencontres, d’articles, de conférences.</strong>
+En 2013, l’organisation du <a href="https://gabrielplassat.github.io/transportsdufutur/2014/04/mobilites-mutations-synthese.html?hilite=%27mobilit%C3%A9s%27%2C%27mutations%27" target="_blank" rel="noopener"><strong>séminaire Mobilités Mutations</strong></a> peut se faire en sélectionnant les meilleurs contacts comme Nicolas Colin, Frédéric Mazzella ou encore Valérie Peugeot, en les impliquant dans la construction et après, pour faire venir plus de 100 dirigeants pendant 2 jours à Sophia. <strong>Cette démarche a construit un terreau dans lequel a pu germer la Fabrique des Mobilités. elle est riche de ces 10 années de rencontres, d’articles, de conférences.</strong>
 
 <h1><strong>Retour sur investissement
 
 </strong></h1>
 
-<a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2018/07/badge.jpg"><img class=" wp-image-5334 alignleft" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2018/07/badge-169x300.jpg" alt="" width="149" height="264" /></a>Il faut environ 4 à 7 heures pour écrire un article (10h pour une MétaNote), lire 10 à 20 essais  par an, faire 10 à 15 interventions par an. <strong>Cet investissement est rentabilisé</strong> après une période d’environ 2 à 3 ans. La charge pour une personne et un écosystème passe alors de 20-25% au début à 5-10% en régime stabilisé. Par ailleurs, de nombreux bénéfices (visibilité, influence, audience, communication, veille) ne sont pas accessibles sans ce dispositif numérique. Les acteurs aidés, conseillés et plus généralement impliqués ont une forme de dette que certains « remboursent » en s’investissant dans l’écosystème. En résumé, la mise en œuvre d’une présence numérique maîtrisée pour un écosystème complexe (comme la Mobilité, ville durable, smart grid et énergie …) apporte plus de bénéfices directs et indirects qu’elle n’utilise de ressources.
+<a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2018/07/badge.jpg"><img class=" wp-image-5334 alignleft" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2018/07/badge-169x300.jpg" alt="" width="149" height="264" /></a>Il faut environ 4 à 7 heures pour écrire un article (10h pour une MétaNote), lire 10 à 20 essais  par an, faire 10 à 15 interventions par an. <strong>Cet investissement est rentabilisé</strong> après une période d’environ 2 à 3 ans. La charge pour une personne et un écosystème passe alors de 20-25% au début à 5-10% en régime stabilisé. Par ailleurs, de nombreux bénéfices (visibilité, influence, audience, communication, veille) ne sont pas accessibles sans ce dispositif numérique. Les acteurs aidés, conseillés et plus généralement impliqués ont une forme de dette que certains « remboursent » en s’investissant dans l’écosystème. En résumé, la mise en œuvre d’une présence numérique maîtrisée pour un écosystème complexe (comme la Mobilité, ville durable, smart grid et énergie …) apporte plus de bénéfices directs et indirects qu’elle n’utilise de ressources.
 
 
 
@@ -144,7 +144,7 @@ Ils ont été faits pour aider des filières industrielles établies dans des en
 
 <strong>Extraite de ce parcours, des retours, une méthode empirique applicable dans des structures publiques et privées est proposée dans le dernier article (3/3)</strong>
 
-<p style="text-align: center;"><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2018/07/mobmut2013.jpg"><img class="aligncenter wp-image-5333 size-full" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2018/07/mobmut2013.jpg" alt="" width="976" height="269" /></a><em>Mobilités Mutations 2013</em></p>
+<p style="text-align: center;"><a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2018/07/mobmut2013.jpg"><img class="aligncenter wp-image-5333 size-full" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2018/07/mobmut2013.jpg" alt="" width="976" height="269" /></a><em>Mobilités Mutations 2013</em></p>
 
 <strong>Ce que je referai : </strong>
 
@@ -184,7 +184,7 @@ La<strong> <a href="http://fabmob.io" target="_blank" rel="noopener">Fabrique de
 
 </ul>
 
-[Suite dans l'<a href="http://transportsdufutur.ademe.fr/2018/07/lhistoire-de-ma-transformation-numerique-3-3.html" target="_blank" rel="noopener"><strong>article 3/3</strong></a>]
+[Suite dans l'<a href="https://gabrielplassat.github.io/transportsdufutur/2018/07/lhistoire-de-ma-transformation-numerique-3-3.html" target="_blank" rel="noopener"><strong>article 3/3</strong></a>]
 
 
 
