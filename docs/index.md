@@ -1,6 +1,3 @@
-
-Blog
-=======
 ---
 layout: home
 title: Accueil
