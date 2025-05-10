@@ -1,7 +1,7 @@
 ---
 title: "lancement BMA"
 date: 2017-11-07 14:48:21
-permalink: /transportsdufutur/2017/11/lancement-bma.html
+permalink: /2017/11/lancement-bma.html
 tags: [nan]
 layout: post
 ---

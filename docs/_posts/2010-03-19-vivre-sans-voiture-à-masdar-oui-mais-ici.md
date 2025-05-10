@@ -1,7 +1,7 @@
 ---
 title: "Vivre sans voiture à Masdar oui, mais ici ?"
 date: 2010-03-19 09:04:24
-permalink: /transportsdufutur/2010/03/vivre-sans-voiture-a-masdar-oui-mais-ici.html
+permalink: /2010/03/vivre-sans-voiture-a-masdar-oui-mais-ici.html
 tags: [cité, Energie, Infrastructure, marchandises, mode doux]
 layout: post
 ---

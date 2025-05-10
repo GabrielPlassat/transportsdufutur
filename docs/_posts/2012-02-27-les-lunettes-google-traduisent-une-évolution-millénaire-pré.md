@@ -1,7 +1,7 @@
 ---
 title: "Les lunettes Google traduisent une évolution millénaire, présentent de nombreux intérêts dans la mobilité et la consommation, et posent de nombreuses questions … philosophiques"
 date: 2012-02-27 10:31:33
-permalink: /transportsdufutur/2012/02/les-lunettes-google-traduisent-une-evolution-millenaire-presentent-de-nombreux-interets-dans-la-mobi.html
+permalink: /2012/02/les-lunettes-google-traduisent-une-evolution-millenaire-presentent-de-nombreux-interets-dans-la-mobi.html
 tags: [assistant de mobilité, Assistant Personnel de Consommation, citoyen, collectivité, confiance, connectivité, données réelles, google, gouvernance, gratuit, holoptisme, intelligence collective, internet, internet des objets, living lab, management de la mobilité, marchandises, marketing individualisé, monnaie complémentaire, multimodes, partage de données, pensée complexe, Service de mobilité]
 layout: post
 ---

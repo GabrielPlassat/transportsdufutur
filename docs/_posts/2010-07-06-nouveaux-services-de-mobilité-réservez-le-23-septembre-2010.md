@@ -1,7 +1,7 @@
 ---
 title: "Nouveaux Services de Mobilité, réservez le 23 Septembre 2010 à Paris"
 date: 2010-07-06 15:09:42
-permalink: /transportsdufutur/2010/07/nouveaux-services-de-mobilite-reserver-le-23-septembre-2010-a-paris.html
+permalink: /2010/07/nouveaux-services-de-mobilite-reserver-le-23-septembre-2010-a-paris.html
 tags: [ADEME, Service de mobilité]
 layout: post
 ---

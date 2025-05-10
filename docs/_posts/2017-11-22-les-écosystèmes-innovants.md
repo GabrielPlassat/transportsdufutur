@@ -1,7 +1,7 @@
 ---
 title: "Les écosystèmes innovants"
 date: 2017-11-22 11:09:41
-permalink: /transportsdufutur/2017/11/les-ecosystemes-innovants.html
+permalink: /2017/11/les-ecosystemes-innovants.html
 tags: [nan]
 layout: post
 ---

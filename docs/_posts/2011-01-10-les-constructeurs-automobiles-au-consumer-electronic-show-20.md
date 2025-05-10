@@ -1,7 +1,7 @@
 ---
 title: "Les constructeurs automobiles au Consumer Electronic Show 2011, innovation ou obligation ?"
 date: 2011-01-10 15:24:29
-permalink: /transportsdufutur/2011/01/les-constructeurs-automobiles-au-consumer-electronic-show-2011-innovation-ou-obligation.html
+permalink: /2011/01/les-constructeurs-automobiles-au-consumer-electronic-show-2011-innovation-ou-obligation.html
 tags: [assistant de mobilité, citoyen, innovation, internet, internet des objets, partage de données, véhicule propre]
 layout: post
 ---

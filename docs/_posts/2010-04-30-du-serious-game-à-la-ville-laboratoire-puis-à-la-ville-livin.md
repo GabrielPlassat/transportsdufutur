@@ -1,7 +1,7 @@
 ---
 title: "Du serious game à la ville laboratoire puis à la ville Living lab''"
 date: 2010-04-30 17:20:05
-permalink: /transportsdufutur/2010/04/du-serious-game-a-la-ville-laboratoire-puis-a-la-ville-living-lab.html
+permalink: /2010/04/du-serious-game-a-la-ville-laboratoire-puis-a-la-ville-living-lab.html
 tags: [citoyen, collectivité, connectivité, internet, internet des objets, living lab, partage de données]
 layout: post
 ---

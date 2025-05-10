@@ -1,7 +1,7 @@
 ---
 title: "iTravel d'Apple"
 date: 2010-06-07 14:06:39
-permalink: /transportsdufutur/2010/06/itravel-dapple.html
+permalink: /2010/06/itravel-dapple.html
 tags: [assistant de mobilité, connectivité, internet, internet des objets, iphone, partage de données]
 layout: post
 ---

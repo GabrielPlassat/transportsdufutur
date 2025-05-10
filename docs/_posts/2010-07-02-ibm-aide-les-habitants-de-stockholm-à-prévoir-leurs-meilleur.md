@@ -1,7 +1,7 @@
 ---
 title: "IBM aide les habitants de Stockholm à prévoir leurs meilleures options de déplacement"
 date: 2010-07-02 16:23:51
-permalink: /transportsdufutur/2010/07/ibm-aide-les-habitants-de-stockholm-a-prevoir-leurs-meilleures-options-de-deplacement.html
+permalink: /2010/07/ibm-aide-les-habitants-de-stockholm-a-prevoir-leurs-meilleures-options-de-deplacement.html
 tags: [autorité des transports, cité, citoyen, collectivité, connectivité, données réelles, Infrastructure, internet, internet des objets, multimodes]
 layout: post
 ---

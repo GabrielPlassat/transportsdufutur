@@ -1,7 +1,7 @@
 ---
 title: "[Fiction N°5] En 2050, nous serons heureux."
 date: 2013-11-27 09:57:30
-permalink: /transportsdufutur/2013/11/mathieu-philosophe-en-noosphere-et-amandine-hacker-artiste-leader-du-fablab.html
+permalink: /2013/11/mathieu-philosophe-en-noosphere-et-amandine-hacker-artiste-leader-du-fablab.html
 tags: [citoyen, collectivité, confiance, cygne noir, données réelles, economie circulaire, économie de l'expérience, économie du quaternaire, économie fonctionnalité, Efficacité énergétique, innovation, intelligence collective, open innovation, open source, partage de données, Service de mobilité, sousveillance, transition générationnelle, transparence]
 layout: post
 ---

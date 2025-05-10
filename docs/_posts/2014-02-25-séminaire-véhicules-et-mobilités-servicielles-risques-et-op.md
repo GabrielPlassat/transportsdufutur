@@ -1,7 +1,7 @@
 ---
 title: "Séminaire Véhicules et Mobilités servicielles, risques et opportunités"
 date: 2014-02-25 15:12:07
-permalink: /transportsdufutur/2014/02/introduction-gabriel-plassat-renouveau-industrielbernard-jullien-role-des-territoires-xx-au-niveau-mondial-dd.html
+permalink: /2014/02/introduction-gabriel-plassat-renouveau-industrielbernard-jullien-role-des-territoires-xx-au-niveau-mondial-dd.html
 tags: [cité, collectivité, emploi, google, gouvernance, multimodes, Oliver Wyman, Service de mobilité]
 layout: post
 ---

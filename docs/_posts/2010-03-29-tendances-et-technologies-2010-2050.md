@@ -1,7 +1,7 @@
 ---
 title: "Tendances et Technologies 2010-2050"
 date: 2010-03-29 14:59:26
-permalink: /transportsdufutur/2010/03/tendances-et-technologies-20102050.html
+permalink: /2010/03/tendances-et-technologies-20102050.html
 tags: [cité, citoyen, collectivité, tendance]
 layout: post
 ---

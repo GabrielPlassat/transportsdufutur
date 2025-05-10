@@ -1,7 +1,7 @@
 ---
 title: "OPECST juin"
 date: 2017-11-07 14:48:26
-permalink: /transportsdufutur/2017/11/opecst-juin.html
+permalink: /2017/11/opecst-juin.html
 tags: [nan]
 layout: post
 ---

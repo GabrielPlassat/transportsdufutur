@@ -1,7 +1,7 @@
 ---
 title: "MétaNote N°23 – L’avenir du soutien public à l’innovation"
 date: 2016-01-02 19:16:03
-permalink: /transportsdufutur/2016/01/metanote-n23-lavenir-du-soutien-public-a-linnovation.html
+permalink: /2016/01/metanote-n23-lavenir-du-soutien-public-a-linnovation.html
 tags: [MétaNotes, Non classé]
 layout: post
 ---

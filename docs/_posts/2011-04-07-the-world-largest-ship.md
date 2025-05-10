@@ -1,7 +1,7 @@
 ---
 title: "the World largest ship"
 date: 2011-04-07 10:58:06
-permalink: /transportsdufutur/2011/04/the-world-largest-ship.html
+permalink: /2011/04/the-world-largest-ship.html
 tags: [nan]
 layout: post
 ---

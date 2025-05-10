@@ -1,7 +1,7 @@
 ---
 title: "Google ne s’intéresse pas à l’automobile. Vous n’avez rien à craindre."
 date: 2016-10-10 15:13:50
-permalink: /transportsdufutur/2016/10/sinteresse-lautomobile-craindre.html
+permalink: /2016/10/sinteresse-lautomobile-craindre.html
 tags: [Acteur numérique des Mobilités et des Logistiques, art de la guerre, assistant de mobilité, citoyen, donnée data, données réelles, économie de l'attention, économie de l'expérience, google, innovation, internet, marketing individualisé, Non classé, open source, Que sait-on de nos mobilités ?, Service de mobilité, Usager Client Citoyen Multitude]
 layout: post
 ---

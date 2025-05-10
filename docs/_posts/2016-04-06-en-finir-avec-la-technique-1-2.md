@@ -1,7 +1,7 @@
 ---
 title: "En finir avec la technique [1/2]"
 date: 2016-04-06 10:09:31
-permalink: /transportsdufutur/2016/04/en-finir-avec-la-technique-12.html
+permalink: /2016/04/en-finir-avec-la-technique-12.html
 tags: [art de la guerre, citoyen, communs, confiance, économie fonctionnalité, Générateur de Mobilité, holoptisme, intelligence collective, open innovation, plate-forme, Territoire Collectivité Etat Europe, Usager Client Citoyen Multitude]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Et si le bus était le transport public le plus résilient ? leçons du dernier rapport Modernizing Public Transportation"
 date: 2010-10-18 17:26:38
-permalink: /transportsdufutur/2010/10/et-si-le-bus-etait-le-transport-public-le-plus-resilient-lecons-du-dernier-rapport-modernizing-publi.html
+permalink: /2010/10/et-si-le-bus-etait-le-transport-public-le-plus-resilient-lecons-du-dernier-rapport-modernizing-publi.html
 tags: [BHNS, collectivité]
 layout: post
 ---

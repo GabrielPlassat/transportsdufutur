@@ -1,7 +1,7 @@
 ---
 title: "Le biais cognitif et l'empathie"
 date: 2016-03-14 09:17:50
-permalink: /transportsdufutur/2016/03/le-biais-cognitif-et-lempathie.html
+permalink: /2016/03/le-biais-cognitif-et-lempathie.html
 tags: [Acteur numérique des Mobilités et des Logistiques, Non classé, Usager Client Citoyen Multitude]
 layout: post
 ---

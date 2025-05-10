@@ -1,7 +1,7 @@
 ---
 title: "Demain vous pourrez télécharger et imprimer votre vélo"
 date: 2012-03-14 09:58:56
-permalink: /transportsdufutur/2012/03/demain-vous-pourrez-telecharger-et-imprimer-votre-velo.html
+permalink: /2012/03/demain-vous-pourrez-telecharger-et-imprimer-votre-velo.html
 tags: [connectivité, donnée data, Fablab, gratuit, innovation, intelligence collective, internet, internet des objets, open innovation, open source, partage de données, simplicité, transition générationnelle]
 layout: post
 ---

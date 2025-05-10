@@ -1,7 +1,7 @@
 ---
 title: "Collaborative Vehicle Infrastructure System (CVIS) Project"
 date: 2010-03-18 12:06:39
-permalink: /transportsdufutur/2010/03/collaborative-vehicle-infrastructure-system-cvis-project.html
+permalink: /2010/03/collaborative-vehicle-infrastructure-system-cvis-project.html
 tags: [connectivité, données réelles, Ertico, Infrastructure, internet, internet des objets, iphone, multimodes, open source, partage de données, partage de la voirie, péage urbain, roadpricing, Service de mobilité]
 layout: post
 ---

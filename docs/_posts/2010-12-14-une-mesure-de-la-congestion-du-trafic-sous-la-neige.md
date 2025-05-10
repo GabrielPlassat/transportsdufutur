@@ -1,7 +1,7 @@
 ---
 title: "Une mesure de la congestion du trafic sous la neige"
 date: 2010-12-14 11:43:02
-permalink: /transportsdufutur/2010/12/une-mesure-de-la-congestion-du-trafic-sous-la-neige.html
+permalink: /2010/12/une-mesure-de-la-congestion-du-trafic-sous-la-neige.html
 tags: [ADEME, assistant de mobilité, Efficacité énergétique, Energie, téléphone]
 layout: post
 ---

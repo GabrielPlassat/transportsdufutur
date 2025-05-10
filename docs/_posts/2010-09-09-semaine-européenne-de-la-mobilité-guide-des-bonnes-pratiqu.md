@@ -1,7 +1,7 @@
 ---
 title: "Semaine Européenne de la Mobilité - Guide des bonnes pratiques 2010"
 date: 2010-09-09 09:58:51
-permalink: /transportsdufutur/2010/09/semaine-europeenne-de-la-mobilite-guide-des-bonnes-pratiques-2010.html
+permalink: /2010/09/semaine-europeenne-de-la-mobilite-guide-des-bonnes-pratiques-2010.html
 tags: [cité, citoyen, collectivité, Europe, TC]
 layout: post
 ---

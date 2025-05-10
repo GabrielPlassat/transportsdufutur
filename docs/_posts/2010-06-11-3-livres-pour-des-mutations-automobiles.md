@@ -1,7 +1,7 @@
 ---
 title: "3 livres pour des mutations automobiles''"
 date: 2010-06-11 15:37:38
-permalink: /transportsdufutur/2010/06/3-livres-pour-des-mutations-automobiles.html
+permalink: /2010/06/3-livres-pour-des-mutations-automobiles.html
 tags: [nan]
 layout: post
 ---

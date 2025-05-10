@@ -1,7 +1,7 @@
 ---
 title: "Va-t-on connaitre la pollution réelle des voitures ?"
 date: 2017-04-04 16:43:20
-permalink: /transportsdufutur/2017/04/connaitre-pollution-voitures.html
+permalink: /2017/04/connaitre-pollution-voitures.html
 tags: [Acteur historique des Mobilités et Logistiques, art de la guerre, cité, citoyen, collectivité, congestion, données réelles, externalité, fiscalité, guide d'achat, Non classé, qualité de l'air, Que sait-on de nos mobilités ?]
 layout: post
 ---

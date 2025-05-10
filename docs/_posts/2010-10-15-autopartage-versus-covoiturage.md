@@ -1,7 +1,7 @@
 ---
 title: "autopartage versus covoiturage"
 date: 2010-10-15 18:12:10
-permalink: /transportsdufutur/2010/10/autopartage-versus-covoiturage.html
+permalink: /2010/10/autopartage-versus-covoiturage.html
 tags: [autopartage, covoiturage, google]
 layout: post
 ---

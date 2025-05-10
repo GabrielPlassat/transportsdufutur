@@ -1,7 +1,7 @@
 ---
 title: "Une rue de Genève sur quatre et Broadway bientôt sans voiture"
 date: 2010-04-13 12:13:58
-permalink: /transportsdufutur/2010/04/une-rue-de-geneve-sur-quatre-et-broadway-bientot-sans-voiture.html
+permalink: /2010/04/une-rue-de-geneve-sur-quatre-et-broadway-bientot-sans-voiture.html
 tags: [collectivité, Infrastructure, mode doux, partage de la voirie, qualité de l'air, stationnement, Véhicule]
 layout: post
 ---

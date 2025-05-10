@@ -1,7 +1,7 @@
 ---
 title: "Appel à contributions pour les 4èmes journées sur le management de la mobilité : territoire spécifique, temps et vitesse"
 date: 2013-12-09 11:35:12
-permalink: /transportsdufutur/2013/12/appel-a-contributions-pour-les-4emes-journees-sur-le-management-de-la-mobilite-territoire-specifique.html
+permalink: /2013/12/appel-a-contributions-pour-les-4emes-journees-sur-le-management-de-la-mobilite-territoire-specifique.html
 tags: [nan]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "FuturICT programme européen de R&D sur 10 ans et 1 Md€ sur les systèmes complexes"
 date: 2012-11-28 15:19:55
-permalink: /transportsdufutur/2012/11/futurict-programme-europeen-de-rd-sur-10-ans-et-1-md-sur-les-systemes-complexes.html
+permalink: /2012/11/futurict-programme-europeen-de-rd-sur-10-ans-et-1-md-sur-les-systemes-complexes.html
 tags: [données réelles, Europe, FP7, intelligence collective, internet, internet des objets, pensée complexe, TIC]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Plate forme d'innovation, un besoin essentiel pour l'approche système des mobilités, un appel à manifestation en cours"
 date: 2010-12-09 15:20:46
-permalink: /transportsdufutur/2010/12/plate-forme-dinnovation-un-besoin-essentiel-pour-lapproche-systeme-des-mobilites-un-appel-a-manifest.html
+permalink: /2010/12/plate-forme-dinnovation-un-besoin-essentiel-pour-lapproche-systeme-des-mobilites-un-appel-a-manifest.html
 tags: [citoyen, innovation, Plateforme d'idées]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Colloque La voiture Servicielle par Chronos - Le Monde - TNS Sofres"
 date: 2009-11-18 19:51:38
-permalink: /transportsdufutur/2009/11/colloque-la-voiture-servicielle-chronos-le-monde-tns-sofres.html
+permalink: /2009/11/colloque-la-voiture-servicielle-chronos-le-monde-tns-sofres.html
 tags: [nan]
 layout: post
 ---

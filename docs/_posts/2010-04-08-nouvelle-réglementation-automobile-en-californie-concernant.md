@@ -1,7 +1,7 @@
 ---
 title: "Nouvelle réglementation automobile en Californie concernant l'isolation solaire"
 date: 2010-04-08 17:19:02
-permalink: /transportsdufutur/2010/04/nouvelle-reglementation-automobile-en-californie-concernant-lisolation-solaire.html
+permalink: /2010/04/nouvelle-reglementation-automobile-en-californie-concernant-lisolation-solaire.html
 tags: [nan]
 layout: post
 ---

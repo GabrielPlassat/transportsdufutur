@@ -1,7 +1,7 @@
 ---
 title: "MétaNote 20 - La voiture sans conducteur, la Chimère"
 date: 2014-04-16 09:13:00
-permalink: /transportsdufutur/2014/04/metanote-20-la-voiture-sans-conducteur-la-chimere.html
+permalink: /2014/04/metanote-20-la-voiture-sans-conducteur-la-chimere.html
 tags: [autopartage, catastrophe, citoyen, collectivité, commuter, covoiturage, cybercar, DARPA, E.Musk, économie de l'expérience, économie fonctionnalité, Energie, Infrastructure, innovation, internet des objets, living lab, partage de données, plate-forme, waze]
 layout: post
 ---

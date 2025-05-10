@@ -1,7 +1,7 @@
 ---
 title: "vélo  poussette"
 date: 2010-10-18 17:12:13
-permalink: /transportsdufutur/2010/10/velo-poussette.html
+permalink: /2010/10/velo-poussette.html
 tags: [nan]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Retailtainement"
 date: 2010-09-16 15:05:15
-permalink: /transportsdufutur/2010/09/retailtainement.html
+permalink: /2010/09/retailtainement.html
 tags: [Infrastructure, jeu, marchandises]
 layout: post
 ---

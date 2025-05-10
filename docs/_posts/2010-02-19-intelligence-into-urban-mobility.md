@@ -1,7 +1,7 @@
 ---
 title: "Intelligence into Urban Mobility"
 date: 2010-02-19 20:54:40
-permalink: /transportsdufutur/2010/02/intelligence-into-urban-mobility.html
+permalink: /2010/02/intelligence-into-urban-mobility.html
 tags: [assistant de mobilité, Ertico, Infrastructure, TIC, VE, Véhicule]
 layout: post
 ---

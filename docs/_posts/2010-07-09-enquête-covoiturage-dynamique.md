@@ -1,7 +1,7 @@
 ---
 title: "Enquête Covoiturage Dynamique"
 date: 2010-07-09 10:49:17
-permalink: /transportsdufutur/2010/07/enquete-covoiturage-dynamique.html
+permalink: /2010/07/enquete-covoiturage-dynamique.html
 tags: [connectivité, covoiturage, téléphone]
 layout: post
 ---

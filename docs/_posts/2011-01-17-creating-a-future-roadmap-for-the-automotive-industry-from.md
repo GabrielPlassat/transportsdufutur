@@ -1,7 +1,7 @@
 ---
 title: "Creating a future roadmap for the automotive industry (from KPMG)"
 date: 2011-01-17 15:44:07
-permalink: /transportsdufutur/2011/01/creating-a-future-roadmap-for-the-automotive-industry-from-kpmg.html
+permalink: /2011/01/creating-a-future-roadmap-for-the-automotive-industry-from-kpmg.html
 tags: [carburant, Efficacité énergétique, Energie, innovation, Service de mobilité, véhicule mono-usage, véhicule propre]
 layout: post
 ---

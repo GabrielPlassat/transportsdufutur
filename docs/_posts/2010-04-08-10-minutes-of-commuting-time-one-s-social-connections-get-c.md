@@ -1,7 +1,7 @@
 ---
 title: "10 minutes of commuting time, one's social connections get cut by 10%"
 date: 2010-04-08 11:44:17
-permalink: /transportsdufutur/2010/04/10-minutes-of-commuting-time-ones-social-connections-get-cut-by-10.html
+permalink: /2010/04/10-minutes-of-commuting-time-ones-social-connections-get-cut-by-10.html
 tags: [commuter, Santé]
 layout: post
 ---

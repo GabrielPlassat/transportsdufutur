@@ -1,7 +1,7 @@
 ---
 title: "Pour des anti-stratégies"
 date: 2018-05-14 10:00:16
-permalink: /transportsdufutur/2018/05/pour-des-anti-strategies.html
+permalink: /2018/05/pour-des-anti-strategies.html
 tags: [anti-stratégie, effectuation, google, open source]
 layout: post
 ---

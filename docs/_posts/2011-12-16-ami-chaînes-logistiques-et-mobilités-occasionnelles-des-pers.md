@@ -1,7 +1,7 @@
 ---
 title: "AMI Chaînes logistiques et mobilités occasionnelles des personnes @ADEME"
 date: 2011-12-16 16:08:28
-permalink: /transportsdufutur/2011/12/ami-chaines-logistiques-et-mobilites-occasionnelles-des-personnes-ademe.html
+permalink: /2011/12/ami-chaines-logistiques-et-mobilites-occasionnelles-des-personnes-ademe.html
 tags: [ADEME, assistant de mobilité, Assistant Personnel de Consommation, citoyen, collectivité, données réelles, Efficacité énergétique]
 layout: post
 ---

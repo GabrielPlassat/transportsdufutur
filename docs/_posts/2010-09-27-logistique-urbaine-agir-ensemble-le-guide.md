@@ -1,7 +1,7 @@
 ---
 title: "Logistique urbaine : agir ensemble (le guide)"
 date: 2010-09-27 15:56:47
-permalink: /transportsdufutur/2010/09/logistique-urbaine-agir-ensemble.html
+permalink: /2010/09/logistique-urbaine-agir-ensemble.html
 tags: [ADEME, cité, collectivité, marchandises, véhicule propre]
 layout: post
 ---

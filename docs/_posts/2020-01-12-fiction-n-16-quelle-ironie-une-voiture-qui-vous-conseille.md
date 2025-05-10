@@ -1,7 +1,7 @@
 ---
 title: "[Fiction N°16] Quelle ironie, une voiture qui vous conseille de ne pas l’utiliser"
 date: 2020-01-12 16:33:04
-permalink: /transportsdufutur/2020/01/fiction16.html
+permalink: /2020/01/fiction16.html
 tags: [nan]
 layout: post
 ---

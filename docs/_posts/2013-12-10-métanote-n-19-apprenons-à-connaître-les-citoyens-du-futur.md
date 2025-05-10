@@ -1,7 +1,7 @@
 ---
 title: "[MétaNote N°19] Apprenons à connaître les citoyens du futur ?"
 date: 2013-12-10 14:49:14
-permalink: /transportsdufutur/2013/12/quelles-sont-les-evolutions-a-venir-de-nos-structures-familiales-de-nos-communautes-et-donc-de-nous.html
+permalink: /2013/12/quelles-sont-les-evolutions-a-venir-de-nos-structures-familiales-de-nos-communautes-et-donc-de-nous.html
 tags: [citoyen, économie de l'expérience, économie du quaternaire, économie fonctionnalité, holoptisme, innovation, intelligence collective, philosophie, plate-forme, Plateforme d'idées, Service de mobilité, transition générationnelle]
 layout: post
 ---

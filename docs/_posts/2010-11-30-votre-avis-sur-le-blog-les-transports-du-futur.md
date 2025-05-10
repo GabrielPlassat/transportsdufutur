@@ -1,7 +1,7 @@
 ---
 title: "Votre avis sur le blog Les Transports du Futur !"
 date: 2010-11-30 16:55:56
-permalink: /transportsdufutur/2010/11/votre-avis-sur-le-blog-les-transports-du-futur.html
+permalink: /2010/11/votre-avis-sur-le-blog-les-transports-du-futur.html
 tags: [nan]
 layout: post
 ---

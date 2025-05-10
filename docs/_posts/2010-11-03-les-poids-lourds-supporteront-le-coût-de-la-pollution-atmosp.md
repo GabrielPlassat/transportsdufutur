@@ -1,7 +1,7 @@
 ---
 title: "Les poids lourds supporteront le coût de la pollution atmosphérique et sonore"
 date: 2010-11-03 10:26:32
-permalink: /transportsdufutur/2010/11/les-poids-lourds-supporteront-le-cout-de-la-pollution-atmospherique-et-sonore.html
+permalink: /2010/11/les-poids-lourds-supporteront-le-cout-de-la-pollution-atmospherique-et-sonore.html
 tags: [donnée data, données réelles, emission, Infrastructure, marchandises, Véhicule]
 layout: post
 ---

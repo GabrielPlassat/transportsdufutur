@@ -1,7 +1,7 @@
 ---
 title: "Seoul 'U smart Way'"
 date: 2010-07-09 12:11:02
-permalink: /transportsdufutur/2010/07/les-echos-060710-lautoroute-sera-souterraine-et-proposera-une-gestion-automatique-du-trafic-a-une-vitesse-prevue-de-30-2.html
+permalink: /2010/07/les-echos-060710-lautoroute-sera-souterraine-et-proposera-une-gestion-automatique-du-trafic-a-une-vitesse-prevue-de-30-2.html
 tags: [autorité des transports, cité, collectivité, cybercar, Efficacité énergétique, Infrastructure, partage de la voirie, Pay as You Move]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "La mobilité du Grey Power"
 date: 2010-02-12 16:03:46
-permalink: /transportsdufutur/2010/02/la-mobilite-du-grey-power.html
+permalink: /2010/02/la-mobilite-du-grey-power.html
 tags: [Infrastructure, Précarité, Santé, Service de mobilité, TIC, Véhicule]
 layout: post
 ---

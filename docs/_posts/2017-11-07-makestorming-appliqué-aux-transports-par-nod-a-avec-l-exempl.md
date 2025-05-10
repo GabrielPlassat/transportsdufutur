@@ -1,7 +1,7 @@
 ---
 title: "MakeStorming appliqué aux transports par Nod-A avec l'exemple de Systra"
 date: 2017-11-07 14:48:34
-permalink: /transportsdufutur/2017/11/makestorming-applique-aux-transports-par-nod-a-avec-lexemple-de-systra.html
+permalink: /2017/11/makestorming-applique-aux-transports-par-nod-a-avec-lexemple-de-systra.html
 tags: [nan]
 layout: post
 ---

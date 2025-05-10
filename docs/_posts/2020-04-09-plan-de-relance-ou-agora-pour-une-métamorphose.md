@@ -1,7 +1,7 @@
 ---
 title: "Plan de relance ou Agora pour une métamorphose"
 date: 2020-04-09 18:45:24
-permalink: /transportsdufutur/2020/04/plan-de-relance-ou-agora-pour-une-metamorphose.html
+permalink: /2020/04/plan-de-relance-ou-agora-pour-une-metamorphose.html
 tags: [relance, résilience]
 layout: post
 ---

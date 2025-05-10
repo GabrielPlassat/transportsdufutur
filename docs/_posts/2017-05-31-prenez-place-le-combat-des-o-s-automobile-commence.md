@@ -1,7 +1,7 @@
 ---
 title: "Prenez place, le combat des O.S. automobile commence"
 date: 2017-05-31 15:19:03
-permalink: /transportsdufutur/2017/05/prenez-automobile-commence.html
+permalink: /2017/05/prenez-automobile-commence.html
 tags: [art de la guerre, assistant de mobilité, assurance, Baidu, citoyen, donnée data, économie de l'expérience, google, internet, plate-forme, Véhicule]
 layout: post
 ---

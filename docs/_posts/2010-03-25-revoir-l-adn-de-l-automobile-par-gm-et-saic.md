@@ -1,7 +1,7 @@
 ---
 title: "Revoir l'ADN de l'automobile par GM et SAIC"
 date: 2010-03-25 09:28:28
-permalink: /transportsdufutur/2010/03/revoir-ladn-de-lautomobile-par-gm-et-saic.html
+permalink: /2010/03/revoir-ladn-de-lautomobile-par-gm-et-saic.html
 tags: [batterie, chine, cité, connectivité, Efficacité énergétique, Infrastructure, internet, partage de données, Service de mobilité]
 layout: post
 ---

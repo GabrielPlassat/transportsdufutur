@@ -1,7 +1,7 @@
 ---
 title: "Controlled Access Area, European State of the Art"
 date: 2011-03-14 16:52:29
-permalink: /transportsdufutur/2011/03/controlled-access-area-european-state-of-the-art.html
+permalink: /2011/03/controlled-access-area-european-state-of-the-art.html
 tags: [autorité des transports, citoyen, collectivité, Europe, management de la mobilité, multimodes, partage de la voirie, Pay as You Move, péage urbain, qualité de l'air, roadpricing, surveillance]
 layout: post
 ---

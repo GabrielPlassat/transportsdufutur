@@ -1,7 +1,7 @@
 ---
 title: "ça bouge dans le péri-urbain - AUDIAR"
 date: 2017-11-07 14:48:18
-permalink: /transportsdufutur/2017/11/ca-bouge-dans-le-peri-urbain-audiar.html
+permalink: /2017/11/ca-bouge-dans-le-peri-urbain-audiar.html
 tags: [nan]
 layout: post
 ---

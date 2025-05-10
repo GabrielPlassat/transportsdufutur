@@ -1,7 +1,7 @@
 ---
 title: "Navibus par Moviken"
 date: 2010-06-03 10:47:02
-permalink: /transportsdufutur/2010/06/navibus-par-moviken.html
+permalink: /2010/06/navibus-par-moviken.html
 tags: [citoyen, connectivité, données réelles, Efficacité énergétique, internet]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Demain nous connaîtrons en temps réel nos émissions de CO2 liées à nos déplacements, et après demain, les mutuelles de santé s’en serviront pour adapter les tarifs"
 date: 2011-01-12 14:04:07
-permalink: /transportsdufutur/2011/01/le-mit-developpe-un-outil-co2go-qui-estime-sans-aucune-action-de-la-personne-ses-emissions-de-co2-liees-a-ces-deplacem.html
+permalink: /2011/01/le-mit-developpe-un-outil-co2go-qui-estime-sans-aucune-action-de-la-personne-ses-emissions-de-co2-liees-a-ces-deplacem.html
 tags: [assistant de mobilité, assurance, citoyen, collectivité, connectivité, données réelles, internet, marche, obésité, Santé, surveillance, vélo]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "California 2020 Clean Energy Future"
 date: 2010-09-23 11:19:54
-permalink: /transportsdufutur/2010/09/california-2020-clean-energy-future.html
+permalink: /2010/09/california-2020-clean-energy-future.html
 tags: [Efficacité énergétique, Energie, Infrastructure, smartgrid, véhicule propre]
 layout: post
 ---

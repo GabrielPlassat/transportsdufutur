@@ -1,7 +1,7 @@
 ---
 title: "L'évolution des carburants pour les transports en Europe - horizon 2050"
 date: 2011-01-27 18:56:59
-permalink: /transportsdufutur/2011/01/levolution-des-carburants-pour-les-transports-en-europe.html
+permalink: /2011/01/levolution-des-carburants-pour-les-transports-en-europe.html
 tags: [biocarburant, carburant, donnée data, Energie, éthanol, Europe, fiscalité, VE]
 layout: post
 ---

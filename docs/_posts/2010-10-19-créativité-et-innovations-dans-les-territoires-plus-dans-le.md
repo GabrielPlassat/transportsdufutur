@@ -1,7 +1,7 @@
 ---
 title: "Créativité et innovations dans les territoires, plus dans les usages que dans les technologies"
 date: 2010-10-19 16:50:46
-permalink: /transportsdufutur/2010/10/creativite-et-innovations-dans-les-territoires-plus-dans-les-usages-que-dans-les-technologies.html
+permalink: /2010/10/creativite-et-innovations-dans-les-territoires-plus-dans-les-usages-que-dans-les-technologies.html
 tags: [autorité des transports, citoyen, collectivité, connectivité, internet, low cost, TIC]
 layout: post
 ---

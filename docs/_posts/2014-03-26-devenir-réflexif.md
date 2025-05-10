@@ -1,7 +1,7 @@
 ---
 title: "Devenir réflexif"
 date: 2014-03-26 16:15:34
-permalink: /transportsdufutur/2014/03/devenir-reflexif.html
+permalink: /2014/03/devenir-reflexif.html
 tags: [holoptisme, intelligence collective, internet]
 layout: post
 ---

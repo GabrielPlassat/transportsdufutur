@@ -1,7 +1,7 @@
 ---
 title: "General Electric se prépare à devenir le leader mondial en matière de mobilité électrique"
 date: 2010-11-11 18:56:39
-permalink: /transportsdufutur/2010/11/general-electric-se-prepare-a-devenir-le-leader-mondial-en-matiere-de-mobilite-electrique.html
+permalink: /2010/11/general-electric-se-prepare-a-devenir-le-leader-mondial-en-matiere-de-mobilite-electrique.html
 tags: [citoyen, données réelles, internet, internet des objets, Plateforme d'idées, réseaux, smartgrid, VE]
 layout: post
 ---

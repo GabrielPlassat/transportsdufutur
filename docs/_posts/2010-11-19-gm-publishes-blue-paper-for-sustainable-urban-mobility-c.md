@@ -1,7 +1,7 @@
 ---
 title: "GM Publishes “Blue Paper” for Sustainable Urban Mobility : cooperation among government, automotive industry, infrastructure developers, and the academic community."
 date: 2010-11-19 09:14:48
-permalink: /transportsdufutur/2010/11/gm-publishes-blue-paper-for-sustainable-urban-mobility-cooperation-among-government-automotive-indus.html
+permalink: /2010/11/gm-publishes-blue-paper-for-sustainable-urban-mobility-cooperation-among-government-automotive-indus.html
 tags: [Service de mobilité, VE]
 layout: post
 ---

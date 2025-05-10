@@ -1,7 +1,7 @@
 ---
 title: "Suppression des phases de ralenti - par une approche systémique"
 date: 2010-12-15 09:44:06
-permalink: /transportsdufutur/2010/12/suppression-des-phases-de-ralenti-par-une-approche-systemique.html
+permalink: /2010/12/suppression-des-phases-de-ralenti-par-une-approche-systemique.html
 tags: [camion, Efficacité énergétique, emission, Energie, EPA, Infrastructure, innovation, internet, marchandises]
 layout: post
 ---

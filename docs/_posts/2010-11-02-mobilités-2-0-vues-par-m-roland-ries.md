@@ -1,7 +1,7 @@
 ---
 title: "Mobilités 2.0 vues par M.Roland Ries"
 date: 2010-11-02 11:20:22
-permalink: /transportsdufutur/2010/11/mobilites-20-vues-par-mroland-ries.html
+permalink: /2010/11/mobilites-20-vues-par-mroland-ries.html
 tags: [autorité des transports, cité, citoyen, collectivité, partage de données, Service de mobilité]
 layout: post
 ---

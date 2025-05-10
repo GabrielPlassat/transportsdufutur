@@ -1,7 +1,7 @@
 ---
 title: "MétaNote TdF 5 – Les entreprises"
 date: 2010-04-13 17:41:29
-permalink: /transportsdufutur/2010/04/metanote-tdf-5-les-entreprises.html
+permalink: /2010/04/metanote-tdf-5-les-entreprises.html
 tags: [données réelles, Efficacité énergétique, emission, Infrastructure, internet, multimodes, open source, partage de données, robustesse, RSE, Service de mobilité]
 layout: post
 ---

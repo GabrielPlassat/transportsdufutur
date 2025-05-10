@@ -1,7 +1,7 @@
 ---
 title: "Our Cities Ourselves : The Future of Transportation in Urban Life"
 date: 2010-07-26 10:43:13
-permalink: /transportsdufutur/2010/07/our-cities-ourselves-the-future-of-transportation-in-urban-life.html
+permalink: /2010/07/our-cities-ourselves-the-future-of-transportation-in-urban-life.html
 tags: [cité, citoyen, collectivité, open source, partage de données, philanthropie, Plateforme d'idées]
 layout: post
 ---

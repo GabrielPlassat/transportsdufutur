@@ -1,7 +1,7 @@
 ---
 title: "La vitesse, un vieux concept"
 date: 2017-12-06 21:19:03
-permalink: /transportsdufutur/2017/12/la-vitesse-un-vieux-concept.html
+permalink: /2017/12/la-vitesse-un-vieux-concept.html
 tags: [nan]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Les nouveaux protocoles"
 date: 2019-05-09 09:18:36
-permalink: /transportsdufutur/2019/05/les-nouveaux-protocoles.html
+permalink: /2019/05/les-nouveaux-protocoles.html
 tags: [nan]
 layout: post
 ---

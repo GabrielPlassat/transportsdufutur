@@ -1,7 +1,7 @@
 ---
 title: "Google googles, comment l’acte d’achat pourrait être bouleversé !"
 date: 2009-12-14 10:18:15
-permalink: /transportsdufutur/2009/12/google-googles-comment-lacte-dachat-pourrait-etre-bouleverse.html
+permalink: /2009/12/google-googles-comment-lacte-dachat-pourrait-etre-bouleverse.html
 tags: [Energie, google, Plateforme d'idées, propaganda, TIC]
 layout: post
 ---

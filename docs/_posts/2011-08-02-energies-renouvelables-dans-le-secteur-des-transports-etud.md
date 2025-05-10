@@ -1,7 +1,7 @@
 ---
 title: "Energies renouvelables dans le secteur des transports - Etude de la Commission Européenne"
 date: 2011-08-02 16:32:55
-permalink: /transportsdufutur/2011/08/energies-renouvelables-dans-le-secteur-des-transports-etude-de-la-commission-europeenne.html
+permalink: /2011/08/energies-renouvelables-dans-le-secteur-des-transports-etude-de-la-commission-europeenne.html
 tags: [biocarburant, carburant, Europe]
 layout: post
 ---

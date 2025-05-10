@@ -1,7 +1,7 @@
 ---
 title: "Zone environnementale et nouvelle vignette en Suisse"
 date: 2010-09-08 14:17:28
-permalink: /transportsdufutur/2010/09/zone-environnementale-et-nouvelle-vignette-en-suisse.html
+permalink: /2010/09/zone-environnementale-et-nouvelle-vignette-en-suisse.html
 tags: [autorité des transports, cité, citoyen, collectivité, PAYD, péage urbain, qualité de l'air, roadpricing, surveillance]
 layout: post
 ---
