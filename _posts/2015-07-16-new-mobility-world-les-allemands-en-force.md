@@ -1,7 +1,7 @@
 ---
 title: "New Mobility World, les Allemands en force"
 date: 2015-07-16 15:07:33
-permalink: /2015/07/mobility-allemands-force.html
+permalink: /transportsdufutur/2015/07/mobility-allemands-force.html
 tags: [Acteur historique des Mobilités et Logistiques, allemagne, art de la guerre, Fabrique des mobilités, google, innovation, ITS, Service de mobilité, Véhicule]
 layout: post
 ---

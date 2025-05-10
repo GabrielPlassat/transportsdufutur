@@ -1,7 +1,7 @@
 ---
 title: "Fiction N°12 – Moovel réinvente les transports publics"
 date: 2016-06-16 20:45:05
-permalink: /2016/06/reinvente-transports-publics.html
+permalink: /transportsdufutur/2016/06/reinvente-transports-publics.html
 tags: [Acteur historique des Mobilités et Logistiques, art de la guerre, artiste, citoyen, économie de l'expérience, Infrastructure, innovation, moovel, plate-forme]
 layout: post
 ---

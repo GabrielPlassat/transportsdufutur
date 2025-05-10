@@ -1,7 +1,7 @@
 ---
 title: "L’automobile et le centre commercial, un même destin ?"
 date: 2009-12-16 12:16:37
-permalink: /2009/12/lautomobile-et-le-centre-commercial-un-meme-destin.html
+permalink: /transportsdufutur/2009/12/lautomobile-et-le-centre-commercial-un-meme-destin.html
 tags: [centre commercial, drive-in, Energie, Infrastructure, Véhicule]
 layout: post
 ---

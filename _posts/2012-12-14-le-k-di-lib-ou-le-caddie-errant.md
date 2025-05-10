@@ -1,7 +1,7 @@
 ---
 title: "Le k.di lib' ou le caddie errant ..."
 date: 2012-12-14 12:28:27
-permalink: /2012/12/le-kdi-lib-ou-le-caddie-errant-2.html
+permalink: /transportsdufutur/2012/12/le-kdi-lib-ou-le-caddie-errant-2.html
 tags: [nan]
 layout: post
 ---

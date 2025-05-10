@@ -1,7 +1,7 @@
 ---
 title: "La mobilité et les territoires"
 date: 2010-04-09 16:11:38
-permalink: /2010/04/la-mobilite-et-les-territoires.html
+permalink: /transportsdufutur/2010/04/la-mobilite-et-les-territoires.html
 tags: [autorité des transports, centre commercial, collectivité]
 layout: post
 ---

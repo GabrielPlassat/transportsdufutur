@@ -1,7 +1,7 @@
 ---
 title: "Quand le citoyen consommateur devient coproducteur, aujourd’hui des disques, des meubles, et demain ?"
 date: 2010-12-07 14:47:37
-permalink: /2010/12/quand-le-citoyen-consommateur-devient-coproducteur-aujourdhui-des-disques-des-meubles-et-demain.html
+permalink: /transportsdufutur/2010/12/quand-le-citoyen-consommateur-devient-coproducteur-aujourdhui-des-disques-des-meubles-et-demain.html
 tags: [citoyen, collectivité, confiance, economie circulaire, économie fonctionnalité, Efficacité énergétique, innovation, internet]
 layout: post
 ---

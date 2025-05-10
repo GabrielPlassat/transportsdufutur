@@ -1,7 +1,7 @@
 ---
 title: "Les Free-lifers"
 date: 2010-07-05 15:59:29
-permalink: /2010/07/les-freelifers.html
+permalink: /transportsdufutur/2010/07/les-freelifers.html
 tags: [tendance, transition générationnelle]
 layout: post
 ---

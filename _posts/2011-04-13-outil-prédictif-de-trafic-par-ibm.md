@@ -1,7 +1,7 @@
 ---
 title: "Outil prédictif de trafic par IBM"
 date: 2011-04-13 15:23:42
-permalink: /2011/04/outil-predictif-de-trafic-par-ibm.html
+permalink: /transportsdufutur/2011/04/outil-predictif-de-trafic-par-ibm.html
 tags: [assistant de mobilité, autorité des transports, citoyen, collectivité, commuter, données réelles, innovation, internet, management de la mobilité, multimodes]
 layout: post
 ---

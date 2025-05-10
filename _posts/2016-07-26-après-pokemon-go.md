@@ -1,7 +1,7 @@
 ---
 title: "Après Pokemon Go"
 date: 2016-07-26 10:26:13
-permalink: /2016/07/apres-pokemon-go.html
+permalink: /transportsdufutur/2016/07/apres-pokemon-go.html
 tags: [Acteur numérique des Mobilités et des Logistiques, application, art de la guerre, assistant de mobilité, citoyen, connectivité, économie de l'expérience, google, holoptisme, Infrastructure, innovation, intelligence collective, internet, jeu vidéo, Non classé, Que sait-on de nos mobilités ?, Tesla, Usager Client Citoyen Multitude, virtuel]
 layout: post
 ---

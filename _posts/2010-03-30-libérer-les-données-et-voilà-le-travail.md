@@ -1,7 +1,7 @@
 ---
 title: "Libérer les données et voilà le travail ..."
 date: 2010-03-30 16:10:09
-permalink: /2010/03/liberer-les-donnees-et-voila-le-travail.html
+permalink: /transportsdufutur/2010/03/liberer-les-donnees-et-voila-le-travail.html
 tags: [données réelles, internet, iphone, partage de données, téléphone, vélo]
 layout: post
 ---

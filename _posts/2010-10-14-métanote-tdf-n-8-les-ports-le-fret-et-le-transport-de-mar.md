@@ -1,7 +1,7 @@
 ---
 title: "MétaNote TdF N°8 - Les ports, le fret et le transport de marchandises"
 date: 2010-10-14 16:18:51
-permalink: /2010/10/metanote-tdf-n8-les-ports-le-fret-et-le-transport-de-marchandises.html
+permalink: /transportsdufutur/2010/10/metanote-tdf-n8-les-ports-le-fret-et-le-transport-de-marchandises.html
 tags: [assurance, citoyen, données réelles, Efficacité énergétique, guide d'achat, Infrastructure, internet, logistique, marchandises, partage de données, partage de la voirie, port]
 layout: post
 ---

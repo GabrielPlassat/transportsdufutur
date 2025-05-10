@@ -1,7 +1,7 @@
 ---
 title: "MétaNote 21, Vers l’hypercitoyen, acteur heureux à l’ère des plateformes numériques"
 date: 2014-09-10 09:52:36
-permalink: /2014/09/metanote-21-vers-lhypercitoyen-acteur-heureux-a-lere-des-plateformes-numeriques.html
+permalink: /transportsdufutur/2014/09/metanote-21-vers-lhypercitoyen-acteur-heureux-a-lere-des-plateformes-numeriques.html
 tags: [citoyen, collectivité, données réelles, économie de l'expérience, Fabrique des mobilités, holoptisme, intelligence collective, internet, open innovation, open source, plate-forme, sousveillance, surveillance]
 layout: post
 ---

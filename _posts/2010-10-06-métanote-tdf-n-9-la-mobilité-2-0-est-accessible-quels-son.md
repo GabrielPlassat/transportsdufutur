@@ -1,7 +1,7 @@
 ---
 title: "MétaNote TdF N°9 - La mobilité 2.0 est accessible, quels sont les risques ? Sera-t-elle « meilleure » pour tous ?"
 date: 2010-10-06 18:29:18
-permalink: /2010/10/la-mobilite-20-est-accessible-quels-sont-les-risques-sera-t-elle-meilleure-pour-tous.html
+permalink: /transportsdufutur/2010/10/la-mobilite-20-est-accessible-quels-sont-les-risques-sera-t-elle-meilleure-pour-tous.html
 tags: [autorité des transports, citoyen, confiance, Efficacité énergétique, Energie, internet, multimodes, open innovation, partage de données, partage de la voirie, Service de mobilité, transition générationnelle]
 layout: post
 ---

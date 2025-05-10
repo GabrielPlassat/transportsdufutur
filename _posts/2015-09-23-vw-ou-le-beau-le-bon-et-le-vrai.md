@@ -1,7 +1,7 @@
 ---
 title: "VW ou le beau, le bon et le vrai"
 date: 2015-09-23 13:32:25
-permalink: /2015/09/beau-bon-vrai.html
+permalink: /transportsdufutur/2015/09/beau-bon-vrai.html
 tags: [Acteur historique des Mobilités et Logistiques, art de la guerre, connectivité, cygne noir, données réelles, fiscalité, marketing, transparence, Usager Client Citoyen Multitude, Véhicule]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Kit de survie pour anticiper l'émergence d'un nouveau monde"
 date: 2010-04-09 13:19:04
-permalink: /2010/04/kit-de-survie-pour-anticiper-lemergence-dun-nouveau-monde.html
+permalink: /transportsdufutur/2010/04/kit-de-survie-pour-anticiper-lemergence-dun-nouveau-monde.html
 tags: [marketing, partage de données, transition générationnelle]
 layout: post
 ---

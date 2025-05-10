@@ -1,7 +1,7 @@
 ---
 title: "Géographie des Transports Mondiaux - Arte.tv"
 date: 2012-03-13 21:58:12
-permalink: /2012/03/geographie-des-transports-mondiaux-artetv.html
+permalink: /transportsdufutur/2012/03/geographie-des-transports-mondiaux-artetv.html
 tags: [nan]
 layout: post
 ---

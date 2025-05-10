@@ -1,7 +1,7 @@
 ---
 title: "Robotisation des véhicules, de l'invention à l'innovation"
 date: 2015-10-04 19:47:16
-permalink: /2015/10/robotisation-linvention-linnovation.html
+permalink: /transportsdufutur/2015/10/robotisation-linvention-linnovation.html
 tags: [Acteur numérique des Mobilités et des Logistiques, Comment agir pour changer les pratiques ?, commuter, cybercar, cygne noir, google, innovation, intelligence collective, Non classé]
 layout: post
 ---

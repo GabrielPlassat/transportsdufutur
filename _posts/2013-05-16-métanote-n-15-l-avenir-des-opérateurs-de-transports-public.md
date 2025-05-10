@@ -1,7 +1,7 @@
 ---
 title: "MétaNote N°15 - L'avenir des opérateurs de transports publics"
 date: 2013-05-16 14:02:16
-permalink: /2013/05/metanote-n15-lavenir-des-operateurs-de-transports-publics.html
+permalink: /transportsdufutur/2013/05/metanote-n15-lavenir-des-operateurs-de-transports-publics.html
 tags: [Apple, assistant de mobilité, Assistant Personnel de Consommation, autorité des transports, citoyen, collectivité, donnée data, données réelles, économie de l'expérience, économie fonctionnalité, Efficacité énergétique, externalité, gouvernance, holoptisme, innovation, intelligence collective, internet, living lab, management de la mobilité, mode doux, monnaie complémentaire, multimodes, pensée complexe, Service de mobilité]
 layout: post
 ---

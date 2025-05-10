@@ -1,7 +1,7 @@
 ---
 title: "Déplacements durables"
 date: 2017-11-07 14:48:14
-permalink: /2017/11/deplacements-durables.html
+permalink: /transportsdufutur/2017/11/deplacements-durables.html
 tags: [nan]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Nos systèmes de transport et la révolution numérique, pourquoi cela va tout changer."
 date: 2012-04-05 09:25:00
-permalink: /2012/04/nos-systemes-de-transport-et-la-revolution-numerique-pourquoi-cela-va-tout-changer.html
+permalink: /transportsdufutur/2012/04/nos-systemes-de-transport-et-la-revolution-numerique-pourquoi-cela-va-tout-changer.html
 tags: [autopartage, autorité des transports, citoyen, collectivité, commuter, confiance, congestion, connectivité, covoiturage, cybercar, donnée data, données réelles, Energie, Europe, google, gouvernance, Infrastructure, innovation, intelligence collective, management de la mobilité, marchandises, mode doux, multimodes, partage de la voirie, pensée complexe, qualité de l'air, Véhicule, véhicule propre]
 layout: post
 ---

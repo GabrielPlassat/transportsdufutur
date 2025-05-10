@@ -1,7 +1,7 @@
 ---
 title: "La puissance des réseaux sera-t-elle suffisante ?"
 date: 2010-01-21 18:00:16
-permalink: /2010/01/la-puissance-des-reseaux-seratelle-suffisante.html
+permalink: /transportsdufutur/2010/01/la-puissance-des-reseaux-seratelle-suffisante.html
 tags: [données réelles, guide d'achat, internet, internet des objets, open source, partage de données, philanthropie, réseaux, Service de mobilité, TIC, transition générationnelle, Véhicule]
 layout: post
 ---

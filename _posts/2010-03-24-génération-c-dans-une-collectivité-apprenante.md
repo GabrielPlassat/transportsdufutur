@@ -1,7 +1,7 @@
 ---
 title: "Génération C dans une collectivité apprenante"
 date: 2010-03-24 18:02:53
-permalink: /2010/03/generation-c-dans-une-collectivite-apprenante.html
+permalink: /transportsdufutur/2010/03/generation-c-dans-une-collectivite-apprenante.html
 tags: [citoyen, collectivité, internet, open source, partage de données, Plateforme d'idées, transition générationnelle]
 layout: post
 ---

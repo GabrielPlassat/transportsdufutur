@@ -1,7 +1,7 @@
 ---
 title: "Après l'effondrement"
 date: 2020-01-31 10:34:54
-permalink: /2020/01/apres-leffondrement.html
+permalink: /transportsdufutur/2020/01/apres-leffondrement.html
 tags: [confiance, intelligence collective]
 layout: post
 ---

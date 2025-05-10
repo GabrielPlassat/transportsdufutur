@@ -1,7 +1,7 @@
 ---
 title: "Informations pour les voyageurs, par les voyageurs, un exemple"
 date: 2010-06-07 11:27:00
-permalink: /2010/06/informations-pour-les-voyageurs-par-les-voyageurs-un-exemple.html
+permalink: /transportsdufutur/2010/06/informations-pour-les-voyageurs-par-les-voyageurs-un-exemple.html
 tags: [assistant de mobilité, citoyen, collectivité, connectivité, données réelles, internet]
 layout: post
 ---

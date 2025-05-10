@@ -1,7 +1,7 @@
 ---
 title: "Re-boot Mobility"
 date: 2018-09-19 05:57:08
-permalink: /2018/09/re-boot-mobility.html
+permalink: /transportsdufutur/2018/09/re-boot-mobility.html
 tags: [dupuy, robot, véhicule autonome]
 layout: post
 ---

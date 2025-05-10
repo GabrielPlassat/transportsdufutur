@@ -1,7 +1,7 @@
 ---
 title: "Mobilité, nouvelle question sociale ?"
 date: 2011-01-05 12:03:03
-permalink: /2011/01/mobilite-nouvelle-question-sociale.html
+permalink: /transportsdufutur/2011/01/mobilite-nouvelle-question-sociale.html
 tags: [agence mobilité, anthropologie, assistant de mobilité, assurance, citoyen, collectivité, commuter, covoiturage, maison de la mobilité, Précarité]
 layout: post
 ---

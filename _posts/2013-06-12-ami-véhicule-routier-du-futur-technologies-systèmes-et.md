@@ -1,7 +1,7 @@
 ---
 title: "AMI - Véhicule routier du futur : technologies, systèmes et mobilité"
 date: 2013-06-12 19:18:56
-permalink: /2013/06/ami-vehicule-routier-du-futur-technologies-systemes-et-mobilite.html
+permalink: /transportsdufutur/2013/06/ami-vehicule-routier-du-futur-technologies-systemes-et-mobilite.html
 tags: [ADEME, allégement, assistant de mobilité, autopartage, camion, carburant, collectivité, commuter, congestion, connectivité, covoiturage, cybercar, donnée data, économie de l'expérience, économie du quaternaire, économie fonctionnalité, Efficacité énergétique, Energie, innovation, internet, ITS, logistique, management de la mobilité, marchandises, mode doux, multimodes, parking, partage de données, partage de la voirie, pétrole, qualité de l'air, Service de mobilité, Véhicule, véhicule mono-usage, véhicule propre, vélo]
 layout: post
 ---

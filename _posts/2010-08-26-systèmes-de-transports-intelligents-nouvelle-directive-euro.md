@@ -1,7 +1,7 @@
 ---
 title: "Systèmes de Transports Intelligents, nouvelle directive européenne"
 date: 2010-08-26 14:37:56
-permalink: /2010/08/systemes-de-transports-intelligents-nouvelle-directive-europeenne.html
+permalink: /transportsdufutur/2010/08/systemes-de-transports-intelligents-nouvelle-directive-europeenne.html
 tags: [assistant de mobilité, connectivité, Efficacité énergétique, Europe, internet, partage de données]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "LiquiData"
 date: 2012-06-10 21:49:17
-permalink: /2012/06/liquidata.html
+permalink: /transportsdufutur/2012/06/liquidata.html
 tags: [donnée data, données réelles, intelligence collective, internet, iphone, partage de données, téléphone, territoire, TIC, transition générationnelle]
 layout: post
 ---

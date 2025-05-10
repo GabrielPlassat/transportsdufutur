@@ -1,7 +1,7 @@
 ---
 title: "Programme d'actions concertées Batiments, Emplois, Transports et Alimentation pour aller vers le Facteur 4"
 date: 2011-09-23 17:23:43
-permalink: /2011/09/programme-dactions-concertees-batiments-emplois-transports-et-alimentation-pour-aller-vers-le-facteu.html
+permalink: /transportsdufutur/2011/09/programme-dactions-concertees-batiments-emplois-transports-et-alimentation-pour-aller-vers-le-facteu.html
 tags: [nan]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "L'année 2011 ouvre des opportunités sans précédent en matière de transports et mobilités"
 date: 2010-12-22 09:59:06
-permalink: /2010/12/lannee-2011-ouvre-des-opportunites-sans-precedent-en-matiere-de-transports-et-mobilites.html
+permalink: /transportsdufutur/2010/12/lannee-2011-ouvre-des-opportunites-sans-precedent-en-matiere-de-transports-et-mobilites.html
 tags: [ADEME, assistant de mobilité, assurance, autorité des transports, carburant, citoyen, collectivité, connectivité, covoiturage, données réelles, Efficacité énergétique, emission, Energie, gouvernance, Infrastructure, innovation, internet, management de la mobilité, marchandises, partage de données, partage de la voirie, Pay as You Move, Plateforme d'idées, Service de mobilité, VE, véhicule propre]
 layout: post
 ---

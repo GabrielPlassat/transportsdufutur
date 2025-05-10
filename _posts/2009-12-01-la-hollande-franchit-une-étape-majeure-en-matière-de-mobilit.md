@@ -1,7 +1,7 @@
 ---
 title: "La Hollande franchit une étape majeure en matière de mobilité individuelle !"
 date: 2009-12-01 12:58:52
-permalink: /2009/12/la-hollande-franchit-une-etape-majeure-en-matiere-de-mobilite-individuelle.html
+permalink: /transportsdufutur/2009/12/la-hollande-franchit-une-etape-majeure-en-matiere-de-mobilite-individuelle.html
 tags: [données réelles, Energie, Infrastructure, péage urbain, qualité de l'air, roadpricing, TIC, Véhicule]
 layout: post
 ---

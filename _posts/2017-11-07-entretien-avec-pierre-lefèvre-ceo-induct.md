@@ -1,7 +1,7 @@
 ---
 title: "Entretien avec Pierre Lefèvre CEO INDUCT"
 date: 2017-11-07 14:48:30
-permalink: /2017/11/entretien-avec-pierre-lefevre-ceo-induct.html
+permalink: /transportsdufutur/2017/11/entretien-avec-pierre-lefevre-ceo-induct.html
 tags: [nan]
 layout: post
 ---

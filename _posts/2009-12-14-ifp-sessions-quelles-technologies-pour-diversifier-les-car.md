@@ -1,7 +1,7 @@
 ---
 title: "IFP Sessions : Quelles technologies pour diversifier les carburants dédiés au transport ?''"
 date: 2009-12-14 19:13:08
-permalink: /2009/12/ifp-sessions-quelles-technologies-pour-diversifier-les-carburants-dedies-au-transport.html
+permalink: /transportsdufutur/2009/12/ifp-sessions-quelles-technologies-pour-diversifier-les-carburants-dedies-au-transport.html
 tags: [ADEME, Energie, Véhicule, xTL]
 layout: post
 ---

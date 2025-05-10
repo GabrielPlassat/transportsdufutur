@@ -1,7 +1,7 @@
 ---
 title: "En vélo à l'école + tag RFID = reconnaissance"
 date: 2010-09-17 15:33:46
-permalink: /2010/09/en-velo-a-lecole-tag-rfid-reconnaissance-2.html
+permalink: /transportsdufutur/2010/09/en-velo-a-lecole-tag-rfid-reconnaissance-2.html
 tags: [citoyen, commuter, confiance, connectivité, internet, mode doux, obésité, RFID, vélo]
 layout: post
 ---

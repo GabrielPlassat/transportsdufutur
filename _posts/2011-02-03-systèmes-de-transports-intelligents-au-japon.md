@@ -1,7 +1,7 @@
 ---
 title: "Systèmes de transports intelligents au Japon"
 date: 2011-02-03 10:49:38
-permalink: /2011/02/systemes-de-transports-intelligents-au-japon.html
+permalink: /transportsdufutur/2011/02/systemes-de-transports-intelligents-au-japon.html
 tags: [assistant de mobilité, collectivité, connectivité, donnée data, données réelles, Infrastructure, innovation, internet, internet des objets, living lab, partage de données, partage de la voirie, Pay as You Move, téléphone, TIC, VE]
 layout: post
 ---

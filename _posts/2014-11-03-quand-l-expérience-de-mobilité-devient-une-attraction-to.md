@@ -1,7 +1,7 @@
 ---
 title: "Quand « l’expérience de mobilité » devient une attraction touristique : un vecteur de changement des comportements ?"
 date: 2014-11-03 17:24:17
-permalink: /2014/11/quand-lexperience-de-mobilite-devient-une-attraction-touristique-un-vecteur-de-changement-des-compor.html
+permalink: /transportsdufutur/2014/11/quand-lexperience-de-mobilite-devient-une-attraction-touristique-un-vecteur-de-changement-des-compor.html
 tags: [ADEME, living lab, tourisme, VE, voyage]
 layout: post
 ---

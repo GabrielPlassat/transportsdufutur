@@ -1,7 +1,7 @@
 ---
 title: "MétaNote TdF 7 : La donnée, enjeu stratégique des mobilités multimodales, quelles perspectives ?"
 date: 2010-09-29 15:01:48
-permalink: /2010/09/metanote-tdf-7-la-donnee-enjeu-strategique-des-mobilites-multimodales-quelles-perspectives.html
+permalink: /transportsdufutur/2010/09/metanote-tdf-7-la-donnee-enjeu-strategique-des-mobilites-multimodales-quelles-perspectives.html
 tags: [autorité des transports, collectivité, connectivité, donnée data, données réelles, internet, internet des objets, marchandises, open innovation, partage de données, partage de la voirie, Service de mobilité, stationnement, surveillance]
 layout: post
 ---

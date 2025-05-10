@@ -1,7 +1,7 @@
 ---
 title: "Columbus, est-ce là que tout va commencer ?"
 date: 2016-06-29 10:36:11
-permalink: /2016/06/columbus-tout-commencer.html
+permalink: /transportsdufutur/2016/06/columbus-tout-commencer.html
 tags: [Acteur numérique des Mobilités et des Logistiques, art de la guerre, assistant de mobilité, autorité des transports, cité, citoyen, Comment agir pour changer les pratiques ?, commuter, confiance, congestion, données réelles, économie de l'expérience, Fabrique des mobilités, google, gouvernance, innovation, pensée complexe, Que sait-on de nos mobilités ?, Service de mobilité, Territoire Collectivité Etat Europe, Uber]
 layout: post
 ---

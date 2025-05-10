@@ -1,7 +1,7 @@
 ---
 title: "Nekoe Jam, évènement collaboratif inédit en France"
 date: 2010-03-06 08:37:00
-permalink: /2010/03/nekoe-jam-evenement-collaboratif-inedit-en-france.html
+permalink: /transportsdufutur/2010/03/nekoe-jam-evenement-collaboratif-inedit-en-france.html
 tags: [citoyen, connectivité, internet, Plateforme d'idées, Service de mobilité]
 layout: post
 ---

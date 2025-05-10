@@ -1,7 +1,7 @@
 ---
 title: "Après Amazon Web Service, bientôt Amazon Prime Logistic"
 date: 2016-08-31 14:48:45
-permalink: /2016/08/service-bientot-logistic.html
+permalink: /transportsdufutur/2016/08/service-bientot-logistic.html
 tags: [Acteur numérique des Mobilités et des Logistiques, Amazon, art de la guerre, aviation, camion, catastrophe, citoyen, économie de l'expérience, Energie, logistique, marchandises, Que sait-on de nos mobilités ?]
 layout: post
 ---

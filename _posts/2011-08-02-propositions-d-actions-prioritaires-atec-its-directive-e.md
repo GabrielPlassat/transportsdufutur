@@ -1,7 +1,7 @@
 ---
 title: "Propositions d'actions prioritaires - ATEC ITS - Directive européenne ITS"
 date: 2011-08-02 16:53:52
-permalink: /2011/08/propositions-dactions-prioritaires-atec-its-directive-europeenne-its.html
+permalink: /transportsdufutur/2011/08/propositions-dactions-prioritaires-atec-its-directive-europeenne-its.html
 tags: [assistant de mobilité, autorité des transports, collectivité, connectivité, donnée data, données réelles, Energie, Europe, gouvernance, innovation, internet, internet des objets, ITS, living lab, marchandises, multimodes, normalisation, partage de données, partage de la voirie, plate-forme, Service de mobilité, stationnement, TIC]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Hic sunt dracones"
 date: 2021-12-17 18:54:13
-permalink: /2021/12/hic-sunt-dracones.html
+permalink: /transportsdufutur/2021/12/hic-sunt-dracones.html
 tags: [challenge, extrême défi, génèse]
 layout: post
 ---

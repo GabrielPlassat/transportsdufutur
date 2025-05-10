@@ -1,7 +1,7 @@
 ---
 title: "L’histoire de ma transformation numérique (2/3)"
 date: 2018-07-26 16:14:50
-permalink: /2018/07/lhistoire-de-ma-transformation-numerique-2-3.html
+permalink: /transportsdufutur/2018/07/lhistoire-de-ma-transformation-numerique-2-3.html
 tags: [nan]
 layout: post
 ---

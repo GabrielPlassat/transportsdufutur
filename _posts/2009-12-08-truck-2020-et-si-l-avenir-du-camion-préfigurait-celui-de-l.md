@@ -1,7 +1,7 @@
 ---
 title: "Truck 2020, et si l’avenir du camion préfigurait celui de l’automobile ?"
 date: 2009-12-08 15:19:58
-permalink: /2009/12/truck-2020-et-si-lavenir-du-camion-prefigurait-celui-de-lautomobile.html
+permalink: /transportsdufutur/2009/12/truck-2020-et-si-lavenir-du-camion-prefigurait-celui-de-lautomobile.html
 tags: [camion, Energie, Infrastructure, Service de mobilité, TIC, Véhicule]
 layout: post
 ---

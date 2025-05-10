@@ -1,7 +1,7 @@
 ---
 title: "L’avenir de l’énergie dans les transports, Amazon Energy Service"
 date: 2011-08-08 11:38:43
-permalink: /2011/08/lavenir-de-lenergie-dans-les-transports-amazon-energy-service.html
+permalink: /transportsdufutur/2011/08/lavenir-de-lenergie-dans-les-transports-amazon-energy-service.html
 tags: [assistant de mobilité, Assistant Personnel de Consommation, biocarburant, carburant, données réelles, économie du quaternaire, économie fonctionnalité, Efficacité énergétique, Infrastructure, innovation, internet, logistique, open innovation, partage de données, Service de mobilité, transition générationnelle]
 layout: post
 ---

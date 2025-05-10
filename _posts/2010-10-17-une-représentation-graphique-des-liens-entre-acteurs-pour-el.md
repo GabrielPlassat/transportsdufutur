@@ -1,7 +1,7 @@
 ---
 title: "Une représentation graphique des liens entre acteurs pour electric vehicle''"
 date: 2010-10-17 14:46:07
-permalink: /2010/10/une-representation-graphique-des-liens-entre-acteurs-pour-electric-vehicle.html
+permalink: /transportsdufutur/2010/10/une-representation-graphique-des-liens-entre-acteurs-pour-electric-vehicle.html
 tags: [réseaux, VE, web2.0]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "La 3ème voie : Spiri.io"
 date: 2016-08-29 17:18:55
-permalink: /2016/08/3eme-voie-spiri.html
+permalink: /transportsdufutur/2016/08/3eme-voie-spiri.html
 tags: [Acteur numérique des Mobilités et des Logistiques, allégement, autopartage, BAJAJ, blockchain, citoyen, Comment agir pour changer les pratiques ?, économie fonctionnalité, Efficacité énergétique, Energie, léger, multitude, Tesla, Véhicule, véhicule mono-usage]
 layout: post
 ---

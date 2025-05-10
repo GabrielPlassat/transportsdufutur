@@ -1,7 +1,7 @@
 ---
 title: "Parce que la transparence va devenir un facteur stratégique pour les entreprises du transport"
 date: 2012-03-19 16:05:38
-permalink: /2012/03/parce-que-la-transparence-va-devenir-un-facteur-strategique-pour-les-entreprises-du-transport.html
+permalink: /transportsdufutur/2012/03/parce-que-la-transparence-va-devenir-un-facteur-strategique-pour-les-entreprises-du-transport.html
 tags: [marchandises, transparence]
 layout: post
 ---

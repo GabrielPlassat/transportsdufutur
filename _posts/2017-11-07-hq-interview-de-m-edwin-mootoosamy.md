@@ -1,7 +1,7 @@
 ---
 title: "HQ interview de M  Edwin Mootoosamy"
 date: 2017-11-07 14:48:52
-permalink: /2017/11/hq-interview-de-m-edwin-mootoosamy.html
+permalink: /transportsdufutur/2017/11/hq-interview-de-m-edwin-mootoosamy.html
 tags: [nan]
 layout: post
 ---

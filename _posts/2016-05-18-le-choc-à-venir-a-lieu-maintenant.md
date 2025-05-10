@@ -1,7 +1,7 @@
 ---
 title: "Le choc à venir a lieu. Maintenant."
 date: 2016-05-18 11:54:35
-permalink: /2016/05/choc-venir-maintenant.html
+permalink: /transportsdufutur/2016/05/choc-venir-maintenant.html
 tags: [Acteur historique des Mobilités et Logistiques, Acteur numérique des Mobilités et des Logistiques, art de la guerre, blockchain, citoyen, Comment agir pour changer les pratiques ?, communs, covoiturage, cygne noir, donnée data, E.Musk, économie de l'expérience, économie fonctionnalité, innovation, internet des objets, multitude, open innovation, waze]
 layout: post
 ---

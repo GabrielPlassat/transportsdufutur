@@ -1,7 +1,7 @@
 ---
 title: "La normalisation Européenne au service des VE à Sophia Antipolis"
 date: 2010-07-27 10:54:10
-permalink: /2010/07/la-normalisation-europeenne-au-service-des-ve-a-sophia-antipolis.html
+permalink: /transportsdufutur/2010/07/la-normalisation-europeenne-au-service-des-ve-a-sophia-antipolis.html
 tags: [normalisation, VE]
 layout: post
 ---

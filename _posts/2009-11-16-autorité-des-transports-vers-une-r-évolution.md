@@ -1,7 +1,7 @@
 ---
 title: "Autorité des transports, vers une (r)évolution ?"
 date: 2009-11-16 17:06:04
-permalink: /2009/11/autorite-des-transports-vers-une-revolution.html
+permalink: /transportsdufutur/2009/11/autorite-des-transports-vers-une-revolution.html
 tags: [autopartage, autorité des transports, cité, citoyen, données réelles, Infrastructure, internet, internet des objets, logistique, multimodes, partage de données, péage urbain, Plateforme d'idées, Précarité, qualité de l'air, roadpricing, Service de mobilité, TIC, Véhicule]
 layout: post
 ---

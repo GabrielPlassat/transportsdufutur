@@ -1,7 +1,7 @@
 ---
 title: "E.Musk as a Platform"
 date: 2016-04-11 21:27:59
-permalink: /2016/04/e-musk-as-a-platform.html
+permalink: /transportsdufutur/2016/04/e-musk-as-a-platform.html
 tags: [Acteur numérique des Mobilités et des Logistiques, cygne noir, E.Musk, économie de l'expérience, économie fonctionnalité, Efficacité énergétique, internet]
 layout: post
 ---

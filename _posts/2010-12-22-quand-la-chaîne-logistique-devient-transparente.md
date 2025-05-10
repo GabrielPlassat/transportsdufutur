@@ -1,7 +1,7 @@
 ---
 title: "Quand la chaîne logistique devient transparente ..."
 date: 2010-12-22 18:09:15
-permalink: /2010/12/quand-la-chaine-logistique-devient-transparente.html
+permalink: /transportsdufutur/2010/12/quand-la-chaine-logistique-devient-transparente.html
 tags: [citoyen, donnée data, données réelles, emission, Energie, fiabilité, gratuit, guide d'achat, internet, logistique, marchandises, open innovation, open source, partage de données, Plateforme d'idées]
 layout: post
 ---

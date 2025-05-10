@@ -1,7 +1,7 @@
 ---
 title: "Constructeurs, vos plateformes brûlent !"
 date: 2016-02-01 08:40:18
-permalink: /2016/02/constructeurs-vos-plateformes-brulent.html
+permalink: /transportsdufutur/2016/02/constructeurs-vos-plateformes-brulent.html
 tags: [Acteur historique des Mobilités et Logistiques, Acteur numérique des Mobilités et des Logistiques, Non classé]
 layout: post
 ---

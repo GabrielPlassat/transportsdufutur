@@ -1,7 +1,7 @@
 ---
 title: "Ghislain Delabie DEways"
 date: 2017-11-07 14:48:28
-permalink: /2017/11/ghislain-delabie-deways.html
+permalink: /transportsdufutur/2017/11/ghislain-delabie-deways.html
 tags: [nan]
 layout: post
 ---

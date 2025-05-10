@@ -1,7 +1,7 @@
 ---
 title: "Ceci n'est pas une place de parking"
 date: 2017-01-21 16:03:14
-permalink: /2017/01/ceci-place-parking.html
+permalink: /transportsdufutur/2017/01/ceci-place-parking.html
 tags: [Acteur numérique des Mobilités et des Logistiques, art de la guerre, assistant de mobilité, cité, citoyen, collectivité, Comment agir pour changer les pratiques ?, communs, données réelles, Fabrique des mobilités, google, stationnement, Territoire Collectivité Etat Europe]
 layout: post
 ---

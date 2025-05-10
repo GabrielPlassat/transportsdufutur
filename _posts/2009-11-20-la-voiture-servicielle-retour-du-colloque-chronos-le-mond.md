@@ -1,7 +1,7 @@
 ---
 title: "La voiture servicielle, retour du colloque Chronos - Le Monde - TNS"
 date: 2009-11-20 22:38:33
-permalink: /2009/11/la-voiture-servicielle-retour-du-colloque-chronos-le-monde-tns.html
+permalink: /transportsdufutur/2009/11/la-voiture-servicielle-retour-du-colloque-chronos-le-monde-tns.html
 tags: [ADEME, Séminaire, Service de mobilité, TIC, Véhicule]
 layout: post
 ---

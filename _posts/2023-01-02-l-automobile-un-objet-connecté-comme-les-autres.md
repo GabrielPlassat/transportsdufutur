@@ -1,7 +1,7 @@
 ---
 title: "L'automobile, un objet connecté comme les autres ?"
 date: 2023-01-02 15:35:53
-permalink: /2023/01/lautomobile-un-objet-connecte-comme-les-autres.html
+permalink: /transportsdufutur/2023/01/lautomobile-un-objet-connecte-comme-les-autres.html
 tags: [automobile, voiture connectée]
 layout: post
 ---

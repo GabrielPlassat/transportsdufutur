@@ -1,7 +1,7 @@
 ---
 title: "Logistique Urbaine, le 17 Septembre à Montpellier, inscrivez vous !"
 date: 2010-09-06 15:52:30
-permalink: /2010/09/logistique-urbaine-le-17-septembre-a-montpellier-inscrivez-vous.html
+permalink: /transportsdufutur/2010/09/logistique-urbaine-le-17-septembre-a-montpellier-inscrivez-vous.html
 tags: [nan]
 layout: post
 ---

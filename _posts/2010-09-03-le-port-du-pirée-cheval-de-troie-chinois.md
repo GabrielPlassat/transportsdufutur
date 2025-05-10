@@ -1,7 +1,7 @@
 ---
 title: "Le port du Pirée, cheval de troie chinois"
 date: 2010-09-03 17:44:35
-permalink: /2010/09/le-port-du-piree-cheval-de-troie-chinois.html
+permalink: /transportsdufutur/2010/09/le-port-du-piree-cheval-de-troie-chinois.html
 tags: [nan]
 layout: post
 ---

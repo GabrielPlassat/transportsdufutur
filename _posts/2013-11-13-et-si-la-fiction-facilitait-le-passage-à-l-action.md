@@ -1,7 +1,7 @@
 ---
 title: "Et si la fiction facilitait le passage à l'action ?"
 date: 2013-11-13 07:05:38
-permalink: /2013/11/et-si-la-fiction-facilitait-le-passage-a-laction.html
+permalink: /transportsdufutur/2013/11/et-si-la-fiction-facilitait-le-passage-a-laction.html
 tags: [innovation, intelligence collective, pensée complexe]
 layout: post
 ---

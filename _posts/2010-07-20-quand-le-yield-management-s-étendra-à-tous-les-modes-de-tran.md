@@ -1,7 +1,7 @@
 ---
 title: "Quand le yield management s'étendra à tous les modes de transport ..."
 date: 2010-07-20 11:56:48
-permalink: /2010/07/quand-le-yield-management-setendra-a-tous-les-modes-de-transport.html
+permalink: /transportsdufutur/2010/07/quand-le-yield-management-setendra-a-tous-les-modes-de-transport.html
 tags: [citoyen, collectivité, données réelles, multimodes, partage de données, Service de mobilité, yield management]
 layout: post
 ---

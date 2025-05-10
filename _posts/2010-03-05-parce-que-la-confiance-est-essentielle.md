@@ -1,7 +1,7 @@
 ---
 title: "Parce que la confiance est essentielle"
 date: 2010-03-05 11:16:15
-permalink: /2010/03/parce-que-la-confiance-est-essentielle.html
+permalink: /transportsdufutur/2010/03/parce-que-la-confiance-est-essentielle.html
 tags: [citoyen, confiance, connectivité, données réelles, Service de mobilité, TIC]
 layout: post
 ---

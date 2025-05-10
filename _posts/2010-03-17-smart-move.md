@@ -1,7 +1,7 @@
 ---
 title: "Smart Move"
 date: 2010-03-17 08:57:14
-permalink: /2010/03/smart-move.html
+permalink: /transportsdufutur/2010/03/smart-move.html
 tags: [BHNS, Efficacité énergétique]
 layout: post
 ---

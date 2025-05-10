@@ -1,7 +1,7 @@
 ---
 title: "Vigie Transports 2010, PREDIT"
 date: 2010-07-16 15:52:09
-permalink: /2010/07/vigie-transports-2010-predit.html
+permalink: /transportsdufutur/2010/07/vigie-transports-2010-predit.html
 tags: [nan]
 layout: post
 ---
