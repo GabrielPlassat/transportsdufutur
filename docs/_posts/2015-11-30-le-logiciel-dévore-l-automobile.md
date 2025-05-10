@@ -12,19 +12,19 @@ HELENA : (se lève et tend la main) Ravie de vous rencontrer. Ce doit être trè
 
 SULLA : Je ne connais pas le reste du monde, Mademoiselle Glory. Je vous en prie, asseyez-vous.
 
-HELENA : (s’assoie) D’où venez-vous ?
+HELENA : (s'assoie) D'où venez-vous ?
 
-SULLA : D’ici, l’usine.
+SULLA : D'ici, l'usine.
 
 HELENA: Oh, vous êtes née ici.
 
-SULLA : Oui, j’ai été fabriquée ici.
+SULLA : Oui, j'ai été fabriquée ici.
 
 HELENA (Surprise) Comment ?
 
-DOMIN : (riant) Sulla n’est pas une personne, Mademoiselle Glory, elle est un robot.
+DOMIN : (riant) Sulla n'est pas une personne, Mademoiselle Glory, elle est un robot.
 
-HELENA : Oh, s’il vous plait, excusez-moi.</p>
+HELENA : Oh, s'il vous plait, excusez-moi.</p>
 
 <p style="text-align: justify"><em>Début de la pièce de théâtre R.U.R. de Karel Kapek, écrite en 1920, a utilisé pour la première fois le mot « robot ».</em></p>
 

@@ -38,7 +38,7 @@ Incapables de penser un système de transport décentralisé, distribué, rétic
 
 
 
-Incapables d’en sortir tant ce schéma a rigidifié les mentalités, structuré les façons de voir le monde et figé les capacités d’action.
+Incapables d'en sortir tant ce schéma a rigidifié les mentalités, structuré les façons de voir le monde et figé les capacités d'action.
 
 
 
@@ -46,13 +46,13 @@ Incapables d’en sortir tant ce schéma a rigidifié les mentalités, structur�
 
 <p style="text-align: center;">Que la masse des véhicules principalement urbains ne cesse de croître est devenu normal,</p>
 
-<p style="text-align: center;">Que des objets de 2 tonnes monopolisent une grande partie de l’espace public, là où il est le plus rare, est devenu normal,<!--more--></p>
+<p style="text-align: center;">Que des objets de 2 tonnes monopolisent une grande partie de l'espace public, là où il est le plus rare, est devenu normal,<!--more--></p>
 
 <p style="text-align: center;">Que plus de 3.000 personnes soient tuées tous les ans par des objets de 2 tonnes, est devenu normal,</p>
 
 <p style="text-align: center;">Que plus de 40.000 personnes soient tuées tous les ans par la pollution générée par ces objets de 2 tonnes, est devenu normal,</p>
 
-<p style="text-align: center;">Que plusieurs millions d’euro sont attribués en aide à “l’innovation” pour continuer à faire des objets de 2 tonnes, est devenu normal,</p>
+<p style="text-align: center;">Que plusieurs millions d'euro sont attribués en aide à "l'innovation" pour continuer à faire des objets de 2 tonnes, est devenu normal,</p>
 
 <p style="text-align: center;">Que la réduction de la vitesse maximale de quelques km/h à quelques endroits soit un tel cirque, est devenu normal,</p>
 
@@ -62,23 +62,23 @@ Incapables d’en sortir tant ce schéma a rigidifié les mentalités, structur�
 
 
 
-Cette normalité est fondée sur des <a href="https://fr.wikipedia.org/wiki/M%C3%A8me">mèmes</a>, et cet ensemble forme une <a href="https://fr.wikipedia.org/wiki/Doxa">doxa</a>. Tout cela nous bloque dans une position paradoxale, à la fois hyperstable pour ceux qui en profitent et totalement insupportable pour ceux qui la subissent. En pensant uniquement sortir de ces impasses par de nouveaux objets techniques, nous oublions <a href="https://gabrielplassat.github.io/transportsdufutur/2013/10/metanote-18-pour-une-ontologie-de-la-demandes-de-transport.html?hilite=%27ontologie%27">l’humain</a> et maintenons la doxa.
+Cette normalité est fondée sur des <a href="https://fr.wikipedia.org/wiki/M%C3%A8me">mèmes</a>, et cet ensemble forme une <a href="https://fr.wikipedia.org/wiki/Doxa">doxa</a>. Tout cela nous bloque dans une position paradoxale, à la fois hyperstable pour ceux qui en profitent et totalement insupportable pour ceux qui la subissent. En pensant uniquement sortir de ces impasses par de nouveaux objets techniques, nous oublions <a href="https://gabrielplassat.github.io/transportsdufutur/2013/10/metanote-18-pour-une-ontologie-de-la-demandes-de-transport.html?hilite=%27ontologie%27">l'humain</a> et maintenons la doxa.
 
 
 
-Comprenons nous. Il est inutile de montrer du doigt ou critiquer les autosolistes et/ou acheteurs de SUV. Ces personnes sont enfermées dans une dépendance qu’elles alimentent et qu’elles subissent. Toute critique directe est même contre productive.
+Comprenons nous. Il est inutile de montrer du doigt ou critiquer les autosolistes et/ou acheteurs de SUV. Ces personnes sont enfermées dans une dépendance qu'elles alimentent et qu'elles subissent. Toute critique directe est même contre productive.
 
 
 
-Par contre, chaque décision d’investissement dans des infrastructures (physique ou numérique), dans des projets d’innovation ou de recherche, dans des lois, réglementations, taxes ou incitatifs doit être ré-interrogée pour sortir de cette situation intenable. Chaque acteur avec ses capacités est invité à explorer ses propres limites, les dépasser et explorer des zones aujourd'hui <a href="https://gabrielplassat.github.io/transportsdufutur/2018/10/bienvenue-en-terre-inconnue.html" target="_blank" rel="noopener noreferrer">inconnues</a>. Dans son entreprise, dans son quotidien. Ce doit être un combat de chaque instant pour repenser l’allocation de l'espace public au profit des humains et non des objets, pour sortir de cette impasse dans laquelle nous sommes enfermés. Pour autoriser les bons objets aux bons endroits aux bons moments, pour transformer l’urbanisme. Au regard des impacts sanitaires et sociaux, des changements massifs sont à engager.
+Par contre, chaque décision d'investissement dans des infrastructures (physique ou numérique), dans des projets d'innovation ou de recherche, dans des lois, réglementations, taxes ou incitatifs doit être ré-interrogée pour sortir de cette situation intenable. Chaque acteur avec ses capacités est invité à explorer ses propres limites, les dépasser et explorer des zones aujourd'hui <a href="https://gabrielplassat.github.io/transportsdufutur/2018/10/bienvenue-en-terre-inconnue.html" target="_blank" rel="noopener noreferrer">inconnues</a>. Dans son entreprise, dans son quotidien. Ce doit être un combat de chaque instant pour repenser l'allocation de l'espace public au profit des humains et non des objets, pour sortir de cette impasse dans laquelle nous sommes enfermés. Pour autoriser les bons objets aux bons endroits aux bons moments, pour transformer l'urbanisme. Au regard des impacts sanitaires et sociaux, des changements massifs sont à engager.
 
 
 
-De la même façon que le prix de l’immobilier est fixé par le lieu, le lieu et le lieu, changer la doxa dans la mobilité passe par changer les flux d’argent, d’argent et d’argent. L’argent utilisé pour financer les transports publics collectifs, le fameux VT est à reconfigurer. L’argent collecté par la taxe ou l’impôt pour influencer les achats de voiture et le redistribuer à travers des aides aux particuliers ou aux entreprises, est également à revoir. Enfin l’argent donné aux industriels pour “innover” (vous noterez les guillemets) doit être remis à plat.
+De la même façon que le prix de l'immobilier est fixé par le lieu, le lieu et le lieu, changer la doxa dans la mobilité passe par changer les flux d'argent, d'argent et d'argent. L'argent utilisé pour financer les transports publics collectifs, le fameux VT est à reconfigurer. L'argent collecté par la taxe ou l'impôt pour influencer les achats de voiture et le redistribuer à travers des aides aux particuliers ou aux entreprises, est également à revoir. Enfin l'argent donné aux industriels pour "innover" (vous noterez les guillemets) doit être remis à plat.
 
 
 
-Car aucun constructeur d’objet de 2 tonnes n’a intérêt à réduire la masse puisque ces bénéfices lui sont directement corrélés. Aucun constructeur d’objet de 2 tonnes n’a intérêt à sortir <em>rapidement</em> du moteur thermique car ce dernier constitue une barrière à l’entrée quasi infranchissable et largement amortie. En supprimant le moteur thermique, une multitude d’acteur pourrait venir proposer d’autres objets plus légers et non polluants, roulant à faible vitesse et à bas prix, configurables dans des services répondant aux multiples besoins.
+Car aucun constructeur d'objet de 2 tonnes n'a intérêt à réduire la masse puisque ces bénéfices lui sont directement corrélés. Aucun constructeur d'objet de 2 tonnes n'a intérêt à sortir <em>rapidement</em> du moteur thermique car ce dernier constitue une barrière à l'entrée quasi infranchissable et largement amortie. En supprimant le moteur thermique, une multitude d'acteur pourrait venir proposer d'autres objets plus légers et non polluants, roulant à faible vitesse et à bas prix, configurables dans des services répondant aux multiples besoins.
 
 
 

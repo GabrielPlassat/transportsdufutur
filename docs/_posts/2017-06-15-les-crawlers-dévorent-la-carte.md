@@ -6,15 +6,15 @@ tags: [art de la guerre, assistant de mobilité, citoyen, collectivité, donnée
 layout: post
 ---
 
-La carte est consubstantielle aux transports. Pourtant bientôt ce sera un souvenir. La carte, telle que nous la connaissons, reproduit « vu de haut » une représentation du territoire, de la géographie, des infrastructures. Elle indexe le minéral, l’immobile. Son utilisation impose de l’orienter et de se projeter dans cette représentation pour se guider ou s'imaginer le chemin.
+La carte est consubstantielle aux transports. Pourtant bientôt ce sera un souvenir. La carte, telle que nous la connaissons, reproduit « vu de haut » une représentation du territoire, de la géographie, des infrastructures. Elle indexe le minéral, l'immobile. Son utilisation impose de l'orienter et de se projeter dans cette représentation pour se guider ou s'imaginer le chemin.
 
 
 
-<a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/06/mich.jpg"><img class="aligncenter wp-image-4850 size-full" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/06/mich.jpg" alt="" width="1300" height="865" /></a><!--more--><strong>La carte est morte vive la carte</strong>
+<a href="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/06/mich.jpg"><img class="aligncenter wp-image-4850 size-full" src="https://gabrielplassat.github.io/transportsdufutur/wp-content/uploads/sites/6/2017/06/mich.jpg" alt=" width="1300" height="865" /></a><!--more--><strong>La carte est morte vive la carte</strong>
 
 
 
-Le numérique bouleverse cette représentation. Il n’y a plus besoin de procéder à ce rituel. En fait, il ne s’agit plus de carte mais de modèles simulés des mondes physiques. Et ces modèles ne sont visibles qu’à travers des interfaces. Stéphane Vial dans sa thèse l’être et l’écran propose une première caractéristique du <strong>phénomène numérique </strong><strong>(lire <a href="https://gabrielplassat.github.io/transportsdufutur/2013/08/metanote-17-la-mutation-numerique-nengendre-pas-seulement-de-nouveaux-moyens-de-transports-elle-modi.html" target="_blank" rel="noopener noreferrer">cet article sur la révolution numérique</a>)</strong><strong>. C’est un noumène, c'est à dire qu'il n'est pas visible, qu'il ne se manifeste pas sans interface</strong>. La matière calculée, dont les traces numériques pour les transports ou la logistique, circule à toutes les échelles et devient le réel en perfusant les flux d'objets physiques. "<em>Parce qu'elle est d'essence mathématique, c'est à dire imperceptible, la matière calculée est d'abord nouménale</em>".
+Le numérique bouleverse cette représentation. Il n'y a plus besoin de procéder à ce rituel. En fait, il ne s'agit plus de carte mais de modèles simulés des mondes physiques. Et ces modèles ne sont visibles qu'à travers des interfaces. Stéphane Vial dans sa thèse l'être et l'écran propose une première caractéristique du <strong>phénomène numérique </strong><strong>(lire <a href="https://gabrielplassat.github.io/transportsdufutur/2013/08/metanote-17-la-mutation-numerique-nengendre-pas-seulement-de-nouveaux-moyens-de-transports-elle-modi.html" target="_blank" rel="noopener noreferrer">cet article sur la révolution numérique</a>)</strong><strong>. C'est un noumène, c'est à dire qu'il n'est pas visible, qu'il ne se manifeste pas sans interface</strong>. La matière calculée, dont les traces numériques pour les transports ou la logistique, circule à toutes les échelles et devient le réel en perfusant les flux d'objets physiques. "<em>Parce qu'elle est d'essence mathématique, c'est à dire imperceptible, la matière calculée est d'abord nouménale</em>".
 
 
 
@@ -26,7 +26,7 @@ Noumène numérique d'abord réservé aux mathématiciens, la matière calculée
 
 
 
-Notre assistant personnel de mobilité (APM) est cette interface qui réagit, qui produit des réalités informatiquement simulées. Cette virtualité permet de donner une représentation visible réelle des phénomènes qui opérent invisiblement. Ces interfaces "rassemblées dans notre poche" permettent aux noumènes numériques de devenir réalité, de se manifester. Vous pensiez que la carte était stratégique dans les transports. Vous avez raison. Mais maintenant il ne faut plus pensez carte mais « <em>mondes physiques simulés</em> », interfaces riches, API pour automatiser la production et l’utilisation de la quasi-totalité des informations par des robots.
+Notre assistant personnel de mobilité (APM) est cette interface qui réagit, qui produit des réalités informatiquement simulées. Cette virtualité permet de donner une représentation visible réelle des phénomènes qui opérent invisiblement. Ces interfaces "rassemblées dans notre poche" permettent aux noumènes numériques de devenir réalité, de se manifester. Vous pensiez que la carte était stratégique dans les transports. Vous avez raison. Mais maintenant il ne faut plus pensez carte mais « <em>mondes physiques simulés</em> », interfaces riches, API pour automatiser la production et l'utilisation de la quasi-totalité des informations par des robots.
 
 
 
@@ -38,7 +38,7 @@ Petit détour vers le web…. Google propose un moteur de recherche qui propose 
 
 
 
-Google prolonge cette stratégie dans les mondes physiques. Il s’agit d’indexer toutes les connaissances des mondes physiques pour apporter une réponse en 0,036 sec à une future recherche déposée uniquement avec quelques mots. Nom du restaurant, panneaux de circulation, N° d’immeuble écrit en chiffre romain ou pas, … tout cela est déjà indexé par le couple voiture à conduite humaine (Google Street View) et logiciels de traitement d’images. Ce sont les premiers crawlers des mondes physiques, lents, couteux.
+Google prolonge cette stratégie dans les mondes physiques. Il s'agit d'indexer toutes les connaissances des mondes physiques pour apporter une réponse en 0,036 sec à une future recherche déposée uniquement avec quelques mots. Nom du restaurant, panneaux de circulation, N° d'immeuble écrit en chiffre romain ou pas, … tout cela est déjà indexé par le couple voiture à conduite humaine (Google Street View) et logiciels de traitement d'images. Ce sont les premiers crawlers des mondes physiques, lents, couteux.
 
 
 
@@ -54,11 +54,11 @@ Google prolonge cette stratégie dans les mondes physiques. Il s’agit d’inde
 
 </ul>
 
-Déjà se préparent les prochaines générations de crawlers. Ils indexeront tous les détails des mondes physiques, chaque arbre le long des routes, chaque chantier sur la voirie, chaque peinture au sol. Des mondes physiques simulés seront produits sans cesse et historisés. Ils seront essentiels pour apporter des réponses contextualisées en 0,00000036 sec aux requêtes envoyées par d’autres robots : les véhicules. Et de nouveau un système bouclé sera à l’œuvre : des véhicules robotisés (totalement ou partiellement) utiliseront des mondes physiques simulés et produiront des données mettant à jour ces mondes simulés. <strong>Ce seront les crawlers des mondes physiques.</strong>
+Déjà se préparent les prochaines générations de crawlers. Ils indexeront tous les détails des mondes physiques, chaque arbre le long des routes, chaque chantier sur la voirie, chaque peinture au sol. Des mondes physiques simulés seront produits sans cesse et historisés. Ils seront essentiels pour apporter des réponses contextualisées en 0,00000036 sec aux requêtes envoyées par d'autres robots : les véhicules. Et de nouveau un système bouclé sera à l'œuvre : des véhicules robotisés (totalement ou partiellement) utiliseront des mondes physiques simulés et produiront des données mettant à jour ces mondes simulés. <strong>Ce seront les crawlers des mondes physiques.</strong>
 
 
 
-Cela n’a plus aucun rapport avec les cartes. En continuant à utiliser le mot « carte », nous pensons stabilité, immobile alors que les mondes physiques simulés et les crawlers produisent et consomment <strong>un flux</strong> en perpétuelle évolution exploitable par une multitude de robots et accessoirement des humains. Par exemple, les travaux dans les villes pourront être indexés en continu et historisés. Il ne s’agit plus de penser données mais <strong>système qui produit, traite et permet l’exploitation automatique des données</strong>. Les modèles d'affaires seront basés sur des plateformes multifaces nécessitant de rassembler utilisateurs et producteurs.
+Cela n'a plus aucun rapport avec les cartes. En continuant à utiliser le mot « carte », nous pensons stabilité, immobile alors que les mondes physiques simulés et les crawlers produisent et consomment <strong>un flux</strong> en perpétuelle évolution exploitable par une multitude de robots et accessoirement des humains. Par exemple, les travaux dans les villes pourront être indexés en continu et historisés. Il ne s'agit plus de penser données mais <strong>système qui produit, traite et permet l'exploitation automatique des données</strong>. Les modèles d'affaires seront basés sur des plateformes multifaces nécessitant de rassembler utilisateurs et producteurs.
 
 
 

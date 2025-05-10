@@ -6,4 +6,4 @@ tags: [marketing, partage de données, transition générationnelle]
 layout: post
 ---
 
-<div id="__ss_1410458"><strong><a href="http://www.slideshare.net/duringer/kit-de-survie-gratuit-pour-anticiper-lemergence-dun-nouveau-monde" title="KIT DE SURVIE GRATUIT POUR ANTICIPER L’EMERGENCE D’UN NOUVEAU MONDE">KIT DE SURVIE GRATUIT POUR ANTICIPER L’EMERGENCE D’UN NOUVEAU MONDE</a></strong>   <div>View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/duringer">René Duringer</a>.</div></div>
+<div id="__ss_1410458"><strong><a href="http://www.slideshare.net/duringer/kit-de-survie-gratuit-pour-anticiper-lemergence-dun-nouveau-monde" title="KIT DE SURVIE GRATUIT POUR ANTICIPER L'EMERGENCE D'UN NOUVEAU MONDE">KIT DE SURVIE GRATUIT POUR ANTICIPER L'EMERGENCE D'UN NOUVEAU MONDE</a></strong>   <div>View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/duringer">René Duringer</a>.</div></div>

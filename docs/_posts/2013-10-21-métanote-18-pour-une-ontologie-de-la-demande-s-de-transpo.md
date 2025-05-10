@@ -12,7 +12,7 @@ layout: post
 
 <p style="text-align: justify;">Ni les finances publiques, ni les finances privées, ni les progrès technologiques, ne permettent de produire un discours crédible et souhaitable d'une mobilité à venir performante, citoyenne, équilibrée. Il est  alors question de faire évoluer la « demande », de « modifier » les comportements, soit par une communication engageante, soit par des incitatifs (récompenses), soit par de nouvelles taxes (contraintes). <strong>Et là, constatons que nous manquons cruellement <a href="http://fr.wikipedia.org/wiki/Ontologie_(informatique)" target="_blank" rel="noopener">d'ontologie </a>pour échanger, partager, débattre, et donc construire les solutions à mettre en œuvre du côté de la « demande », dans toutes les dimensions : technique, politique, sociale, mais aussi systémique.</strong></p>
 
-<p style="text-align: justify;">« La demande » ne s'industrialise pas, elle n'est pas unique, elle réagit de multiples façons à des contraintes, des récompenses, des incitatifs, des sollicitations, des produits, des services. Elle n'est pas prévisible, elle n'est pas rationnelle, elle n'est pas modélisable. Et en plus, quasiment personne ne « la » connaît. Elle n’a pas de représentant, pas de lobby pour la représenter dans sa globalité. Et pourtant elle a toujours été stratégique.</p>
+<p style="text-align: justify;">« La demande » ne s'industrialise pas, elle n'est pas unique, elle réagit de multiples façons à des contraintes, des récompenses, des incitatifs, des sollicitations, des produits, des services. Elle n'est pas prévisible, elle n'est pas rationnelle, elle n'est pas modélisable. Et en plus, quasiment personne ne « la » connaît. Elle n'a pas de représentant, pas de lobby pour la représenter dans sa globalité. Et pourtant elle a toujours été stratégique.</p>
 
 <!--more-->
 
@@ -34,9 +34,9 @@ layout: post
 
 <p style="text-align: justify;"><strong>La multitude des règles du vivre ensemble</strong></p>
 
-<p style="text-align: justify;">Mais pour cela, nous manquons d'ontologie pour parler d’action visant à « changer la demande ». Aujourd'hui la fiscalité des carburants, les péages et les contraventions (vitesse, parking) sont les principales <strong>contraintes publiques centralisées</strong> (top down). Elles sont censées intégrer les externalités du mode routier et conduire vers des modes collectifs et actifs. Non seulement elles ne sont pas adaptatives à la multitude de configuration, mais elles n'expliquent pas les externalités qu'elles sont censées incarner, nicomment sont utilisés les richesses collectées. Nous allons devoir les « numériser » pour les rendre modulables aux conditions locales (bottom up) et pour leur rendre compréhensibles (quels sont les objectifs ? Quelles sont les règles? Qui les définit ?). Puis il faudra les intégrer dans un schéma national et local, simple, compréhensible, permettant d'expliquer pourquoi et comment nous allons co-concevoir nos règles du vivre ensemble (au niveau de l'entreprise, de la collectivité, du pays, …) et nos mobilités.</p>
+<p style="text-align: justify;">Mais pour cela, nous manquons d'ontologie pour parler d'action visant à « changer la demande ». Aujourd'hui la fiscalité des carburants, les péages et les contraventions (vitesse, parking) sont les principales <strong>contraintes publiques centralisées</strong> (top down). Elles sont censées intégrer les externalités du mode routier et conduire vers des modes collectifs et actifs. Non seulement elles ne sont pas adaptatives à la multitude de configuration, mais elles n'expliquent pas les externalités qu'elles sont censées incarner, nicomment sont utilisés les richesses collectées. Nous allons devoir les « numériser » pour les rendre modulables aux conditions locales (bottom up) et pour leur rendre compréhensibles (quels sont les objectifs ? Quelles sont les règles? Qui les définit ?). Puis il faudra les intégrer dans un schéma national et local, simple, compréhensible, permettant d'expliquer pourquoi et comment nous allons co-concevoir nos règles du vivre ensemble (au niveau de l'entreprise, de la collectivité, du pays, …) et nos mobilités.</p>
 
-<p style="text-align: justify;">Ainsi par exemple, le transfert de tout ou partie des taxes portées par le carburant vers un support immatériel représentant la mobilité (lire <strong><a href="https://gabrielplassat.github.io/transportsdufutur/2013/07/et-si-nous-innovions-sur-la-fiscalite-des-carburants.html" target="_blank" rel="noopener">Et si nous innovions sur la fiscalité des carburants ?</a></strong>) pourrait permettre de <strong>spécialiser cette contrainte à la multitude et d’en augmenter le sens</strong>. Les technologies sont pour la plupart disponibles, les dérives sont multiples, les critiques justifiées, la consultation et l'expérimentation nécessaires. Nous serons capables, par exemple :</p>
+<p style="text-align: justify;">Ainsi par exemple, le transfert de tout ou partie des taxes portées par le carburant vers un support immatériel représentant la mobilité (lire <strong><a href="https://gabrielplassat.github.io/transportsdufutur/2013/07/et-si-nous-innovions-sur-la-fiscalite-des-carburants.html" target="_blank" rel="noopener">Et si nous innovions sur la fiscalité des carburants ?</a></strong>) pourrait permettre de <strong>spécialiser cette contrainte à la multitude et d'en augmenter le sens</strong>. Les technologies sont pour la plupart disponibles, les dérives sont multiples, les critiques justifiées, la consultation et l'expérimentation nécessaires. Nous serons capables, par exemple :</p>
 
 
 
@@ -44,11 +44,11 @@ layout: post
 
  	<li>de transférer progressivement les taxes adossées aux produits pétroliers, à une taxe globale de mobilité basée sur des données numériques,</li>
 
- 	<li>de proposer des taxes beaucoup plus progressives, adaptées à l’usage réel des véhicules, ouvrant des possibilités inédites :</li>
+ 	<li>de proposer des taxes beaucoup plus progressives, adaptées à l'usage réel des véhicules, ouvrant des possibilités inédites :</li>
 
  	<li>premiers kilomètres sans taxe possibles pour certaines catégories sociales,</li>
 
- 	<li>augmentation des taxes avec les distances parcourues (sur le mode des tranches d’imposition),</li>
+ 	<li>augmentation des taxes avec les distances parcourues (sur le mode des tranches d'imposition),</li>
 
  	<li>forte augmentation des taxes avec un style de conduite agressif (la façon dont on parcourt une distance est aussi importante que la distance elle même)".</li>
 

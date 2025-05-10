@@ -10,15 +10,15 @@ La <a href="http://www.pfa-auto.fr/" target="_blank" rel="noopener"><strong>Plat
 
 <ul>
 
- 	<li>contribuer à promouvoir et développer toutes activités d’étude dans le domaine automobile au sens large ;</li>
+ 	<li>contribuer à promouvoir et développer toutes activités d'étude dans le domaine automobile au sens large ;</li>
 
- 	<li>représenter l’ensemble de la filière automobile française, en lui permettant de s’exprimer d’une seule voix lorsque le sujet le justifie ;</li>
+ 	<li>représenter l'ensemble de la filière automobile française, en lui permettant de s'exprimer d'une seule voix lorsque le sujet le justifie ;</li>
 
  	<li>mener toute action de nature à valoriser la filière et à en assurer la compétitivité ;</li>
 
- 	<li>développer une vision claire des grands enjeux de moyen et long terme communs à l’ensemble de la filière, et organiser les actions permettant d’y répondre ;</li>
+ 	<li>développer une vision claire des grands enjeux de moyen et long terme communs à l'ensemble de la filière, et organiser les actions permettant d'y répondre ;</li>
 
- 	<li>développer l’attractivité de la filière et de ses métiers et orienter sa politique d’emploi, de formation et d’apprentissage ;</li>
+ 	<li>développer l'attractivité de la filière et de ses métiers et orienter sa politique d'emploi, de formation et d'apprentissage ;</li>
 
  	<li>contribuer aux relations harmonieuses entre tous les acteurs de la filière au travers du Code de Performance et de Bonnes Pratiques et de la médiation.</li>
 
@@ -30,7 +30,7 @@ La <a href="http://www.pfa-auto.fr/" target="_blank" rel="noopener"><strong>Plat
 
 <ul style="text-align: justify;">
 
- 	<li>Rendre visible ces acteurs en tant que filière industrielle porteuse d’emplois,</li>
+ 	<li>Rendre visible ces acteurs en tant que filière industrielle porteuse d'emplois,</li>
 
  	<li>Décrire précisement les offres de la filière : produits, services, plateformes, ...</li>
 
@@ -38,7 +38,7 @@ La <a href="http://www.pfa-auto.fr/" target="_blank" rel="noopener"><strong>Plat
 
  	<li>Accélérer et synchroniser les échanges, les rencontres entre tous les acteurs,</li>
 
- 	<li>Construire, afficher et s’engager dans une offre française pour un marché mondial</li>
+ 	<li>Construire, afficher et s'engager dans une offre française pour un marché mondial</li>
 
 </ul>
 
@@ -58,9 +58,9 @@ La <a href="http://www.pfa-auto.fr/" target="_blank" rel="noopener"><strong>Plat
 
  	<li>« Nouvelles Mobilités » : Industrialiser des mobilités servicielles pensées à travers le numérique, multimodales, et les véhicules associés,</li>
 
- 	<li>« Nouvelles Immobilités »: Industrialiser des services pour s’effacer, travailler autrement, se déplacer moins, tout en réalisant toutes nos activités quotidiennes,</li>
+ 	<li>« Nouvelles Immobilités »: Industrialiser des services pour s'effacer, travailler autrement, se déplacer moins, tout en réalisant toutes nos activités quotidiennes,</li>
 
- 	<li>« Nouvelles Activités » pour accélérer l’usage de nouvelles mobilités et immobilités : Industrialiser des compétences dans l’analyse et la compréhension des besoins, dans la ré-organisation des activités des collectifs (entreprise, ménage, territoire…) pour mieux utiliser de "nouvelles mobilités" et de "nouvelles immobilités".</li>
+ 	<li>« Nouvelles Activités » pour accélérer l'usage de nouvelles mobilités et immobilités : Industrialiser des compétences dans l'analyse et la compréhension des besoins, dans la ré-organisation des activités des collectifs (entreprise, ménage, territoire…) pour mieux utiliser de "nouvelles mobilités" et de "nouvelles immobilités".</li>
 
 </ul>
 
@@ -70,6 +70,6 @@ En conséquence, cette PF ne se définit pas par des objets produits, ni par plu
 
 </div>
 
-<div style="text-align: justify;">La PF aura pour première mission d'interroger précisement : Quels modèles économiques (vis-à-vis des acteurs industriels) notamment dans l’exploita° des données recueillies auprès des citoyens, quels emplois (vis-à-vis pouvoirs publics) ?,  quels modèles urbains (vis-à-vis collectivité) ? Le coeur de cette PF rassemblera essentiellement des entreprises d'ingéniérie de toutes tailles, travaillant dans plusieurs champs, des infrastructures de transports aux réseaux numériques. Ils produisent essentiellement des plateformes numériques permettant d'héberger des services de mobilité, d'exploitation de flottes, de gestion de trafic, mais également des services permettant de connaître précisement les usages et les comportements. Les exploitants et opérateurs de transports utilisent ces outils (plateformes et services) pour industrialiser des offres de mobilités, ce seront des acteurs de rang 2. Enfin les producteurs d'objets type véhicules et infrastructures peuvent être des acteurs de rang 3.</div>
+<div style="text-align: justify;">La PF aura pour première mission d'interroger précisement : Quels modèles économiques (vis-à-vis des acteurs industriels) notamment dans l'exploita° des données recueillies auprès des citoyens, quels emplois (vis-à-vis pouvoirs publics) ?,  quels modèles urbains (vis-à-vis collectivité) ? Le coeur de cette PF rassemblera essentiellement des entreprises d'ingéniérie de toutes tailles, travaillant dans plusieurs champs, des infrastructures de transports aux réseaux numériques. Ils produisent essentiellement des plateformes numériques permettant d'héberger des services de mobilité, d'exploitation de flottes, de gestion de trafic, mais également des services permettant de connaître précisement les usages et les comportements. Les exploitants et opérateurs de transports utilisent ces outils (plateformes et services) pour industrialiser des offres de mobilités, ce seront des acteurs de rang 2. Enfin les producteurs d'objets type véhicules et infrastructures peuvent être des acteurs de rang 3.</div>
 
 Bien sûr, ce sera la synchronisation de tous les acteurs qui permettra de concevoir les systèmes les plus performants. Comme cela a déjà été abordé (lire <a href="https://gabrielplassat.github.io/transportsdufutur/2010/04/du-serious-game-a-la-ville-laboratoire-puis-a-la-ville-living-lab.html" target="_blank" rel="noopener"><strong>de la ville laboratoire au living lab</strong></a>), seule l'expérimentation dans des territoires (living lab) permet de collecter suffisament de feed back et d'impliquer les usagers au coeur du processus. De nombreux outils numériques pourront être partagés pour faciliter ces actions de veille, d'identification des partenaires clés, pour monter des projets complexes et les piloter en réduisant au maximum les procédures. L'automobile s'inscrit maintenant dans un système de mobilité en mutation permanente sous de nombreuses formes.

@@ -6,4 +6,4 @@ tags: [2 roues, internet, open innovation, vélo]
 layout: post
 ---
 
-<p>Cliquez sur une perle, prenez une perle ou tout l'arbre, ou faisons équipe (<a href="http://pear.ly/RENj" target="_blank">ICI</a>) pour construire ensemble un arbre de connaissance :</p> <p>        </p>
+<p>Cliquez sur une perle, prenez une perle ou tout l'arbre, ou faisons équipe (<a href="http://pear.ly/RENj" target="_blank">ICI</a>) pour construire ensemble un arbre de connaissance :<br />        </p>

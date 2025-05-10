@@ -14,11 +14,11 @@ layout: post
 
 
 
-<blockquote>“<em>Uber and Lyft treat drivers terribly, like numbers in an algorithm</em>,” said David. “<em>To them drivers are just a temporary nuisance, to be replaced with self-driving cars at the earliest opportunity. They even hide that fact from the drivers. But drivers are beginning to <a href="http://mashable.com/2016/01/07/uber-lyft-self-driving-cars/" target="_blank">wake up</a> to reality – and actively search for an alternative.</em>”</blockquote>
+<blockquote>"<em>Uber and Lyft treat drivers terribly, like numbers in an algorithm</em>," said David. "<em>To them drivers are just a temporary nuisance, to be replaced with self-driving cars at the earliest opportunity. They even hide that fact from the drivers. But drivers are beginning to <a href="http://mashable.com/2016/01/07/uber-lyft-self-driving-cars/" target="_blank">wake up</a> to reality – and actively search for an alternative.</em>"</blockquote>
 
 <p style="text-align: justify">Arcade City a commencé dans plusieurs états : Arizona, Arkansas, California, Colorado, Florida, Georgia, Illinois, Indiana, Kentucky, Louisiana, Maryland, Michigan, Minnesota, New Mexico, North Carolina, New Hampshire, New Jersey, Ohio, Oklahoma, Oregon, Pennsylvania, South Carolina, Texas, Virginia, Washington state, and Washington, D.C. Des lancements vont également commencer en Australie, au Mexique, au Canada et en Suède à partir du printemps.</p>
 
-<p style="text-align: justify"><a href="http://lafabriquedesmobilites.fr" target="_blank"><strong>La Fabrique des Mobilités</strong></a> crée une première <a href="http://communautesfabmob.strikingly.com/" target="_blank"><strong>communauté d'intérêt</strong></a> sur le sujet Blockchain et Mobilité. Il s'agit de réunir les entrepreneurs souhaitant investir ce sujet, identifier les ressources existantes et actionnables, baisser les barrières pour faire émerger un maximum d'initiatives. Le secteur de la mobilité apparaît comme un domaine d’application majeur pour la blockchain. En effet, ce secteur se caractérise par :</p>
+<p style="text-align: justify"><a href="http://lafabriquedesmobilites.fr" target="_blank"><strong>La Fabrique des Mobilités</strong></a> crée une première <a href="http://communautesfabmob.strikingly.com/" target="_blank"><strong>communauté d'intérêt</strong></a> sur le sujet Blockchain et Mobilité. Il s'agit de réunir les entrepreneurs souhaitant investir ce sujet, identifier les ressources existantes et actionnables, baisser les barrières pour faire émerger un maximum d'initiatives. Le secteur de la mobilité apparaît comme un domaine d'application majeur pour la blockchain. En effet, ce secteur se caractérise par :</p>
 
 <b>Vu des usagers / citoyens :</b>
 
@@ -26,13 +26,13 @@ layout: post
 
 	<li>un besoin de confiance minimale pour partager des véhicules, des sièges, des informations : notion de place de marché offre/demande neutre et fiable,</li>
 
-	<li>un besoin d’information pour connaître les sièges libres, véhicules, destinations, …</li>
+	<li>un besoin d'information pour connaître les sièges libres, véhicules, destinations, …</li>
 
-	<li>un besoin de neutralité et d’absence de “place centrale” qui aurait toutes les informations des déplacements des personnes (pour éviter la surveillance),</li>
+	<li>un besoin de neutralité et d'absence de "place centrale" qui aurait toutes les informations des déplacements des personnes (pour éviter la surveillance),</li>
 
 	<li>un besoin de paiement simple multimodal, unique,</li>
 
-	<li>un besoin d’un système d’incitation vers les solutions vertueuses pour chaque décision de mobilité ou d’immobilité : notion de récompenses pour chaque décision de mobilité simple, rapide.</li>
+	<li>un besoin d'un système d'incitation vers les solutions vertueuses pour chaque décision de mobilité ou d'immobilité : notion de récompenses pour chaque décision de mobilité simple, rapide.</li>
 
 </ul>
 
@@ -42,7 +42,7 @@ layout: post
 
 	<li style="text-align: justify">un besoin de connaissance des pratiques réelles de mobilités (anonymisées) pour les différents modes de transports. Ceci pour mieux décider des investissements, travaux à faire.</li>
 
-	<li style="text-align: justify">un besoin de proposer des incitations vers les solutions vertueuses pour chaque décision de mobilité ou d’immobilité.</li>
+	<li style="text-align: justify">un besoin de proposer des incitations vers les solutions vertueuses pour chaque décision de mobilité ou d'immobilité.</li>
 
 </ul>
 

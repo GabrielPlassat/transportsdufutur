@@ -6,4 +6,4 @@ tags: [Energie, pétrole]
 layout: post
 ---
 
-<p>Arte vient de diffuser une émission consacrée au pétrole en deux épisodes.</p> <p> </p>
+<p>Arte vient de diffuser une émission consacrée au pétrole en deux épisodes.<br /> </p>

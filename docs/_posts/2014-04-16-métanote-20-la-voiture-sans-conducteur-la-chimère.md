@@ -88,9 +88,9 @@ layout: post
 
  	<li>utiliser des infrastructures libres et ouvertes, permettant, par un fonctionnement horizontal, de corriger et d'éviter un enfermement dans des standards propriétaires,</li>
 
- 	<li>développer une gestion des données en tant que communs, permettant de penser les usages indépendamment de la notion de « propriété », et d’adapter les règles de droit pour servir au mieux les usages en protégeant les ressources mises en partage.</li>
+ 	<li>développer une gestion des données en tant que communs, permettant de penser les usages indépendamment de la notion de « propriété », et d'adapter les règles de droit pour servir au mieux les usages en protégeant les ressources mises en partage.</li>
 
- 	<li>gérer les données en utilisant le principe de "faisceaux de droits" proche des communs. Cette approche par une discrimination à la fois temporelle des droits (donnée chaude, droits d’usage à l’entreprise, donnée froide, exclusivité de l’usager) et spatiale (stockage dans la plateforme, stockage dans un espace contrôlé par l’individu) pourrait ouvrir la voie à un bundle of rights positif, c’est-à-dire à la fois protecteur pour l’individu et en même temps ne tuant pas d’entrée de jeu le modèle d’affaires des entreprises du web qui proposent des services (hors marketing) construits autour de la donnée (ex : trouver un vélib).</li>
+ 	<li>gérer les données en utilisant le principe de "faisceaux de droits" proche des communs. Cette approche par une discrimination à la fois temporelle des droits (donnée chaude, droits d'usage à l'entreprise, donnée froide, exclusivité de l'usager) et spatiale (stockage dans la plateforme, stockage dans un espace contrôlé par l'individu) pourrait ouvrir la voie à un bundle of rights positif, c'est-à-dire à la fois protecteur pour l'individu et en même temps ne tuant pas d'entrée de jeu le modèle d'affaires des entreprises du web qui proposent des services (hors marketing) construits autour de la donnée (ex : trouver un vélib).</li>
 
 </ul>
 

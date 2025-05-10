@@ -12,7 +12,7 @@ layout: post
 
 <blockquote>
 
-<p style="text-align: justify">New solutions are called for and affect everyone. Because the challenges for the personal transport of tomorrow have grown substantially and become much more complex. Connectivity is the promise and the task. Connectivity in the sense of the “connected car” that is permanently online and app-enabled. But also connectivity in the shape of optimum interconnection of different forms of transport, drive systems and conventional and innovative transport concepts. Because it is obvious that no one means of transport on its own will be capable of handling the growing volume of traffic – especially in towns and cities.</p>
+<p style="text-align: justify">New solutions are called for and affect everyone. Because the challenges for the personal transport of tomorrow have grown substantially and become much more complex. Connectivity is the promise and the task. Connectivity in the sense of the "connected car" that is permanently online and app-enabled. But also connectivity in the shape of optimum interconnection of different forms of transport, drive systems and conventional and innovative transport concepts. Because it is obvious that no one means of transport on its own will be capable of handling the growing volume of traffic – especially in towns and cities.</p>
 
 </blockquote>
 
