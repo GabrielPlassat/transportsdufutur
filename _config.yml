@@ -1,6 +1,6 @@
 title: Blog Transports du Futur
 description: Archives restaurées
-baseurl: "/transportsdufutur"  # Le nom du dépôt GitHub (important pour les liens)
+baseurl: ""  # Le nom du dépôt GitHub (important pour les liens)
 url: "https://gabrielplassat.github.io"
 theme: minima
 markdown: kramdown
