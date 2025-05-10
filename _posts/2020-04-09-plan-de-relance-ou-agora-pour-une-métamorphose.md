@@ -1,8 +1,9 @@
 ---
 title: "Plan de relance ou Agora pour une métamorphose"
 date: 2020-04-09 18:45:24
-permalink: /transportsdufutur/2020/04/plan-de-relance-ou-agora-pour-une-metamorphose.html
+permalink: /2020/04/plan-de-relance-ou-agora-pour-une-metamorphose.html
 tags: [relance, résilience]
+layout: post
 ---
 
 Quelques-uns travaillent déjà sur l’après, sur la relance, sur les plans de relance. C’est normal après tout puisque ça ne serait qu'une crise, il y a toujours quelque chose après une crise. Et donc tout ceci se planifie. Avec soin et précision. Qu’est-ce que ce virus nous a appris ? Qu’est-ce que nous pouvons observer ?_x000D_

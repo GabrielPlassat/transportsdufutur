@@ -1,8 +1,9 @@
 ---
 title: "En supprimant quasiment la matière pour ne garder que les flux et les renverser, les Glass avaient tout changé et l'Alliance était née"
 date: 2013-04-26 20:47:57
-permalink: /transportsdufutur/2013/04/en-supprimant-quasiment-la-matiere-pour-ne-garder-que-les-flux-et-les-renverser-les-glass-avaient-to-1.html
+permalink: /2013/04/en-supprimant-quasiment-la-matiere-pour-ne-garder-que-les-flux-et-les-renverser-les-glass-avaient-to-1.html
 tags: [assistant de mobilité, autorité des transports, citoyen, collectivité, confiance, connectivité, cybercar, données réelles, économie de l'expérience, économie du quaternaire, économie fonctionnalité, Efficacité énergétique, Europe, gouvernance, holoptisme, innovation, intelligence collective, internet des objets, management de la mobilité, marketing individualisé, monnaie complémentaire, partage de données, Service de mobilité, surveillance]
+layout: post
 ---
 
 <p style="text-align: justify;">Ce texte (comme deux précédents : <a href="https://gabrielplassat.github.io/transportsdufutur/2011/08/lavenir-de-lenergie-dans-les-transports-amazon-energy-service.html" target="_blank" rel="noopener"><strong>Amazon Energy Service</strong> </a>et <strong><a href="https://gabrielplassat.github.io/transportsdufutur/2011/07/google-mobility-service-et-si-nous-le-faisions-sans-attendre-.html" target="_blank" rel="noopener">Google Mobility Service</a></strong>) est une pure fiction. Il ne vise qu'à faciliter la projection pour mieux agir, aujourd'hui.</p>_x000D_

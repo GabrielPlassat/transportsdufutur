@@ -1,8 +1,9 @@
 ---
 title: "Après Pokemon Go"
 date: 2016-07-26 10:26:13
-permalink: /transportsdufutur/2016/07/apres-pokemon-go.html
+permalink: /2016/07/apres-pokemon-go.html
 tags: [Acteur numérique des Mobilités et des Logistiques, application, art de la guerre, assistant de mobilité, citoyen, connectivité, économie de l'expérience, google, holoptisme, Infrastructure, innovation, intelligence collective, internet, jeu vidéo, Non classé, Que sait-on de nos mobilités ?, Tesla, Usager Client Citoyen Multitude, virtuel]
+layout: post
 ---
 
 <p style="text-align: justify;">Le phénomène Pokemon Go étonne par son ampleur et ses caractéristiques. Or ce n'est qu'une émergence visible de phénomènes et de développement en cours depuis des années. Comme nous l'explique très bien <a href="http://www.pop-up-urbain.com/pokemon-go-ou-les-infortunes-de-la-virtualite/" target="_blank"><strong>Philippe Gargov</strong></a>, Pokemon Go nous permet de comprendre la ville numérique, telle qu'elle est, ou plutôt telle qu'elle <strong>était</strong> avant même que Pokemon Go n'existe. En effet, devant une apparence de jeu sympa pour enfant, il y a une aventure industrielle qui remonte à plusieurs années. En résumé, détenir le record de téléchargement (des millions de personnes par jour), le record de temps passé (des dizaines de minutes par jour), ne doit rien au hasard.</p>_x000D_

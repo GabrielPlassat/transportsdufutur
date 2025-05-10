@@ -1,8 +1,9 @@
 ---
 title: "Combien de temps vous reste-t-il ?"
 date: 2015-10-16 11:13:49
-permalink: /transportsdufutur/2015/10/combien-temps-reste.html
+permalink: /2015/10/combien-temps-reste.html
 tags: [Acteur numérique des Mobilités et des Logistiques, artiste, bitcoin, blockchain, communs, holoptisme, innovation]
+layout: post
 ---
 
 <p style="text-align: justify"><a href="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2015/10/Patagonia.jpg"><img class="aligncenter wp-image-4106 size-full" src="http://transportsdufutur.ademe.fr/wp-content/uploads/sites/6/2015/10/Patagonia.jpg" alt="Patagonia" width="637" height="341" /></a></p>_x000D_

@@ -1,8 +1,9 @@
 ---
 title: "ESPRIT ou le transport collectif personnalisé"
 date: 2017-12-08 14:55:06
-permalink: /transportsdufutur/2017/12/esprit-ou-le-transport-collectif-personnalise.html
+permalink: /2017/12/esprit-ou-le-transport-collectif-personnalise.html
 tags: [autopartage, transport public, véhicule mono-usage]
+layout: post
 ---
 
 <em>Article rédigé par Valéry Cervantes, chef du projet ESPRIT</em>_x000D_

@@ -1,8 +1,9 @@
 ---
 title: "MétaNote TdF 10 : Le téléphone ou assistant personnel de mobilité"
 date: 2010-11-03 11:27:25
-permalink: /transportsdufutur/2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite.html
+permalink: /2010/11/metanote-tdf-10-nous-etions-nous-sommes-et-nous-serons-des-cyborgs-lassistant-personnel-de-mobilite.html
 tags: [citoyen, connectivité, donnée data, internet, internet des objets, téléphone, TIC, transition générationnelle]
+layout: post
 ---
 
 <p style="text-align: justify;">De nombreux articles ont été rédigés sur le sujet du téléphone portable dans les transports et la mobilité (voir <strong><a href="https://gabrielplassat.github.io/transportsdufutur/telephone/" target="_blank" rel="noopener">ici </a></strong>pour ce blog). Des applications dédiées sont disponibles, d'autres se développent, réalisant progressivement un puissant assistant personnel de mobilité. Quel rôle va jouer ce nouvel objet ? Quelles capacités ce nouvel assistant personnel de mobilité va nous permettre de développer ? Est ce vraiment indispensable ?</p>_x000D_

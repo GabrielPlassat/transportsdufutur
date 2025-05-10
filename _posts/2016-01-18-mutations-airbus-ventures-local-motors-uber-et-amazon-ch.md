@@ -1,8 +1,9 @@
 ---
 title: "Mutations ? Airbus Ventures, Local Motors, Uber et Amazon China Freight"
 date: 2016-01-18 11:33:30
-permalink: /transportsdufutur/2016/01/mutations-airbus-ventures-local-motors-uber-et-amazon-china-freight.html
+permalink: /2016/01/mutations-airbus-ventures-local-motors-uber-et-amazon-china-freight.html
 tags: [Acteur historique des Mobilités et Logistiques, Acteur numérique des Mobilités et des Logistiques, Amazon, art de la guerre, camion, Fabrique des mobilités, Infrastructure, logistique, open innovation, open source, plate-forme, Service de mobilité, Véhicule]
+layout: post
 ---
 
 <p style="text-align: justify;">La semaine dernière, plusieurs annonces illustrent des alliances jugées autrefois improbables. Elles ne sont pourtant que le reflet visible des mutations plus profondes qui opèrent. Airbus par le biais de son fond <a href="http://www.airbusgroup.com/int/en/news-media/press-releases/Airbus-Group/Financial_Communication/2016/01/20160117_airbus_group_silicon_valley.html" target="_blank"><strong>Airbus Venture</strong></a> A3 doté de 150 M$ investit dans une entreprise Américaine qui produit des véhicules : <a href="https://localmotors.com/" target="_blank"><strong>Local Motors</strong></a> et vient de lancer un <strong>concours</strong> Cargo Drone. Airbus Venture annonce également un partenariat avec Uber pour du transport à la demande par ... hélicoptère. Amazon China vient de devenir <a href="https://www.flexport.com/blog/amazon-ocean-freight-forwarder/" target="_blank"><strong>opérateur de transport maritime de marchandises</strong></a>. Comment et pourquoi un vendeur de livre ou un site de e-commerce en arrive là ? Pourquoi Airbus, qui cherche à accompagner les meilleurs entrepreneurs de l'<em>aerospace ecosystem</em>, investit dans un fabricant de voiture (qui n'en vend aucune) ?</p>_x000D_

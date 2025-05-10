@@ -1,8 +1,9 @@
 ---
 title: "Va-t-on connaitre la pollution réelle des voitures ?"
 date: 2017-04-04 16:43:20
-permalink: /transportsdufutur/2017/04/connaitre-pollution-voitures.html
+permalink: /2017/04/connaitre-pollution-voitures.html
 tags: [Acteur historique des Mobilités et Logistiques, art de la guerre, cité, citoyen, collectivité, congestion, données réelles, externalité, fiscalité, guide d'achat, Non classé, qualité de l'air, Que sait-on de nos mobilités ?]
+layout: post
 ---
 
 <p style="text-align: justify;">L’annonce récente de la maire de Paris, Anne Hidalgo, et du maire de Londres, Sadiq Khan, <strong><a href="http://www.paris.fr/actualites/pollution-de-l-air-paris-londres-et-seoul-vont-creer-un-systeme-de-notation-des-vehicules-4684" target="_blank">d’inventer un système de notation de la pollution des véhicules</a></strong> est particulièrement éclairant sur plusieurs aspects. Pour les plus pressés, nous développerons trois points : les villes reprennent la main, la transparence n’est plus une option et la voiture connectée vous dira bien ce qu’elle a envie de vous dire.</p>_x000D_

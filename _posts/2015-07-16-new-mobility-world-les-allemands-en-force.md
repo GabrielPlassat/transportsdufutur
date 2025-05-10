@@ -1,8 +1,9 @@
 ---
 title: "New Mobility World, les Allemands en force"
 date: 2015-07-16 15:07:33
-permalink: /transportsdufutur/2015/07/mobility-allemands-force.html
+permalink: /2015/07/mobility-allemands-force.html
 tags: [Acteur historique des Mobilités et Logistiques, allemagne, art de la guerre, Fabrique des mobilités, google, innovation, ITS, Service de mobilité, Véhicule]
+layout: post
 ---
 
 <p style="text-align: justify">Dans le cadre du salon automobile de Frankfurt <a href="http://www.iaa.de/en/" target="_blank">IAA</a> (19-27/09), New Mobility World rassemble les principaux acteurs dominants du domaine automobile et numérique. Ce salon dans le salon aborde les sujets majeurs : mobility as a service, e-mobility, urban mobility, connected car et automated driving. Un "startup zone" est également aménagé avec des démonstrations de véhicules et prototypes.</p>_x000D_

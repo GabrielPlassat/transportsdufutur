@@ -1,8 +1,9 @@
 ---
 title: "Après Amazon Web Service, bientôt Amazon Prime Logistic"
 date: 2016-08-31 14:48:45
-permalink: /transportsdufutur/2016/08/service-bientot-logistic.html
+permalink: /2016/08/service-bientot-logistic.html
 tags: [Acteur numérique des Mobilités et des Logistiques, Amazon, art de la guerre, aviation, camion, catastrophe, citoyen, économie de l'expérience, Energie, logistique, marchandises, Que sait-on de nos mobilités ?]
+layout: post
 ---
 
 <p style="text-align: justify;">Dans la fiction N°2, <a href="http://transportsdufutur.ademe.fr/2011/08/lavenir-de-lenergie-dans-les-transports-amazon-energy-service.html" target="_blank"><strong>Amazon Energie Service</strong></a>, Amazon distribue de l'énergie dans des stations services. Cette entreprise peut notamment se caractériser par sa capacité à apprendre vite en intégrant un nouveau domaine, puis à le <em>dé-intégrer</em> pour créer ex-nihilo une nouvelle activité. Amazon Web Service (AWS) est né comme ça, du besoin d'avoir une infrastructure numérique robuste, mondiale, capable de supporter des charges élevées. Pour placer AWS au niveau des meilleurs, Jeff Bezos a fait simple : mettre en concurrence AWS avec les acteurs du cloud. D'une pierre plusieurs coups, en cas de succès, devenir leader mondial d'une activité <em>secondaire</em> pour un simple de e-commerce, acquérir des compétences pour bénéficier en interne des meilleures plateformes et faire bénéficier ces clients de ces avantages. Amazon pourrait reproduire cette démarche dans la logistique. La première phase est dejà largement réalisée. Bientôt viendra la seconde.</p>_x000D_

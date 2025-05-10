@@ -1,8 +1,9 @@
 ---
 title: "Constructeurs, vos plateformes brûlent !"
 date: 2016-02-01 08:40:18
-permalink: /transportsdufutur/2016/02/constructeurs-vos-plateformes-brulent.html
+permalink: /2016/02/constructeurs-vos-plateformes-brulent.html
 tags: [Acteur historique des Mobilités et Logistiques, Acteur numérique des Mobilités et des Logistiques, Non classé]
+layout: post
 ---
 
 « <em>La bataille des produits est maintenant devenue celle des écosystèmes, incluant les données, les logiciels et le hardware mais aussi les applications, les réseaux sociaux et de distribution, les services géolocalisés, les communications unifiées et plusieurs autres choses. Nos adversaires n'ont pas pris nos part de marchés avec des produits ; ils ont pris nos parts de marchés avec un écosystème entier</em> » - Message adressé par le CEO de Nokia dans un mail aux salariés._x000D_

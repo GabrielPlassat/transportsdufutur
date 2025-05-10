@@ -1,8 +1,9 @@
 ---
 title: "Re-boot Mobility"
 date: 2018-09-19 05:57:08
-permalink: /transportsdufutur/2018/09/re-boot-mobility.html
+permalink: /2018/09/re-boot-mobility.html
 tags: [dupuy, robot, véhicule autonome]
+layout: post
 ---
 
 <strong>L’automobile du futur est un sujet sans intérêt.</strong> Tout simplement parce que l’ADN de l’automobile reste le même. La masse marchande, celle qui « se voit », structure la pensée, l’organisation et l’allocation des ressources car elle est synonyme de profit. Le futur de l’automobile est nettement plus intéressant quand il s'agit de réfléchir aux pistes pour réduire (drastiquement) les émissions de GES, de polluants, la dépendance aux énergies fossiles, la consommation d’espace public._x000D_

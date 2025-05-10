@@ -1,8 +1,9 @@
 ---
 title: "Calèche > Automobile > ?"
 date: 2016-11-20 17:16:23
-permalink: /transportsdufutur/2016/11/caleche-automobile.html
+permalink: /2016/11/caleche-automobile.html
 tags: [Acteur historique des Mobilités et Logistiques, Acteur numérique des Mobilités et des Logistiques, citoyen, Comment agir pour changer les pratiques ?, cygne noir, economie circulaire, économie de l'attention, Fabrique des mobilités, innovation, intelligence collective, multitude, open innovation, open source, Usager Client Citoyen Multitude, Véhicule, voiture autonome]
+layout: post
 ---
 
 <p style="text-align: justify;">C’est peut-être le moment pour se (re)poser quelques questions autour de l’automobile : Qu’est ce qu’une automobile ? Qui peut produire une automobile ? Pour qui ? Comment ? et Où ?</p>_x000D_

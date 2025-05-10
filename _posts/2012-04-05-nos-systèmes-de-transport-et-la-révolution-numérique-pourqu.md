@@ -1,8 +1,9 @@
 ---
 title: "Nos systèmes de transport et la révolution numérique, pourquoi cela va tout changer."
 date: 2012-04-05 09:25:00
-permalink: /transportsdufutur/2012/04/nos-systemes-de-transport-et-la-revolution-numerique-pourquoi-cela-va-tout-changer.html
+permalink: /2012/04/nos-systemes-de-transport-et-la-revolution-numerique-pourquoi-cela-va-tout-changer.html
 tags: [autopartage, autorité des transports, citoyen, collectivité, commuter, confiance, congestion, connectivité, covoiturage, cybercar, donnée data, données réelles, Energie, Europe, google, gouvernance, Infrastructure, innovation, intelligence collective, management de la mobilité, marchandises, mode doux, multimodes, partage de la voirie, pensée complexe, qualité de l'air, Véhicule, véhicule propre]
+layout: post
 ---
 
 <p style="text-align: justify;">En partant d’un exemple possible (présenté lors du <a href="http://www.fondation-tuck.fr/Reunions/IDees-29-03-2012/Seminaire-EM-Open-Innovation-29mars2012.pdf" target="_blank"><strong>séminaire Tuck</strong></a>), la Google car, les possibilités offertes par le numérique montrent des gains sans précédent dans le secteur des transports. Mais pour bénéficier de ces gains, il faudra identifier, comprendre et travailler tous les risques…</p>_x000D_

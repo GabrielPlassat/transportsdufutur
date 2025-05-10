@@ -1,8 +1,9 @@
 ---
 title: "MétaNote TdF 5 – Les entreprises"
 date: 2010-04-13 17:41:29
-permalink: /transportsdufutur/2010/04/metanote-tdf-5-les-entreprises.html
+permalink: /2010/04/metanote-tdf-5-les-entreprises.html
 tags: [données réelles, Efficacité énergétique, emission, Infrastructure, internet, multimodes, open source, partage de données, robustesse, RSE, Service de mobilité]
+layout: post
 ---
 
 <p class="MsoNormal">La transition de l’objet (véhicule) aux services (mobilités) (voir <strong><a href="https://gabrielplassat.github.io/transportsdufutur/2009/11/le-passage-de-lobjet-vehicule-aux-services-de-mobilite-une-chance.html" target="_blank" rel="noopener">ici</a></strong>) dans un secteur industriel lourd implique de s’interroger sur les évolutions nécessaires des entreprises. Comment sera dirigée une entreprise en 2020 ? comment concilier à la fois production massive d’objet et vente de services localement adaptés, changeant, modelables ?</p>_x000D_

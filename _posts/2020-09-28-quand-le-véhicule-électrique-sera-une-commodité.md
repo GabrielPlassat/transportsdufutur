@@ -1,8 +1,9 @@
 ---
 title: "Quand le Véhicule électrique sera une commodité"
 date: 2020-09-28 06:58:32
-permalink: /transportsdufutur/2020/09/commodite.html
+permalink: /2020/09/commodite.html
 tags: [commodité, open source, véhicule open source]
+layout: post
 ---
 
 <p class="part" data-startline="3" data-endline="3">Comme le photovoltaïque, nous faisons l’hypothèse que le véhicule électrique est en train de devenir une commodité, posant à court terme de sérieux problèmes aux industriels européens qui ne s’y seront pas préparés.</p>_x000D_

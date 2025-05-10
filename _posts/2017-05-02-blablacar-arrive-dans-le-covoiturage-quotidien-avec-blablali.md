@@ -1,8 +1,9 @@
 ---
 title: "BlablaCar arrive dans le covoiturage quotidien avec BlablaLines"
 date: 2017-05-02 07:47:41
-permalink: /transportsdufutur/2017/05/covoiturage-quotidien-blablalines.html
+permalink: /2017/05/covoiturage-quotidien-blablalines.html
 tags: [Acteur numérique des Mobilités et des Logistiques, ADEME, citoyen, collectivité, Comment agir pour changer les pratiques ?, covoiturage, Fabrique des mobilités, Usager Client Citoyen Multitude]
+layout: post
 ---
 
 Nos routes se sont croisées avec Frédéric Mazzella en 2010 pour travailler sur les CEE. BlablaCar n’avait alors qu’une salariée : Laure. Elle distribuait des autocollants à tout le monde et faisait la promotion du covoiturage avec une grande énergie. 500 personnes aujourd’hui développent BlablaCar à travers le monde. En 7 ans, le secteur de la mobilité a bien changé. <a href="http://lafabriquedesmobilites.fr/non-classe-fr/uber-urban-mobility-summit/" target="_blank"><strong>Uber</strong></a>, Lyft, Didi, Waze se sont aussi déployés, avec des approches spécifiques. Tous explorent maintenant la même frontière : <em>plusieurs</em> offres de siège libre en temps réel pour offrir des mobilités quotidiennes concurrentes de la voiture possédée. Le service BlablaCar est donc désormais complété par <a href="https://blablalines.com/" target="_blank"><strong>BlablaLines</strong> </a>pour covoiturer au quotidien !_x000D_

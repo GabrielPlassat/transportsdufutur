@@ -1,8 +1,9 @@
 ---
 title: "Les écosystèmes innovants"
 date: 2017-11-22 11:09:41
-permalink: /transportsdufutur/2017/11/les-ecosystemes-innovants.html
+permalink: /2017/11/les-ecosystemes-innovants.html
 tags: [nan]
+layout: post
 ---
 
 Invité par l'Université Catholique de Lille et son <a href="http://www.univ-catholille.fr/ebooks/ecosystemes%20innovants/index.html" target="_blank" rel="noopener"><strong>laboratoire des Ecosystèmes Innovants</strong></a>, ces 3 vidéos ont été réalisées pour parler du passé, présent et du futur des mobilités._x000D_

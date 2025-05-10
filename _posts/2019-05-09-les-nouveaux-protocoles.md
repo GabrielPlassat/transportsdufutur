@@ -1,8 +1,9 @@
 ---
 title: "Les nouveaux protocoles"
 date: 2019-05-09 09:18:36
-permalink: /transportsdufutur/2019/05/les-nouveaux-protocoles.html
+permalink: /2019/05/les-nouveaux-protocoles.html
 tags: [nan]
+layout: post
 ---
 
 L’écriture a permis le passage de l’Intelligence Collective (IC) originelle, celle des tribus et petits groupes vers l'IC pyramidale, celle des Etats ou des entreprises. Internet constitue à la fois une nouvelle infrastructure et un nouveau média qui accompagne l'émergence d'une nouvelle forme d'IC. Mais il nous manque le protocole pour exploiter le potentiel du web en offrant à tout le monde de nouvelles capacités non plus uniquement de faire mais de faire ensemble. Pour le moment, le web n’est qu’une encyclopédie que l’on consulte à peu près de la même façon. Des plateformes commencent à nous permettre de nous coordonner en réseau mais elles restent insuffisantes, centralisées pour la plupart et fonctionnent sur des mécanismes de concentration de richesses._x000D_

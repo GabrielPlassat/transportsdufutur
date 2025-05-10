@@ -1,8 +1,9 @@
 ---
 title: "Bienvenue en terre inconnue"
 date: 2018-10-16 12:37:09
-permalink: /transportsdufutur/2018/10/bienvenue-en-terre-inconnue.html
+permalink: /2018/10/bienvenue-en-terre-inconnue.html
 tags: [effectuation, FabMob, VICA]
+layout: post
 ---
 
 <em>Ou comment agir avec plaisir dans l’incertain et le complexe ...</em>_x000D_

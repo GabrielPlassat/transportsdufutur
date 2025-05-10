@@ -1,8 +1,9 @@
 ---
 title: "Entre chien et loup"
 date: 2024-09-28 08:57:13
-permalink: /transportsdufutur/2024/09/entre-chien-et-loup.html
+permalink: /2024/09/entre-chien-et-loup.html
 tags: [nan]
+layout: post
 ---
 
 <blockquote>C'est lorsqu'on est environné de tous les dangers qu'il n'en faut redouter aucun - Sun Tzu</blockquote>_x000D_

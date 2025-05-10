@@ -1,8 +1,9 @@
 ---
 title: "La vitesse, un vieux concept"
 date: 2017-12-06 21:19:03
-permalink: /transportsdufutur/2017/12/la-vitesse-un-vieux-concept.html
+permalink: /2017/12/la-vitesse-un-vieux-concept.html
 tags: [nan]
+layout: post
 ---
 
 Nous courrons après le temps. Tout le temps. Après avoir choisi, ou subi, un lieu d’habitation et de travail, nous choisissons ou, pour les plus fragiles, nous subissons des moyens de transport pour faire ces mouvements pendulaires. Le plus souvent complété au maximum de missions ajoutées : enfants à l’école, courses alimentaires et autres colis. Les distances étant « figées », pour réduire le temps, nous adaptons, quand c’est possible, les horaires à la marge puis nous jouons sur la vitesse. La voiture apparaît bien souvent comme le mode le plus « rapide ». Idéal donc pour « gagner » ce fameux temps. En fait, tout se joue dans cette <strong>sensation</strong>, car elle est à la fois partiellement irrationnelle et totalement ancrée dans notre imaginaire._x000D_

@@ -1,8 +1,9 @@
 ---
 title: "Le potentiel de situation"
 date: 2018-04-16 08:30:50
-permalink: /transportsdufutur/2018/04/le-potentiel-de-situation.html
+permalink: /2018/04/le-potentiel-de-situation.html
 tags: [nan]
+layout: post
 ---
 
 <span style="font-weight: 400;">L'entreprise est un concept relativement récent, fin du XIXème siècle, nous explique Blanche Segrestin et Armand Hatchuel, professeurs à Mines ParisTech dans <em>Refonder l'entreprise</em> : </span>_x000D_

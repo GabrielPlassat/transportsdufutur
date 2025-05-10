@@ -1,8 +1,9 @@
 ---
 title: "Mobilités et effets de réseaux"
 date: 2021-09-12 15:07:16
-permalink: /transportsdufutur/2021/09/mobilites-et-effets-de-reseaux.html
+permalink: /2021/09/mobilites-et-effets-de-reseaux.html
 tags: [effet de réseau, plateforme]
+layout: post
 ---
 
 <!-- wp:paragraph -->_x000D_

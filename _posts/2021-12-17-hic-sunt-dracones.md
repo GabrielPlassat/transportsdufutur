@@ -1,8 +1,9 @@
 ---
 title: "Hic sunt dracones"
 date: 2021-12-17 18:54:13
-permalink: /transportsdufutur/2021/12/hic-sunt-dracones.html
+permalink: /2021/12/hic-sunt-dracones.html
 tags: [challenge, extrême défi, génèse]
+layout: post
 ---
 
 <p style="text-align: center;" data-startline="5" data-endline="5"><a href="https://www.icopilots.com/" target="_blank" rel="noopener">Philippe Méda</a> commence toujours ses formations sur l’innovation par cette image…</p>_x000D_
