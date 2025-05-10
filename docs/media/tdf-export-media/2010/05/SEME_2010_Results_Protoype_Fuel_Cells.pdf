@@ -1,0 +1,1078 @@
+
+
+
+
+
+
+	
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="en" dir="ltr" class="ltr cqview ie6"><![endif]-->
+<!--[if IE 7 ]><html lang="en" dir="ltr" class="ltr cqview ie7"><![endif]-->
+<!--[if IE 8 ]><html lang="en" dir="ltr" class="ltr cqview ie8"><![endif]-->
+<!--[if IE 9 ]><html lang="en" dir="ltr" class="ltr cqview ie9 mobile"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en"
+	dir="ltr"
+	class="ltr cqview mobile"
+	data-ast-template="/apps/shell/components/templates/homepage"
+	data-ast-creation="1324909680000"
+    data-ast-lastmodified="2015-06-15T15:38:02Z"
+    data-ast-expired="2015-12-15T15:38:02Z"
+    data-meta-home="/content/shell/corporate/global/en"
+    data-meta-page-path="/content/shell/corporate/global/en"
+    data-meta-page-title="The Shell global homepage"
+    data-meta-country="global"
+    data-meta-language="en"
+    data-meta-tags=""
+    data-meta-template="/apps/shell/components/templates/homepage">
+<!--<![endif]-->
+<head>
+	<title>The Shell global homepage - Shell Global</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="description" content="Shell is a global group of energy and petrochemicals companies. With around 92,000 employees in more than 70 countries and territories."  />
+	<meta name="keywords" content="energy provider oil, oil company, gas, gas company, energy, energy company gas power  renewables oil sands exploration and production fuels responsibility society environment"/>
+	<meta name="robots" content="INDEX, FOLLOW"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="shortcut icon" href="http://s00.static-shell.com/etc/designs/shell/clientlibs/publish/css/img/favicon.ico"/>
+	<!--social meta tags-->
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="The Shell global homepage" />
+	<meta property="og:description" content="Shell is a global group of energy and petrochemicals companies. With around 92,000 employees in more than 70 countries and territories." />
+	<meta property="og:url" content="http&#x3a;&#x2f;&#x2f;www.shell.com&#x2f;" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:title" content="The Shell global homepage" />
+	<meta name="twitter:description" content="Shell is a global group of energy and petrochemicals companies. With around 92,000 employees in more than 70 countries and territories." />
+	<meta name="twitter:url" content="http&#x3a;&#x2f;&#x2f;www.shell.com&#x2f;" />
+	<meta itemprop="name" content="The Shell global homepage" />
+	<meta itemprop="description" content="Shell is a global group of energy and petrochemicals companies. With around 92,000 employees in more than 70 countries and territories." />
+	<link rel="canonical" href="http&#x3a;&#x2f;&#x2f;www.shell.com&#x2f;"/>
+<link rel="stylesheet" href="http://s00.static-shell.com/etc/clientlibs/shell/shell-preload.min.d48857e6422e704a7c038a00e24d180c.css" type="text/css">
+<script type="text/javascript" src="http://s02.static-shell.com/etc/clientlibs/shell/modernizr.min.850ec8cbc69a9cb0605756a6794c1242.js"></script>
+<script type="text/javascript" src="http://s01.static-shell.com/etc/clientlibs/shell/shell-preload.min.7bec786c4d014bdab6d7f454cf33fcc6.js"></script>
+<script type="text/javascript">
+	/*<![CDATA[*/
+	shell.metrics.nonTranslatedURL = "/content/shell/corporate/global/en" + ".html";
+	shell.metrics.deviceType = "desktop";
+	shell.metrics.gcpId = "";
+	shell.metrics.cugId = "";
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-11681411-1']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	/*]]>*/
+</script>
+<script type="text/javascript">
+	/*<![CDATA[*/
+	shell.site_lang = 'en';
+	shell.cugSectionPages = new Boolean(0);
+	/*]]>*/
+</script>
+
+<script><!--
+	var fn_cug_logout = function() {
+		window.location = "/.user-logout.html";
+	}
+
+	var fn_cug_editprofile = function() {
+	// redirect to homepage
+	window.location = "# lang-en/mySitePageUrl, configuration service not set.html?myPageProfile=1";
+	// redirect to homepage
+}
+//-->	
+	</script>
+<script type="text/javascript">
+	/*<![CDATA[*/
+	if (typeof(shell) === 'undefined') {
+		shell = {};
+	}
+	if (typeof(shell.mobile) === 'undefined') {
+			shell.mobile = {};
+	}
+	shell.mobile.translations = {
+		fullSite: 'Full Site',
+		fullSiteInfo: 'Switch to regular view? You can switch back to mobile view again in the header.',
+		switchToMobile: 'Back to mobile site',
+		notOptimized: 'PLEASE NOTE: This page has not yet been optimized for use on mobile devices.'
+	};
+	/*]]>*/
+</script>
+			<link rel="stylesheet" href="http://s05.static-shell.com/etc/designs/shell/clientlibs/publish.min.a0cb240fe1be224ff93d16256609ae70.css" type="text/css">
+<script type="text/javascript" src="http://s00.static-shell.com/etc/clientlibs/granite/jquery.min.8449879e68d64f217e527ab5387bf65e.js"></script>
+<script type="text/javascript" src="http://s06.static-shell.com/etc/clientlibs/shell/shell-base.min.69133f360d8a9b3afa91115549c69530.js"></script>
+<script type="text/javascript" src="http://s00.static-shell.com/etc/designs/shell/clientlibs/publish.min.094c11c59ca1267e66e2ec5d46d82cfe.js"></script>
+<script type="text/javascript" src="http://s03.static-shell.com/etc/clientlibs/shell/xlider.min.994929b52f0b6e5c99a74852d197b61d.js"></script>
+<link rel="stylesheet" href="http://s01.static-shell.com/etc.clientlibs/shell/components/par/html5hero/clientlib.min.c4107292fb66a195e49889eb0a6a9916.css" type="text/css">
+<script type="text/javascript" src="http://s06.static-shell.com/etc/clientlibs/shell/shell-swfobject.min.5b416929620414800c9d46bfa55b7faf.js"></script>
+<script type="text/javascript" src="http://s01.static-shell.com/etc.clientlibs/shell/components/par/html5hero/clientlib.min.15821d42d2cf79d2f2465343e87a1fbc.js"></script>
+<link rel="stylesheet" href="http://s05.static-shell.com/etc.clientlibs/shell/components/par/contenthighlighter/clientlib.min.e09e4899af3662343b1fcf084a5b4467.css" type="text/css">
+<script type="text/javascript" src="http://s06.static-shell.com/etc.clientlibs/shell/components/par/contenthighlighter/clientlib.min.a7d23facb77f7c8b503e3b9a472ea697.js"></script>
+
+<!--prevous code path="par.head" doesn't work for impulse pane.-->
+<script type="text/javascript" src="http://s02.static-shell.com/etc.clientlibs/shell/components/par/utilitynavigation/clientlib.min.2723d2448073f2e93452a38549106815.js"></script>
+<link rel="stylesheet" href="http://s06.static-shell.com/etc.clientlibs/shell/base/components/truste/clientlib.min.ef5afbd750e0057bf012daeaed3a0d60.css" type="text/css">
+</head>
+<body class="homepage">
+	<div class="parbase clientcontext"><script type="text/javascript" src="http://s06.static-shell.com/etc/clientlibs/granite/utils.min.cd31222ac49213ace66f3568912db918.js"></script>
+<script type="text/javascript" src="http://s06.static-shell.com/etc/clientlibs/granite/jquery/granite.min.e26b5f40a34d432bee3ded1ccbdc7041.js"></script>
+<script type="text/javascript" src="http://s05.static-shell.com/etc/clientlibs/foundation/jquery.min.d7c42e4a257b8b9fe38d1c53dd20d01a.js"></script>
+<script type="text/javascript" src="http://s01.static-shell.com/etc/clientlibs/foundation/shared.min.5af026faea1acebbf7c4b986175455b7.js"></script>
+<script type="text/javascript" src="http://s00.static-shell.com/etc/clientlibs/granite/underscore.min.edc33caf36b672e930df0e129b9c76d5.js"></script>
+<script type="text/javascript" src="http://s05.static-shell.com/etc/clientlibs/foundation/personalization/kernel.min.490fcc7a65138e2cd74ed64e1dff7586.js"></script>
+<script type="text/javascript">
+    $CQ(function() {
+        CQ_Analytics.SegmentMgr.loadSegments("/etc/segmentation");
+        CQ_Analytics.ClientContextUtils.init("/etc/clientcontext/shell","/content/shell/corporate/global/en");
+    });
+</script>
+</div>
+	<div id="wrapper">
+<div id="jump_menu">
+	<h3 id="jump_page_top">Jump menu</h3>
+	<ul>
+		<li><a href="#jump_navigation">Secondary Navigation</a></li>
+		<li><a href="#jump_main_content">Main content</a></li>
+		<li><a href="#jump_search">Site search</a></li>
+		<li><a href="#jump_footer_links">Footer links</a></li>
+	</ul>
+</div>
+<header>
+	<div id="header" class="shell clearfix">
+<div class="clearfix">
+		<div id="cookie_info">
+			<div class="wrapper">
+				<div class="text">
+					<p>
+	    				This website uses cookies. By continuing to browse this website you are agreeing to our use of cookies.
+						<a class="shell metrics_crossdomain" href="/global/aboutshell/website-social-mobile/about-our-website/privacy.html">Find out more by reading our privacy policy.</a>
+					</p>
+				</div>
+				<span class="button"></span>
+			</div>
+		</div>
+	<ul>
+			<li><a title="Shell.com" class="shell metrics_crossdomain" href="/">Shell.com</a></li>
+			<li><a title="Privacy policy" class="shell metrics_crossdomain" href="/global/aboutshell/website-social-mobile/about-our-website/privacy.html">Privacy policy</a></li>
+			<li><a title="Accessibility" class="shell metrics_crossdomain" href="/global/aboutshell/website-social-mobile/about-our-website/accessibility.html">Accessibility</a></li>
+			<li><a title="Help" class="shell metrics_crossdomain" href="/global/aboutshell/website-social-mobile/about-our-website.html">Help</a></li>
+			<li><a title="Contact Us" class="shell metrics_crossdomain" href="/global/aboutshell/contact-us.html">Contact Us</a></li>
+		<li></li>
+	</ul>
+	<hr />
+<form class="module search" action="/global/search.html" id="search_form_700af06792c58c4aced190f62e4b9ab2">
+	<fieldset>
+		<legend>Search this website</legend>
+		<label for="header_search_text_700af06792c58c4aced190f62e4b9ab2"><span>Enter Search Term:</span>
+		<input class="input_search_text" id="header_search_text_700af06792c58c4aced190f62e4b9ab2" type="search" name="q" placeholder="Search" /></label>
+		<input class="button" type="submit" value=""/>
+		<input type="hidden" name="language" value="en" />
+		<input type="hidden" name="location" value="/content/shell/corporate/global" />
+	</fieldset>
+</form>
+</div>
+	</div>
+</header>
+<div id="side_panel" class="shell">
+	<div class="shell module shell_logo parbase" data-ast-component="shelllogo">
+		<a title="" class="shell" href="/">
+			<img alt="Go to www.shell.com" width="76" height="71" src="http://s01.static-shell.com/etc/designs/shell/clientlibs/publish/css/img/logos/shell.gif"/>
+		</a>
+	</div>
+	<div id="side_panel_content">
+<div class="module country_selector">
+	<div id="country_switch">
+			<img src="http://s06.static-shell.com/etc/designs/shell/clientlibs/publish/css/img/flags/flag-global.gif" alt="Shell Global"/>
+			<h4>Shell Global</h4>
+			<a id="country_selector_toggle" href="#">Change Location</a>
+	</div>
+		<form id="country_selector_form" data-label-hide="Hide Location" data-label-change="Change Location">
+			<fieldset>
+				<legend></legend>
+				<label for="location_dropdown">Select a Country</label>
+				<select id="location_dropdown" name="url">
+					<option selected="selected" value="http://www.shell.com">Shell.com</option>
+					<option value="/"></option>
+				</select>
+				<input type="submit" value="" />
+			</fieldset>
+		</form>
+		<ul id="country_selector_list">
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-algeria.html">Algeria</a></li>
+				<li><a href="http://www.shell.com.ar/">Argentina</a></li>
+				<li><a href="http://www.shell.com.au/">Australia</a></li>
+				<li><a href="http://www.shell.at/">Austria</a></li>
+				<li><a href="http://www.shell.com.bs">Bahamas</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-barbados.html">Barbados</a></li>
+				<li><a href="http://www.shell.be/">Belgium</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-benin.html">Benin</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-bolivia.html">Bolivia</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-botswana.html">Botswana</a></li>
+				<li><a href="http://www.shell.com/bra.html">Brazil</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-brunei.html">Brunei</a></li>
+				<li><a href="http://www.shell.bg">Bulgaria</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-burkinafaso.html">Burkina Faso</a></li>
+				<li><a href="http://www.shell.ca">Canada</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-capeverde.html">Cape Verde</a></li>
+				<li><a href="http://www.shell.cl/">Chile</a></li>
+				<li><a href="http://www.shell.com.cn/">China</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-columbia.html">Colombia</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-costarica.html">Costa Rica</a></li>
+				<li><a href="http://www.shell.cz/">Czech Republic</a></li>
+				<li><a href="http://www.shell.dk/">Denmark</a></li>
+				<li><a href="http://www.shell.com.do/">Dominican Republic</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-ecuador.html">Ecuador</a></li>
+				<li><a href="http://www.shell.com/egy.html">Egypt</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-estonia.html">Estonia</a></li>
+				<li><a href="http://www.shell.fi/">Finland</a></li>
+				<li><a href="http://www.shell.fr">France</a></li>
+				<li><a href="http://www.shell.com/gab/fr.html">Gabon</a></li>
+				<li><a href="http://www.shell.de/">Germany</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-ghana.html">Ghana</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-gibraltar.html">Gibraltar</a></li>
+				<li><a href="http://www.shell.com/">Global</a></li>
+				<li><a href="http://www.shell.gr/">Greece</a></li>
+				<li><a href="http://www.shell.com.gu/">Guam</a></li>
+				<li><a href="http://www.shell.com.gt">Guatemala</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-honduras.html">Honduras</a></li>
+				<li><a href="http://www.shell.com.hk">Hong Kong and Macau</a></li>
+				<li><a href="http://www.shell.hu/">Hungary</a></li>
+				<li><a href="http://www.shell.is/">Iceland</a></li>
+				<li><a href="http://www.shell.in">India</a></li>
+				<li><a href="http://www.shell.co.id/">Indonesia</a></li>
+				<li><a href="http://www.shell.com/irq/en.html">Iraq</a></li>
+				<li><a href="http://www.shell.ie/">Ireland</a></li>
+				<li><a href="http://www.shell.it/">Italy</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-cotedivoire.html">Ivory Coast</a></li>
+				<li><a href="http://www.shell.co.jp/">Japan</a></li>
+				<li><a href="http://www.shell.com.kz/">Kazakhstan</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-kenya.html">Kenya</a></li>
+				<li><a href="http://www.shell.com/kwt.html">Kuwait</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-reunion.html">La Reunion</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-laos.html">Laos</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact-latvia.html">Latvia</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-lesotho.html">Lesotho</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact-lithuania.html">Lithuania</a></li>
+				<li><a href="http://www.shell.lu/">Luxemburg</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-madagascar.html">Madagascar</a></li>
+				<li><a href="http://www.shell.com.my/">Malaysia</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-mali.html">Mali</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-mauritius.html">Mauritius</a></li>
+				<li><a href="http://www.shell.com.mx/">Mexico</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-morocco.html">Morocco</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-myanmar.html">Myanmar</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-namibia.html">Namibia</a></li>
+				<li><a href="http://www.shell.nl/">Netherlands</a></li>
+				<li><a href="http://www.shell.co.nz/">New Zealand</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-nicaragua.html">Nicaragua</a></li>
+				<li><a href="http://www.shell.com.ng/">Nigeria</a></li>
+				<li><a href="http://www.shell.no/">Norway</a></li>
+				<li><a href="http://www.shelloman.com.om/">Oman</a></li>
+				<li><a href="http://www.shell.com.pk/">Pakistan</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-panama.html">Panama</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-peru.html">Peru</a></li>
+				<li><a href="http://www.shell.com.ph/">Philippines</a></li>
+				<li><a href="http://www.shell.pl/">Poland</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-portugal.html">Portugal</a></li>
+				<li><a href="http://www.shell.com.pr/en.html">Puerto Rico</a></li>
+				<li><a href="http://www.shell.com.qa/en.html">Qatar</a></li>
+				<li><a href="http://www.shell.com.ru/">Russia</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-saudiaarabia.html">Saudi Arabia</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-senegal.html">Senegal</a></li>
+				<li><a href="http://www.shell.com.sg/">Singapore</a></li>
+				<li><a href="http://www.shell.sk/">Slovakia</a></li>
+				<li><a href="http://www.shell-adria.si/">Slovenia</a></li>
+				<li><a href="http://www.shell.com/zaf.html">South Africa</a></li>
+				<li><a href="http://www.shell.co.kr/">South Korea</a></li>
+				<li><a href="http://www.shell.es/">Spain</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-swaziland.html">Swaziland</a></li>
+				<li><a href="http://www.shell.se/">Sweden</a></li>
+				<li><a href="http://www.shell.ch/">Switzerland</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-syria.html">Syria</a></li>
+				<li><a href="http://www.shell.com.tw/">Taiwan</a></li>
+				<li><a href="http://www.shell.co.th/">Thailand</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-togo.html">Togo</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-trinidad.html">Trinidad and Tobago</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-tunisia.html">Tunisia</a></li>
+				<li><a href="http://www.shell.com.tr/">Turkey</a></li>
+				<li><a href="http://www.shell.com/global/aboutshell/contact-us/contact/contact-uganda.html">Uganda</a></li>
+				<li><a href="http://www.shell.ua/">Ukraine</a></li>
+				<li><a href="http://www.shell.com/are.html">United Arab Emirates</a></li>
+				<li><a href="http://www.shell.co.uk/">United Kingdom</a></li>
+				<li><a href="http://www.shell.us/">United States</a></li>
+				<li><a href="http://www.shell.com.ve/">Venezuela</a></li>
+				<li><a href="http://www.shell.com.vn/">Vietnam</a></li>
+		</ul>
+</div>
+		<hr />
+		<h3 id="jump_navigation" class="jump_point">
+			Secondary Navigation&nbsp;|&nbsp;<a href="#jump_page_top">back to top</a>
+		</h3>
+<div id="nav-service" role="navigation">
+	<div class="line-one">
+		<!-- NOAJAX -->
+	</div>
+</div>
+<nav>
+	<div class="shell module navigation">
+		<ul class="level_one">
+		<li ><h4><a title="Environment &amp; Society " class=" shell" href="/global/environment-society.html"><span>Environment &amp; Society </span></a></h4>
+</li>
+<li ><h4><a title="Future of Energy" class=" shell" href="/global/future-energy.html"><span>Future of Energy</span></a></h4>
+</li>
+<li ><h4><a title="Products &amp; Services" class=" shell" href="/global/products-services.html"><span>Products &amp; Services</span></a></h4>
+</li>
+<li ><h4><a title="About Shell" class=" shell" href="/global/aboutshell.html"><span>About Shell</span></a></h4>
+</li>
+		</ul>
+	</div>
+</nav>
+<div class="shell" id="side_panel_modules">
+    <div class="parsys homepage_left_ipar iparsys"><div class="parsys parbase basecomponent linklist section" data-ast-component="linklist">
+	<div class="shell module links box ">
+		<h2 class="module_header">
+			<span>Shell for</span>
+		</h2>
+		<div class="module_content">
+		<ul class="link_list column_list">
+				<li class="parbase basecomponent link new_row" data-ast-component="link">
+				<a href="/global/products-services/on-the-road.html" class="shell link" data-resource-type="shell/base/components/link">
+						<span>Motorists</span>
+				</a>
+</li>
+				<li class="parbase basecomponent link" data-ast-component="link">
+				<a href="/global/products-services/solutions-for-businesses.html" class="shell link" data-resource-type="shell/base/components/link">
+						<span>Business customers</span>
+				</a>
+</li>
+				<li class="parbase basecomponent link new_row" data-ast-component="link">
+				<a href="/global/aboutshell/careers.html" class="shell link" data-resource-type="shell/base/components/link">
+						<span>Jobs and Careers</span>
+				</a>
+</li>
+				<li class="parbase basecomponent link" data-ast-component="link">
+				<a href="/global/aboutshell/investor.html" class="shell link" data-resource-type="shell/base/components/link">
+						<span>Investors</span>
+				</a>
+</li>
+				<li class="parbase basecomponent link new_row" data-ast-component="link">
+				<a href="/global/aboutshell/media.html" class="shell link" data-resource-type="shell/base/components/link">
+						<span>Media</span>
+				</a>
+</li>
+				<li class="parbase basecomponent link" data-ast-component="link">
+				<a href="/global/products-services/shell-motorsport.html" class="shell link" data-resource-type="shell/base/components/link">
+						<span>Motorsport fans</span>
+				</a>
+</li>
+				<li class="parbase basecomponent link new_row" data-ast-component="link">
+				<a href="/global/products-services/solutions-for-businesses/supplier.html" class="shell link" data-resource-type="shell/base/components/link">
+						<span>Suppliers</span>
+				</a>
+</li>
+		</ul>
+		</div>
+	</div>
+</div>
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys homepage_left_ipar iparsys">
+</div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+<div id="subheader" class="shell">
+</div>
+<div id="content" class="shell clearfix">
+	<h2 id="jump_main_content" class="jump_point">
+		Main content&nbsp;|&nbsp;
+		<a href="#jump_page_top">
+			back to top
+		</a>
+	</h2>
+	<div class="parbase basecomponent pageheader header" data-ast-component="pageheader">
+<div id="content_header">
+				<h1>The Shell global homepage</h1>
+</div>
+</div>
+	<div id="content_modules">
+		<div class="par parsys parbase basecomponent">
+		<div class="html5hero parbase basecomponent" data-ast-component="html5hero">
+	<div class="shell module hero">
+		<div class="images">
+				<div class="image_container">
+					<div class="heroimage parbase basecomponent" data-ast-component="heroimage">
+	<div class="image main " data-delay="5000">
+		<div class="parbase basecomponent image mainimage" data-ast-component="image">
+                                    <a href="/global/future-energy/inside-energy/inside-energy-stories/clearing-the-skies-over-beijing.html">
+                                        <img src="/global/_jcr_content/par/html5hero_1/heroimage_1/mainimage.449611494.jpeg" alt="Air pollution in Beijing"/>
+                                    </a>
+</div>
+		<div class="caption" style=" ">
+				<div class="headline">
+					<div class="text">
+									<h2>Clearing the skies over Beijing</h2>
+					</div>
+				</div>
+				<div class="tagline">
+					<div class="text">
+						<a class="shell link" href="/global/future-energy/inside-energy/inside-energy-stories/clearing-the-skies-over-beijing.html">
+							China is taking steps to reduce air pollution by developing more renewable energy and building new gas-fired power plants
+						</a>
+					</div>
+				</div>
+		</div>
+	</div>
+</div>
+				</div>
+				<div class="image_container">
+					<div class="heroimage parbase basecomponent" data-ast-component="heroimage">
+	<div class="image main " data-delay="5000">
+		<div class="parbase basecomponent image mainimage" data-ast-component="image">
+                                    <a href="/global/aboutshell/media/speeches-and-articles/2015/innovation-is-critical-to-overcoming-urgent-energy-challenges.html">
+                                        <img src="/global/_jcr_content/par/html5hero_1/heroimage_3/mainimage.1443171412.jpeg" alt="Harry Brekelmans speaking at the Innovation Open House in Mexico"/>
+                                    </a>
+</div>
+		<div class="caption" style=" top: 140px">
+				<div class="headline">
+					<div class="text">
+									<h2>Innovating to overcome challenges</h2>
+					</div>
+				</div>
+				<div class="tagline">
+					<div class="text">
+						<a class="shell link" href="/global/aboutshell/media/speeches-and-articles/2015/innovation-is-critical-to-overcoming-urgent-energy-challenges.html">
+							Speaking in Mexico, Shell Projects &amp; Technology Director Harry Brekelmans argues that innovation will be critical to meet rising demand with cleaner energy
+						</a>
+					</div>
+				</div>
+		</div>
+	</div>
+</div>
+				</div>
+				<div class="image_container">
+					<div class="heroimage parbase basecomponent" data-ast-component="heroimage">
+	<div class="image main " data-delay="5000">
+		<div class="parbase basecomponent image mainimage" data-ast-component="image">
+                                    <a href="/global/environment-society.html">
+                                        <img src="/global/_jcr_content/par/html5hero_1/heroimage/mainimage.1352294665.jpeg" alt="Sustainability World Environment Day"/>
+                                    </a>
+</div>
+		<div class="caption" style=" top: 170px">
+				<div class="headline">
+					<div class="text">
+									<h2>What being responsible means for us</h2>
+					</div>
+				</div>
+				<div class="tagline">
+					<div class="text">
+						<a class="shell link" href="/global/environment-society.html">
+							Watch how we work responsibly to meet tomorrow’s energy needs
+						</a>
+					</div>
+				</div>
+		</div>
+	</div>
+</div>
+				</div>
+				<div class="image_container">
+					<div class="heroimage parbase basecomponent" data-ast-component="heroimage">
+	<div class="image main " data-delay="5000">
+		<div class="parbase basecomponent image mainimage" data-ast-component="image">
+                                    <a href="/global/aboutshell/media/speeches-and-articles/2015/growing-gas-together.html">
+                                        <img src="/global/_jcr_content/par/html5hero_1/heroimage_2/mainimage.1806131624.jpeg" alt="Ben van Beurden, CEO, speaking at World Gas Conference"/>
+                                    </a>
+</div>
+		<div class="caption" style="left: 20px; top: 190px">
+				<div class="headline">
+					<div class="text">
+									<h2>Growing gas together</h2>
+					</div>
+				</div>
+				<div class="tagline">
+					<div class="text">
+						<a class="shell link" href="/global/aboutshell/media/speeches-and-articles/2015/growing-gas-together.html">
+							In a keynote speech in Paris, Shell CEO Ben van Beurden argues that natural gas will be crucial to safeguarding the environment while meeting world energy needs
+						</a>
+					</div>
+				</div>
+		</div>
+	</div>
+</div>
+				</div>
+		</div>
+		<div class="control bottom_right"><div class="pager"></div></div>
+	</div>
+</div>
+		<div class="parbase basecomponent columncontrol">
+		<div class="columncontrol">
+				<div class="two_wide"><div class="parsys parbase column_1 basecomponent">
+		<div class="parbase basecomponent reference" data-ast-component="reference">
+    <div class="cq-dd-paragraph"><div class="contenthighlighter parbase basecomponent" data-ast-component="contenthighlighter">
+			<div class="shell module rss_wrapper box">
+				<h2 class="module_header">
+					<span>
+								MEDIA RELEASES
+					</span>
+				</h2>
+			<div class="items_wrapper">
+				<div class="items">
+						<div class="rss_detail_wrapper">
+							<div class="parbase basecomponent newsorhighlight" data-ast-component="newsorhighlight">
+			<div class="rss_detail">
+		<h4>
+				<a href="/global/aboutshell/media/news-and-media-releases/2015/shell-bg-recommended-combination-clears-us-antitrust-hurdle.html" class="shell link" data-resource-type="shell/base/components/link">
+						<span>Shell-BG recommended combination clears US antitrust hurdle</span>
+				</a>
+		</h4>
+		<p class="date">
+			16 Jun 2015
+		</p>
+				<p>
+			Royal Dutch Shell plc (“Shell”) today announced its recommended combination with BG Group plc (“BG”) has cleared its first antitrust hurdle by receiving early termination of the US antitrust waiting period from the United States Federal Trade Commission (“FTC”).
+		</p>
+		<div class="parsys parbase basecomponent linklist" data-ast-component="linklist">
+		<ul class="link_list clearfix">
+		</ul>
+</div>
+	</div>
+</div>
+						</div>
+						<div class="rss_detail_wrapper">
+							<div class="parbase basecomponent newsorhighlight" data-ast-component="newsorhighlight">
+			<div class="rss_detail">
+		<h4>
+				<a href="/global/aboutshell/media/news-and-media-releases/2015/advance-notice-q2-results-2015.html" class="shell link" data-resource-type="shell/base/components/link">
+						<span>Advance notice of 2nd quarter 2015 results and 2nd quarter interim dividend announcement</span>
+				</a>
+		</h4>
+		<p class="date">
+			11 Jun 2015
+		</p>
+				<p>
+			On Thursday, July 30, 2015 at 07.00 BST (08.00 CEST and 02.00 EDT) Royal Dutch Shell plc will release its second quarter results and second quarter interim dividend announcement for 2015.
+		</p>
+		<div class="parsys parbase basecomponent linklist" data-ast-component="linklist">
+		<ul class="link_list clearfix">
+		</ul>
+</div>
+	</div>
+</div>
+						</div>
+						<div class="rss_detail_wrapper">
+							<div class="parbase basecomponent newsorhighlight" data-ast-component="newsorhighlight">
+			<div class="rss_detail">
+		<h4>
+				<a href="/global/aboutshell/media/news-and-media-releases/2015/royal-dutch-shell-plc-first-quarter-2015-euro-and-gbp-equivalent.html" class="shell link" data-resource-type="shell/base/components/link">
+						<span>Royal Dutch Shell plc first quarter 2015 Euro and GBP equivalent dividend payments</span>
+				</a>
+		</h4>
+		<p class="date">
+			08 Jun 2015
+		</p>
+				<p>
+			The Board of Royal Dutch Shell plc (“RDS”) today announced the pounds sterling and euro equivalent dividend payments in respect of the first quarter 2015 interim dividend, which was announced on April 30, 2015 at US$0.47 per A ordinary share (“A Share”) and B ordinary share (“B Share”). 
+		</p>
+		<div class="parsys parbase basecomponent linklist" data-ast-component="linklist">
+		<ul class="link_list clearfix">
+		</ul>
+</div>
+	</div>
+</div>
+						</div>
+						<div class="rss_detail_wrapper">
+							<div class="parbase basecomponent newsorhighlight" data-ast-component="newsorhighlight">
+			<div class="rss_detail">
+		<h4>
+				<a href="/global/aboutshell/media/news-and-media-releases/2015/oil-and-gas-majors-call-for-carbon-pricing.html" class="shell link" data-resource-type="shell/base/components/link">
+						<span>Oil and gas majors call for carbon pricing</span>
+				</a>
+		</h4>
+		<p class="date">
+			01 Jun 2015
+		</p>
+				<p>
+			Major oil and gas companies, BG Group plc, BP plc, Eni S.p.A., Royal Dutch Shell plc, Statoil ASA and Total SA, today announced their call to governments around the world and to the United Nations Framework Convention on Climate Change (UNFCCC) to introduce carbon pricing systems and create clear, stable, ambitious policy frameworks that could eventually connect national systems. These would reduce uncertainty and encourage the most cost effective ways of reducing carbon emissions widely.
+		</p>
+		<div class="parsys parbase basecomponent linklist" data-ast-component="linklist">
+		<ul class="link_list clearfix">
+		</ul>
+</div>
+	</div>
+</div>
+						</div>
+						<div class="rss_detail_wrapper">
+							<div class="parbase basecomponent newsorhighlight" data-ast-component="newsorhighlight">
+			<div class="rss_detail">
+		<h4>
+				<a href="/global/aboutshell/media/news-and-media-releases/2015/shell-first-quarter-2015-scrip-dividend-reference-share-price.html" class="shell link" data-resource-type="shell/base/components/link">
+						<span>Royal Dutch Shell plc first quarter 2015 scrip dividend programme reference share price</span>
+				</a>
+		</h4>
+		<p class="date">
+			21 May 2015
+		</p>
+				<p>
+			The Board of Royal Dutch Shell plc (“RDS”) today announced the Reference Share Price in respect of the first quarter interim dividend of 2015, which was announced on April 30, 2015 at $0.47 per A ordinary share (“A Share”) and B ordinary share (“B Share”) and $0.94 per American Depository Share (“ADS”). 
+		</p>
+		<div class="parsys parbase basecomponent linklist" data-ast-component="linklist">
+		<ul class="link_list clearfix">
+		</ul>
+</div>
+	</div>
+</div>
+						</div>
+				</div>
+				<div class="pager shell_carousel_pager"></div>
+			</div>
+				<div class="module_footer">
+				<a href="/global/aboutshell/media/news-and-media-releases.html" class="shell link" data-resource-type="shell/base/components/link">
+						<span>view all stories</span>
+				</a>
+				</div>
+		</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+				<div class="two_wide"><div class="parsys parbase basecomponent column_2">
+		<div class="parbase basecomponent reference" data-ast-component="reference">
+    <div class="cq-dd-paragraph"><div class="tagcloudlist parbase basecomponent tagcloudlist_1" data-ast-component="tagcloudlist">
+	<div class="shell module box tag_cloud">
+		<h2 class="module_header">
+			<span>Most popular topics</span>
+		</h2>
+				<ul>
+						<li class="parbase basecomponent tagcloudtopic" data-ast-component="tagcloudtopic">
+				<a href="/global/environment-society/ecomarathon/events/europe.html" class="size2 shell metrics_tag" data-resource-type="shell/base/components/link">
+						<span>Shell Eco-marathon Europe 2015</span>
+				</a>
+</li>
+						<li class="parbase basecomponent tagcloudtopic" data-ast-component="tagcloudtopic">
+				<a href="/global/aboutshell/careers/professionals/job-search2.html" class="size1 shell metrics_tag" data-resource-type="shell/base/components/link">
+						<span>Job search</span>
+				</a>
+</li>
+						<li class="parbase basecomponent tagcloudtopic" data-ast-component="tagcloudtopic">
+				<a href="http://www.shell.us/products-services/shell-cards/shell-saver-card.html" class="size4 shell metrics_tag" data-resource-type="shell/base/components/link">
+						<span>Shell Saver Card (US)</span>
+				</a>
+</li>
+						<li class="parbase basecomponent tagcloudtopic" data-ast-component="tagcloudtopic">
+				<a href="http://reports.shell.com/" class="size1 shell metrics_tag" target="_blank" data-resource-type="shell/base/components/link">
+						<span>Annual Reports</span>
+				</a>
+</li>
+						<li class="parbase basecomponent tagcloudtopic" data-ast-component="tagcloudtopic">
+				<a href="/global/products-services/on-the-road/card-services.html" class="size3 shell metrics_tag" data-resource-type="shell/base/components/link">
+						<span>Credit cards</span>
+				</a>
+</li>
+						<li class="parbase basecomponent tagcloudtopic" data-ast-component="tagcloudtopic">
+				<a href="/global/environment-society/ecomarathon.html" class="size5 shell metrics_tag" data-resource-type="shell/base/components/link">
+						<span>Shell Eco-marathon</span>
+				</a>
+</li>
+						<li class="parbase basecomponent tagcloudtopic" data-ast-component="tagcloudtopic">
+				<a href="http://www.shell.us/products-services/shell-cards/contact.html" class="size2 shell metrics_tag" data-resource-type="shell/base/components/link">
+						<span>Pay your bill (US)</span>
+				</a>
+</li>
+						<li class="parbase basecomponent tagcloudtopic" data-ast-component="tagcloudtopic">
+				<a href="/global/products-services/shell-motorsport/motorsport/ferrari.html" class="size3 shell metrics_tag" data-resource-type="shell/base/components/link">
+						<span>Shell and Ferrari</span>
+				</a>
+</li>
+						<li class="parbase basecomponent tagcloudtopic" data-ast-component="tagcloudtopic">
+				<a href="/global/products-services/on-the-road/shell-station-locator.html" class="size2 shell metrics_tag" data-resource-type="shell/base/components/link">
+						<span>Route planner</span>
+				</a>
+</li>
+						<li class="parbase basecomponent tagcloudtopic" data-ast-component="tagcloudtopic">
+				<a href="http://www.shell.us/aboutshell/projects-locations/alaska.html" class="size4 shell metrics_tag" data-resource-type="shell/base/components/link">
+						<span>Alaska</span>
+				</a>
+</li>
+						<li class="parbase basecomponent tagcloudtopic" data-ast-component="tagcloudtopic">
+				<a href="/global/products-services/solutions-for-businesses/chemicals.html" class="size3 shell metrics_tag" data-resource-type="shell/base/components/link">
+						<span>Shell Chemicals</span>
+				</a>
+</li>
+						<li class="parbase basecomponent tagcloudtopic" data-ast-component="tagcloudtopic">
+				<a href="http://www.shell.us/" class="size2 shell metrics_tag" data-resource-type="shell/base/components/link">
+						<span>US website</span>
+				</a>
+</li>
+						<li class="parbase basecomponent tagcloudtopic" data-ast-component="tagcloudtopic">
+				<a href="/global/future-energy.html" class="size4 shell metrics_tag" data-resource-type="shell/base/components/link">
+						<span>Future of Energy</span>
+				</a>
+</li>
+						<li class="parbase basecomponent tagcloudtopic" data-ast-component="tagcloudtopic">
+				<a href="/global/aboutshell/investor/dividend-information/scrip.html" class="size4 shell metrics_tag" data-resource-type="shell/base/components/link">
+						<span>Scrip Dividend</span>
+				</a>
+</li>
+						<li class="parbase basecomponent tagcloudtopic" data-ast-component="tagcloudtopic">
+				<a href="/global/future-energy/natural-gas.html" class="size3 shell metrics_tag" data-resource-type="shell/base/components/link">
+						<span>Natural gas</span>
+				</a>
+</li>
+						<li class="parbase basecomponent tagcloudtopic" data-ast-component="tagcloudtopic">
+				<a href="/global/aboutshell/website-social-mobile/social-media.html" class="size3 shell metrics_tag" data-resource-type="shell/base/components/link">
+						<span>Social media</span>
+				</a>
+</li>
+						<li class="parbase basecomponent tagcloudtopic" data-ast-component="tagcloudtopic">
+				<a href="/global/aboutshell/website-social-mobile/mobile-apps.html" class="size2 shell metrics_tag" data-resource-type="shell/base/components/link">
+						<span>Shell apps and mobile sites</span>
+				</a>
+</li>
+				</ul>
+	</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+		</div>
+</div>
+		<div class="parbase basecomponent columncontrol">
+		<div class="columncontrol">
+				<div class="two_wide"><div class="parsys parbase column_1 basecomponent">
+		<div class="parbase basecomponent promotion" data-ast-component="promotion">
+		<div class="shell module promo overlay_icon_wide">
+				<a href="/global/aboutshell/investor/disclaimer-gateway.html" class="shell" data-resource-type="shell/base/components/link">
+					<span><img src="/global/_jcr_content/par/columncontrol_0/column_1/promotion/image.1165580933.jpeg" alt="BG announcement promo banner "/></span>
+				</a>
+		</div>
+</div>
+</div>
+</div>
+				<div class="two_wide"><div class="parsys parbase basecomponent column_2">
+		<div class="parbase basecomponent columncontrol">
+		<div class="columncontrol">
+				<div class="one_wide"><div class="parsys parbase column_1 basecomponent">
+		<div class="parbase basecomponent promotion" data-ast-component="promotion">
+		<div class="shell module promo overlay_icon_wide">
+				<a href="http://reports.shell.com/sustainability-report/2014/servicepages/welcome.html" class="shell metrics_crossdomain new_window" target="_blank" data-resource-type="shell/base/components/link">
+					<span><img src="/global/_jcr_content/par/columncontrol_0/column_2/columncontrol/column_1/promotion/image.10111746.jpeg" alt="Sustainability Report 2014 - Read online or download the PDF"/></span>
+				</a>
+		</div>
+</div>
+</div>
+</div>
+				<div class="one_wide"><div class="parsys parbase basecomponent column_2">
+		<div class="parbase basecomponent reference" data-ast-component="reference">
+    <div class="cq-dd-paragraph"><div class="parbase basecomponent promotion promotion_17" data-ast-component="promotion">
+		<div class="shell module promo overlay_icon_wide">
+				<a href="/global/aboutshell/careers/professionals/technical.html" class="shell" data-resource-type="shell/base/components/link">
+					<span><img src="/global/shared/promotion/evergreen-promotions0/_jcr_content/par/promotion_17/image.56539128.jpeg" alt="Technical Careers - read more"/></span>
+				</a>
+		</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+		</div>
+</div>
+</div>
+</div>
+		</div>
+</div>
+		<div class="parbase basecomponent reference" data-ast-component="reference">
+    <div class="cq-dd-paragraph"><div class="socialmedialinklist_1 socialmedialinklist parbase basecomponent" data-ast-component="socialmedialinklist">
+<div class="shell module follow_us box social-links-component">
+        <h2 class="module_header">
+            <span>Follow us</span>
+        </h2>
+    <ul class="clearfix">
+            <li class="parbase basecomponent socialmedialink" data-ast-component="socialmedialink">
+				<a href="/global/disclaimer-en.html/L2NvbnRlbnQvc2hlbGwvY29ycG9yYXRlL2dsb2JhbC9lbi9zaGFyZWQvZm9sbG93LXVzLzEyMy9qY3I6Y29udGVudC9wYXIvc29jaWFsbWVkaWFsaW5rbGlzdF8xL3NvY2lhbG1lZGlhbGlua18x" class="shell metrics_external new_window" target="_blank" data-link="http://www.youtube.com/shell" data-resource-type="/apps/shell/base/components/link">
+							<img src="http://s03.static-shell.com/content/dam/shell/icons/youtube.png" alt="YouTube"/>
+						<span>YouTube</span>
+						<span class="opensInNewWindow">
+							- opens in new window
+						</span>
+				</a>
+</li>
+            <li class="parbase basecomponent socialmedialink" data-ast-component="socialmedialink">
+				<a href="/global/disclaimer-en.html/L2NvbnRlbnQvc2hlbGwvY29ycG9yYXRlL2dsb2JhbC9lbi9zaGFyZWQvZm9sbG93LXVzLzEyMy9qY3I6Y29udGVudC9wYXIvc29jaWFsbWVkaWFsaW5rbGlzdF8xL3NvY2lhbG1lZGlhbGlua18y" class="shell metrics_external new_window" target="_blank" data-link="http://twitter.com/shell" data-resource-type="/apps/shell/base/components/link">
+							<img src="http://s04.static-shell.com/content/dam/shell/icons/twitter.png" alt="Twitter"/>
+						<span>Twitter</span>
+						<span class="opensInNewWindow">
+							- opens in new window
+						</span>
+				</a>
+</li>
+            <li class="parbase basecomponent socialmedialink" data-ast-component="socialmedialink">
+				<a href="/global/disclaimer-en.html/L2NvbnRlbnQvc2hlbGwvY29ycG9yYXRlL2dsb2JhbC9lbi9zaGFyZWQvZm9sbG93LXVzLzEyMy9qY3I6Y29udGVudC9wYXIvc29jaWFsbWVkaWFsaW5rbGlzdF8xL3NvY2lhbG1lZGlhbGlua18z" class="shell metrics_external new_window" target="_blank" data-link="http://www.facebook.com/shell" data-resource-type="/apps/shell/base/components/link">
+							<img src="http://s00.static-shell.com/content/dam/shell/icons/facebook.png" alt="Facebook"/>
+						<span>Facebook</span>
+						<span class="opensInNewWindow">
+							- opens in new window
+						</span>
+				</a>
+</li>
+            <li class="parbase basecomponent socialmedialink" data-ast-component="socialmedialink">
+				<a href="/global/disclaimer-en.html/L2NvbnRlbnQvc2hlbGwvY29ycG9yYXRlL2dsb2JhbC9lbi9zaGFyZWQvZm9sbG93LXVzLzEyMy9qY3I6Y29udGVudC9wYXIvc29jaWFsbWVkaWFsaW5rbGlzdF8xL3NvY2lhbG1lZGlhbGluaw==" class="shell metrics_external new_window" target="_blank" data-link="http://www.linkedin.com/company/1271?goback=%2Efcs_GLHD_shell_false_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2_*2&trk=ncsrch_hits" data-resource-type="/apps/shell/base/components/link">
+							<img src="http://s06.static-shell.com/content/dam/shell/icons/linkedin.png" alt="LinkedIn"/>
+						<span>LinkedIn</span>
+						<span class="opensInNewWindow">
+							- opens in new window
+						</span>
+				</a>
+</li>
+            <li class="parbase basecomponent socialmedialink" data-ast-component="socialmedialink">
+				<a href="/global/disclaimer-en.html/L2NvbnRlbnQvc2hlbGwvY29ycG9yYXRlL2dsb2JhbC9lbi9zaGFyZWQvZm9sbG93LXVzLzEyMy9qY3I6Y29udGVudC9wYXIvc29jaWFsbWVkaWFsaW5rbGlzdF8xL3NvY2lhbG1lZGlhbGlua182" class="shell metrics_external new_window" target="_blank" data-link="http://instagram.com/shell" data-resource-type="/apps/shell/base/components/link">
+							<img src="http://s05.static-shell.com/content/dam/shell-new/global/images-notext/icons/instagram.png" alt="Instagram"/>
+						<span>Instagram</span>
+						<span class="opensInNewWindow">
+							- opens in new window
+						</span>
+				</a>
+</li>
+            <li class="parbase basecomponent socialmedialink" data-ast-component="socialmedialink">
+				<a href="/global/disclaimer-en.html/L2NvbnRlbnQvc2hlbGwvY29ycG9yYXRlL2dsb2JhbC9lbi9zaGFyZWQvZm9sbG93LXVzLzEyMy9qY3I6Y29udGVudC9wYXIvc29jaWFsbWVkaWFsaW5rbGlzdF8xL3NvY2lhbG1lZGlhbGlua18w" class="shell metrics_external new_window" target="_blank" data-link="https://plus.google.com/+shell/posts" data-resource-type="/apps/shell/base/components/link">
+							<img src="http://s05.static-shell.com/content/dam/shell-new/global/images-notext/icons/google-plus.png" alt="Google+"/>
+						<span>Google+</span>
+						<span class="opensInNewWindow">
+							- opens in new window
+						</span>
+				</a>
+</li>
+            <li class="parbase basecomponent socialmedialink" data-ast-component="socialmedialink">
+				<a href="/global/disclaimer-en.html/L2NvbnRlbnQvc2hlbGwvY29ycG9yYXRlL2dsb2JhbC9lbi9zaGFyZWQvZm9sbG93LXVzLzEyMy9qY3I6Y29udGVudC9wYXIvc29jaWFsbWVkaWFsaW5rbGlzdF8xL3NvY2lhbG1lZGlhbGlua180" class="shell metrics_external new_window" target="_blank" data-link="http://www.flickr.com/photos/royaldutchshell" data-resource-type="/apps/shell/base/components/link">
+							<img src="http://s01.static-shell.com/content/dam/shell/icons/flickr.png" alt="Flickr"/>
+						<span>Flickr</span>
+						<span class="opensInNewWindow">
+							- opens in new window
+						</span>
+				</a>
+</li>
+            <li class="parbase basecomponent socialmedialink" data-ast-component="socialmedialink">
+				<a href="/global/aboutshell/media/follow-us/rss.html" class="shell" data-resource-type="/apps/shell/base/components/link">
+							<img src="http://s05.static-shell.com/content/dam/shell/icons/rss.png" alt="Read Shell related news feeds"/>
+						<span>RSS</span>
+				</a>
+</li>
+    </ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+<footer>
+	<div id="footer" class="shell clearfix">
+		<div class="footer parbase basecomponent" data-ast-component="footer">
+<h3 id="jump_search" class="jump_point">
+	Site Search
+	<a href="#jump_page_top">back to top</a>
+</h3>
+<form class="module search" action="/global/search.html" id="search_form_7844c1c0fa015e31bc5b76cae6001bc9">
+	<fieldset>
+		<legend>Search this website</legend>
+		<label for="header_search_text_7844c1c0fa015e31bc5b76cae6001bc9"><span>Enter Search Term:</span>
+		<input class="input_search_text" id="header_search_text_7844c1c0fa015e31bc5b76cae6001bc9" type="search" name="q" placeholder="Search" /></label>
+		<input class="button" type="submit" value=""/>
+		<input type="hidden" name="language" value="en" />
+		<input type="hidden" name="location" value="/content/shell/corporate/global" />
+	</fieldset>
+</form>
+<h3 id="jump_footer_links" class="jump_point">
+	Footer links&nbsp;|&nbsp;
+	<a href="#jump_page_top">back to top</a>
+</h3>
+<ul class="main">
+	<li class="about">
+		<h3 class="title">About Our Website</h3>
+		<ul>
+				<li><a title="Contact Us" class="shell" href="/global/aboutshell/contact-us.html">Contact Us</a></li>
+				<li><a title="Help" class="shell" href="/global/aboutshell/website-social-mobile/about-our-website/help.html">Help</a></li>
+				<li><a title="Accessibility" class="shell" href="/global/aboutshell/website-social-mobile/about-our-website/accessibility.html">Accessibility</a></li>
+				<li><a title="Sitemap" class="shell" href="/global/aboutshell/website-social-mobile/about-our-website/sitemap.html">Sitemap</a></li>
+				<li><a title="Terms and Conditions" class="shell" href="/global/aboutshell/website-social-mobile/about-our-website/terms.html">Terms and Conditions</a></li>
+				<li><a title="Privacy policy" class="shell" href="/global/aboutshell/website-social-mobile/about-our-website/privacy.html">Privacy policy</a></li>
+				<li><a title="Business integrity" class="shell" href="/global/environment-society/society/business/business-integrity.html">Business integrity</a></li>
+				<li><a title="Shell Global Helpline" class="shell" href="/global/aboutshell/who-we-are/our-values/compliance-helpline.html">Shell Global Helpline</a></li>
+				<li><a title="Fraud &amp; scam alert" class="shell" href="/global/aboutshell/website-social-mobile/about-our-website/frauds-scam-alert.html">Fraud &amp; scam alert</a></li>
+				<li><a title="Social media and Shell" class="shell" href="/global/aboutshell/website-social-mobile/social-media.html">Social media and Shell</a></li>
+				<li><a title="Shell apps and mobile sites" class="shell" href="/global/aboutshell/website-social-mobile/mobile-apps.html">Shell apps and mobile sites</a></li>
+		</ul>
+	</li>
+	<li class="main_areas">
+		<h3 class="title">Main Areas</h3>
+		<ul>
+				<li><a title="Environment &amp; Society " class="shell" href="/global/environment-society.html">Environment &amp; Society </a></li>
+				<li><a title="Future of Energy" class="shell" href="/global/future-energy.html">Future of Energy</a></li>
+				<li><a title="Products &amp; Services" class="shell" href="/global/products-services.html">Products &amp; Services</a></li>
+				<li><a title="About Shell" class="shell" href="/global/aboutshell.html">About Shell</a></li>
+		</ul>
+	</li>
+	<li class="tools">
+		<h3 class="title">Tools</h3>
+		<ul>
+				<li><a title="Job search" class="shell" href="/global/aboutshell/careers/professionals/job-search2.html">Job search</a></li>
+				<li><a title="Shell station locator and routeplanner" class="shell" href="/global/products-services/on-the-road/shell-station-locator.html">Shell station locator and routeplanner</a></li>
+				<li><a title="Apply or manage your credit card account" class="shell" href="/global/products-services/on-the-road/card-services/shell-credit-card.html">Apply or manage your credit card account</a></li>
+				<li><a title="Share price summary" class="shell" href="/global/aboutshell/investor/share-price-information/share-price-summary.html">Share price summary</a></li>
+				<li><a title="RSS" class="shell" href="/global/aboutshell/media/follow-us/rss.html">RSS</a></li>
+				<li><a title="News alerts" class="shell" href="/global/aboutshell/media/follow-us/email-alerts.html">News alerts</a></li>
+				<li><a title="Image library" class="shell" href="/global/aboutshell/media/imagelibrary.html">Image library</a></li>
+				<li><a title="Shell websites" class="shell" href="/global/aboutshell/contact-us.html">Shell websites</a></li>
+				<li><a title="Shell on Twitter" class="shell" href="/global/aboutshell/website-social-mobile/social-media.html">Shell on Twitter</a></li>
+		</ul>
+	</li>
+</ul>
+   		<p class="footer_text"></p>
+	<p class="footer_text"><div class="footer text parbase">
+<p>Shell is a global group of energy and petrochemicals companies. With around 94,000 employees in more than 70 countries and territories, Shell helps to meet the world's growing demand for energy in economically, environmentally and socially responsible ways.</p>
+</div>
+</p>
+</div>
+	</div>
+</footer>
+<div class="parbase basecomponent truste" data-ast-component="truste"><div id="shell-truste">
+	<script type="text/javascript" src="//consent.truste.com/notice?domain=shell.com&amp;c=shell-truste"></script>
+</div></div>
+	</div>
+		<div class="servicecomponents cloudservices"><div class="sitecatalyst cloudservice"><script type="text/javascript" src="http://s00.static-shell.com/etc/clientlibs/foundation/sitecatalyst/sitecatalyst.min.d3036c946fc28ae3cdabd63a2f5e0607.js"></script>
+<script type="text/javascript" src="http://s06.static-shell.com/etc/clientlibs/foundation/sitecatalyst/util.min.e6f919b8369818d9749dc3af5fa9134d.js"></script>
+<script type="text/javascript" src="/global/_jcr_content/analytics.sitecatalyst.js"></script>
+<script type="text/javascript" src="http://s03.static-shell.com/etc/clientlibs/mac/mac-sc.min.f73b363450b046b46a1abda054d79e97.js"></script>
+<script type="text/javascript" src="http://s05.static-shell.com/etc/clientlibs/foundation/sitecatalyst/plugins.min.c585ecc9d2284edf704b25a2de0522b8.js"></script>
+<script type="text/javascript">
+<!--
+CQ_Analytics.Sitecatalyst.frameworkComponents = ['shell/sitecatalyst/components/sitecatalyst'];
+/**
+ * Sets SiteCatalyst variables accordingly to mapped components. If <code>options</code> 
+ * object is provided only variables matching the options.componentPath are set.
+ *
+ * @param {Object} options Parameter object from CQ_Analytics.record() call. Optional.
+ */
+CQ_Analytics.Sitecatalyst.updateEvars = function(options) {
+    this.frameworkMappings = [];
+	this.frameworkMappings.push({scVar:"event10",cqVar:"eventdata.events.internalSearchNull",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar22",cqVar:"eventdata.formErrorField",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar23",cqVar:"eventdata.formAbandonmentField",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event12",cqVar:"eventdata.events.formStarted",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar2",cqVar:"pagedata.preproc",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar20",cqVar:"eventdata.internalSearchQuery",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event11",cqVar:"eventdata.events.internalSearchSuccessful",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar21",cqVar:"eventdata.formName",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event14",cqVar:"eventdata.events.formAbandoned",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar8",cqVar:"pagedata.pageLoadTime",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"prop19",cqVar:"pagedata.previousPageName",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event13",cqVar:"eventdata.events.formError",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar9",cqVar:"pagedata.timeParting",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event16",cqVar:"pagedata.pageLoadTime",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar6",cqVar:"eventdata.socialNetwork",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar24",cqVar:"eventdata.formTime",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event15",cqVar:"eventdata.events.formSubmitted",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar7",cqVar:"eventdata.fileInfo",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"hier1",cqVar:"pagedata.siteHierarchy",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar29",cqVar:"eventdata.videoFilePath",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"prop11",cqVar:"pagedata.visitNumber",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event1",cqVar:"eventdata.events.engagedVisit",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event2",cqVar:"eventdata.events.engagedVisitor",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event3",cqVar:"eventdata.events.engagement",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event4",cqVar:"eventdata.events.convertedVisit",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event5",cqVar:"eventdata.events.convertedVisitor",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar30",cqVar:"eventdata.videoName",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar1",cqVar:"pagedata.siteAndLanguage",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event6",cqVar:"eventdata.events.conversion",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event7",cqVar:"eventdata.events.contentShared",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event8",cqVar:"eventdata.events.fileDownloaded",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event9",cqVar:"eventdata.events.internalSearch",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar31",cqVar:"eventdata.percentage",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar32",cqVar:"eventdata.length",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"prop2",cqVar:"pagedata.preproc",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"prop1",cqVar:"pagedata.siteAndLanguage",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar38",cqVar:"eventdata.mapAction",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"prop20",cqVar:"eventdata.internalSearchQuery",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event36",cqVar:"eventdata.events.a.media.timePlayed",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event35",cqVar:"eventdata.events.a.media.complete",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event32",cqVar:"eventdata.events.milestone25",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event31",cqVar:"eventdata.events.videopause",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event34",cqVar:"eventdata.events.milestone75",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event33",cqVar:"eventdata.events.milestone50",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event30",cqVar:"eventdata.events.a.media.view",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"pageURL",cqVar:"pagedata.url",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar43",cqVar:"eventdata.internalSearchExecutionTime",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar42",cqVar:"eventdata.internalSearchResultsNumber",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"campaign",cqVar:"pagedata.cid",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event60",cqVar:"eventdata.events.externalLinkClicked",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"pageName",cqVar:"pagedata.pageName",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar16",cqVar:"pagedata.localTime",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar10",cqVar:"pagedata.newRepeat",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar11",cqVar:"pagedata.visitNumber",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"event20",cqVar:"eventdata.events.mapClicked",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar17",cqVar:"pagedata.globalTime",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar18",cqVar:"pagedata.percentPageViewed",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"eVar60",cqVar:"eventdata.externalLink",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"pageType",cqVar:"pagedata.pageType",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"server",cqVar:"pagedata.hostName",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+	this.frameworkMappings.push({scVar:"channel",cqVar:"pagedata.siteSection",resourceType:"shell/sitecatalyst/components/sitecatalyst"});
+    for (var i=0; i<this.frameworkMappings.length; i++){
+		var m = this.frameworkMappings[i];
+		if (!options || options.compatibility || (options.componentPath == m.resourceType)) {
+			CQ_Analytics.Sitecatalyst.setEvar(m);
+		}
+    }
+}
+CQ_Analytics.CCM.addListener("storesinitialize", function(e) {
+	var collect = true;
+    var lte = s.linkTrackEvents;
+    s.pageName="content:shell:corporate:global:en";
+    CQ_Analytics.Sitecatalyst.collect(collect);
+    if (collect) {
+		CQ_Analytics.Sitecatalyst.updateEvars();
+	    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+	    var s_code=s.t();if(s_code)document.write(s_code);
+	    s.linkTrackEvents = lte;
+	    if(s.linkTrackVars.indexOf('events')==-1){delete s.events};
+	    $CQ(document).trigger("sitecatalystAfterCollect");
+    }
+});
+//-->
+</script>
+<script type="text/javascript">
+<!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//-->
+</script>
+<noscript><img src="http://nsc.metrics-shell.com/b/ss/shell.com,shellglobalreportsuite/1/H.25--NS/1434462366822?cdp=2&amp;gn=content%3Ashell%3Acorporate%3Aglobal%3Aen" height="1" width="1" border="0" alt=""/></noscript>
+<span data-tracking="{event:'pageView', values:{}, componentPath:'foundation/components/page'}"></span>
+</div>
+</div>
+		<div class="sitecatalyst">
+	<span class="shell" id="sitecatalyst-page-data"
+		data-url="http://www.shell.com/"
+		data-site="global"
+		data-page-name="home"
+		data-language="en"
+		data-site-and-language="global|en"
+		data-site-section=""
+		data-site-hierarchy="global|en|home"
+		data-page-type=""
+		data-media-milestones="25,50,75"
+		data-preproc-tag=""></span>
+	<script type="text/javascript" src="http://s05.static-shell.com/etc.clientlibs/shell/sitecatalyst/components/sitecatalyst/clientlib.min.390c9fc06d4633ef31e9122da55e415f.js"></script>
+</div>
+</body>
+</html>
+
+
+
+<!-- 443 ms -->
