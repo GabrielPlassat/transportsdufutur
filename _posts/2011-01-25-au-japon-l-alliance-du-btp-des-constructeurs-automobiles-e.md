@@ -1,7 +1,7 @@
 ---
 title: "Au Japon, l’alliance du BTP, des constructeurs automobiles et de l’industrie électrique pour des maisons zéro émission"
 date: 2011-01-25 16:27:44
-permalink: /2011/01/au-japon-lalliance-du-btp-des-constructeurs-automobiles-et-de-lindustrie-electrique-pour-des-maisons.html
+permalink: /transportsdufutur/2011/01/au-japon-lalliance-du-btp-des-constructeurs-automobiles-et-de-lindustrie-electrique-pour-des-maisons.html
 tags: [batterie, VE]
 layout: post
 ---

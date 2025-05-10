@@ -1,7 +1,7 @@
 ---
 title: "Transport et fiscalité carbone : quels enjeux ? Quel rôle pour l'Europe ?"
 date: 2010-09-23 17:01:55
-permalink: /2010/09/transport-et-fiscalite-carbone-quels-enjeux-quel-role-pour-leurope.html
+permalink: /transportsdufutur/2010/09/transport-et-fiscalite-carbone-quels-enjeux-quel-role-pour-leurope.html
 tags: [Europe, externalité, fiscalité, marchandises]
 layout: post
 ---

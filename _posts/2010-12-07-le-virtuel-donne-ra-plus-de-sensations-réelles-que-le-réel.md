@@ -1,7 +1,7 @@
 ---
 title: "Le virtuel donne(ra) plus de sensations réelles que le réel (2)"
 date: 2010-12-07 20:54:38
-permalink: /2010/12/le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel-2.html
+permalink: /transportsdufutur/2010/12/le-virtuel-donnera-plus-de-sensations-reelles-que-le-reel-2.html
 tags: [citoyen, collectivité, connectivité, donnée data, données réelles, internet, internet des objets, jeu vidéo, living lab, open innovation, open source]
 layout: post
 ---

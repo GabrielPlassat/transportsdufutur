@@ -1,7 +1,7 @@
 ---
 title: "VE, PHEV, infrastructure de charge, essence, Diesel, smart grids, ou comment réduire la consommation US de pétrole de 1 milliard de baril (jusqu’en 2025) tout en réduisant le coût total de possession de $6,000 par véhicule ?"
 date: 2010-11-16 12:32:09
-permalink: /2010/11/ve-phev-infrastructure-de-charge-essence-diesel-smart-grids-ou-comment-reduire-la-consommation-us-de.html
+permalink: /transportsdufutur/2010/11/ve-phev-infrastructure-de-charge-essence-diesel-smart-grids-ou-comment-reduire-la-consommation-us-de.html
 tags: [citoyen, Efficacité énergétique, Energie, EPA, Infrastructure, innovation, sécurité, smartgrid, stationnement, VE]
 layout: post
 ---

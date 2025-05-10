@@ -1,7 +1,7 @@
 ---
 title: "La Commission de régulation de l'énergie (CRE) lance un site internet dédié aux Smart grids"
 date: 2010-11-09 15:47:13
-permalink: /2010/11/la-commission-de-regulation-de-lenergie-cre-lance-un-site-internet-dedie-aux-smart-grids.html
+permalink: /transportsdufutur/2010/11/la-commission-de-regulation-de-lenergie-cre-lance-un-site-internet-dedie-aux-smart-grids.html
 tags: [Infrastructure, smartgrid, VE]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Google (va) maîtrise(r) la conduite sans chauffeur... Mais Pourquoi ?"
 date: 2010-10-11 10:41:45
-permalink: /2010/10/google-va-maitriser-la-conduite-sans-chauffeur-pourquoi.html
+permalink: /transportsdufutur/2010/10/google-va-maitriser-la-conduite-sans-chauffeur-pourquoi.html
 tags: [cybercar, donnée data, données réelles, google, internet des objets, partage de données, sécurité, surveillance]
 layout: post
 ---

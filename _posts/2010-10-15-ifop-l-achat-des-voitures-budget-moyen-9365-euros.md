@@ -1,7 +1,7 @@
 ---
 title: "IFOP - l'achat des voitures, budget moyen 9365 euros"
 date: 2010-10-15 17:49:08
-permalink: /2010/10/ifop-lachat-des-voitures-budget-moyen-9365-euros.html
+permalink: /transportsdufutur/2010/10/ifop-lachat-des-voitures-budget-moyen-9365-euros.html
 tags: [nan]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Piaggo et Enel"
 date: 2010-03-02 14:03:15
-permalink: /2010/03/piaggo-et-enel.html
+permalink: /transportsdufutur/2010/03/piaggo-et-enel.html
 tags: [cité, Energie, Infrastructure, péage urbain, qualité de l'air, véhicule propre]
 layout: post
 ---

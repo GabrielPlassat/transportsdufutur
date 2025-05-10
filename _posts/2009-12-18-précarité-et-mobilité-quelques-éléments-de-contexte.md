@@ -1,7 +1,7 @@
 ---
 title: "Précarité et mobilité : quelques éléments de contexte"
 date: 2009-12-18 11:05:13
-permalink: /2009/12/precarite-et-mobilite-quelques-elements-de-contexte.html
+permalink: /transportsdufutur/2009/12/precarite-et-mobilite-quelques-elements-de-contexte.html
 tags: [nan]
 layout: post
 ---

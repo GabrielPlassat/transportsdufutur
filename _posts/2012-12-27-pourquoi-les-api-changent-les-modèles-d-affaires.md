@@ -1,7 +1,7 @@
 ---
 title: "Pourquoi les API changent les modèles d'affaires"
 date: 2012-12-27 16:39:54
-permalink: /2012/12/pourquoi-les-api-changent-les-modeles-daffaires.html
+permalink: /transportsdufutur/2012/12/pourquoi-les-api-changent-les-modeles-daffaires.html
 tags: [autorité des transports, cité, citoyen, gouvernance, innovation, internet, multimodes]
 layout: post
 ---

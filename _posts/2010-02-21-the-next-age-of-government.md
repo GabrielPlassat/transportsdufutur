@@ -1,7 +1,7 @@
 ---
 title: "The next age of government"
 date: 2010-02-21 17:23:53
-permalink: /2010/02/the-next-age-of-government.html
+permalink: /transportsdufutur/2010/02/the-next-age-of-government.html
 tags: [nan]
 layout: post
 ---

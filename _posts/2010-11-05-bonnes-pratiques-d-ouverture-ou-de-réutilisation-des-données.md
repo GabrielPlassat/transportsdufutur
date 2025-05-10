@@ -1,7 +1,7 @@
 ---
 title: "Bonnes pratiques d'ouverture ou de réutilisation des données publiques"
 date: 2010-11-05 11:24:59
-permalink: /2010/11/bonnes-pratiques-douverture-ou-de-reutilisation-des-donnees-publiques.html
+permalink: /transportsdufutur/2010/11/bonnes-pratiques-douverture-ou-de-reutilisation-des-donnees-publiques.html
 tags: [cité, citoyen, collectivité, donnée data, données réelles, economie circulaire, Efficacité énergétique, Energie, partage de données]
 layout: post
 ---

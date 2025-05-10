@@ -1,7 +1,7 @@
 ---
 title: "Personnal Travel Assistant (Cisco)"
 date: 2010-02-16 14:14:38
-permalink: /2010/02/personnal-travel-assistant-cisco.html
+permalink: /transportsdufutur/2010/02/personnal-travel-assistant-cisco.html
 tags: [assistant de mobilité, connectivité, données réelles, partage de données, Service de mobilité, TIC, transition générationnelle]
 layout: post
 ---

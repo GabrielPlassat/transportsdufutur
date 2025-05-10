@@ -1,7 +1,7 @@
 ---
 title: "OPTIMOD Lyon"
 date: 2017-11-07 14:48:36
-permalink: /2017/11/optimod-lyon.html
+permalink: /transportsdufutur/2017/11/optimod-lyon.html
 tags: [nan]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Théorie des jeux et confiance appliquées aux transports"
 date: 2010-09-08 17:13:55
-permalink: /2010/09/theorie-des-jeux-et-confiance-appliquees-aux-transports.html
+permalink: /transportsdufutur/2010/09/theorie-des-jeux-et-confiance-appliquees-aux-transports.html
 tags: [théorie des jeux]
 layout: post
 ---

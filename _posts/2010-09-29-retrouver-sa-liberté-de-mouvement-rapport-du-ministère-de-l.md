@@ -1,7 +1,7 @@
 ---
 title: "Retrouver sa liberté de mouvement (rapport du Ministère de la Santé Jeunesse et Sport)"
 date: 2010-09-29 16:19:43
-permalink: /2010/09/retrouver-sa-liberte-de-mouvement-rapport-du-ministere-de-la-sante-jeunesse-et-sport.html
+permalink: /transportsdufutur/2010/09/retrouver-sa-liberte-de-mouvement-rapport-du-ministere-de-la-sante-jeunesse-et-sport.html
 tags: [citoyen, mode doux, obésité, Santé]
 layout: post
 ---

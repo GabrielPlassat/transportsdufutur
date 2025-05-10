@@ -1,7 +1,7 @@
 ---
 title: "Informations Multimodales Temps réel, le projet TICTAC"
 date: 2010-07-06 11:54:52
-permalink: /2010/07/le-projet-tictac-est-finance-par-lademe-dans-le-cadre-du-programme-de-recherche-predit-go3-pour-une-duree-de-2-ansles.html
+permalink: /transportsdufutur/2010/07/le-projet-tictac-est-finance-par-lademe-dans-le-cadre-du-programme-de-recherche-predit-go3-pour-une-duree-de-2-ansles.html
 tags: [ADEME, assistant de mobilité, citoyen, collectivité, commuter, connectivité, internet, partage de données]
 layout: post
 ---

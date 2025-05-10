@@ -1,7 +1,7 @@
 ---
 title: "Cherche testeur pour projet de R&D - Mobilité - sur Sophia Antipolis (06)"
 date: 2010-09-15 17:28:27
-permalink: /2010/09/cherche-testeur-pour-projet-de-rd-mobilite-sur-sophia-antipolis-06.html
+permalink: /transportsdufutur/2010/09/cherche-testeur-pour-projet-de-rd-mobilite-sur-sophia-antipolis-06.html
 tags: [ADEME, connectivité, covoiturage, données réelles, internet, internet des objets, iphone, mode doux, multimodes, Service de mobilité]
 layout: post
 ---

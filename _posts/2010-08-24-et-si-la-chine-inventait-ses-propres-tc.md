@@ -1,7 +1,7 @@
 ---
 title: "Et si la Chine inventait ses propres TC ?"
 date: 2010-08-24 16:14:21
-permalink: /2010/08/et-si-la-chine-inventait-ses-propres-tc.html
+permalink: /transportsdufutur/2010/08/et-si-la-chine-inventait-ses-propres-tc.html
 tags: [BHNS, TC]
 layout: post
 ---

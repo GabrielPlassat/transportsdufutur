@@ -1,7 +1,7 @@
 ---
 title: "BP energy outlook 2030"
 date: 2011-01-25 17:53:37
-permalink: /2011/01/bp-energy-outlook-2030.html
+permalink: /transportsdufutur/2011/01/bp-energy-outlook-2030.html
 tags: [Energie, prix carburant]
 layout: post
 ---

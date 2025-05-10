@@ -1,7 +1,7 @@
 ---
 title: "Avego lance 2 projets de mobilité innovants en Chine"
 date: 2010-02-24 09:04:30
-permalink: /2010/02/avego-lance-2-projets-de-mobilite-innovants-en-chine.html
+permalink: /transportsdufutur/2010/02/avego-lance-2-projets-de-mobilite-innovants-en-chine.html
 tags: [avego, chine, données réelles, Infrastructure, partage de données]
 layout: post
 ---

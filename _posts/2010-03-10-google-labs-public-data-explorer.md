@@ -1,7 +1,7 @@
 ---
 title: "Google labs - public data explorer"
 date: 2010-03-10 16:03:45
-permalink: /2010/03/google-labs-public-data-explorer.html
+permalink: /transportsdufutur/2010/03/google-labs-public-data-explorer.html
 tags: [données réelles, google, internet, partage de données]
 layout: post
 ---

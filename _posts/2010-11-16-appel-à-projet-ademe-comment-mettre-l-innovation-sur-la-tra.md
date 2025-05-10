@@ -1,7 +1,7 @@
 ---
 title: "Appel à projet ADEME, comment mettre l’innovation sur la trajectoire du facteur 4 ?"
 date: 2010-11-16 16:38:59
-permalink: /2010/11/appel-a-projet-ademe-comment-mettre-linnovation-sur-la-trajectoire-du-facteur-4.html
+permalink: /transportsdufutur/2010/11/appel-a-projet-ademe-comment-mettre-linnovation-sur-la-trajectoire-du-facteur-4.html
 tags: [ADEME, innovation, Service de mobilité]
 layout: post
 ---

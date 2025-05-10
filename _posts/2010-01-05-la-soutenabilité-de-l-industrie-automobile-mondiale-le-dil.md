@@ -1,7 +1,7 @@
 ---
 title: "La soutenabilité de l'industrie automobile mondiale : le dilemne entre développement durable et survie"
 date: 2010-01-05 09:28:33
-permalink: /2010/01/la-soutenabilite-de-lindustrie-automobile-mondiale-le-dilemne-entre-developpement-durable-et-survie.html
+permalink: /transportsdufutur/2010/01/la-soutenabilite-de-lindustrie-automobile-mondiale-le-dilemne-entre-developpement-durable-et-survie.html
 tags: [nan]
 layout: post
 ---

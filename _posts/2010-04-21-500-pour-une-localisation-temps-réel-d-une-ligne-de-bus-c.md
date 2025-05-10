@@ -1,7 +1,7 @@
 ---
 title: "500 $ pour une localisation temps réel d’une ligne de bus, combien pour des minutes perdues tous les jours ?"
 date: 2010-04-21 14:17:09
-permalink: /2010/04/500-pour-une-localisation-temps-dune-ligne-de-bus-combien-pour-des-minutes-perdues-tous-les-jours.html
+permalink: /transportsdufutur/2010/04/500-pour-une-localisation-temps-dune-ligne-de-bus-combien-pour-des-minutes-perdues-tous-les-jours.html
 tags: [collectivité, connectivité, données réelles, internet, partage de données]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Guide pour l'achat public de véhicule de transport routier, Application de la Directive Européenne Véhicule Propre et Econome''"
 date: 2012-08-14 10:19:00
-permalink: /2012/08/guide-pour-lachat-public-de-vehicule-de-transport-routier-application-de-la-directive-europeenne-veh.html
+permalink: /transportsdufutur/2012/08/guide-pour-lachat-public-de-vehicule-de-transport-routier-application-de-la-directive-europeenne-veh.html
 tags: [externalité, véhicule propre]
 layout: post
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Centre ville en mouvement à Nice, 7 & 8 octobre 2010"
 date: 2010-08-03 11:53:52
-permalink: /2010/08/centre-ville-en-mouvement-a-nice-7-8-octobre-2010.html
+permalink: /transportsdufutur/2010/08/centre-ville-en-mouvement-a-nice-7-8-octobre-2010.html
 tags: [nan]
 layout: post
 ---

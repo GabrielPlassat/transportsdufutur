@@ -1,7 +1,7 @@
 ---
 title: "Appel à Manifestations d'Intérêt - Expérimentations liées aux infrastructures de recharge pour les véhicules électriques et hybrides rechargeables"
 date: 2011-02-17 11:37:19
-permalink: /2011/02/appel-a-manifestations-dinteret-experimentations-liees-aux-infrastructures-de-recharge-pour-les-vehi.html
+permalink: /transportsdufutur/2011/02/appel-a-manifestations-dinteret-experimentations-liees-aux-infrastructures-de-recharge-pour-les-vehi.html
 tags: [ADEME, partage de données, Service de mobilité, VE]
 layout: post
 ---

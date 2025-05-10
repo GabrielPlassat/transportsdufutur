@@ -1,7 +1,7 @@
 ---
 title: "Moving beyond the Automobile"
 date: 2011-03-01 22:30:24
-permalink: /2011/03/moving-beyond-the-automobile-2.html
+permalink: /transportsdufutur/2011/03/moving-beyond-the-automobile-2.html
 tags: [nan]
 layout: post
 ---

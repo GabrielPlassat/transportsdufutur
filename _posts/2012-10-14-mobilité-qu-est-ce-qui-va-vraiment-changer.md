@@ -1,7 +1,7 @@
 ---
 title: "Mobilité : qu'est ce qui va vraiment changer ?"
 date: 2012-10-14 18:55:59
-permalink: /2012/10/mobilite-quest-ce-qui-va-vraiment-changer.html
+permalink: /transportsdufutur/2012/10/mobilite-quest-ce-qui-va-vraiment-changer.html
 tags: [citoyen, collectivité, General Electric, google, innovation, intelligence collective]
 layout: post
 ---

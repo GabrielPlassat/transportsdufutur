@@ -1,7 +1,7 @@
 ---
 title: "Charte Objectif CO2, les transporteurs s'engagent"
 date: 2011-05-06 17:02:43
-permalink: /2011/05/charte-objectif-co2-les-transporteurs-sengagent.html
+permalink: /transportsdufutur/2011/05/charte-objectif-co2-les-transporteurs-sengagent.html
 tags: [ADEME, Efficacité énergétique, emission, Energie, marchandises, multimodes]
 layout: post
 ---

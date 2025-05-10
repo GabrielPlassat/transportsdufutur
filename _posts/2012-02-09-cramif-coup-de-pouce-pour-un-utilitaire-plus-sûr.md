@@ -1,7 +1,7 @@
 ---
 title: "CRAMIF - Coup de pouce pour un Utilitaire plus sûr"
 date: 2012-02-09 15:55:53
-permalink: /2012/02/cramif-coup-de-pouce-pour-un-utilitaire-plus-sur.html
+permalink: /transportsdufutur/2012/02/cramif-coup-de-pouce-pour-un-utilitaire-plus-sur.html
 tags: [sécurité, ZAPA]
 layout: post
 ---
