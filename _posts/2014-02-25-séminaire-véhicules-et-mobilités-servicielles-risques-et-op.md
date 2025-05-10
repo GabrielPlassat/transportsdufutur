@@ -1,9 +1,0 @@
----
-title: "Séminaire Véhicules et Mobilités servicielles, risques et opportunités"
-date: 2014-02-25 15:12:07
-permalink: /transportsdufutur/2014/02/introduction-gabriel-plassat-renouveau-industrielbernard-jullien-role-des-territoires-xx-au-niveau-mondial-dd.html
-tags: [cité, collectivité, emploi, google, gouvernance, multimodes, Oliver Wyman, Service de mobilité]
-layout: post
----
-
-<p>Le <a href="http://www.invest-in-bretagne.org/seminaire-vehicules-mobilites-le.html" target="_blank"><strong>séminaire Véhicules & Mobilités servicielles</strong></a> de janvier 2014 a porté sur l'échange et la démonstration de l'émergence d'une filière industrielle,opportunités pour les territoires, les citoyens et les industries.</p> <p> </p> <p><em>Mobilité servicielle & numérique          Une opportunité industrielle </em></p> <p><em>Gabriel Plassat ADEME, <strong><a href="http://t.co/EVDMIhRMAg" target="_blank">présentation</a> </strong>            <strong>Bernard Jullien</strong>, GERPISA</em></p> <p><iframe allowfullscreen="" frameborder="0" height="120" src="//www.youtube.com/embed/VtuHBrNZj0c" width="220"></iframe><iframe allowfullscreen="" frameborder="0" height="120" src="//www.youtube.com/embed/mBCazRZTVv4" width="220"></iframe></p> <p> </p> <p><em>Rôle des territoires <strong>Jean OLLIVRO</strong>       Au niveau mondial, <strong>Rémi CORNUBERT</strong><br /></em></p> <p><em>Bretagne Prospective                             Olivier Wyman</em></p> <p><iframe allowfullscreen="" frameborder="0" height="120" src="//www.youtube.com/embed/KGxbGpxEnY8" width="220"></iframe><iframe allowfullscreen="" frameborder="0" height="120" src="//www.youtube.com/embed/Io286lMw_H0" width="220"></iframe></p> <p>et d'autres vidéos des interventions disponibles sur la <a href="http://www.youtube.com/channel/UCYfwf1wNJ4yBIn8xgbkwjow?feature=watch" target="_blank"><strong>chaîne Youtube de BMA</strong></a>.</p>
