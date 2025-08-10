@@ -1,0 +1,9 @@
+---
+title: "Pourquoi les API changent les modèles d'affaires"
+date: 2012-12-27 16:39:54
+permalink: /2012/12/pourquoi-les-api-changent-les-modeles-daffaires.html
+tags: [autorité des transports, cité, citoyen, gouvernance, innovation, internet, multimodes]
+layout: post
+---
+
+<p style="text-align: justify;">La présentation de Faber Novel, ci-dessous, fournit les bases essentielles pour comprendre les API. Dans le domaine des transports et des mobilités, le projet Catalyseur présenté également ci dessous propose d'utiliser le potentiel des API pour développer la multimodalité et l'interopérabilité tout en réduisant les dépenses publiques.</p> <iframe frameborder="0" height="356" marginheight="0" marginwidth="0" scrolling="no" src="http://fr.slideshare.net/slideshow/embed_code/15453043?rel=0" style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" width="427"> </iframe> <div style="margin-bottom: 5px;"> <strong> <a href="http://fr.slideshare.net/faberNovel/6-reasons-why-apis-are-reshaping-your-business" target="_blank" title="6 Reasons Why APIs Are Reshaping Your Business">6 Reasons Why APIs Are Reshaping Your Business</a> </strong> from <strong><a href="http://fr.slideshare.net/faberNovel" target="_blank">faberNovel</a></strong> </div>   <!--more-->  Le projet Catalyseur : <p><iframe frameborder="0" height="511" marginheight="0" marginwidth="0" scrolling="no" src="http://fr.slideshare.net/slideshow/embed_code/15775562" style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" width="479"> </iframe> </p> <div style="margin-bottom: 5px;"> <strong> <a href="http://fr.slideshare.net/transportsdufutur/catalyseur2-mi-atec2012" target="_blank" title="Catalyseur2 mi atec-2012">Catalyseur2 mi atec-2012</a> </strong> from <strong><a href="http://fr.slideshare.net/transportsdufutur" target="_blank">Les transports du futur</a></strong> </div>
