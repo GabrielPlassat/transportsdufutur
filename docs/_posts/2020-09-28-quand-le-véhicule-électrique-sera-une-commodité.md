@@ -72,8 +72,6 @@ layout: post
 
 <p class="part" data-startline="46" data-endline="47">L'exemple le plus proche est Arduino. Les "Shield" d'Arduino sont les briques interchangeables connectables à la base, au skateboard. Ces éléments servent une communauté mondiale qui réalise ainsi une infinité de projet.</p>
 
-<p class="part" data-startline="46" data-endline="47">![](https://pad.fabmob.io/uploads/upload_d3ee995ea58989516f02b10f64dab371.png)</p>
-
 <p class="part" data-startline="49" data-endline="49">Vous noterez que tout le monde peut refaire le circuit électronique d'arduino (puisqu'il est open source) mais personne ne peut recréer une communauté mondiale et une bibliothèque de projets documentés. <strong>Il y a bien une marque solide même si Arduino est open source.</strong></p>
 
 
