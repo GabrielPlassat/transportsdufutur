@@ -18,7 +18,7 @@ layout: post
 
 <figure class="wp-block-embed is-type-rich is-provider-prise-en-charge-des-contenus-embarques wp-block-embed-prise-en-charge-des-contenus-embarques wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 
-[voir la vidéo](https://www.youtube.com/embed/2QgIiz-v7u0)
+<a href="https://www.youtube.com/embed/2QgIiz-v7u0">Voir la Vidéo</a>
 
 </div></figure>
 
